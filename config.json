@@ -1,0 +1,11 @@
+{
+  "traders": {
+    "BreakTheBank": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "primm": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "juice-fruit": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747"
+  },
+  "mise_par_copie": 10,
+  "ecart_max_centimes": 3,
+  "prix_max": 0.95,
+  "frais_pourcent": 0
+}
