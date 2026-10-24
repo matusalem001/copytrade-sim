@@ -12,18 +12,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-10-24 17:33 UTC"
   },
-  "BreakTheBank|2368303171470755931173336937786604974357875266394450750807964173720848913574": {
-   "date": "2026-10-24 17:33 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Will Chelsea FC win on 2026-10-24?",
-   "resultat": "Yes",
-   "prix_trader": 0.51,
-   "token": "2368303171470755931173336937786604974357875266394450750807964173720848913574",
-   "prix_simule": 0.4,
-   "parts": 25.0,
-   "montant": 10.0,
-   "ouvert_le": "2026-10-24 17:33 UTC"
-  },
   "BreakTheBank|5597635359204393803204721040483486006567482966815551029241185066240175429674": {
    "date": "2026-10-24 17:33 UTC",
    "trader": "BreakTheBank",
@@ -179,7 +167,144 @@
    "parts": 31.25,
    "montant": 10.0,
    "ouvert_le": "2026-10-24 17:33 UTC"
+  },
+  "BreakTheBank|38274379050640062523611849065721372699838119672720475300345842413156391540232": {
+   "date": "2026-10-24 19:43 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Mary Peltola win the Alaska Senate race in 2026?",
+   "resultat": "No",
+   "prix_trader": 0.24,
+   "token": "38274379050640062523611849065721372699838119672720475300345842413156391540232",
+   "prix_simule": 0.26,
+   "parts": 38.4615,
+   "montant": 10.0,
+   "ouvert_le": "2026-10-24 19:43 UTC"
+  },
+  "BreakTheBank|6049743270164148344786555505836642790803074598545044364312174108991153839970": {
+   "date": "2026-10-24 19:44 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Heat vs. Hornets",
+   "resultat": "Heat",
+   "prix_trader": 0.57,
+   "token": "6049743270164148344786555505836642790803074598545044364312174108991153839970",
+   "prix_simule": 0.6,
+   "parts": 16.6667,
+   "montant": 10.0,
+   "ouvert_le": "2026-10-24 19:44 UTC"
+  },
+  "BreakTheBank|69352961295025318198487855123356054376242382640227851906649340515271146176312": {
+   "date": "2026-10-24 19:44 UTC",
+   "trader": "BreakTheBank",
+   "marche": "UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card)",
+   "resultat": "Movsar Evloev",
+   "prix_trader": 0.5,
+   "token": "69352961295025318198487855123356054376242382640227851906649340515271146176312",
+   "prix_simule": 0.51,
+   "parts": 19.6078,
+   "montant": 10.0,
+   "ouvert_le": "2026-10-24 19:44 UTC"
+  },
+  "primm|89092562735046874782269883335309386299700539330035525937641215481476067015659": {
+   "date": "2026-10-24 19:44 UTC",
+   "trader": "primm",
+   "marche": "Texas Tech vs. Cincinnati: O/U 59.5",
+   "resultat": "Under",
+   "prix_trader": 0.52,
+   "token": "89092562735046874782269883335309386299700539330035525937641215481476067015659",
+   "prix_simule": 0.01,
+   "parts": 1000.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-10-24 19:44 UTC"
+  },
+  "primm|521241996698360557693626084701401127436507018877455067027635627280369286260": {
+   "date": "2026-10-24 19:44 UTC",
+   "trader": "primm",
+   "marche": "Spread: Toledo (-6.5)",
+   "resultat": "Western Michigan",
+   "prix_trader": 0.35,
+   "token": "521241996698360557693626084701401127436507018877455067027635627280369286260",
+   "prix_simule": 0.001,
+   "parts": 10000.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-10-24 19:44 UTC"
+  },
+  "primm|56581773407389857916135357364875873597198331203097996519880030662746624043856": {
+   "date": "2026-10-24 19:44 UTC",
+   "trader": "primm",
+   "marche": "Western Michigan vs. Toledo",
+   "resultat": "Western Michigan",
+   "prix_trader": 0.15,
+   "token": "56581773407389857916135357364875873597198331203097996519880030662746624043856",
+   "prix_simule": 0.001,
+   "parts": 10000.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-10-24 19:44 UTC"
+  },
+  "primm|9122458124810319653544244404113992937856551129822345126990799265250245686378": {
+   "date": "2026-10-24 19:44 UTC",
+   "trader": "primm",
+   "marche": "LSU vs. Auburn: O/U 55.5",
+   "resultat": "Over",
+   "prix_trader": 0.49,
+   "token": "9122458124810319653544244404113992937856551129822345126990799265250245686378",
+   "prix_simule": 0.001,
+   "parts": 10000.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-10-24 19:44 UTC"
+  },
+  "primm|83018507973700312278346276167440013382170407151302879781489027848312753529033": {
+   "date": "2026-10-24 19:44 UTC",
+   "trader": "primm",
+   "marche": "Spread: Oregon (-17.5)",
+   "resultat": "Oregon",
+   "prix_trader": 0.49,
+   "token": "83018507973700312278346276167440013382170407151302879781489027848312753529033",
+   "prix_simule": 0.48,
+   "parts": 20.8333,
+   "montant": 10.0,
+   "ouvert_le": "2026-10-24 19:44 UTC"
+  },
+  "primm|23238184210877224324093085256666610055134070227182294360197117792138321895728": {
+   "date": "2026-10-24 19:44 UTC",
+   "trader": "primm",
+   "marche": "Spread: Oregon (-16.5)",
+   "resultat": "Oregon",
+   "prix_trader": 0.53,
+   "token": "23238184210877224324093085256666610055134070227182294360197117792138321895728",
+   "prix_simule": 0.51,
+   "parts": 19.6078,
+   "montant": 10.0,
+   "ouvert_le": "2026-10-24 19:44 UTC"
+  },
+  "primm|99449589391136672180089640060206464284532548223838204007732086065108534969964": {
+   "date": "2026-10-24 19:44 UTC",
+   "trader": "primm",
+   "marche": "Spread: Oregon (-20.5)",
+   "resultat": "Oregon",
+   "prix_trader": 0.42,
+   "token": "99449589391136672180089640060206464284532548223838204007732086065108534969964",
+   "prix_simule": 0.42,
+   "parts": 23.8095,
+   "montant": 10.0,
+   "ouvert_le": "2026-10-24 19:44 UTC"
   }
  },
- "fermees": []
+ "fermees": [
+  {
+   "date": "2026-10-24 17:33 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Chelsea FC win on 2026-10-24?",
+   "resultat": "Yes",
+   "prix_trader": 0.51,
+   "token": "2368303171470755931173336937786604974357875266394450750807964173720848913574",
+   "prix_simule": 0.4,
+   "parts": 25.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-10-24 17:33 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-10-24 19:44 UTC",
+   "type": "perdu"
+  }
+ ]
 }

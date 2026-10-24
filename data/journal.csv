@@ -79,3 +79,30 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,parts,
 2026-10-24 17:33 UTC,juice-fruit,IGNORE,Will Chelsea FC win on 2026-10-24?,No,0.49,0.61,12.0,,,,prix a trop bougé
 2026-10-24 17:33 UTC,juice-fruit,IGNORE,Will Chelsea FC win on 2026-10-24?,No,0.49,0.61,12.0,,,,prix a trop bougé
 2026-10-24 17:33 UTC,juice-fruit,IGNORE,Will Chelsea FC win on 2026-10-24?,No,0.49,0.61,12.0,,,,prix a trop bougé
+2026-10-24 19:43 UTC,BreakTheBank,ACHAT,Will Mary Peltola win the Alaska Senate race in 2026?,No,0.24,0.26,2.0,38.4615,10.0,,
+2026-10-24 19:44 UTC,BreakTheBank,IGNORE,Heat vs. Hornets,Heat,0.57,0.6,3.0,,,,prix a trop bougé
+2026-10-24 19:44 UTC,BreakTheBank,IGNORE,Heat vs. Hornets,Heat,0.57,0.6,3.0,,,,prix a trop bougé
+2026-10-24 19:44 UTC,BreakTheBank,IGNORE,Heat vs. Hornets,Heat,0.57,0.6,3.0,,,,prix a trop bougé
+2026-10-24 19:44 UTC,BreakTheBank,ACHAT,Heat vs. Hornets,Heat,0.57,0.6,3.0,16.6667,10.0,,
+2026-10-24 19:44 UTC,BreakTheBank,ACHAT,"UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card)",Movsar Evloev,0.5,0.51,1.0,19.6078,10.0,,
+2026-10-24 19:44 UTC,primm,ACHAT,Texas Tech vs. Cincinnati: O/U 59.5,Under,0.52,0.01,-51.0,1000.0,10.0,,
+2026-10-24 19:44 UTC,primm,IGNORE,Spread: Florida Atlantic (-6.5),Rice,0.48,,,,,,aucun vendeur
+2026-10-24 19:44 UTC,primm,IGNORE,Spread: Toledo (-7.5),Western Michigan,0.41,,,,,,aucun vendeur
+2026-10-24 19:44 UTC,primm,IGNORE,Spread: Toledo (-7.5),Western Michigan,0.41,,,,,,aucun vendeur
+2026-10-24 19:44 UTC,primm,ACHAT,Spread: Toledo (-6.5),Western Michigan,0.35,0.001,-34.9,10000.0,10.0,,
+2026-10-24 19:44 UTC,primm,IGNORE,Texas Tech vs. Cincinnati,Cincinnati,0.6,,,,,,aucun vendeur
+2026-10-24 19:44 UTC,primm,ACHAT,Western Michigan vs. Toledo,Western Michigan,0.15,0.001,-14.9,10000.0,10.0,,
+2026-10-24 19:44 UTC,primm,IGNORE,Texas Tech vs. Cincinnati: O/U 63.5,Under,0.55,0.99,44.0,,,,prix a trop bougé
+2026-10-24 19:44 UTC,primm,ACHAT,LSU vs. Auburn: O/U 55.5,Over,0.49,0.001,-48.9,10000.0,10.0,,
+2026-10-24 19:44 UTC,primm,IGNORE,Texas Tech vs. Cincinnati: O/U 55.5,Over,0.6,,,,,,aucun vendeur
+2026-10-24 19:44 UTC,primm,IGNORE,Texas Tech vs. Cincinnati: O/U 55.5,Over,0.6,,,,,,aucun vendeur
+2026-10-24 19:44 UTC,primm,IGNORE,Texas Tech vs. Cincinnati: O/U 55.5,Over,0.6,,,,,,aucun vendeur
+2026-10-24 19:44 UTC,primm,IGNORE,Texas Tech vs. Cincinnati: O/U 55.5,Over,0.6,,,,,,aucun vendeur
+2026-10-24 19:44 UTC,primm,IGNORE,Texas Tech vs. Cincinnati: O/U 55.5,Over,0.6,,,,,,aucun vendeur
+2026-10-24 19:44 UTC,primm,IGNORE,Texas Tech vs. Cincinnati: O/U 55.5,Over,0.6,,,,,,aucun vendeur
+2026-10-24 19:44 UTC,primm,IGNORE,Texas Tech vs. Cincinnati: O/U 55.5,Over,0.6,,,,,,aucun vendeur
+2026-10-24 19:44 UTC,primm,IGNORE,Texas Tech vs. Cincinnati: O/U 55.5,Over,0.6,,,,,,aucun vendeur
+2026-10-24 19:44 UTC,primm,ACHAT,Spread: Oregon (-17.5),Oregon,0.49,0.48,-1.0,20.8333,10.0,,
+2026-10-24 19:44 UTC,primm,ACHAT,Spread: Oregon (-16.5),Oregon,0.53,0.51,-2.0,19.6078,10.0,,
+2026-10-24 19:44 UTC,primm,ACHAT,Spread: Oregon (-20.5),Oregon,0.42,0.42,0.0,23.8095,10.0,,
+2026-10-24 19:44 UTC,BreakTheBank,REGLEMENT,Will Chelsea FC win on 2026-10-24?,Yes,,0.4,,25.0,0.0,-10.0,perdu
