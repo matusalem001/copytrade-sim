@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-10-24 14:33 UTC** · mise à jour **2026-10-24 23:55 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-10-24 14:33 UTC** · mise à jour **2026-10-25 02:22 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen |
 |---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 8 | 66 | 3 | 0 | -30.00 $ | -100.0 % | 5 | -0.5 ¢ |
-| primm | 37 | 45 | 26 | 3 | -159.87 $ | -61.5 % | 11 | -24.0 ¢ |
-| juice-fruit | 3 | 5 | 0 | 0 | +0.00 $ | +0.0 % | 3 | -26.8 ¢ |
+| BreakTheBank | 11 | 75 | 5 | 1 | -26.74 $ | -53.5 % | 6 | -4.2 ¢ |
+| primm | 47 | 56 | 37 | 4 | -242.09 $ | -65.4 % | 10 | -26.2 ¢ |
+| juice-fruit | 3 | 5 | 3 | 1 | -9.59 $ | -32.0 % | 0 | -26.8 ¢ |
 
-**Total réalisé : -189.87 $ sur 290 $ engagés (-65.5 %)**
+**Total réalisé : -278.43 $ sur 450 $ engagés (-61.9 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Ignorés* = trades non copiés (prix trop bougé, trop haut, ou carnet vide).
 
@@ -16,6 +16,22 @@ Démarrée le **2026-10-24 14:33 UTC** · mise à jour **2026-10-24 23:55 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| juice-fruit | Spread: 76ers (-12.5) | Bucks | 0.49 | 1.00 | +10.41 $ |
+| juice-fruit | Heat vs. Hornets | Heat | 0.04 | 0.00 | -10.00 $ |
+| primm | Spread: Alabama (-14.5) | Alabama | 0.00 | 0.00 | -10.00 $ |
+| primm | Spread: Alabama (-13.5) | Alabama | 0.00 | 0.00 | -10.00 $ |
+| primm | Texas A&M vs. Alabama | Texas A&M | 0.00 | 0.00 | -10.00 $ |
+| juice-fruit | Will Inter Miami CF win on 2026-10-24? | Yes | 0.30 | 0.00 | -10.00 $ |
+| primm | Texas A&M vs. Alabama: O/U 61.5 | Over | 0.34 | 0.00 | -10.00 $ |
+| primm | Texas A&M vs. Alabama: O/U 53.5 | Over | 0.69 | 0.00 | -10.00 $ |
+| primm | Spread: South Carolina (-17.5) | South Carolina | 0.05 | 0.00 | -10.00 $ |
+| primm | Spread: South Carolina (-16.5) | South Carolina | 0.04 | 0.00 | -10.00 $ |
+| primm | Spread: South Carolina (-13.5) | South Carolina | 0.07 | 0.00 | -10.00 $ |
+| primm | Spread: South Carolina (-14.5) | South Carolina | 0.04 | 0.00 | -10.00 $ |
+| primm | Spread: South Carolina (-10.5) | South Carolina | 0.08 | 0.00 | -10.00 $ |
+| primm | Tennessee vs. South Carolina | South Carolina | 0.36 | 1.00 | +17.78 $ |
+| BreakTheBank | Spread: Heat (-2.5) | Hornets | 0.43 | 1.00 | +13.26 $ |
+| BreakTheBank | Heat vs. Hornets | Heat | 0.60 | 0.00 | -10.00 $ |
 | primm | Spread: Boston College (-4.5) | Georgia Tech | 0.23 | 0.00 | -10.00 $ |
 | primm | Spread: Oklahoma (-7.5) | Mississippi State | 0.16 | 0.00 | -10.00 $ |
 | primm | Oklahoma vs. Mississippi State | Mississippi State | 0.03 | 0.00 | -10.00 $ |
@@ -25,21 +41,5 @@ Démarrée le **2026-10-24 14:33 UTC** · mise à jour **2026-10-24 23:55 UTC** 
 | primm | Spread: Oregon (-13.5) | Oregon | 0.02 | 0.00 | -10.00 $ |
 | primm | Spread: Oregon (-20.5) | Oregon | 0.42 | 0.00 | -10.00 $ |
 | primm | Spread: Oregon (-16.5) | Oregon | 0.51 | 0.00 | -10.00 $ |
-| primm | Spread: Oregon (-17.5) | Oregon | 0.48 | 0.00 | -10.00 $ |
-| BreakTheBank | UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card) | Movsar Evloev | 0.51 | 0.00 | -10.00 $ |
-| primm | LSU vs. Auburn: O/U 55.5 | Over | 0.00 | 0.00 | -10.00 $ |
-| primm | Western Michigan vs. Toledo | Western Michigan | 0.00 | 0.00 | -10.00 $ |
-| primm | Spread: Toledo (-6.5) | Western Michigan | 0.00 | 0.00 | -10.00 $ |
-| primm | Texas Tech vs. Cincinnati: O/U 59.5 | Under | 0.01 | 0.00 | -10.00 $ |
-| primm | Spread: SMU (-2.5) | California | 0.32 | 0.00 | -10.00 $ |
-| primm | Spread: Florida Atlantic (-10.5) | Rice | 0.50 | 1.00 | +10.00 $ |
-| primm | Texas Tech vs. Cincinnati: O/U 55.5 | Under | 0.59 | 0.00 | -10.00 $ |
-| primm | Spread: LSU (-20.5) | Auburn | 0.50 | 0.00 | -10.00 $ |
-| primm | LSU vs. Auburn: O/U 55.5 | Under | 0.24 | 1.00 | +31.67 $ |
-| primm | LSU vs. Auburn: O/U 53.5 | Under | 0.16 | 0.00 | -10.00 $ |
-| primm | Indiana vs. Michigan: O/U 41.5 | Over | 0.11 | 0.00 | -10.00 $ |
-| primm | Indiana vs. Michigan | Michigan | 0.28 | 0.00 | -10.00 $ |
-| primm | West Virginia vs. TCU: O/U 59.5 | Over | 0.20 | 0.00 | -10.00 $ |
-| primm | Spread: LSU (-5.5) | Auburn | 0.14 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
