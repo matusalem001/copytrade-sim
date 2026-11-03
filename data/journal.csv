@@ -241,3 +241,16 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,parts,
 2026-10-25 02:22 UTC,primm,REGLEMENT,Spread: Alabama (-14.5),Alabama,,0.001,,10000.0,0.0,-10.0,perdu
 2026-10-25 02:22 UTC,juice-fruit,REGLEMENT,Heat vs. Hornets,Heat,,0.04,,250.0,0.0,-10.0,perdu
 2026-10-25 02:22 UTC,juice-fruit,REGLEMENT,Spread: 76ers (-12.5),Bucks,,0.49,,20.4082,20.41,10.41,gagné
+2026-11-03 01:08 UTC,BreakTheBank,REGLEMENT,Wizards vs. Bulls,Wizards,,0.47,,21.2766,21.28,11.28,gagné
+2026-11-03 01:08 UTC,BreakTheBank,REGLEMENT,Spread: Nuggets (-11.5),Nuggets,,0.09,,111.1111,0.0,-10.0,perdu
+2026-11-03 01:08 UTC,BreakTheBank,REGLEMENT,Warriors vs. Suns,Suns,,0.7,,14.2857,14.29,4.29,gagné
+2026-11-03 01:08 UTC,primm,REGLEMENT,Spread: Colorado State (-16.5),Colorado State,,0.001,,10000.0,0.0,-10.0,perdu
+2026-11-03 01:08 UTC,primm,REGLEMENT,Spread: Texas (-20.5),Texas,,0.1,,100.0,0.0,-10.0,perdu
+2026-11-03 01:08 UTC,primm,REGLEMENT,Spread: Kentucky (-10.5),Vanderbilt,,0.42,,23.8095,0.0,-10.0,perdu
+2026-11-03 01:08 UTC,primm,REGLEMENT,Spread: Texas (-17.5),Texas,,0.11,,90.9091,0.0,-10.0,perdu
+2026-11-03 01:08 UTC,primm,REGLEMENT,Spread: Kentucky (-7.5),Vanderbilt,,0.21,,47.619,0.0,-10.0,perdu
+2026-11-03 01:08 UTC,primm,REGLEMENT,Spread: Arkansas State (-3.5),Georgia State,,0.001,,10000.0,0.0,-10.0,perdu
+2026-11-03 01:08 UTC,primm,REGLEMENT,Spread: Arkansas State (-2.5),Georgia State,,0.001,,10000.0,0.0,-10.0,perdu
+2026-11-03 01:08 UTC,primm,REGLEMENT,Georgia State vs. Arkansas State,Georgia State,,0.001,,10000.0,0.0,-10.0,perdu
+2026-11-03 01:08 UTC,primm,REGLEMENT,Spread: Arkansas State (-4.5),Georgia State,,0.001,,10000.0,0.0,-10.0,perdu
+2026-11-03 01:08 UTC,primm,REGLEMENT,Spread: Arkansas State (-5.5),Georgia State,,0.001,,10000.0,0.0,-10.0,perdu
