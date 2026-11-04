@@ -254,3 +254,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,parts,
 2026-11-03 01:08 UTC,primm,REGLEMENT,Georgia State vs. Arkansas State,Georgia State,,0.001,,10000.0,0.0,-10.0,perdu
 2026-11-03 01:08 UTC,primm,REGLEMENT,Spread: Arkansas State (-4.5),Georgia State,,0.001,,10000.0,0.0,-10.0,perdu
 2026-11-03 01:08 UTC,primm,REGLEMENT,Spread: Arkansas State (-5.5),Georgia State,,0.001,,10000.0,0.0,-10.0,perdu
+2026-11-04 15:48 UTC,BreakTheBank,REGLEMENT,Will the Republican Party hold exactly 51 Senate seats after the 2026 midterm elections?,No,,0.92,,10.8696,10.87,0.87,gagné

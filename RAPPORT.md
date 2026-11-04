@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-10-24 14:33 UTC** · mise à jour **2026-11-04 07:41 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-10-24 14:33 UTC** · mise à jour **2026-11-04 15:48 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen |
 |---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 11 | 75 | 8 | 3 | -21.18 $ | -26.5 % | 3 | -4.2 ¢ |
+| BreakTheBank | 11 | 75 | 9 | 4 | -20.31 $ | -22.6 % | 2 | -4.2 ¢ |
 | primm | 47 | 56 | 47 | 4 | -342.09 $ | -72.8 % | 0 | -26.2 ¢ |
 | juice-fruit | 3 | 5 | 3 | 1 | -9.59 $ | -32.0 % | 0 | -26.8 ¢ |
 
-**Total réalisé : -372.87 $ sur 580 $ engagés (-64.3 %)**
+**Total réalisé : -372.00 $ sur 590 $ engagés (-63.1 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Ignorés* = trades non copiés (prix trop bougé, trop haut, ou carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-10-24 14:33 UTC** · mise à jour **2026-11-04 07:41 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Will the Republican Party hold exactly 51 Senate seats after the 2026 midterm elections? | No | 0.92 | 1.00 | +0.87 $ |
 | primm | Spread: Arkansas State (-5.5) | Georgia State | 0.00 | 0.00 | -10.00 $ |
 | primm | Spread: Arkansas State (-4.5) | Georgia State | 0.00 | 0.00 | -10.00 $ |
 | primm | Georgia State vs. Arkansas State | Georgia State | 0.00 | 0.00 | -10.00 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-10-24 14:33 UTC** · mise à jour **2026-11-04 07:41 UTC** 
 | primm | Spread: South Carolina (-17.5) | South Carolina | 0.05 | 0.00 | -10.00 $ |
 | primm | Spread: South Carolina (-16.5) | South Carolina | 0.04 | 0.00 | -10.00 $ |
 | primm | Spread: South Carolina (-13.5) | South Carolina | 0.07 | 0.00 | -10.00 $ |
-| primm | Spread: South Carolina (-14.5) | South Carolina | 0.04 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
