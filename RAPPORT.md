@@ -1,6 +1,6 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-10-24 14:33 UTC** · mise à jour **2026-11-04 15:48 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-10-24 14:33 UTC** · mise à jour **2026-11-04 21:34 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen |
 |---|---|---|---|---|---|---|---|---|
