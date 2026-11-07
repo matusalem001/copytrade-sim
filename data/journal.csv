@@ -27,3 +27,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-07 21:25 UTC,primm,REGLEMENT,Arkansas vs. Auburn: O/U 39.5,Over,,0.47,,,21.2766,21.28,11.28,gagné
 2026-11-07 21:30 UTC,primm,ACHAT,Oregon vs. Ohio State: O/U 49.5,Under,0.55,0.56,1.0,4.1,17.8571,10.0,,
 2026-11-07 21:30 UTC,primm,REGLEMENT,Arkansas vs. Auburn: O/U 45.5,Over,,0.31,,,32.2581,32.26,22.26,gagné
+2026-11-07 21:40 UTC,primm,ACHAT,Spread: Houston (-13.5),Cincinnati,0.58,0.61,3.0,0.5,16.3934,10.0,,
+2026-11-07 21:40 UTC,primm,ACHAT,Spread: Houston (-11.5),Cincinnati,0.54,0.61,7.0,0.5,16.3934,10.0,,
+2026-11-07 21:40 UTC,primm,ACHAT,Cincinnati vs. Houston,Cincinnati,0.17,0.2,3.0,0.5,50.0,10.0,,
