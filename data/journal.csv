@@ -33,3 +33,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-07 21:45 UTC,BreakTheBank,ACHAT,Spread: Nuggets (-8.5),Pacers,0.52,0.53,1.0,4.2,18.8679,10.0,,
 2026-11-07 21:45 UTC,BreakTheBank,ACHAT,Spread: Nuggets (-6.5),Pacers,0.44,0.45,1.0,3.8,22.2222,10.0,,
 2026-11-07 21:45 UTC,primm,REGLEMENT,Spread: Auburn (-6.5),Arkansas,,0.4,,,25.0,25.0,15.0,gagné
+2026-11-07 21:55 UTC,BreakTheBank,ACHAT,Spread: Nuggets (-9.5),Pacers,0.56,0.57,1.0,0.1,17.5439,10.0,,

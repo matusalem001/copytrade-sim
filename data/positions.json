@@ -311,6 +311,19 @@
    "parts": 22.2222,
    "montant": 10.0,
    "ouvert_le": "2026-11-07 21:45 UTC"
+  },
+  "BreakTheBank|66818541294338353083755546190959349893365222458932751283019003989318469966281": {
+   "date": "2026-11-07 21:55 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Nuggets (-9.5)",
+   "resultat": "Pacers",
+   "prix_trader": 0.56,
+   "retard_min": 0.1,
+   "token": "66818541294338353083755546190959349893365222458932751283019003989318469966281",
+   "prix_simule": 0.57,
+   "parts": 17.5439,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-07 21:55 UTC"
   }
  },
  "fermees": [
