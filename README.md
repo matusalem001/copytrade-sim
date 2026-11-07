@@ -8,7 +8,7 @@ au prix réellement disponible à ce moment-là.
 
 ## Règles de copie
 - On copie seulement le **premier achat** d'un trader sur un résultat (pas ses renforts).
-- On n'achète pas si le prix a monté de **plus de 3 centimes** par rapport au sien.
+- On copie même si le prix a monté par rapport au sien (test 2).
 - On n'achète pas si le prix a **chuté de plus de 5 centimes** (match sans doute déjà joué).
 - On n'achète pas en dessous de **0,05 $** ni au-dessus de **0,95 $**.
 - On ignore un trade vu **plus de 20 minutes** après le trader.

@@ -5,7 +5,7 @@
     "juice-fruit": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747"
   },
   "mise_par_copie": 10,
-  "ecart_max_centimes": 3,
+  "ecart_max_centimes": 100,
   "prix_max": 0.95,
   "frais_pourcent": 0,
   "baisse_max_centimes": 5,
