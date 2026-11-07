@@ -7,5 +7,8 @@
   "mise_par_copie": 10,
   "ecart_max_centimes": 3,
   "prix_max": 0.95,
-  "frais_pourcent": 0
+  "frais_pourcent": 0,
+  "baisse_max_centimes": 5,
+  "prix_min": 0.05,
+  "retard_max_minutes": 20
 }

@@ -35,7 +35,7 @@ GAMMA_API = "https://gamma-api.polymarket.com"
 
 JOURNAL_FIELDS = [
     "date", "trader", "action", "marche", "resultat", "prix_trader",
-    "prix_simule", "ecart_centimes", "parts", "montant", "pnl", "raison",
+    "prix_simule", "ecart_centimes", "retard_min", "parts", "montant", "pnl", "raison",
 ]
 
 
@@ -126,6 +126,9 @@ def run():
     stake = float(cfg.get("mise_par_copie", 10))
     max_gap = float(cfg.get("ecart_max_centimes", 3)) / 100
     max_price = float(cfg.get("prix_max", 0.95))
+    min_price = float(cfg.get("prix_min", 0.05))
+    max_drop = float(cfg.get("baisse_max_centimes", 5)) / 100
+    max_delay = float(cfg.get("retard_max_minutes", 20)) * 60
     fee = float(cfg.get("frais_pourcent", 0)) / 100
 
     state = load(STATE, {"debut": now_iso(), "traders": {}})
@@ -155,11 +158,16 @@ def run():
             token = str(t.get("asset"))
             side = t.get("side")
             pos_id = f"{name}|{token}"
+            delay = max(0, time.time() - float(t.get("timestamp", 0)))
             base = {
                 "date": now_iso(), "trader": name,
                 "marche": t.get("title") or t.get("slug"), "resultat": t.get("outcome"),
                 "prix_trader": round(float(t.get("price", 0)), 4),
+                "retard_min": round(delay / 60, 1),
             }
+            if side == "BUY" and pos_id not in positions["ouvertes"] and delay > max_delay:
+                journal({**base, "action": "IGNORE", "raison": "vu trop tard"})
+                continue
             try:
                 ask, bid = best_prices(token)
             except RuntimeError as e:
@@ -176,6 +184,13 @@ def run():
                 if gap > max_gap:
                     journal({**base, "action": "IGNORE", "prix_simule": ask,
                              "ecart_centimes": round(gap * 100, 1), "raison": "prix a trop bougé"})
+                    continue
+                if -gap > max_drop:
+                    journal({**base, "action": "IGNORE", "prix_simule": ask,
+                             "ecart_centimes": round(gap * 100, 1), "raison": "prix a trop chuté (match sans doute joué)"})
+                    continue
+                if ask < min_price:
+                    journal({**base, "action": "IGNORE", "prix_simule": ask, "raison": "prix trop bas"})
                     continue
                 if ask > max_price:
                     journal({**base, "action": "IGNORE", "prix_simule": ask, "raison": "prix trop haut"})
@@ -227,6 +242,7 @@ def run():
 def write_report(cfg, state, positions):
     skipped = {}
     gaps = {}
+    delays = {}
     if os.path.exists(JOURNAL):
         with open(JOURNAL, encoding="utf-8") as f:
             for row in csv.DictReader(f):
@@ -234,6 +250,8 @@ def write_report(cfg, state, positions):
                     skipped[row["trader"]] = skipped.get(row["trader"], 0) + 1
                 if row["action"] == "ACHAT" and row["ecart_centimes"]:
                     gaps.setdefault(row["trader"], []).append(float(row["ecart_centimes"]))
+                if row["action"] in ("ACHAT", "IGNORE") and row.get("retard_min"):
+                    delays.setdefault(row["trader"], []).append(float(row["retard_min"]))
 
     lines = [
         "# Simulation copy-trading Polymarket",
@@ -241,8 +259,8 @@ def write_report(cfg, state, positions):
         f"Démarrée le **{state['debut']}** · mise à jour **{now_iso()}** · "
         f"mise fictive **{cfg.get('mise_par_copie', 10)} $** par copie",
         "",
-        "| Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen |",
-        "|---|---|---|---|---|---|---|---|---|",
+        "| Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |",
+        "|---|---|---|---|---|---|---|---|---|---|",
     ]
     tot_pnl = tot_inv = 0.0
     for name in cfg["traders"]:
@@ -257,7 +275,8 @@ def write_report(cfg, state, positions):
         lines.append(
             f"| {name} | {len(closed) + len(opened)} | {skipped.get(name, 0)} | {len(closed)} | "
             f"{wins} | {pnl:+.2f} $ | {(pnl / inv * 100) if inv else 0:+.1f} % | {len(opened)} | "
-            f"{(sum(g) / len(g)) if g else 0:+.1f} ¢ |"
+            f"{(sum(g) / len(g)) if g else 0:+.1f} ¢ | "
+            f"{(sorted(delays.get(name, [0]))[len(delays.get(name, [0])) // 2]):.0f} min |"
         )
     lines += [
         "",
@@ -265,7 +284,8 @@ def write_report(cfg, state, positions):
         f"({(tot_pnl / tot_inv * 100) if tot_inv else 0:+.1f} %)**",
         "",
         "*Écart moyen* = combien de centimes plus cher que le trader on a payé. "
-        "*Ignorés* = trades non copiés (prix trop bougé, trop haut, ou carnet vide).",
+        "*Retard moyen* = temps médian entre son trade et le moment où on l'a vu. "
+        "*Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).",
         "",
         "## Dernières positions terminées",
         "",
