@@ -77,3 +77,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-07 23:40 UTC,primm,ACHAT,Spread: Kansas (-2.5),Kansas,0.24,0.19,-5.0,4.3,52.6316,10.0,,
 2026-11-07 23:40 UTC,primm,ACHAT,UCF vs. Kansas,UCF,0.53,0.64,11.0,3.5,15.625,10.0,,
 2026-11-07 23:40 UTC,primm,ACHAT,Spread: Oregon (-13.5),Ohio State,0.135,0.138,0.3,0.4,72.4638,10.0,,
+2026-11-07 23:45 UTC,primm,ACHAT,Spread: UCF (-1.5),Kansas,0.36,0.4,4.0,2.9,25.0,10.0,,
+2026-11-07 23:45 UTC,primm,REGLEMENT,Oregon vs. Ohio State: O/U 43.5,Under,,0.47,,,21.2766,0.0,-10.0,perdu
