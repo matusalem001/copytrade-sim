@@ -25,3 +25,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-07 21:25 UTC,primm,ACHAT,Texas A&M vs. South Carolina,Texas A&M,0.3784,0.42,4.2,3.6,23.8095,10.0,,
 2026-11-07 21:25 UTC,primm,IGNORE,Alabama vs. LSU: O/U 44.5,Over,0.65,0.56,-9.0,3.1,,,,prix a trop chuté (match sans doute joué)
 2026-11-07 21:25 UTC,primm,REGLEMENT,Arkansas vs. Auburn: O/U 39.5,Over,,0.47,,,21.2766,21.28,11.28,gagné
+2026-11-07 21:30 UTC,primm,ACHAT,Oregon vs. Ohio State: O/U 49.5,Under,0.55,0.56,1.0,4.1,17.8571,10.0,,
+2026-11-07 21:30 UTC,primm,REGLEMENT,Arkansas vs. Auburn: O/U 45.5,Over,,0.31,,,32.2581,32.26,22.26,gagné
