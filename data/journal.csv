@@ -37,3 +37,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-07 22:00 UTC,primm,ACHAT,Texas A&M vs. South Carolina: O/U 37.5,Over,0.48,0.46,-2.0,5.4,21.7391,10.0,,
 2026-11-07 22:00 UTC,primm,ACHAT,Texas A&M vs. South Carolina: O/U 43.5,Over,0.28,0.27,-1.0,5.4,37.037,10.0,,
 2026-11-07 22:00 UTC,primm,ACHAT,Spread: Penn State (-17.5),Penn State,0.6,0.6,0.0,3.0,16.6667,10.0,,
+2026-11-07 22:05 UTC,BreakTheBank,ACHAT,Spread: Nuggets (-5.5),Pacers,0.41,0.42,1.0,5.8,23.8095,10.0,,
+2026-11-07 22:05 UTC,primm,ACHAT,Spread: Houston (-10.5),Cincinnati,0.41,0.4,-1.0,1.4,25.0,10.0,,
