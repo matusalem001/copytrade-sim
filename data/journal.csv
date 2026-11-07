@@ -30,3 +30,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-07 21:40 UTC,primm,ACHAT,Spread: Houston (-13.5),Cincinnati,0.58,0.61,3.0,0.5,16.3934,10.0,,
 2026-11-07 21:40 UTC,primm,ACHAT,Spread: Houston (-11.5),Cincinnati,0.54,0.61,7.0,0.5,16.3934,10.0,,
 2026-11-07 21:40 UTC,primm,ACHAT,Cincinnati vs. Houston,Cincinnati,0.17,0.2,3.0,0.5,50.0,10.0,,
+2026-11-07 21:45 UTC,BreakTheBank,ACHAT,Spread: Nuggets (-8.5),Pacers,0.52,0.53,1.0,4.2,18.8679,10.0,,
+2026-11-07 21:45 UTC,BreakTheBank,ACHAT,Spread: Nuggets (-6.5),Pacers,0.44,0.45,1.0,3.8,22.2222,10.0,,
+2026-11-07 21:45 UTC,primm,REGLEMENT,Spread: Auburn (-6.5),Arkansas,,0.4,,,25.0,25.0,15.0,gagné
