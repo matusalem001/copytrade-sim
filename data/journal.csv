@@ -13,3 +13,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-07 21:00 UTC,primm,ACHAT,Spread: Auburn (-6.5),Arkansas,0.26,0.4,14.0,2.4,25.0,10.0,,
 2026-11-07 21:00 UTC,primm,ACHAT,Cincinnati vs. Houston: O/U 63.5,Under,0.56,0.56,0.0,1.1,17.8571,10.0,,
 2026-11-07 21:00 UTC,primm,ACHAT,Oregon vs. Ohio State: O/U 47.5,Under,0.53,0.53,0.0,0.9,18.8679,10.0,,
+2026-11-07 21:10 UTC,BreakTheBank,ACHAT,Will San Antonio Spurs win the 2027 NBA Finals?,Yes,0.21,0.22,1.0,2.1,45.4545,10.0,,
+2026-11-07 21:10 UTC,primm,IGNORE,Texas A&M vs. South Carolina: O/U 37.5,Over,0.68,0.61,-7.0,7.8,,,,prix a trop chuté (match sans doute joué)
