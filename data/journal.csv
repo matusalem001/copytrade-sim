@@ -74,3 +74,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-07 23:30 UTC,primm,ACHAT,Spread: UCF (-4.5),Kansas,0.44,0.51,7.0,3.9,19.6078,10.0,,
 2026-11-07 23:30 UTC,primm,ACHAT,UCF vs. Kansas: O/U 59.5,Over,0.39,0.38,-1.0,2.8,26.3158,10.0,,
 2026-11-07 23:35 UTC,primm,ACHAT,Cincinnati vs. Houston: O/U 57.5,Over,0.41,0.44,3.0,0.5,22.7273,10.0,,
+2026-11-07 23:40 UTC,primm,ACHAT,Spread: Kansas (-2.5),Kansas,0.24,0.19,-5.0,4.3,52.6316,10.0,,
+2026-11-07 23:40 UTC,primm,ACHAT,UCF vs. Kansas,UCF,0.53,0.64,11.0,3.5,15.625,10.0,,
+2026-11-07 23:40 UTC,primm,ACHAT,Spread: Oregon (-13.5),Ohio State,0.135,0.138,0.3,0.4,72.4638,10.0,,
