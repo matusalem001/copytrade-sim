@@ -64,3 +64,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-07 22:50 UTC,primm,ACHAT,Spread: North Texas (-4.5),Rice,0.32,0.33,1.0,9.0,30.303,10.0,,
 2026-11-07 22:50 UTC,primm,ACHAT,Spread: North Texas (-5.5),Rice,0.34,0.35,1.0,9.0,28.5714,10.0,,
 2026-11-07 22:50 UTC,primm,ACHAT,Spread: Texas A&M (-1.5),Texas A&M,0.39,0.61,22.0,6.9,16.3934,10.0,,
+2026-11-07 22:55 UTC,primm,ACHAT,Spread: San Jose State (-13.5),San Jose State,0.33,0.34,1.0,7.7,29.4118,10.0,,
+2026-11-07 22:55 UTC,primm,ACHAT,Northern Illinois vs. San Jose State: O/U 53.5,Over,0.56,0.57,1.0,7.6,17.5439,10.0,,
+2026-11-07 22:55 UTC,primm,ACHAT,Spread: Oregon (-6.5),Oregon,0.377,0.387,1.0,1.0,25.8398,10.0,,
