@@ -1,0 +1,17 @@
+{
+ "debut": "2026-11-07 19:18 UTC",
+ "traders": {
+  "BreakTheBank": {
+   "seen": [],
+   "initialise": false
+  },
+  "primm": {
+   "seen": [],
+   "initialise": false
+  },
+  "juice-fruit": {
+   "seen": [],
+   "initialise": false
+  }
+ }
+}
