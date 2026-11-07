@@ -6,6 +6,6 @@ jobs:
     steps:
       - run: |
           W=0xf0318c32136c2db7fec88b84869aee6a1106c80c
-          for u in "https://data-api.polymarket.com/trades?user=$W&limit=2" "https://data-api.polymarket.com/trades?user=$W&limit=2&takerOnly=true" "https://data-api.polymarket.com/v1/trades?user=$W&limit=2" "https://data-api.polymarket.com/activity?user=$W&limit=2&type=TRADE" "https://data-api.polymarket.com/v1/activity?user=$W&limit=2&type=TRADE" "https://data-api.polymarket.com/positions?user=$W&limit=1"; do
-            echo "=== $u"; curl -s -m 20 -w "\nHTTP %{http_code}\n" "$u" | head -c 1500; echo
+          for u in "https://data-api.polymarket.com/v2/trades?user=$W&limit=2" "https://data-api.polymarket.com/v2/trades?user=$W&limit=2&taker_only=false" "https://clob.polymarket.com/book?token_id=1" "https://gamma-api.polymarket.com/markets?limit=1"; do
+            echo "=== $u"; curl -s -m 20 -w "\nHTTP %{http_code}\n" "$u" | head -c 2500; echo
           done
