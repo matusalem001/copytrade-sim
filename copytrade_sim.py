@@ -112,8 +112,24 @@ def resolution(token_id):
 
 
 def fetch_trades(wallet):
-    q = urllib.parse.urlencode({"user": wallet, "limit": 200, "takerOnly": "false"})
-    return get_json(f"{DATA_API}/trades?{q}")
+    """Trades publics d'un compte (Data API v2), ramenés aux noms de champs utilisés ici."""
+    q = urllib.parse.urlencode({"user": wallet, "limit": 200, "taker_only": "false"})
+    res = get_json(f"{DATA_API}/v2/trades?{q}")
+    rows = ((res.get("data") or []) if isinstance(res, dict) else (res or []))
+    out = []
+    for t in rows:
+        out.append({
+            "transactionHash": t.get("transaction_hash") or t.get("transactionHash"),
+            "asset": t.get("token_id") or t.get("asset"),
+            "side": t.get("side"),
+            "size": t.get("size"),
+            "price": t.get("price"),
+            "timestamp": t.get("timestamp"),
+            "title": t.get("title"),
+            "slug": t.get("slug"),
+            "outcome": t.get("outcome"),
+        })
+    return out
 
 
 def trade_key(t):
