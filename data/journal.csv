@@ -22,3 +22,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-07 21:15 UTC,primm,ACHAT,Cincinnati vs. Houston: O/U 69.5,Under,0.61,0.63,2.0,5.3,15.873,10.0,,
 2026-11-07 21:15 UTC,primm,ACHAT,Cincinnati vs. Houston: O/U 65.5,Under,0.5,0.52,2.0,5.3,19.2308,10.0,,
 2026-11-07 21:15 UTC,primm,ACHAT,Spread: South Carolina (-2.5),Texas A&M,0.42,0.5,8.0,3.8,20.0,10.0,,
+2026-11-07 21:25 UTC,primm,ACHAT,Texas A&M vs. South Carolina,Texas A&M,0.3784,0.42,4.2,3.6,23.8095,10.0,,
+2026-11-07 21:25 UTC,primm,IGNORE,Alabama vs. LSU: O/U 44.5,Over,0.65,0.56,-9.0,3.1,,,,prix a trop chuté (match sans doute joué)
+2026-11-07 21:25 UTC,primm,REGLEMENT,Arkansas vs. Auburn: O/U 39.5,Over,,0.47,,,21.2766,21.28,11.28,gagné
