@@ -1,2 +1,5 @@
 date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard_min,parts,montant,pnl,raison
 2026-11-07 20:00 UTC,primm,ACHAT,Texas vs. Missouri: O/U 51.5,Over,0.45,0.4,-5.0,2.4,25.0,10.0,,
+2026-11-07 20:40 UTC,primm,ACHAT,Spread: LSU (-3.5),Alabama,0.44,0.44,0.0,9.0,22.7273,10.0,,
+2026-11-07 20:40 UTC,primm,ACHAT,Spread: LSU (-5.5),Alabama,0.48,0.49,1.0,8.1,20.4082,10.0,,
+2026-11-07 20:40 UTC,primm,ACHAT,Oregon vs. Ohio State: O/U 45.5,Under,0.53,0.53,0.0,4.2,18.8679,10.0,,
