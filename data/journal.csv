@@ -15,3 +15,10 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-07 21:00 UTC,primm,ACHAT,Oregon vs. Ohio State: O/U 47.5,Under,0.53,0.53,0.0,0.9,18.8679,10.0,,
 2026-11-07 21:10 UTC,BreakTheBank,ACHAT,Will San Antonio Spurs win the 2027 NBA Finals?,Yes,0.21,0.22,1.0,2.1,45.4545,10.0,,
 2026-11-07 21:10 UTC,primm,IGNORE,Texas A&M vs. South Carolina: O/U 37.5,Over,0.68,0.61,-7.0,7.8,,,,prix a trop chuté (match sans doute joué)
+2026-11-07 21:15 UTC,BreakTheBank,ACHAT,Spread: Nuggets (-7.5),Pacers,0.47,0.48,1.0,0.2,20.8333,10.0,,
+2026-11-07 21:15 UTC,primm,ACHAT,Spread: South Carolina (-4.5),Texas A&M,0.46,0.62,16.0,7.0,16.129,10.0,,
+2026-11-07 21:15 UTC,primm,ACHAT,Spread: South Carolina (-6.5),Texas A&M,0.52,0.68,16.0,6.7,14.7059,10.0,,
+2026-11-07 21:15 UTC,primm,ACHAT,Spread: Houston (-20.5),Cincinnati,0.47,0.5,3.0,5.3,20.0,10.0,,
+2026-11-07 21:15 UTC,primm,ACHAT,Cincinnati vs. Houston: O/U 69.5,Under,0.61,0.63,2.0,5.3,15.873,10.0,,
+2026-11-07 21:15 UTC,primm,ACHAT,Cincinnati vs. Houston: O/U 65.5,Under,0.5,0.52,2.0,5.3,19.2308,10.0,,
+2026-11-07 21:15 UTC,primm,ACHAT,Spread: South Carolina (-2.5),Texas A&M,0.42,0.5,8.0,3.8,20.0,10.0,,
