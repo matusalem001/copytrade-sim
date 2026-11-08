@@ -493,6 +493,19 @@
    "parts": 20.8333,
    "montant": 10.0,
    "ouvert_le": "2026-11-08 01:55 UTC"
+  },
+  "BreakTheBank|43710703113327590621862996914768578413557012252802121943848766810937648709006": {
+   "date": "2026-11-08 02:00 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Rockets (-7.5)",
+   "resultat": "Suns",
+   "prix_trader": 0.54,
+   "retard_min": 1.1,
+   "token": "43710703113327590621862996914768578413557012252802121943848766810937648709006",
+   "prix_simule": 0.55,
+   "parts": 18.1818,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 02:00 UTC"
   }
  },
  "fermees": [
