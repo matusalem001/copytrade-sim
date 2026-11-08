@@ -381,3 +381,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 14:52 UTC,primm,ACHAT,Bengals vs. Falcons: O/U 58.5,Over,0.48,0.65,17.0,5.4,15.3846,10.0,,
 2026-11-08 14:52 UTC,primm,IGNORE,Spread: Bengals (-4.5),Falcons,0.66,0.58,-8.0,4.0,,,,prix a trop chuté (match sans doute joué)
 2026-11-08 14:52 UTC,primm,ACHAT,Bengals vs. Falcons: O/U 64.5,Over,0.47,0.48,1.0,2.5,20.8333,10.0,,
+2026-11-08 15:10 UTC,primm,ACHAT,Jets vs. Chiefs,Chiefs,0.81,0.81,0.0,4.3,12.3457,10.0,,
