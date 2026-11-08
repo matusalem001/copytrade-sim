@@ -195,32 +195,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-08 00:45 UTC"
   },
-  "primm|100289415620125514345568287549850611137538854162595923392571860738351726683102": {
-   "date": "2026-11-08 00:45 UTC",
-   "trader": "primm",
-   "marche": "Miami (FL) vs. Notre Dame: O/U 54.5",
-   "resultat": "Under",
-   "prix_trader": 0.58,
-   "retard_min": 1.7,
-   "token": "100289415620125514345568287549850611137538854162595923392571860738351726683102",
-   "prix_simule": 0.6,
-   "parts": 16.6667,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 00:45 UTC"
-  },
-  "primm|84113683290386226729749423915474732171328161289617364310879303875249038269112": {
-   "date": "2026-11-08 00:45 UTC",
-   "trader": "primm",
-   "marche": "Miami (FL) vs. Notre Dame: O/U 50.5",
-   "resultat": "Under",
-   "prix_trader": 0.45,
-   "retard_min": 1.7,
-   "token": "84113683290386226729749423915474732171328161289617364310879303875249038269112",
-   "prix_simule": 0.52,
-   "parts": 19.2308,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 00:45 UTC"
-  },
   "primm|25872837666754084122212039937860759601912793531927276057433362144148123346090": {
    "date": "2026-11-08 00:45 UTC",
    "trader": "primm",
@@ -1782,6 +1756,40 @@
    "pnl": 11.7391,
    "ferme_le": "2026-11-08 03:25 UTC",
    "type": "gagné"
+  },
+  {
+   "date": "2026-11-08 00:45 UTC",
+   "trader": "primm",
+   "marche": "Miami (FL) vs. Notre Dame: O/U 54.5",
+   "resultat": "Under",
+   "prix_trader": 0.58,
+   "retard_min": 1.7,
+   "token": "100289415620125514345568287549850611137538854162595923392571860738351726683102",
+   "prix_simule": 0.6,
+   "parts": 16.6667,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 00:45 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-08 03:50 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-08 00:45 UTC",
+   "trader": "primm",
+   "marche": "Miami (FL) vs. Notre Dame: O/U 50.5",
+   "resultat": "Under",
+   "prix_trader": 0.45,
+   "retard_min": 1.7,
+   "token": "84113683290386226729749423915474732171328161289617364310879303875249038269112",
+   "prix_simule": 0.52,
+   "parts": 19.2308,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 00:45 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-08 03:50 UTC",
+   "type": "perdu"
   }
  ]
 }

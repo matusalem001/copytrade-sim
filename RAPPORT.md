@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 03:45 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 03:50 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 9 | 0 | 6 | 0 | -60.00 $ | -100.0 % | 3 | +1.0 ¢ | 4 min |
-| primm | 104 | 2 | 72 | 32 | +7.13 $ | +1.0 % | 32 | +2.8 ¢ | 3 min |
+| primm | 104 | 2 | 74 | 32 | -12.87 $ | -1.7 % | 30 | +2.8 ¢ | 3 min |
 | juice-fruit | 0 | 0 | 0 | 0 | +0.00 $ | +0.0 % | 0 | +0.0 ¢ | 0 min |
 
-**Total réalisé : -52.87 $ sur 780 $ engagés (-6.8 %)**
+**Total réalisé : -72.87 $ sur 800 $ engagés (-9.1 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 03:45 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Miami (FL) vs. Notre Dame: O/U 50.5 | Under | 0.52 | 0.00 | -10.00 $ |
+| primm | Miami (FL) vs. Notre Dame: O/U 54.5 | Under | 0.60 | 0.00 | -10.00 $ |
 | primm | Air Force vs. Army: O/U 43.5 | Over | 0.46 | 1.00 | +11.74 $ |
 | primm | Miami (FL) vs. Notre Dame: O/U 38.5 | Under | 0.36 | 0.00 | -10.00 $ |
 | primm | Spread: Tennessee (-9.5) | Kentucky | 0.68 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 03:45 UTC** 
 | primm | Spread: Houston (-3.5) | Cincinnati | 0.46 | 0.00 | -10.00 $ |
 | primm | Spread: Cincinnati (-1.5) | Houston | 0.75 | 1.00 | +3.33 $ |
 | primm | Spread: Oregon (-13.5) | Ohio State | 0.14 | 1.00 | +62.46 $ |
-| primm | Spread: Kansas (-2.5) | Kansas | 0.19 | 0.00 | -10.00 $ |
-| primm | UCF vs. Kansas | Kansas | 0.16 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
