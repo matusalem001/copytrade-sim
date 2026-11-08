@@ -99,3 +99,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 00:10 UTC,primm,ACHAT,Spread: Houston (-6.5),Cincinnati,0.36,0.4,4.0,5.8,25.0,10.0,,
 2026-11-08 00:10 UTC,primm,REGLEMENT,Rice vs. North Texas: O/U 47.5,Under,,0.48,,,20.8333,0.0,-10.0,perdu
 2026-11-08 00:15 UTC,primm,REGLEMENT,Rice vs. North Texas: O/U 53.5,Under,,0.5,,,20.0,0.0,-10.0,perdu
+2026-11-08 00:20 UTC,primm,REGLEMENT,Spread: Penn State (-17.5),Penn State,,0.6,,,16.6667,0.0,-10.0,perdu
+2026-11-08 00:20 UTC,primm,REGLEMENT,UCF vs. Kansas: O/U 53.5,Under,,0.63,,,15.873,0.0,-10.0,perdu
+2026-11-08 00:20 UTC,primm,REGLEMENT,Rutgers vs. Wisconsin: O/U 37.5,Over,,0.65,,,15.3846,15.38,5.38,gagné
