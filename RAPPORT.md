@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 06:50 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 06:55 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 9 | 0 | 7 | 1 | -51.82 $ | -74.0 % | 2 | +1.0 ¢ | 4 min |
-| primm | 165 | 25 | 135 | 66 | +1.37 $ | +0.1 % | 30 | +4.0 ¢ | 4 min |
+| primm | 165 | 25 | 136 | 66 | -8.63 $ | -0.6 % | 29 | +4.0 ¢ | 4 min |
 | juice-fruit | 0 | 0 | 0 | 0 | +0.00 $ | +0.0 % | 0 | +0.0 ¢ | 0 min |
 
-**Total réalisé : -50.45 $ sur 1420 $ engagés (-3.6 %)**
+**Total réalisé : -60.45 $ sur 1430 $ engagés (-4.2 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 06:50 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Wyoming vs. UNLV: O/U 73.5 | Under | 0.32 | 0.00 | -10.00 $ |
 | primm | West Virginia vs. Texas Tech | West Virginia | 0.55 | 0.00 | -10.00 $ |
 | primm | West Virginia vs. Texas Tech | Texas Tech | 0.87 | 1.00 | +1.49 $ |
 | primm | Spread: Texas Tech (-1.5) | West Virginia | 0.56 | 0.00 | -10.00 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 06:50 UTC** 
 | primm | Spread: Hawai'i (-9.5) | Hawaii | 0.55 | 0.00 | -10.00 $ |
 | primm | Spread: Hawai'i (-6.5) | Hawaii | 0.72 | 0.00 | -10.00 $ |
 | primm | Hawai'i vs. UTEP: O/U 35.5 | Under | 0.85 | 1.00 | +1.76 $ |
-| primm | Spread: Hawai'i (-5.5) | UTEP | 0.31 | 1.00 | +22.26 $ |
 
 Journal complet : `data/journal.csv`
