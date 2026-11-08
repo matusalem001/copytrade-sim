@@ -394,3 +394,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 16:20 UTC,BreakTheBank,ACHAT,Will Manchester United FC win on 2026-11-08?,No,0.51,0.52,1.0,4.9,19.2308,10.0,,
 2026-11-08 16:25 UTC,primm,ACHAT,Spread: Bengals (-16.5),Bengals,0.32,0.35,3.0,3.2,28.5714,10.0,,
 2026-11-08 16:30 UTC,juice-fruit,ACHAT,Will Manchester United FC win on 2026-11-08?,Yes,0.49,0.5,1.0,5.2,20.0,10.0,,
+2026-11-08 16:40 UTC,primm,ACHAT,Cowboys vs. Colts,Colts,0.33,0.33,0.0,7.9,30.303,10.0,,
+2026-11-08 16:40 UTC,primm,ACHAT,Spread: Cowboys (-2.5),Colts,0.38,0.39,1.0,7.9,25.641,10.0,,
+2026-11-08 16:40 UTC,primm,ACHAT,Spread: Cowboys (-1.5),Colts,0.36,0.37,1.0,8.0,27.027,10.0,,
+2026-11-08 16:40 UTC,primm,ACHAT,Spread: Colts (-1.5),Colts,0.3,0.31,1.0,8.0,32.2581,10.0,,
