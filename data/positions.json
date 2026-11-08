@@ -78,32 +78,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-08 18:05 UTC"
   },
-  "BreakTheBank|73666546050415314560191065985791037509526130162455678164784619140152017062883": {
-   "date": "2026-11-08 19:05 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Will Club Atlético de Madrid win on 2026-11-08?",
-   "resultat": "Yes",
-   "prix_trader": 0.26,
-   "retard_min": 6.2,
-   "token": "73666546050415314560191065985791037509526130162455678164784619140152017062883",
-   "prix_simule": 0.27,
-   "parts": 37.037,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 19:05 UTC"
-  },
-  "BreakTheBank|87827908830212192327690613817318271261892984170098082581635338880145898600305": {
-   "date": "2026-11-08 19:15 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Will FC Barcelona win on 2026-11-08?",
-   "resultat": "No",
-   "prix_trader": 0.48,
-   "retard_min": 2.7,
-   "token": "87827908830212192327690613817318271261892984170098082581635338880145898600305",
-   "prix_simule": 0.49,
-   "parts": 20.4082,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 19:15 UTC"
-  },
   "BreakTheBank|115011681434608375662891532043376482030757700371345050525593136788584531272587": {
    "date": "2026-11-08 19:30 UTC",
    "trader": "BreakTheBank",
@@ -127,19 +101,6 @@
    "token": "12130305189237849839458849509685051961849231405794268935470902437002300737867",
    "prix_simule": 0.79,
    "parts": 12.6582,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 19:55 UTC"
-  },
-  "BreakTheBank|106718053279239527227227903305828848212469773921152008779725396264135391918627": {
-   "date": "2026-11-08 19:55 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Will Club Atlético de Madrid vs. FC Barcelona end in a draw?",
-   "resultat": "Yes",
-   "prix_trader": 0.21,
-   "retard_min": 2.1,
-   "token": "106718053279239527227227903305828848212469773921152008779725396264135391918627",
-   "prix_simule": 0.22,
-   "parts": 45.4545,
    "montant": 10.0,
    "ouvert_le": "2026-11-08 19:55 UTC"
   },
@@ -5260,6 +5221,57 @@
    "pnl": 6.9492,
    "ferme_le": "2026-11-08 22:00 UTC",
    "type": "gagné"
+  },
+  {
+   "date": "2026-11-08 19:05 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Club Atlético de Madrid win on 2026-11-08?",
+   "resultat": "Yes",
+   "prix_trader": 0.26,
+   "retard_min": 6.2,
+   "token": "73666546050415314560191065985791037509526130162455678164784619140152017062883",
+   "prix_simule": 0.27,
+   "parts": 37.037,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 19:05 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-08 22:15 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-08 19:15 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will FC Barcelona win on 2026-11-08?",
+   "resultat": "No",
+   "prix_trader": 0.48,
+   "retard_min": 2.7,
+   "token": "87827908830212192327690613817318271261892984170098082581635338880145898600305",
+   "prix_simule": 0.49,
+   "parts": 20.4082,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 19:15 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-08 22:15 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-08 19:55 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Club Atlético de Madrid vs. FC Barcelona end in a draw?",
+   "resultat": "Yes",
+   "prix_trader": 0.21,
+   "retard_min": 2.1,
+   "token": "106718053279239527227227903305828848212469773921152008779725396264135391918627",
+   "prix_simule": 0.22,
+   "parts": 45.4545,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 19:55 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-08 22:15 UTC",
+   "type": "perdu"
   }
  ]
 }

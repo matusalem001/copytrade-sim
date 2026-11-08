@@ -631,3 +631,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 22:05 UTC,primm,IGNORE,Spread: Lions (-3.5),Dolphins,0.49,,,203.2,,,,vu trop tard
 2026-11-08 22:05 UTC,primm,IGNORE,Giants vs. Eagles: O/U 42.5,Over,0.49,,,184.8,,,,vu trop tard
 2026-11-08 22:10 UTC,primm,ACHAT,Spread: 49ers (-17.5),Raiders,0.62,0.66,4.0,5.2,15.1515,10.0,,
+2026-11-08 22:15 UTC,primm,IGNORE,Spread: Lions (-6.5),Dolphins,0.59,,,205.8,,,,vu trop tard
+2026-11-08 22:15 UTC,primm,IGNORE,Spread: Lions (-6.5),Dolphins,0.52,,,195.7,,,,vu trop tard
+2026-11-08 22:15 UTC,BreakTheBank,REGLEMENT,Will Club Atlético de Madrid win on 2026-11-08?,Yes,,0.27,,,37.037,0.0,-10.0,perdu
+2026-11-08 22:15 UTC,BreakTheBank,REGLEMENT,Will FC Barcelona win on 2026-11-08?,No,,0.49,,,20.4082,0.0,-10.0,perdu
+2026-11-08 22:15 UTC,BreakTheBank,REGLEMENT,Will Club Atlético de Madrid vs. FC Barcelona end in a draw?,Yes,,0.22,,,45.4545,0.0,-10.0,perdu
