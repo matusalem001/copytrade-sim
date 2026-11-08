@@ -130,19 +130,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-08 16:20 UTC"
   },
-  "juice-fruit|14479310664226699508023974114002886449820522672763468686681683147800821346189": {
-   "date": "2026-11-08 16:30 UTC",
-   "trader": "juice-fruit",
-   "marche": "Will Manchester United FC win on 2026-11-08?",
-   "resultat": "Yes",
-   "prix_trader": 0.49,
-   "retard_min": 5.2,
-   "token": "14479310664226699508023974114002886449820522672763468686681683147800821346189",
-   "prix_simule": 0.5,
-   "parts": 20.0,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 16:30 UTC"
-  },
   "primm|93958120992736672275862140139621145832633346481368219950327266823676667811989": {
    "date": "2026-11-08 16:40 UTC",
    "trader": "primm",
@@ -4099,6 +4086,23 @@
    "pnl": 9.2308,
    "ferme_le": "2026-11-08 18:00 UTC",
    "type": "gagné"
+  },
+  {
+   "date": "2026-11-08 16:30 UTC",
+   "trader": "juice-fruit",
+   "marche": "Will Manchester United FC win on 2026-11-08?",
+   "resultat": "Yes",
+   "prix_trader": 0.49,
+   "retard_min": 5.2,
+   "token": "14479310664226699508023974114002886449820522672763468686681683147800821346189",
+   "prix_simule": 0.5,
+   "parts": 20.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 16:30 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-08 18:50 UTC",
+   "type": "perdu"
   }
  ]
 }
