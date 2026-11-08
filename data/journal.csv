@@ -284,3 +284,10 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 05:35 UTC,primm,ACHAT,Spread: West Virginia (-3.5),Texas Tech,0.67,0.698,2.8,1.7,14.3266,10.0,,
 2026-11-08 05:35 UTC,primm,IGNORE,Spread: Texas Tech (-1.5),West Virginia,0.62,0.57,-5.0,0.9,,,,prix a trop chuté (match sans doute joué)
 2026-11-08 05:40 UTC,primm,ACHAT,Spread: Hawai'i (-3.5),Hawaii,0.38,0.35,-3.0,2.5,28.5714,10.0,,
+2026-11-08 05:45 UTC,primm,IGNORE,Spread: Wyoming (-7.5),UNLV,0.51,0.42,-9.0,3.7,,,,prix a trop chuté (match sans doute joué)
+2026-11-08 05:45 UTC,primm,IGNORE,Spread: Wyoming (-3.5),UNLV,0.35,0.25,-10.0,3.7,,,,prix a trop chuté (match sans doute joué)
+2026-11-08 05:45 UTC,primm,IGNORE,Spread: Wyoming (-10.5),UNLV,0.6,0.51,-9.0,3.5,,,,prix a trop chuté (match sans doute joué)
+2026-11-08 05:45 UTC,primm,IGNORE,Spread: Wyoming (-5.5),UNLV,0.39,0.31,-8.0,3.5,,,,prix a trop chuté (match sans doute joué)
+2026-11-08 05:45 UTC,primm,IGNORE,Spread: Wyoming (-7.5),UNLV,0.51,0.42,-9.0,3.5,,,,prix a trop chuté (match sans doute joué)
+2026-11-08 05:45 UTC,primm,IGNORE,Spread: Wyoming (-3.5),UNLV,0.35,0.25,-10.0,3.5,,,,prix a trop chuté (match sans doute joué)
+2026-11-08 05:45 UTC,primm,ACHAT,Wyoming vs. UNLV: O/U 73.5,Under,0.28,0.32,4.0,2.7,31.25,10.0,,
