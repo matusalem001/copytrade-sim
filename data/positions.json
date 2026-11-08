@@ -13,19 +13,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-07 21:10 UTC"
   },
-  "primm|99378274238547509029082067334744394576879134817452876794714783499900345853154": {
-   "date": "2026-11-07 22:40 UTC",
-   "trader": "primm",
-   "marche": "Spread: Michigan (-13.5)",
-   "resultat": "Michigan State",
-   "prix_trader": 0.46,
-   "retard_min": 7.1,
-   "token": "99378274238547509029082067334744394576879134817452876794714783499900345853154",
-   "prix_simule": 0.48,
-   "parts": 20.8333,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-07 22:40 UTC"
-  },
   "BreakTheBank|33954200530086504067162328328888484694864645800974794460495722703974367951185": {
    "date": "2026-11-08 01:50 UTC",
    "trader": "BreakTheBank",
@@ -2126,6 +2113,23 @@
    "sortie": 1.0,
    "pnl": 6.6667,
    "ferme_le": "2026-11-08 04:30 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-07 22:40 UTC",
+   "trader": "primm",
+   "marche": "Spread: Michigan (-13.5)",
+   "resultat": "Michigan State",
+   "prix_trader": 0.46,
+   "retard_min": 7.1,
+   "token": "99378274238547509029082067334744394576879134817452876794714783499900345853154",
+   "prix_simule": 0.48,
+   "parts": 20.8333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-07 22:40 UTC",
+   "sortie": 1.0,
+   "pnl": 10.8333,
+   "ferme_le": "2026-11-08 04:35 UTC",
    "type": "gagné"
   }
  ]
