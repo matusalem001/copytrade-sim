@@ -191,3 +191,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 03:00 UTC,primm,REGLEMENT,Spread: Tennessee (-9.5),Kentucky,,0.68,,,14.7059,0.0,-10.0,perdu
 2026-11-08 03:20 UTC,primm,REGLEMENT,Miami (FL) vs. Notre Dame: O/U 38.5,Under,,0.36,,,27.7778,0.0,-10.0,perdu
 2026-11-08 03:25 UTC,primm,REGLEMENT,Air Force vs. Army: O/U 43.5,Over,,0.46,,,21.7391,21.74,11.74,gagné
+2026-11-08 03:30 UTC,primm,ACHAT,Air Force vs. Army: O/U 51.5,Over,0.52,0.52,0.0,4.8,19.2308,10.0,,
