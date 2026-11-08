@@ -1182,6 +1182,19 @@
    "parts": 19.2308,
    "montant": 10.0,
    "ouvert_le": "2026-11-08 20:35 UTC"
+  },
+  "BreakTheBank|62216140743098058112493329816338257831179751499060688896727718397949532007000": {
+   "date": "2026-11-08 20:40 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Patriots (-4.5)",
+   "resultat": "Packers",
+   "prix_trader": 0.55,
+   "retard_min": 4.1,
+   "token": "62216140743098058112493329816338257831179751499060688896727718397949532007000",
+   "prix_simule": 0.56,
+   "parts": 17.8571,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 20:40 UTC"
   }
  },
  "fermees": [
