@@ -161,3 +161,11 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 00:50 UTC,BreakTheBank,REGLEMENT,Spread: Nuggets (-9.5),Pacers,,0.57,,,17.5439,0.0,-10.0,perdu
 2026-11-08 00:50 UTC,BreakTheBank,REGLEMENT,Spread: Nuggets (-5.5),Pacers,,0.42,,,23.8095,0.0,-10.0,perdu
 2026-11-08 00:50 UTC,primm,REGLEMENT,Oregon vs. Ohio State,Oregon,,0.42,,,23.8095,23.81,13.81,gagné
+2026-11-08 00:55 UTC,primm,ACHAT,Louisville vs. Georgia Tech: O/U 59.5,Under,0.54,0.52,-2.0,6.3,19.2308,10.0,,
+2026-11-08 00:55 UTC,primm,ACHAT,Miami (FL) vs. Notre Dame: O/U 44.5,Under,0.43,0.43,0.0,1.5,23.2558,10.0,,
+2026-11-08 00:55 UTC,primm,ACHAT,Spread: Louisville (-13.5),Louisville,0.5,0.52,2.0,0.8,19.2308,10.0,,
+2026-11-08 00:55 UTC,primm,ACHAT,Spread: Louisville (-16.5),Louisville,0.43,0.44,1.0,0.8,22.7273,10.0,,
+2026-11-08 00:55 UTC,primm,ACHAT,Spread: Louisville (-10.5),Louisville,0.56,0.56,0.0,0.8,17.8571,10.0,,
+2026-11-08 00:55 UTC,primm,ACHAT,Spread: Louisville (-14.5),Louisville,0.47,0.47,0.0,0.5,21.2766,10.0,,
+2026-11-08 00:55 UTC,BreakTheBank,REGLEMENT,Spread: Nuggets (-8.5),Pacers,,0.53,,,18.8679,0.0,-10.0,perdu
+2026-11-08 00:55 UTC,BreakTheBank,REGLEMENT,Nuggets vs. Pacers,Pacers,,0.27,,,37.037,0.0,-10.0,perdu

@@ -13,32 +13,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-07 21:10 UTC"
   },
-  "BreakTheBank|37464043792051734204917497474148791846578499157283030176051784942189326803421": {
-   "date": "2026-11-07 21:45 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Spread: Nuggets (-8.5)",
-   "resultat": "Pacers",
-   "prix_trader": 0.52,
-   "retard_min": 4.2,
-   "token": "37464043792051734204917497474148791846578499157283030176051784942189326803421",
-   "prix_simule": 0.53,
-   "parts": 18.8679,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-07 21:45 UTC"
-  },
-  "BreakTheBank|100155597339514587735512788056351223587036241159790520590685103796616707991866": {
-   "date": "2026-11-07 22:15 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Nuggets vs. Pacers",
-   "resultat": "Pacers",
-   "prix_trader": 0.27,
-   "retard_min": 7.9,
-   "token": "100155597339514587735512788056351223587036241159790520590685103796616707991866",
-   "prix_simule": 0.27,
-   "parts": 37.037,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-07 22:15 UTC"
-  },
   "primm|99349629933203001709566859187096758950735647855461087671246905226059792015848": {
    "date": "2026-11-07 22:15 UTC",
    "trader": "primm",
@@ -415,6 +389,84 @@
    "parts": 17.8571,
    "montant": 10.0,
    "ouvert_le": "2026-11-08 00:50 UTC"
+  },
+  "primm|20215507580074457350086050868368482463081819749346498224472558001462506479639": {
+   "date": "2026-11-08 00:55 UTC",
+   "trader": "primm",
+   "marche": "Louisville vs. Georgia Tech: O/U 59.5",
+   "resultat": "Under",
+   "prix_trader": 0.54,
+   "retard_min": 6.3,
+   "token": "20215507580074457350086050868368482463081819749346498224472558001462506479639",
+   "prix_simule": 0.52,
+   "parts": 19.2308,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 00:55 UTC"
+  },
+  "primm|44952253230070338375735662186128105025931297202450497574200013494141029300209": {
+   "date": "2026-11-08 00:55 UTC",
+   "trader": "primm",
+   "marche": "Miami (FL) vs. Notre Dame: O/U 44.5",
+   "resultat": "Under",
+   "prix_trader": 0.43,
+   "retard_min": 1.5,
+   "token": "44952253230070338375735662186128105025931297202450497574200013494141029300209",
+   "prix_simule": 0.43,
+   "parts": 23.2558,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 00:55 UTC"
+  },
+  "primm|111509165105336272574955259009958470960678518293824472020777771920880234040322": {
+   "date": "2026-11-08 00:55 UTC",
+   "trader": "primm",
+   "marche": "Spread: Louisville (-13.5)",
+   "resultat": "Louisville",
+   "prix_trader": 0.5,
+   "retard_min": 0.8,
+   "token": "111509165105336272574955259009958470960678518293824472020777771920880234040322",
+   "prix_simule": 0.52,
+   "parts": 19.2308,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 00:55 UTC"
+  },
+  "primm|14685640593515281019209011645362927200176912921017184634100294637842994877934": {
+   "date": "2026-11-08 00:55 UTC",
+   "trader": "primm",
+   "marche": "Spread: Louisville (-16.5)",
+   "resultat": "Louisville",
+   "prix_trader": 0.43,
+   "retard_min": 0.8,
+   "token": "14685640593515281019209011645362927200176912921017184634100294637842994877934",
+   "prix_simule": 0.44,
+   "parts": 22.7273,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 00:55 UTC"
+  },
+  "primm|108190308234775887988018584838376733729422884966068770484527931555674931699249": {
+   "date": "2026-11-08 00:55 UTC",
+   "trader": "primm",
+   "marche": "Spread: Louisville (-10.5)",
+   "resultat": "Louisville",
+   "prix_trader": 0.56,
+   "retard_min": 0.8,
+   "token": "108190308234775887988018584838376733729422884966068770484527931555674931699249",
+   "prix_simule": 0.56,
+   "parts": 17.8571,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 00:55 UTC"
+  },
+  "primm|45669340550630352505939349750313841237051870934394521421879611247073747274022": {
+   "date": "2026-11-08 00:55 UTC",
+   "trader": "primm",
+   "marche": "Spread: Louisville (-14.5)",
+   "resultat": "Louisville",
+   "prix_trader": 0.47,
+   "retard_min": 0.5,
+   "token": "45669340550630352505939349750313841237051870934394521421879611247073747274022",
+   "prix_simule": 0.47,
+   "parts": 21.2766,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 00:55 UTC"
   }
  },
  "fermees": [
@@ -1505,6 +1557,40 @@
    "pnl": 13.8095,
    "ferme_le": "2026-11-08 00:50 UTC",
    "type": "gagné"
+  },
+  {
+   "date": "2026-11-07 21:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Nuggets (-8.5)",
+   "resultat": "Pacers",
+   "prix_trader": 0.52,
+   "retard_min": 4.2,
+   "token": "37464043792051734204917497474148791846578499157283030176051784942189326803421",
+   "prix_simule": 0.53,
+   "parts": 18.8679,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-07 21:45 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-08 00:55 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-07 22:15 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Nuggets vs. Pacers",
+   "resultat": "Pacers",
+   "prix_trader": 0.27,
+   "retard_min": 7.9,
+   "token": "100155597339514587735512788056351223587036241159790520590685103796616707991866",
+   "prix_simule": 0.27,
+   "parts": 37.037,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-07 22:15 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-08 00:55 UTC",
+   "type": "perdu"
   }
  ]
 }
