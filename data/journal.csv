@@ -276,3 +276,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 05:20 UTC,primm,IGNORE,Spread: Texas Tech (-1.5),Texas Tech,0.4,0.31,-9.0,1.7,,,,prix a trop chuté (match sans doute joué)
 2026-11-08 05:20 UTC,primm,IGNORE,Spread: Texas Tech (-2.5),Texas Tech,0.37,0.29,-8.0,1.7,,,,prix a trop chuté (match sans doute joué)
 2026-11-08 05:20 UTC,primm,ACHAT,Spread: West Virginia (-4.5),Texas Tech,0.606,0.587,-1.9,0.4,17.0358,10.0,,
+2026-11-08 05:30 UTC,primm,ACHAT,Hawai'i vs. UTEP: O/U 35.5,Under,0.61,0.85,24.0,4.2,11.7647,10.0,,
+2026-11-08 05:30 UTC,primm,ACHAT,Spread: Hawai'i (-6.5),Hawaii,0.4999,0.72,22.0,4.2,13.8889,10.0,,
+2026-11-08 05:30 UTC,primm,ACHAT,Spread: Hawai'i (-9.5),Hawaii,0.51,0.55,4.0,4.1,18.1818,10.0,,
+2026-11-08 05:30 UTC,primm,ACHAT,Spread: West Virginia (-2.5),Texas Tech,0.459,0.42,-3.9,2.6,23.8095,10.0,,
