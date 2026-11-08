@@ -375,3 +375,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 13:00 UTC,BreakTheBank,IGNORE,Will Charles Leclerc win the 2026 F1 Brazilian Grand Prix?,No,0.965,0.968,,2.9,,,,prix trop haut
 2026-11-08 13:00 UTC,BreakTheBank,IGNORE,Will Charles Leclerc win the 2026 F1 Brazilian Grand Prix?,No,0.965,0.968,,1.0,,,,prix trop haut
 2026-11-08 13:45 UTC,juice-fruit,REGLEMENT,Will SSC Napoli win on 2026-11-08?,No,,0.63,,,15.873,15.87,5.87,gagné
+2026-11-08 14:00 UTC,primm,ACHAT,Spread: Eagles (-2.5),Eagles,0.36,0.37,1.0,7.0,27.027,10.0,,
