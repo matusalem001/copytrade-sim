@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 21:15 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 21:20 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 40 | 3 | 8 | 2 | -42.59 $ | -53.2 % | 32 | +1.0 ¢ | 4 min |
-| primm | 240 | 28 | 202 | 105 | +116.42 $ | +5.8 % | 38 | +3.7 ¢ | 3 min |
+| primm | 241 | 28 | 203 | 106 | +127.70 $ | +6.3 % | 38 | +3.8 ¢ | 3 min |
 | juice-fruit | 3 | 0 | 2 | 1 | -4.13 $ | -20.6 % | 1 | +0.0 ¢ | 5 min |
 
-**Total réalisé : +69.71 $ sur 2120 $ engagés (+3.3 %)**
+**Total réalisé : +80.99 $ sur 2130 $ engagés (+3.8 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 21:15 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Browns vs. Saints: O/U 28.5 | Over | 0.47 | 1.00 | +11.28 $ |
 | primm | Lions vs. Dolphins | Dolphins | 0.25 | 0.00 | -10.00 $ |
 | primm | Spread: Lions (-9.5) | Lions | 0.41 | 1.00 | +14.39 $ |
 | primm | Lions vs. Dolphins: O/U 48.5 | Under | 0.50 | 1.00 | +10.00 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 21:15 UTC** 
 | primm | Spread: Lions (-10.5) | Lions | 0.44 | 0.00 | -10.00 $ |
 | primm | Spread: Lions (-7.5) | Lions | 0.44 | 1.00 | +12.73 $ |
 | primm | Lions vs. Dolphins | Lions | 0.74 | 1.00 | +3.51 $ |
-| BreakTheBank | Will Manchester United FC win on 2026-11-08? | No | 0.52 | 1.00 | +9.23 $ |
 
 Journal complet : `data/journal.csv`
