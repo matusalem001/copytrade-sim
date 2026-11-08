@@ -413,3 +413,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 17:30 UTC,BreakTheBank,ACHAT,Spread: Giants (-2.5),Giants,0.52,0.53,1.0,3.6,18.8679,10.0,,
 2026-11-08 17:30 UTC,BreakTheBank,ACHAT,Spread: Giants (-3.5),Giants,0.43,0.44,1.0,3.6,22.7273,10.0,,
 2026-11-08 17:30 UTC,BreakTheBank,ACHAT,Spread: Giants (-4.5),Giants,0.41,0.42,1.0,2.6,23.8095,10.0,,
+2026-11-08 17:45 UTC,primm,ACHAT,Spread: Saints (-7.5),Saints,0.37,0.39,2.0,2.6,25.641,10.0,,
