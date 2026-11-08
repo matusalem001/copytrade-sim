@@ -291,3 +291,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 05:45 UTC,primm,IGNORE,Spread: Wyoming (-7.5),UNLV,0.51,0.42,-9.0,3.5,,,,prix a trop chuté (match sans doute joué)
 2026-11-08 05:45 UTC,primm,IGNORE,Spread: Wyoming (-3.5),UNLV,0.35,0.25,-10.0,3.5,,,,prix a trop chuté (match sans doute joué)
 2026-11-08 05:45 UTC,primm,ACHAT,Wyoming vs. UNLV: O/U 73.5,Under,0.28,0.32,4.0,2.7,31.25,10.0,,
+2026-11-08 05:50 UTC,primm,ACHAT,West Virginia vs. Texas Tech,West Virginia,0.46,0.55,9.0,5.1,18.1818,10.0,,
+2026-11-08 05:50 UTC,primm,ACHAT,Spread: Texas State (-14.5),Texas State,0.37,0.34,-3.0,4.9,29.4118,10.0,,
+2026-11-08 05:50 UTC,primm,ACHAT,Spread: Texas Tech (-1.5),West Virginia,0.49,0.56,7.0,4.8,17.8571,10.0,,
+2026-11-08 05:50 UTC,primm,ACHAT,Texas State vs. Oregon State: O/U 65.5,Under,0.73,0.74,1.0,3.9,13.5135,10.0,,
