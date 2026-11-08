@@ -103,3 +103,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 00:20 UTC,primm,REGLEMENT,UCF vs. Kansas: O/U 53.5,Under,,0.63,,,15.873,0.0,-10.0,perdu
 2026-11-08 00:20 UTC,primm,REGLEMENT,Rutgers vs. Wisconsin: O/U 37.5,Over,,0.65,,,15.3846,15.38,5.38,gagné
 2026-11-08 00:25 UTC,primm,REGLEMENT,Alabama vs. LSU,Alabama,,0.4,,,25.0,25.0,15.0,gagné
+2026-11-08 00:30 UTC,primm,REGLEMENT,Spread: LSU (-3.5),Alabama,,0.44,,,22.7273,22.73,12.73,gagné
+2026-11-08 00:30 UTC,primm,REGLEMENT,Spread: LSU (-5.5),Alabama,,0.49,,,20.4082,20.41,10.41,gagné
+2026-11-08 00:30 UTC,primm,REGLEMENT,Spread: LSU (-1.5),Alabama,,0.59,,,16.9492,16.95,6.95,gagné
