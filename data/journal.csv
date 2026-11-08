@@ -269,3 +269,10 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 05:10 UTC,primm,ACHAT,Spread: Wyoming (-3.5),Wyoming,0.54,0.57,3.0,0.7,17.5439,10.0,,
 2026-11-08 05:15 UTC,primm,IGNORE,Spread: Utah State (-3.5),Fresno State,0.32,0.15,-17.0,5.1,,,,prix a trop chuté (match sans doute joué)
 2026-11-08 05:15 UTC,primm,ACHAT,Spread: Wyoming (-4.5),Wyoming,0.55,0.72,17.0,5.0,13.8889,10.0,,
+2026-11-08 05:20 UTC,primm,IGNORE,Spread: Hawai'i (-4.5),UTEP,0.42,0.29,-13.0,5.4,,,,prix a trop chuté (match sans doute joué)
+2026-11-08 05:20 UTC,primm,ACHAT,Spread: Hawai'i (-5.5),UTEP,0.29,0.31,2.0,1.9,32.2581,10.0,,
+2026-11-08 05:20 UTC,primm,IGNORE,Spread: West Virginia (-1.5),Texas Tech,0.495,0.379,-11.6,1.8,,,,prix a trop chuté (match sans doute joué)
+2026-11-08 05:20 UTC,primm,IGNORE,Spread: West Virginia (-2.5),Texas Tech,0.525,0.41,-11.5,1.8,,,,prix a trop chuté (match sans doute joué)
+2026-11-08 05:20 UTC,primm,IGNORE,Spread: Texas Tech (-1.5),Texas Tech,0.4,0.31,-9.0,1.7,,,,prix a trop chuté (match sans doute joué)
+2026-11-08 05:20 UTC,primm,IGNORE,Spread: Texas Tech (-2.5),Texas Tech,0.37,0.29,-8.0,1.7,,,,prix a trop chuté (match sans doute joué)
+2026-11-08 05:20 UTC,primm,ACHAT,Spread: West Virginia (-4.5),Texas Tech,0.606,0.587,-1.9,0.4,17.0358,10.0,,
