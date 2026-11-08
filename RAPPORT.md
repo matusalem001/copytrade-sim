@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-07 23:55 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 00:01 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 7 | 0 | 0 | 0 | +0.00 $ | +0.0 % | 7 | +0.9 ¢ | 4 min |
-| primm | 66 | 2 | 12 | 5 | +4.81 $ | +4.0 % | 54 | +2.8 ¢ | 4 min |
+| primm | 67 | 2 | 20 | 7 | -43.50 $ | -21.8 % | 47 | +2.8 ¢ | 4 min |
 | juice-fruit | 0 | 0 | 0 | 0 | +0.00 $ | +0.0 % | 0 | +0.0 ¢ | 0 min |
 
-**Total réalisé : +4.81 $ sur 120 $ engagés (+4.0 %)**
+**Total réalisé : -43.50 $ sur 200 $ engagés (-21.8 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,14 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-07 23:55 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Alabama vs. LSU: O/U 32.5 | Over | 0.78 | 1.00 | +2.82 $ |
+| primm | Spread: Texas A&M (-3.5) | Texas A&M | 0.27 | 0.00 | -10.00 $ |
+| primm | Alabama vs. LSU: O/U 38.5 | Over | 0.53 | 1.00 | +8.87 $ |
+| primm | Texas A&M vs. South Carolina: O/U 43.5 | Over | 0.27 | 0.00 | -10.00 $ |
+| primm | Oregon vs. Ohio State: O/U 49.5 | Under | 0.56 | 0.00 | -10.00 $ |
+| primm | Texas A&M vs. South Carolina | Texas A&M | 0.42 | 0.00 | -10.00 $ |
+| primm | Oregon vs. Ohio State: O/U 47.5 | Under | 0.53 | 0.00 | -10.00 $ |
+| primm | Oregon vs. Ohio State: O/U 45.5 | Under | 0.53 | 0.00 | -10.00 $ |
 | primm | Spread: Texas A&M (-1.5) | Texas A&M | 0.61 | 0.00 | -10.00 $ |
 | primm | Spread: Texas A&M (-2.5) | Texas A&M | 0.34 | 0.00 | -10.00 $ |
 | primm | Texas A&M vs. South Carolina: O/U 37.5 | Over | 0.46 | 0.00 | -10.00 $ |
