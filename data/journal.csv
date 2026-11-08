@@ -378,3 +378,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 14:00 UTC,primm,ACHAT,Spread: Eagles (-2.5),Eagles,0.36,0.37,1.0,7.0,27.027,10.0,,
 2026-11-08 14:05 UTC,primm,ACHAT,Raiders vs. 49ers,49ers,0.8,0.8,0.0,3.5,12.5,10.0,,
 2026-11-08 14:25 UTC,primm,ACHAT,Spread: Bengals (-3.5),Falcons,0.51,0.51,0.0,1.5,19.6078,10.0,,
+2026-11-08 14:52 UTC,primm,ACHAT,Bengals vs. Falcons: O/U 58.5,Over,0.48,0.65,17.0,5.4,15.3846,10.0,,
+2026-11-08 14:52 UTC,primm,IGNORE,Spread: Bengals (-4.5),Falcons,0.66,0.58,-8.0,4.0,,,,prix a trop chuté (match sans doute joué)
+2026-11-08 14:52 UTC,primm,ACHAT,Bengals vs. Falcons: O/U 64.5,Over,0.47,0.48,1.0,2.5,20.8333,10.0,,
