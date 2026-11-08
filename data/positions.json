@@ -467,6 +467,19 @@
    "parts": 21.7391,
    "montant": 10.0,
    "ouvert_le": "2026-11-08 01:45 UTC"
+  },
+  "BreakTheBank|33954200530086504067162328328888484694864645800974794460495722703974367951185": {
+   "date": "2026-11-08 01:50 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Max Verstappen win the 2026 F1 Brazilian Grand Prix?",
+   "resultat": "No",
+   "prix_trader": 0.86,
+   "retard_min": 5.6,
+   "token": "33954200530086504067162328328888484694864645800974794460495722703974367951185",
+   "prix_simule": 0.88,
+   "parts": 11.3636,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 01:50 UTC"
   }
  },
  "fermees": [
