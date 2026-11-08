@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 13:40 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 13:45 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 9 | 3 | 7 | 1 | -51.82 $ | -74.0 % | 2 | +1.0 ¢ | 3 min |
 | primm | 165 | 25 | 165 | 85 | +37.53 $ | +2.3 % | 0 | +4.0 ¢ | 4 min |
-| juice-fruit | 1 | 0 | 0 | 0 | +0.00 $ | +0.0 % | 1 | -1.0 ¢ | 5 min |
+| juice-fruit | 1 | 0 | 1 | 1 | +5.87 $ | +58.7 % | 0 | -1.0 ¢ | 5 min |
 
-**Total réalisé : -14.29 $ sur 1720 $ engagés (-0.8 %)**
+**Total réalisé : -8.42 $ sur 1730 $ engagés (-0.5 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 13:40 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| juice-fruit | Will SSC Napoli win on 2026-11-08? | No | 0.63 | 1.00 | +5.87 $ |
 | primm | Wyoming vs. UNLV | UNLV | 0.09 | 0.00 | -10.00 $ |
 | primm | Spread: Wyoming (-10.5) | UNLV | 0.46 | 1.00 | +11.74 $ |
 | primm | Spread: Texas State (-10.5) | Texas State | 0.53 | 1.00 | +8.87 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 13:40 UTC** 
 | primm | Texas State vs. Oregon State | Texas State | 0.56 | 1.00 | +7.86 $ |
 | primm | Spread: Wyoming (-1.5) | Wyoming | 0.62 | 1.00 | +6.13 $ |
 | primm | Spread: Wyoming (-2.5) | Wyoming | 0.59 | 1.00 | +6.95 $ |
-| primm | Spread: UNLV (-1.5) | Wyoming | 0.67 | 1.00 | +4.93 $ |
 
 Journal complet : `data/journal.csv`
