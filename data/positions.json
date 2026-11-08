@@ -1052,6 +1052,19 @@
    "parts": 14.0845,
    "montant": 10.0,
    "ouvert_le": "2026-11-08 19:20 UTC"
+  },
+  "BreakTheBank|115011681434608375662891532043376482030757700371345050525593136788584531272587": {
+   "date": "2026-11-08 19:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Texans vs. Chargers",
+   "resultat": "Chargers",
+   "prix_trader": 0.33,
+   "retard_min": 10.3,
+   "token": "115011681434608375662891532043376482030757700371345050525593136788584531272587",
+   "prix_simule": 0.34,
+   "parts": 29.4118,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 19:30 UTC"
   }
  },
  "fermees": [
