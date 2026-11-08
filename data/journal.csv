@@ -221,3 +221,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 04:15 UTC,primm,ACHAT,Spread: Texas Tech (-15.5),West Virginia,0.43,0.39,-4.0,4.0,25.641,10.0,,
 2026-11-08 04:15 UTC,primm,ACHAT,Hawai'i vs. UTEP: O/U 35.5,Over,0.69,0.69,0.0,3.8,14.4928,10.0,,
 2026-11-08 04:15 UTC,primm,ACHAT,Hawai'i vs. UTEP: O/U 41.5,Over,0.45,0.44,-1.0,3.8,22.7273,10.0,,
+2026-11-08 04:20 UTC,primm,ACHAT,Wyoming vs. UNLV,Wyoming,0.48,0.62,14.0,7.9,16.129,10.0,,
+2026-11-08 04:20 UTC,primm,ACHAT,Spread: UNLV (-1.5),Wyoming,0.55,0.67,12.0,6.6,14.9254,10.0,,
+2026-11-08 04:20 UTC,primm,ACHAT,Spread: Texas Tech (-21.5),West Virginia,0.57,0.63,6.0,5.0,15.873,10.0,,
+2026-11-08 04:20 UTC,primm,ACHAT,Spread: Wyoming (-2.5),Wyoming,0.52,0.59,7.0,4.4,16.9492,10.0,,
+2026-11-08 04:20 UTC,primm,ACHAT,Spread: Wyoming (-1.5),Wyoming,0.55,0.62,7.0,4.4,16.129,10.0,,
