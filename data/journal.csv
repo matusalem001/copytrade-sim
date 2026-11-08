@@ -231,3 +231,12 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 04:25 UTC,primm,ACHAT,Spread: Texas Tech (-20.5),West Virginia,0.53,0.56,3.0,3.1,17.8571,10.0,,
 2026-11-08 04:25 UTC,primm,REGLEMENT,Spread: Notre Dame (-7.5),Notre Dame,,0.45,,,22.2222,0.0,-10.0,perdu
 2026-11-08 04:25 UTC,primm,REGLEMENT,Spread: Notre Dame (-6.5),Notre Dame,,0.56,,,17.8571,17.86,7.86,gagné
+2026-11-08 04:30 UTC,primm,ACHAT,Wyoming vs. UNLV: O/U 67.5,Under,0.72,0.75,3.0,6.4,13.3333,10.0,,
+2026-11-08 04:30 UTC,primm,ACHAT,Hawai'i vs. UTEP,Hawaii,0.74,0.74,0.0,0.1,13.5135,10.0,,
+2026-11-08 04:30 UTC,primm,ACHAT,Spread: Hawai'i (-7.5),Hawaii,0.42,0.43,1.0,0.1,23.2558,10.0,,
+2026-11-08 04:30 UTC,primm,REGLEMENT,Spread: Michigan (-10.5),Michigan State,,0.43,,,23.2558,23.26,13.26,gagné
+2026-11-08 04:30 UTC,primm,REGLEMENT,Miami (FL) vs. Notre Dame,Notre Dame,,0.69,,,14.4928,14.49,4.49,gagné
+2026-11-08 04:30 UTC,primm,REGLEMENT,Spread: Georgia (-4.5),Georgia,,0.51,,,19.6078,19.61,9.61,gagné
+2026-11-08 04:30 UTC,primm,REGLEMENT,Georgia vs. Ole Miss,Georgia,,0.73,,,13.6986,13.7,3.7,gagné
+2026-11-08 04:30 UTC,primm,REGLEMENT,Georgia vs. Ole Miss: O/U 69.5,Under,,0.79,,,12.6582,12.66,2.66,gagné
+2026-11-08 04:30 UTC,primm,REGLEMENT,Spread: Georgia (-16.5),Georgia,,0.6,,,16.6667,16.67,6.67,gagné

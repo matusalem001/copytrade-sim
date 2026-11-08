@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 04:25 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 04:30 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 9 | 0 | 6 | 0 | -60.00 $ | -100.0 % | 3 | +1.0 ¢ | 4 min |
-| primm | 118 | 2 | 97 | 41 | -62.07 $ | -6.4 % | 21 | +3.0 ¢ | 4 min |
+| primm | 121 | 2 | 103 | 47 | -21.69 $ | -2.1 % | 18 | +3.0 ¢ | 3 min |
 | juice-fruit | 0 | 0 | 0 | 0 | +0.00 $ | +0.0 % | 0 | +0.0 ¢ | 0 min |
 
-**Total réalisé : -122.07 $ sur 1030 $ engagés (-11.9 %)**
+**Total réalisé : -81.69 $ sur 1090 $ engagés (-7.5 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,12 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 04:25 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Georgia (-16.5) | Georgia | 0.60 | 1.00 | +6.67 $ |
+| primm | Georgia vs. Ole Miss: O/U 69.5 | Under | 0.79 | 1.00 | +2.66 $ |
+| primm | Georgia vs. Ole Miss | Georgia | 0.73 | 1.00 | +3.70 $ |
+| primm | Spread: Georgia (-4.5) | Georgia | 0.51 | 1.00 | +9.61 $ |
+| primm | Miami (FL) vs. Notre Dame | Notre Dame | 0.69 | 1.00 | +4.49 $ |
+| primm | Spread: Michigan (-10.5) | Michigan State | 0.43 | 1.00 | +13.26 $ |
 | primm | Spread: Notre Dame (-6.5) | Notre Dame | 0.56 | 1.00 | +7.86 $ |
 | primm | Spread: Notre Dame (-7.5) | Notre Dame | 0.45 | 0.00 | -10.00 $ |
 | primm | Spread: Iowa (-14.5) | Iowa | 0.48 | 0.00 | -10.00 $ |
@@ -35,11 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 04:25 UTC** 
 | primm | Colorado vs. Arizona State: O/U 49.5 | Over | 0.34 | 0.00 | -10.00 $ |
 | primm | Colorado vs. Arizona State: O/U 41.5 | Over | 0.67 | 0.00 | -10.00 $ |
 | primm | Colorado vs. Arizona State | Colorado | 0.34 | 0.00 | -10.00 $ |
-| primm | Spread: Arizona State (-5.5) | Colorado | 0.50 | 0.00 | -10.00 $ |
-| primm | Air Force vs. Army: O/U 51.5 | Over | 0.52 | 0.00 | -10.00 $ |
-| primm | Spread: Air Force (-3.5) | Army | 0.44 | 1.00 | +12.73 $ |
-| primm | Miami (FL) vs. Notre Dame: O/U 44.5 | Under | 0.43 | 0.00 | -10.00 $ |
-| primm | Miami (FL) vs. Notre Dame: O/U 50.5 | Under | 0.52 | 0.00 | -10.00 $ |
-| primm | Miami (FL) vs. Notre Dame: O/U 54.5 | Under | 0.60 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
