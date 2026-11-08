@@ -104,19 +104,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-08 19:55 UTC"
   },
-  "BreakTheBank|52932557390119768206604989134829071194128130185555297117875980905452591530322": {
-   "date": "2026-11-08 19:55 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Spread: 76ers (-9.5)",
-   "resultat": "Bulls",
-   "prix_trader": 0.51,
-   "retard_min": 1.6,
-   "token": "52932557390119768206604989134829071194128130185555297117875980905452591530322",
-   "prix_simule": 0.52,
-   "parts": 19.2308,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 19:55 UTC"
-  },
   "BreakTheBank|84517788343813112281523667991143392818339593417272313918602315909563075429236": {
    "date": "2026-11-08 20:35 UTC",
    "trader": "BreakTheBank",
@@ -5357,6 +5344,23 @@
    "sortie": 1.0,
    "pnl": 11.2766,
    "ferme_le": "2026-11-08 23:05 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-08 19:55 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: 76ers (-9.5)",
+   "resultat": "Bulls",
+   "prix_trader": 0.51,
+   "retard_min": 1.6,
+   "token": "52932557390119768206604989134829071194128130185555297117875980905452591530322",
+   "prix_simule": 0.52,
+   "parts": 19.2308,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 19:55 UTC",
+   "sortie": 1.0,
+   "pnl": 9.2308,
+   "ferme_le": "2026-11-08 23:10 UTC",
    "type": "gagné"
   }
  ]
