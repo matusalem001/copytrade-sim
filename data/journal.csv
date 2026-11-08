@@ -643,3 +643,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 22:20 UTC,primm,ACHAT,Spread: Texans (-10.5),Texans,0.4,0.48,8.0,6.6,20.8333,10.0,,
 2026-11-08 22:20 UTC,primm,ACHAT,Spread: Packers (-16.5),Packers,0.32,0.29,-3.0,6.4,34.4828,10.0,,
 2026-11-08 22:25 UTC,primm,IGNORE,Spread: Lions (-3.5),Dolphins,0.51,,,217.1,,,,vu trop tard
+2026-11-08 22:30 UTC,primm,ACHAT,Packers vs. Patriots,Patriots,0.25,0.24,-1.0,3.4,41.6667,10.0,,
