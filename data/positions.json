@@ -130,32 +130,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-08 00:45 UTC"
   },
-  "primm|6257736692749964665748125559589029791372593816455207262988820453551502371260": {
-   "date": "2026-11-08 00:45 UTC",
-   "trader": "primm",
-   "marche": "Spread: Arizona State (-5.5)",
-   "resultat": "Colorado",
-   "prix_trader": 0.49,
-   "retard_min": 3.8,
-   "token": "6257736692749964665748125559589029791372593816455207262988820453551502371260",
-   "prix_simule": 0.5,
-   "parts": 20.0,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 00:45 UTC"
-  },
-  "primm|3731880359782828472009805458538545060840493691469498465069937557297786689102": {
-   "date": "2026-11-08 00:45 UTC",
-   "trader": "primm",
-   "marche": "Colorado vs. Arizona State",
-   "resultat": "Colorado",
-   "prix_trader": 0.34,
-   "retard_min": 3.8,
-   "token": "3731880359782828472009805458538545060840493691469498465069937557297786689102",
-   "prix_simule": 0.34,
-   "parts": 29.4118,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 00:45 UTC"
-  },
   "primm|97438097693259166299717600560010927239941662000744295960525624371935949403306": {
    "date": "2026-11-08 00:45 UTC",
    "trader": "primm",
@@ -1801,6 +1775,40 @@
    "sortie": 0.0,
    "pnl": -10.0,
    "ferme_le": "2026-11-08 04:00 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-08 00:45 UTC",
+   "trader": "primm",
+   "marche": "Spread: Arizona State (-5.5)",
+   "resultat": "Colorado",
+   "prix_trader": 0.49,
+   "retard_min": 3.8,
+   "token": "6257736692749964665748125559589029791372593816455207262988820453551502371260",
+   "prix_simule": 0.5,
+   "parts": 20.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 00:45 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-08 04:05 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-08 00:45 UTC",
+   "trader": "primm",
+   "marche": "Colorado vs. Arizona State",
+   "resultat": "Colorado",
+   "prix_trader": 0.34,
+   "retard_min": 3.8,
+   "token": "3731880359782828472009805458538545060840493691469498465069937557297786689102",
+   "prix_simule": 0.34,
+   "parts": 29.4118,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 00:45 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-08 04:05 UTC",
    "type": "perdu"
   }
  ]

@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 04:00 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 04:05 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 9 | 0 | 6 | 0 | -60.00 $ | -100.0 % | 3 | +1.0 ¢ | 4 min |
-| primm | 104 | 2 | 77 | 33 | -20.14 $ | -2.6 % | 27 | +2.8 ¢ | 3 min |
+| primm | 104 | 2 | 79 | 33 | -40.14 $ | -5.1 % | 25 | +2.8 ¢ | 3 min |
 | juice-fruit | 0 | 0 | 0 | 0 | +0.00 $ | +0.0 % | 0 | +0.0 ¢ | 0 min |
 
-**Total réalisé : -80.14 $ sur 830 $ engagés (-9.7 %)**
+**Total réalisé : -100.14 $ sur 850 $ engagés (-11.8 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 04:00 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Colorado vs. Arizona State | Colorado | 0.34 | 0.00 | -10.00 $ |
+| primm | Spread: Arizona State (-5.5) | Colorado | 0.50 | 0.00 | -10.00 $ |
 | primm | Air Force vs. Army: O/U 51.5 | Over | 0.52 | 0.00 | -10.00 $ |
 | primm | Spread: Air Force (-3.5) | Army | 0.44 | 1.00 | +12.73 $ |
 | primm | Miami (FL) vs. Notre Dame: O/U 44.5 | Under | 0.43 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 04:00 UTC** 
 | BreakTheBank | Spread: Nuggets (-5.5) | Pacers | 0.42 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Nuggets (-9.5) | Pacers | 0.57 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Nuggets (-6.5) | Pacers | 0.45 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Nuggets (-7.5) | Pacers | 0.48 | 0.00 | -10.00 $ |
-| primm | Spread: Houston (-6.5) | Cincinnati | 0.40 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

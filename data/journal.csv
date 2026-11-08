@@ -197,3 +197,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 04:00 UTC,primm,REGLEMENT,Miami (FL) vs. Notre Dame: O/U 44.5,Under,,0.43,,,23.2558,0.0,-10.0,perdu
 2026-11-08 04:00 UTC,primm,REGLEMENT,Spread: Air Force (-3.5),Army,,0.44,,,22.7273,22.73,12.73,gagné
 2026-11-08 04:00 UTC,primm,REGLEMENT,Air Force vs. Army: O/U 51.5,Over,,0.52,,,19.2308,0.0,-10.0,perdu
+2026-11-08 04:05 UTC,primm,REGLEMENT,Spread: Arizona State (-5.5),Colorado,,0.5,,,20.0,0.0,-10.0,perdu
+2026-11-08 04:05 UTC,primm,REGLEMENT,Colorado vs. Arizona State,Colorado,,0.34,,,29.4118,0.0,-10.0,perdu
