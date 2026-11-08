@@ -338,3 +338,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 06:40 UTC,primm,REGLEMENT,Spread: West Virginia (-2.5),Texas Tech,,0.42,,,23.8095,23.81,13.81,gagné
 2026-11-08 06:40 UTC,primm,REGLEMENT,Spread: West Virginia (-3.5),Texas Tech,,0.698,,,14.3266,14.33,4.33,gagné
 2026-11-08 06:40 UTC,primm,REGLEMENT,Spread: Texas Tech (-1.5),West Virginia,,0.56,,,17.8571,0.0,-10.0,perdu
+2026-11-08 06:45 UTC,primm,REGLEMENT,West Virginia vs. Texas Tech,Texas Tech,,0.87,,,11.4943,11.49,1.49,gagné
+2026-11-08 06:45 UTC,primm,REGLEMENT,West Virginia vs. Texas Tech,West Virginia,,0.55,,,18.1818,0.0,-10.0,perdu

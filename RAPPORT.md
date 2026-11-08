@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 06:40 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 06:45 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 9 | 0 | 7 | 1 | -51.82 $ | -74.0 % | 2 | +1.0 ¢ | 4 min |
-| primm | 165 | 25 | 133 | 65 | +9.88 $ | +0.7 % | 32 | +4.0 ¢ | 4 min |
+| primm | 165 | 25 | 135 | 66 | +1.37 $ | +0.1 % | 30 | +4.0 ¢ | 4 min |
 | juice-fruit | 0 | 0 | 0 | 0 | +0.00 $ | +0.0 % | 0 | +0.0 ¢ | 0 min |
 
-**Total réalisé : -41.94 $ sur 1400 $ engagés (-3.0 %)**
+**Total réalisé : -50.45 $ sur 1420 $ engagés (-3.6 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 06:40 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | West Virginia vs. Texas Tech | West Virginia | 0.55 | 0.00 | -10.00 $ |
+| primm | West Virginia vs. Texas Tech | Texas Tech | 0.87 | 1.00 | +1.49 $ |
 | primm | Spread: Texas Tech (-1.5) | West Virginia | 0.56 | 0.00 | -10.00 $ |
 | primm | Spread: West Virginia (-3.5) | Texas Tech | 0.70 | 1.00 | +4.33 $ |
 | primm | Spread: West Virginia (-2.5) | Texas Tech | 0.42 | 1.00 | +13.81 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 06:40 UTC** 
 | primm | Spread: Hawai'i (-6.5) | Hawaii | 0.72 | 0.00 | -10.00 $ |
 | primm | Hawai'i vs. UTEP: O/U 35.5 | Under | 0.85 | 1.00 | +1.76 $ |
 | primm | Spread: Hawai'i (-5.5) | UTEP | 0.31 | 1.00 | +22.26 $ |
-| primm | Spread: Utah State (-5.5) | Fresno State | 0.43 | 0.00 | -10.00 $ |
-| primm | Spread: Hawai'i (-7.5) | Hawaii | 0.43 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

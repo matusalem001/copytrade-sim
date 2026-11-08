@@ -169,19 +169,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-08 04:45 UTC"
   },
-  "primm|4057409693564603329811431352300293288532828450268732171093338545471856248898": {
-   "date": "2026-11-08 04:50 UTC",
-   "trader": "primm",
-   "marche": "West Virginia vs. Texas Tech",
-   "resultat": "Texas Tech",
-   "prix_trader": 0.87,
-   "retard_min": 2.5,
-   "token": "4057409693564603329811431352300293288532828450268732171093338545471856248898",
-   "prix_simule": 0.87,
-   "parts": 11.4943,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 04:50 UTC"
-  },
   "primm|92540770054850036215439095429649268807340772324271699248517767582320772173648": {
    "date": "2026-11-08 04:55 UTC",
    "trader": "primm",
@@ -350,19 +337,6 @@
    "parts": 31.25,
    "montant": 10.0,
    "ouvert_le": "2026-11-08 05:45 UTC"
-  },
-  "primm|18626283064617819316974405801619261548580565293448070817789560493718997019931": {
-   "date": "2026-11-08 05:50 UTC",
-   "trader": "primm",
-   "marche": "West Virginia vs. Texas Tech",
-   "resultat": "West Virginia",
-   "prix_trader": 0.46,
-   "retard_min": 5.1,
-   "token": "18626283064617819316974405801619261548580565293448070817789560493718997019931",
-   "prix_simule": 0.55,
-   "parts": 18.1818,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 05:50 UTC"
   },
   "primm|108744083265310989052919655886891082860922352488259543779583887167562016709125": {
    "date": "2026-11-08 05:50 UTC",
@@ -2822,6 +2796,40 @@
    "sortie": 0.0,
    "pnl": -10.0,
    "ferme_le": "2026-11-08 06:40 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-08 04:50 UTC",
+   "trader": "primm",
+   "marche": "West Virginia vs. Texas Tech",
+   "resultat": "Texas Tech",
+   "prix_trader": 0.87,
+   "retard_min": 2.5,
+   "token": "4057409693564603329811431352300293288532828450268732171093338545471856248898",
+   "prix_simule": 0.87,
+   "parts": 11.4943,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 04:50 UTC",
+   "sortie": 1.0,
+   "pnl": 1.4943,
+   "ferme_le": "2026-11-08 06:45 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-08 05:50 UTC",
+   "trader": "primm",
+   "marche": "West Virginia vs. Texas Tech",
+   "resultat": "West Virginia",
+   "prix_trader": 0.46,
+   "retard_min": 5.1,
+   "token": "18626283064617819316974405801619261548580565293448070817789560493718997019931",
+   "prix_simule": 0.55,
+   "parts": 18.1818,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 05:50 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-08 06:45 UTC",
    "type": "perdu"
   }
  ]
