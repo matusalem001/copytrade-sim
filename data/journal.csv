@@ -244,3 +244,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 04:40 UTC,primm,ACHAT,Spread: Wyoming (-5.5),Wyoming,0.62,0.66,4.0,6.5,15.1515,10.0,,
 2026-11-08 04:40 UTC,primm,ACHAT,Spread: Texas Tech (-16.5),West Virginia,0.42,0.43,1.0,5.5,23.2558,10.0,,
 2026-11-08 04:40 UTC,BreakTheBank,REGLEMENT,Spread: Rockets (-7.5),Suns,,0.55,,,18.1818,18.18,8.18,gagné
+2026-11-08 04:45 UTC,primm,ACHAT,Spread: Utah State (-16.5),Utah State,0.31,0.26,-5.0,2.7,38.4615,10.0,,
+2026-11-08 04:45 UTC,primm,ACHAT,Spread: Texas State (-5.5),Texas State,0.51,0.51,0.0,2.4,19.6078,10.0,,
+2026-11-08 04:45 UTC,primm,ACHAT,Spread: Texas State (-7.5),Texas State,0.42,0.44,2.0,2.4,22.7273,10.0,,
+2026-11-08 04:45 UTC,primm,ACHAT,Spread: Texas State (-4.5),Texas State,0.53,0.58,5.0,2.4,17.2414,10.0,,
