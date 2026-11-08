@@ -247,19 +247,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-08 00:55 UTC"
   },
-  "primm|44952253230070338375735662186128105025931297202450497574200013494141029300209": {
-   "date": "2026-11-08 00:55 UTC",
-   "trader": "primm",
-   "marche": "Miami (FL) vs. Notre Dame: O/U 44.5",
-   "resultat": "Under",
-   "prix_trader": 0.43,
-   "retard_min": 1.5,
-   "token": "44952253230070338375735662186128105025931297202450497574200013494141029300209",
-   "prix_simule": 0.43,
-   "parts": 23.2558,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 00:55 UTC"
-  },
   "primm|111509165105336272574955259009958470960678518293824472020777771920880234040322": {
    "date": "2026-11-08 00:55 UTC",
    "trader": "primm",
@@ -364,19 +351,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-08 01:20 UTC"
   },
-  "primm|52814773400068672186885726634125266231265816717490081867243845957565309472525": {
-   "date": "2026-11-08 01:25 UTC",
-   "trader": "primm",
-   "marche": "Spread: Air Force (-3.5)",
-   "resultat": "Army",
-   "prix_trader": 0.43,
-   "retard_min": 1.4,
-   "token": "52814773400068672186885726634125266231265816717490081867243845957565309472525",
-   "prix_simule": 0.44,
-   "parts": 22.7273,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 01:25 UTC"
-  },
   "BreakTheBank|33954200530086504067162328328888484694864645800974794460495722703974367951185": {
    "date": "2026-11-08 01:50 UTC",
    "trader": "BreakTheBank",
@@ -415,19 +389,6 @@
    "parts": 18.1818,
    "montant": 10.0,
    "ouvert_le": "2026-11-08 02:00 UTC"
-  },
-  "primm|62235537552614793245372028350174353683047200875545521372651854048288683050177": {
-   "date": "2026-11-08 03:30 UTC",
-   "trader": "primm",
-   "marche": "Air Force vs. Army: O/U 51.5",
-   "resultat": "Over",
-   "prix_trader": 0.52,
-   "retard_min": 4.8,
-   "token": "62235537552614793245372028350174353683047200875545521372651854048288683050177",
-   "prix_simule": 0.52,
-   "parts": 19.2308,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 03:30 UTC"
   }
  },
  "fermees": [
@@ -1789,6 +1750,57 @@
    "sortie": 0.0,
    "pnl": -10.0,
    "ferme_le": "2026-11-08 03:50 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-08 00:55 UTC",
+   "trader": "primm",
+   "marche": "Miami (FL) vs. Notre Dame: O/U 44.5",
+   "resultat": "Under",
+   "prix_trader": 0.43,
+   "retard_min": 1.5,
+   "token": "44952253230070338375735662186128105025931297202450497574200013494141029300209",
+   "prix_simule": 0.43,
+   "parts": 23.2558,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 00:55 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-08 04:00 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-08 01:25 UTC",
+   "trader": "primm",
+   "marche": "Spread: Air Force (-3.5)",
+   "resultat": "Army",
+   "prix_trader": 0.43,
+   "retard_min": 1.4,
+   "token": "52814773400068672186885726634125266231265816717490081867243845957565309472525",
+   "prix_simule": 0.44,
+   "parts": 22.7273,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 01:25 UTC",
+   "sortie": 1.0,
+   "pnl": 12.7273,
+   "ferme_le": "2026-11-08 04:00 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-08 03:30 UTC",
+   "trader": "primm",
+   "marche": "Air Force vs. Army: O/U 51.5",
+   "resultat": "Over",
+   "prix_trader": 0.52,
+   "retard_min": 4.8,
+   "token": "62235537552614793245372028350174353683047200875545521372651854048288683050177",
+   "prix_simule": 0.52,
+   "parts": 19.2308,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 03:30 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-08 04:00 UTC",
    "type": "perdu"
   }
  ]
