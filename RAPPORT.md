@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 18:50 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 18:55 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 27 | 3 | 7 | 1 | -51.82 $ | -74.0 % | 20 | +0.9 ¢ | 4 min |
-| primm | 228 | 26 | 178 | 92 | +88.21 $ | +5.0 % | 50 | +3.7 ¢ | 4 min |
+| BreakTheBank | 27 | 3 | 8 | 2 | -42.59 $ | -53.2 % | 19 | +0.9 ¢ | 4 min |
+| primm | 231 | 26 | 178 | 92 | +88.21 $ | +5.0 % | 53 | +3.6 ¢ | 3 min |
 | juice-fruit | 3 | 0 | 2 | 1 | -4.13 $ | -20.6 % | 1 | +0.0 ¢ | 5 min |
 
-**Total réalisé : +32.27 $ sur 1870 $ engagés (+1.7 %)**
+**Total réalisé : +41.50 $ sur 1880 $ engagés (+2.2 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 18:50 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Will Manchester United FC win on 2026-11-08? | No | 0.52 | 1.00 | +9.23 $ |
 | juice-fruit | Will Manchester United FC win on 2026-11-08? | Yes | 0.50 | 0.00 | -10.00 $ |
 | primm | Spread: Bengals (-14.5) | Bengals | 0.52 | 1.00 | +9.23 $ |
 | primm | Bengals vs. Falcons: O/U 52.5 | Under | 0.16 | 1.00 | +52.50 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 18:50 UTC** 
 | primm | Spread: Wyoming (-3.5) | Wyoming | 0.57 | 1.00 | +7.54 $ |
 | primm | Texas State vs. Oregon State: O/U 67.5 | Over | 0.55 | 0.00 | -10.00 $ |
 | primm | Spread: Texas State (-7.5) | Oregon State | 0.58 | 0.00 | -10.00 $ |
-| primm | Spread: Texas State (-5.5) | Oregon State | 0.47 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
