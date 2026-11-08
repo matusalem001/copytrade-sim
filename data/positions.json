@@ -454,6 +454,58 @@
    "parts": 20.4082,
    "montant": 10.0,
    "ouvert_le": "2026-11-08 17:25 UTC"
+  },
+  "BreakTheBank|38811859151745080631030903762314734994871921313144654160813685722719268752056": {
+   "date": "2026-11-08 17:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Giants (-1.5)",
+   "resultat": "Giants",
+   "prix_trader": 0.55,
+   "retard_min": 3.6,
+   "token": "38811859151745080631030903762314734994871921313144654160813685722719268752056",
+   "prix_simule": 0.56,
+   "parts": 17.8571,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 17:30 UTC"
+  },
+  "BreakTheBank|1686834928650699334579112184406461499520232830890206846102611695762122470310": {
+   "date": "2026-11-08 17:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Giants (-2.5)",
+   "resultat": "Giants",
+   "prix_trader": 0.52,
+   "retard_min": 3.6,
+   "token": "1686834928650699334579112184406461499520232830890206846102611695762122470310",
+   "prix_simule": 0.53,
+   "parts": 18.8679,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 17:30 UTC"
+  },
+  "BreakTheBank|46695574465539807801585779752464944583713390120989093131984549635124547030814": {
+   "date": "2026-11-08 17:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Giants (-3.5)",
+   "resultat": "Giants",
+   "prix_trader": 0.43,
+   "retard_min": 3.6,
+   "token": "46695574465539807801585779752464944583713390120989093131984549635124547030814",
+   "prix_simule": 0.44,
+   "parts": 22.7273,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 17:30 UTC"
+  },
+  "BreakTheBank|60694010368806066694911010949863645338650466913840475301819173713567586934237": {
+   "date": "2026-11-08 17:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Giants (-4.5)",
+   "resultat": "Giants",
+   "prix_trader": 0.41,
+   "retard_min": 2.6,
+   "token": "60694010368806066694911010949863645338650466913840475301819173713567586934237",
+   "prix_simule": 0.42,
+   "parts": 23.8095,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 17:30 UTC"
   }
  },
  "fermees": [
