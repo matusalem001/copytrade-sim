@@ -215,3 +215,9 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 04:10 UTC,primm,REGLEMENT,Louisville vs. Georgia Tech: O/U 61.5,Under,,0.5,,,20.0,20.0,10.0,gagné
 2026-11-08 04:10 UTC,primm,REGLEMENT,Louisville vs. Georgia Tech: O/U 65.5,Under,,0.61,,,16.3934,16.39,6.39,gagné
 2026-11-08 04:10 UTC,primm,REGLEMENT,Spread: Iowa (-14.5),Iowa,,0.48,,,20.8333,0.0,-10.0,perdu
+2026-11-08 04:15 UTC,primm,ACHAT,Spread: UNLV (-2.5),Wyoming,0.54,0.63,9.0,4.6,15.873,10.0,,
+2026-11-08 04:15 UTC,primm,ACHAT,Spread: UNLV (-3.5),Wyoming,0.61,0.7,9.0,4.6,14.2857,10.0,,
+2026-11-08 04:15 UTC,primm,ACHAT,Spread: Texas Tech (-14.5),West Virginia,0.39,0.4,1.0,4.1,25.0,10.0,,
+2026-11-08 04:15 UTC,primm,ACHAT,Spread: Texas Tech (-15.5),West Virginia,0.43,0.39,-4.0,4.0,25.641,10.0,,
+2026-11-08 04:15 UTC,primm,ACHAT,Hawai'i vs. UTEP: O/U 35.5,Over,0.69,0.69,0.0,3.8,14.4928,10.0,,
+2026-11-08 04:15 UTC,primm,ACHAT,Hawai'i vs. UTEP: O/U 41.5,Over,0.45,0.44,-1.0,3.8,22.7273,10.0,,
