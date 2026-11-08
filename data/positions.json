@@ -402,6 +402,32 @@
    "parts": 12.6582,
    "montant": 10.0,
    "ouvert_le": "2026-11-08 01:10 UTC"
+  },
+  "primm|40887806712293750963354807540797584653267455597346730065119445221050652749166": {
+   "date": "2026-11-08 01:15 UTC",
+   "trader": "primm",
+   "marche": "Louisville vs. Georgia Tech: O/U 61.5",
+   "resultat": "Under",
+   "prix_trader": 0.5,
+   "retard_min": 7.0,
+   "token": "40887806712293750963354807540797584653267455597346730065119445221050652749166",
+   "prix_simule": 0.5,
+   "parts": 20.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 01:15 UTC"
+  },
+  "primm|58647931571917816426248779186162518610954352329947805921569583254863599135828": {
+   "date": "2026-11-08 01:15 UTC",
+   "trader": "primm",
+   "marche": "Louisville vs. Georgia Tech: O/U 65.5",
+   "resultat": "Under",
+   "prix_trader": 0.6,
+   "retard_min": 3.1,
+   "token": "58647931571917816426248779186162518610954352329947805921569583254863599135828",
+   "prix_simule": 0.61,
+   "parts": 16.3934,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 01:15 UTC"
   }
  },
  "fermees": [
