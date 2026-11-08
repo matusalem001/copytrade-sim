@@ -477,3 +477,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 18:55 UTC,primm,ACHAT,Lions vs. Dolphins: O/U 46.5,Under,0.72,0.73,1.0,2.9,13.6986,10.0,,
 2026-11-08 18:55 UTC,primm,ACHAT,Browns vs. Saints: O/U 34.5,Under,0.5,0.52,2.0,0.5,19.2308,10.0,,
 2026-11-08 18:55 UTC,BreakTheBank,REGLEMENT,Will Manchester United FC win on 2026-11-08?,No,,0.52,,,19.2308,19.23,9.23,gagné
+2026-11-08 19:00 UTC,primm,IGNORE,Spread: Saints (-9.5),Saints,0.33,0.21,-12.0,3.1,,,,prix a trop chuté (match sans doute joué)
+2026-11-08 19:00 UTC,primm,IGNORE,Spread: Saints (-6.5),Saints,0.46,0.33,-13.0,3.1,,,,prix a trop chuté (match sans doute joué)
+2026-11-08 19:00 UTC,primm,ACHAT,Spread: Lions (-7.5),Dolphins,0.58,0.69,11.0,1.8,14.4928,10.0,,
