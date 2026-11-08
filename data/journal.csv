@@ -199,3 +199,19 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 04:00 UTC,primm,REGLEMENT,Air Force vs. Army: O/U 51.5,Over,,0.52,,,19.2308,0.0,-10.0,perdu
 2026-11-08 04:05 UTC,primm,REGLEMENT,Spread: Arizona State (-5.5),Colorado,,0.5,,,20.0,0.0,-10.0,perdu
 2026-11-08 04:05 UTC,primm,REGLEMENT,Colorado vs. Arizona State,Colorado,,0.34,,,29.4118,0.0,-10.0,perdu
+2026-11-08 04:10 UTC,primm,REGLEMENT,Colorado vs. Arizona State: O/U 41.5,Over,,0.67,,,14.9254,0.0,-10.0,perdu
+2026-11-08 04:10 UTC,primm,REGLEMENT,Colorado vs. Arizona State: O/U 49.5,Over,,0.34,,,29.4118,0.0,-10.0,perdu
+2026-11-08 04:10 UTC,primm,REGLEMENT,Spread: Arizona State (-2.5),Colorado,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-08 04:10 UTC,primm,REGLEMENT,Spread: Arizona State (-1.5),Colorado,,0.44,,,22.7273,0.0,-10.0,perdu
+2026-11-08 04:10 UTC,primm,REGLEMENT,Colorado vs. Arizona State: O/U 47.5,Over,,0.49,,,20.4082,0.0,-10.0,perdu
+2026-11-08 04:10 UTC,primm,REGLEMENT,Spread: Arizona State (-4.5),Colorado,,0.49,,,20.4082,0.0,-10.0,perdu
+2026-11-08 04:10 UTC,primm,REGLEMENT,Spread: Arizona State (-3.5),Colorado,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-08 04:10 UTC,primm,REGLEMENT,Spread: Louisville (-17.5),Louisville,,0.44,,,22.7273,22.73,12.73,gagné
+2026-11-08 04:10 UTC,primm,REGLEMENT,Louisville vs. Georgia Tech: O/U 59.5,Under,,0.52,,,19.2308,0.0,-10.0,perdu
+2026-11-08 04:10 UTC,primm,REGLEMENT,Spread: Louisville (-13.5),Louisville,,0.52,,,19.2308,19.23,9.23,gagné
+2026-11-08 04:10 UTC,primm,REGLEMENT,Spread: Louisville (-16.5),Louisville,,0.44,,,22.7273,22.73,12.73,gagné
+2026-11-08 04:10 UTC,primm,REGLEMENT,Spread: Louisville (-10.5),Louisville,,0.56,,,17.8571,17.86,7.86,gagné
+2026-11-08 04:10 UTC,primm,REGLEMENT,Spread: Louisville (-14.5),Louisville,,0.47,,,21.2766,21.28,11.28,gagné
+2026-11-08 04:10 UTC,primm,REGLEMENT,Louisville vs. Georgia Tech: O/U 61.5,Under,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-08 04:10 UTC,primm,REGLEMENT,Louisville vs. Georgia Tech: O/U 65.5,Under,,0.61,,,16.3934,16.39,6.39,gagné
+2026-11-08 04:10 UTC,primm,REGLEMENT,Spread: Iowa (-14.5),Iowa,,0.48,,,20.8333,0.0,-10.0,perdu
