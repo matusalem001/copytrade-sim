@@ -177,3 +177,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 01:00 UTC,primm,REGLEMENT,Spread: North Texas (-10.5),Rice,,0.57,,,17.5439,0.0,-10.0,perdu
 2026-11-08 01:00 UTC,primm,REGLEMENT,Spread: North Texas (-4.5),Rice,,0.33,,,30.303,0.0,-10.0,perdu
 2026-11-08 01:00 UTC,primm,REGLEMENT,Spread: North Texas (-5.5),Rice,,0.35,,,28.5714,0.0,-10.0,perdu
+2026-11-08 01:10 UTC,primm,ACHAT,Georgia vs. Ole Miss: O/U 69.5,Under,0.69,0.79,10.0,3.6,12.6582,10.0,,
