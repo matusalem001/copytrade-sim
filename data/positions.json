@@ -376,6 +376,19 @@
    "parts": 16.6667,
    "montant": 10.0,
    "ouvert_le": "2026-11-08 16:55 UTC"
+  },
+  "BreakTheBank|93958120992736672275862140139621145832633346481368219950327266823676667811989": {
+   "date": "2026-11-08 17:00 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Cowboys vs. Colts",
+   "resultat": "Colts",
+   "prix_trader": 0.33,
+   "retard_min": 9.2,
+   "token": "93958120992736672275862140139621145832633346481368219950327266823676667811989",
+   "prix_simule": 0.34,
+   "parts": 29.4118,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 17:00 UTC"
   }
  },
  "fermees": [
