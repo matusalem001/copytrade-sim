@@ -922,6 +922,19 @@
    "parts": 11.3636,
    "montant": 10.0,
    "ouvert_le": "2026-11-08 21:20 UTC"
+  },
+  "BreakTheBank|76441330721536780286570844360096211077525992542907240528254904694565638010081": {
+   "date": "2026-11-08 21:25 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Raiders vs. 49ers: O/U 52.5",
+   "resultat": "Over",
+   "prix_trader": 0.47,
+   "retard_min": 5.3,
+   "token": "76441330721536780286570844360096211077525992542907240528254904694565638010081",
+   "prix_simule": 0.48,
+   "parts": 20.8333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 21:25 UTC"
   }
  },
  "fermees": [
