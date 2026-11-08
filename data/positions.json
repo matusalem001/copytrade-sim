@@ -961,6 +961,19 @@
    "parts": 14.4928,
    "montant": 10.0,
    "ouvert_le": "2026-11-08 19:00 UTC"
+  },
+  "BreakTheBank|73666546050415314560191065985791037509526130162455678164784619140152017062883": {
+   "date": "2026-11-08 19:05 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Club Atlético de Madrid win on 2026-11-08?",
+   "resultat": "Yes",
+   "prix_trader": 0.26,
+   "retard_min": 6.2,
+   "token": "73666546050415314560191065985791037509526130162455678164784619140152017062883",
+   "prix_simule": 0.27,
+   "parts": 37.037,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 19:05 UTC"
   }
  },
  "fermees": [

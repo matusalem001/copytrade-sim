@@ -480,3 +480,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 19:00 UTC,primm,IGNORE,Spread: Saints (-9.5),Saints,0.33,0.21,-12.0,3.1,,,,prix a trop chuté (match sans doute joué)
 2026-11-08 19:00 UTC,primm,IGNORE,Spread: Saints (-6.5),Saints,0.46,0.33,-13.0,3.1,,,,prix a trop chuté (match sans doute joué)
 2026-11-08 19:00 UTC,primm,ACHAT,Spread: Lions (-7.5),Dolphins,0.58,0.69,11.0,1.8,14.4928,10.0,,
+2026-11-08 19:05 UTC,BreakTheBank,ACHAT,Will Club Atlético de Madrid win on 2026-11-08?,Yes,0.26,0.27,1.0,6.2,37.037,10.0,,
