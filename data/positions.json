@@ -324,6 +324,19 @@
    "parts": 17.2414,
    "montant": 10.0,
    "ouvert_le": "2026-11-08 04:45 UTC"
+  },
+  "primm|4057409693564603329811431352300293288532828450268732171093338545471856248898": {
+   "date": "2026-11-08 04:50 UTC",
+   "trader": "primm",
+   "marche": "West Virginia vs. Texas Tech",
+   "resultat": "Texas Tech",
+   "prix_trader": 0.87,
+   "retard_min": 2.5,
+   "token": "4057409693564603329811431352300293288532828450268732171093338545471856248898",
+   "prix_simule": 0.87,
+   "parts": 11.4943,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 04:50 UTC"
   }
  },
  "fermees": [

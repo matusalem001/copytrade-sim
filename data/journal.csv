@@ -248,3 +248,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 04:45 UTC,primm,ACHAT,Spread: Texas State (-5.5),Texas State,0.51,0.51,0.0,2.4,19.6078,10.0,,
 2026-11-08 04:45 UTC,primm,ACHAT,Spread: Texas State (-7.5),Texas State,0.42,0.44,2.0,2.4,22.7273,10.0,,
 2026-11-08 04:45 UTC,primm,ACHAT,Spread: Texas State (-4.5),Texas State,0.53,0.58,5.0,2.4,17.2414,10.0,,
+2026-11-08 04:50 UTC,primm,ACHAT,West Virginia vs. Texas Tech,Texas Tech,0.87,0.87,0.0,2.5,11.4943,10.0,,
