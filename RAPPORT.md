@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 06:30 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 06:35 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 9 | 0 | 7 | 1 | -51.82 $ | -74.0 % | 2 | +1.0 ¢ | 4 min |
-| primm | 165 | 25 | 116 | 51 | -73.32 $ | -6.3 % | 49 | +4.0 ¢ | 4 min |
+| primm | 165 | 25 | 118 | 53 | -68.04 $ | -5.8 % | 47 | +4.0 ¢ | 4 min |
 | juice-fruit | 0 | 0 | 0 | 0 | +0.00 $ | +0.0 % | 0 | +0.0 ¢ | 0 min |
 
-**Total réalisé : -125.14 $ sur 1230 $ engagés (-10.2 %)**
+**Total réalisé : -119.86 $ sur 1250 $ engagés (-9.6 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 06:30 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Wyoming vs. UNLV: O/U 67.5 | Over | 0.74 | 1.00 | +3.51 $ |
+| primm | Wyoming vs. UNLV: O/U 61.5 | Over | 0.85 | 1.00 | +1.76 $ |
 | primm | Spread: Hawai'i (-3.5) | Hawaii | 0.35 | 0.00 | -10.00 $ |
 | primm | Hawai'i vs. UTEP | UTEP | 0.20 | 0.00 | -10.00 $ |
 | primm | Spread: Hawai'i (-9.5) | Hawaii | 0.55 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 06:30 UTC** 
 | primm | Spread: Notre Dame (-6.5) | Notre Dame | 0.56 | 1.00 | +7.86 $ |
 | primm | Spread: Notre Dame (-7.5) | Notre Dame | 0.45 | 0.00 | -10.00 $ |
 | primm | Spread: Iowa (-14.5) | Iowa | 0.48 | 0.00 | -10.00 $ |
-| primm | Louisville vs. Georgia Tech: O/U 65.5 | Under | 0.61 | 1.00 | +6.39 $ |
-| primm | Louisville vs. Georgia Tech: O/U 61.5 | Under | 0.50 | 1.00 | +10.00 $ |
 
 Journal complet : `data/journal.csv`
