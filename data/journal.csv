@@ -387,3 +387,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 15:25 UTC,primm,ACHAT,Buccaneers vs. Bears: O/U 58.5,Over,0.21,0.22,1.0,3.7,45.4545,10.0,,
 2026-11-08 15:30 UTC,primm,ACHAT,Bengals vs. Falcons: O/U 58.5,Under,0.36,0.4,4.0,3.4,25.0,10.0,,
 2026-11-08 15:30 UTC,primm,ACHAT,Bengals vs. Falcons: O/U 64.5,Under,0.55,0.6,5.0,3.4,16.6667,10.0,,
+2026-11-08 15:40 UTC,primm,ACHAT,Bengals vs. Falcons: O/U 52.5,Under,0.18,0.16,-2.0,2.5,62.5,10.0,,
