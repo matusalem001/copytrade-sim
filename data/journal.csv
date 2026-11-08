@@ -570,3 +570,19 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 21:35 UTC,primm,REGLEMENT,Giants vs. Eagles: O/U 46.5,Over,,0.44,,,22.7273,0.0,-10.0,perdu
 2026-11-08 21:35 UTC,primm,REGLEMENT,Giants vs. Eagles: O/U 42.5,Over,,0.55,,,18.1818,0.0,-10.0,perdu
 2026-11-08 21:35 UTC,primm,REGLEMENT,Spread: Broncos (-7.5),Panthers,,0.71,,,14.0845,14.08,4.08,gagné
+2026-11-08 21:40 UTC,primm,ACHAT,Cardinals vs. Seahawks: O/U 44.5,Under,0.61,0.66,5.0,4.4,15.1515,10.0,,
+2026-11-08 21:40 UTC,primm,ACHAT,Spread: Packers (-7.5),Packers,0.45,0.47,2.0,3.7,21.2766,10.0,,
+2026-11-08 21:40 UTC,primm,ACHAT,Spread: Packers (-10.5),Packers,0.38,0.45,7.0,3.6,22.2222,10.0,,
+2026-11-08 21:40 UTC,primm,ACHAT,Spread: Packers (-4.5),Packers,0.58,0.62,4.0,3.6,16.129,10.0,,
+2026-11-08 21:40 UTC,primm,ACHAT,Spread: Packers (-9.5),Packers,0.42,0.47,5.0,3.6,21.2766,10.0,,
+2026-11-08 21:40 UTC,primm,IGNORE,Packers vs. Patriots: O/U 56.5,Under,0.64,0.59,-5.0,3.0,,,,prix a trop chuté (match sans doute joué)
+2026-11-08 21:40 UTC,primm,ACHAT,Raiders vs. 49ers: O/U 52.5,Under,0.49,0.5,1.0,0.1,20.0,10.0,,
+2026-11-08 21:40 UTC,juice-fruit,ACHAT,Texans vs. Chargers,Chargers,0.25,0.22,-3.0,1.7,45.4545,10.0,,
+2026-11-08 21:40 UTC,BreakTheBank,REGLEMENT,Spread: Giants (-2.5),Giants,,0.53,,,18.8679,18.87,8.87,gagné
+2026-11-08 21:40 UTC,BreakTheBank,REGLEMENT,Spread: Giants (-3.5),Giants,,0.44,,,22.7273,22.73,12.73,gagné
+2026-11-08 21:40 UTC,BreakTheBank,REGLEMENT,Spread: Giants (-4.5),Giants,,0.42,,,23.8095,23.81,13.81,gagné
+2026-11-08 21:40 UTC,primm,REGLEMENT,Giants vs. Eagles,Eagles,,0.43,,,23.2558,0.0,-10.0,perdu
+2026-11-08 21:40 UTC,primm,REGLEMENT,Spread: Giants (-2.5),Eagles,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-08 21:40 UTC,primm,REGLEMENT,Spread: Eagles (-1.5),Eagles,,0.39,,,25.641,0.0,-10.0,perdu
+2026-11-08 21:40 UTC,primm,REGLEMENT,Giants vs. Eagles: O/U 34.5,Over,,0.83,,,12.0482,0.0,-10.0,perdu
+2026-11-08 21:40 UTC,primm,REGLEMENT,Broncos vs. Panthers,Panthers,,0.33,,,30.303,0.0,-10.0,perdu
