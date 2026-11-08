@@ -766,6 +766,19 @@
    "parts": 41.6667,
    "montant": 10.0,
    "ouvert_le": "2026-11-08 22:30 UTC"
+  },
+  "juice-fruit|29608795391026007449027494716971194074994040209490971862300214127152613321407": {
+   "date": "2026-11-08 22:45 UTC",
+   "trader": "juice-fruit",
+   "marche": "Cardinals vs. Seahawks",
+   "resultat": "Cardinals",
+   "prix_trader": 0.19,
+   "retard_min": 0.3,
+   "token": "29608795391026007449027494716971194074994040209490971862300214127152613321407",
+   "prix_simule": 0.18,
+   "parts": 55.5556,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 22:45 UTC"
   }
  },
  "fermees": [
