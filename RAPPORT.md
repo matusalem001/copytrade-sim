@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 02:55 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 03:00 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 9 | 0 | 6 | 0 | -60.00 $ | -100.0 % | 3 | +1.0 ¢ | 4 min |
-| primm | 103 | 2 | 69 | 31 | +15.39 $ | +2.2 % | 34 | +2.8 ¢ | 3 min |
+| primm | 103 | 2 | 70 | 31 | +5.39 $ | +0.8 % | 33 | +2.8 ¢ | 3 min |
 | juice-fruit | 0 | 0 | 0 | 0 | +0.00 $ | +0.0 % | 0 | +0.0 ¢ | 0 min |
 
-**Total réalisé : -44.61 $ sur 750 $ engagés (-5.9 %)**
+**Total réalisé : -54.61 $ sur 760 $ engagés (-7.2 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 02:55 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Tennessee (-9.5) | Kentucky | 0.68 | 0.00 | -10.00 $ |
 | primm | Spread: Boise State (-20.5) | Colorado State | 0.37 | 0.00 | -10.00 $ |
 | primm | Spread: Boise State (-18.5) | Colorado State | 0.30 | 0.00 | -10.00 $ |
 | primm | Spread: North Texas (-5.5) | Rice | 0.35 | 0.00 | -10.00 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 02:55 UTC** 
 | primm | UCF vs. Kansas | Kansas | 0.16 | 0.00 | -10.00 $ |
 | primm | Spread: Oregon (-6.5) | Oregon | 0.39 | 1.00 | +15.84 $ |
 | primm | Spread: Oregon (-3.5) | Oregon | 0.28 | 1.00 | +25.71 $ |
-| primm | Spread: Ohio State (-2.5) | Oregon | 0.50 | 1.00 | +10.00 $ |
 
 Journal complet : `data/journal.csv`
