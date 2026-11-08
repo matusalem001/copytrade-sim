@@ -169,3 +169,11 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 00:55 UTC,primm,ACHAT,Spread: Louisville (-14.5),Louisville,0.47,0.47,0.0,0.5,21.2766,10.0,,
 2026-11-08 00:55 UTC,BreakTheBank,REGLEMENT,Spread: Nuggets (-8.5),Pacers,,0.53,,,18.8679,0.0,-10.0,perdu
 2026-11-08 00:55 UTC,BreakTheBank,REGLEMENT,Nuggets vs. Pacers,Pacers,,0.27,,,37.037,0.0,-10.0,perdu
+2026-11-08 01:00 UTC,primm,ACHAT,Miami (FL) vs. Notre Dame: O/U 38.5,Under,0.36,0.36,0.0,2.8,27.7778,10.0,,
+2026-11-08 01:00 UTC,primm,REGLEMENT,Rice vs. North Texas: O/U 63.5,Under,,0.75,,,13.3333,0.0,-10.0,perdu
+2026-11-08 01:00 UTC,primm,REGLEMENT,Spread: North Texas (-6.5),Rice,,0.37,,,27.027,0.0,-10.0,perdu
+2026-11-08 01:00 UTC,primm,REGLEMENT,Spread: North Texas (-7.5),Rice,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-08 01:00 UTC,primm,REGLEMENT,Spread: North Texas (-11.5),Rice,,0.58,,,17.2414,0.0,-10.0,perdu
+2026-11-08 01:00 UTC,primm,REGLEMENT,Spread: North Texas (-10.5),Rice,,0.57,,,17.5439,0.0,-10.0,perdu
+2026-11-08 01:00 UTC,primm,REGLEMENT,Spread: North Texas (-4.5),Rice,,0.33,,,30.303,0.0,-10.0,perdu
+2026-11-08 01:00 UTC,primm,REGLEMENT,Spread: North Texas (-5.5),Rice,,0.35,,,28.5714,0.0,-10.0,perdu

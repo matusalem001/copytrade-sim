@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 00:55 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 01:01 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 7 | 0 | 6 | 0 | -60.00 $ | -100.0 % | 1 | +0.9 ¢ | 4 min |
-| primm | 95 | 2 | 60 | 31 | +105.39 $ | +17.6 % | 35 | +2.8 ¢ | 3 min |
+| primm | 96 | 2 | 67 | 31 | +35.39 $ | +5.3 % | 29 | +2.8 ¢ | 3 min |
 | juice-fruit | 0 | 0 | 0 | 0 | +0.00 $ | +0.0 % | 0 | +0.0 ¢ | 0 min |
 
-**Total réalisé : +45.39 $ sur 660 $ engagés (+6.9 %)**
+**Total réalisé : -24.61 $ sur 730 $ engagés (-3.4 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,13 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 00:55 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: North Texas (-5.5) | Rice | 0.35 | 0.00 | -10.00 $ |
+| primm | Spread: North Texas (-4.5) | Rice | 0.33 | 0.00 | -10.00 $ |
+| primm | Spread: North Texas (-10.5) | Rice | 0.57 | 0.00 | -10.00 $ |
+| primm | Spread: North Texas (-11.5) | Rice | 0.58 | 0.00 | -10.00 $ |
+| primm | Spread: North Texas (-7.5) | Rice | 0.46 | 0.00 | -10.00 $ |
+| primm | Spread: North Texas (-6.5) | Rice | 0.37 | 0.00 | -10.00 $ |
+| primm | Rice vs. North Texas: O/U 63.5 | Under | 0.75 | 0.00 | -10.00 $ |
 | BreakTheBank | Nuggets vs. Pacers | Pacers | 0.27 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Nuggets (-8.5) | Pacers | 0.53 | 0.00 | -10.00 $ |
 | primm | Oregon vs. Ohio State | Oregon | 0.42 | 1.00 | +13.81 $ |
@@ -34,12 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 00:55 UTC** 
 | primm | Spread: Ohio State (-2.5) | Oregon | 0.50 | 1.00 | +10.00 $ |
 | primm | Rice vs. North Texas: O/U 59.5 | Under | 0.67 | 0.00 | -10.00 $ |
 | primm | Spread: Ohio State (-6.5) | Oregon | 0.44 | 1.00 | +12.73 $ |
-| primm | Spread: UCF (-1.5) | Kansas | 0.40 | 1.00 | +15.00 $ |
-| primm | UCF vs. Kansas | UCF | 0.64 | 1.00 | +5.62 $ |
-| primm | Cincinnati vs. Houston: O/U 57.5 | Over | 0.44 | 0.00 | -10.00 $ |
-| primm | UCF vs. Kansas: O/U 59.5 | Over | 0.38 | 1.00 | +16.32 $ |
-| primm | Spread: UCF (-4.5) | Kansas | 0.51 | 1.00 | +9.61 $ |
-| primm | Spread: Houston (-7.5) | Cincinnati | 0.58 | 1.00 | +7.24 $ |
-| primm | Northern Illinois vs. San Jose State: O/U 53.5 | Over | 0.57 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
