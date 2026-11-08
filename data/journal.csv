@@ -371,3 +371,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 07:30 UTC,primm,REGLEMENT,Spread: Wyoming (-10.5),UNLV,,0.46,,,21.7391,21.74,11.74,gagné
 2026-11-08 07:30 UTC,primm,REGLEMENT,Wyoming vs. UNLV,UNLV,,0.09,,,111.1111,0.0,-10.0,perdu
 2026-11-08 08:30 UTC,BreakTheBank,IGNORE,Will Charles Leclerc win the 2026 F1 Brazilian Grand Prix?,No,0.965,0.982,,3.0,,,,prix trop haut
+2026-11-08 12:50 UTC,juice-fruit,ACHAT,Will SSC Napoli win on 2026-11-08?,No,0.64,0.63,-1.0,5.3,15.873,10.0,,

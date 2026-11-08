@@ -25,6 +25,19 @@
    "parts": 11.3636,
    "montant": 10.0,
    "ouvert_le": "2026-11-08 01:50 UTC"
+  },
+  "juice-fruit|4927132291738515630811381518134865498992051422600132860729019404070593040691": {
+   "date": "2026-11-08 12:50 UTC",
+   "trader": "juice-fruit",
+   "marche": "Will SSC Napoli win on 2026-11-08?",
+   "resultat": "No",
+   "prix_trader": 0.64,
+   "retard_min": 5.3,
+   "token": "4927132291738515630811381518134865498992051422600132860729019404070593040691",
+   "prix_simule": 0.63,
+   "parts": 15.873,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 12:50 UTC"
   }
  },
  "fermees": [
