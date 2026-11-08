@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 17:50 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 17:55 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 21 | 3 | 7 | 1 | -51.82 $ | -74.0 % | 14 | +1.0 ¢ | 4 min |
-| primm | 193 | 26 | 165 | 85 | +37.53 $ | +2.3 % | 28 | +3.8 ¢ | 4 min |
+| BreakTheBank | 23 | 3 | 7 | 1 | -51.82 $ | -74.0 % | 16 | +1.0 ¢ | 4 min |
+| primm | 193 | 26 | 176 | 90 | +26.48 $ | +1.5 % | 17 | +3.8 ¢ | 4 min |
 | juice-fruit | 2 | 0 | 1 | 1 | +5.87 $ | +58.7 % | 1 | +0.0 ¢ | 5 min |
 
-**Total réalisé : -8.42 $ sur 1730 $ engagés (-0.5 %)**
+**Total réalisé : -19.46 $ sur 1840 $ engagés (-1.1 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,17 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 17:50 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Bengals (-9.5) | Falcons | 0.60 | 0.00 | -10.00 $ |
+| primm | Spread: Bengals (-7.5) | Falcons | 0.48 | 0.00 | -10.00 $ |
+| primm | Spread: Bengals (-10.5) | Falcons | 0.65 | 0.00 | -10.00 $ |
+| primm | Spread: Bengals (-16.5) | Bengals | 0.35 | 1.00 | +18.57 $ |
+| primm | Spread: Bengals (-10.5) | Bengals | 0.65 | 1.00 | +5.38 $ |
+| primm | Bengals vs. Falcons: O/U 64.5 | Under | 0.60 | 1.00 | +6.67 $ |
+| primm | Bengals vs. Falcons: O/U 58.5 | Under | 0.40 | 1.00 | +15.00 $ |
+| primm | Bengals vs. Falcons | Bengals | 0.75 | 1.00 | +3.33 $ |
+| primm | Bengals vs. Falcons: O/U 64.5 | Over | 0.48 | 0.00 | -10.00 $ |
+| primm | Bengals vs. Falcons: O/U 58.5 | Over | 0.65 | 0.00 | -10.00 $ |
+| primm | Spread: Bengals (-3.5) | Falcons | 0.51 | 0.00 | -10.00 $ |
 | juice-fruit | Will SSC Napoli win on 2026-11-08? | No | 0.63 | 1.00 | +5.87 $ |
 | primm | Wyoming vs. UNLV | UNLV | 0.09 | 0.00 | -10.00 $ |
 | primm | Spread: Wyoming (-10.5) | UNLV | 0.46 | 1.00 | +11.74 $ |
@@ -30,16 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 17:50 UTC** 
 | primm | Spread: Texas State (-10.5) | Oregon State | 0.66 | 0.00 | -10.00 $ |
 | primm | Spread: Texas State (-4.5) | Oregon State | 0.44 | 0.00 | -10.00 $ |
 | primm | Texas State vs. Oregon State | Oregon State | 0.30 | 0.00 | -10.00 $ |
-| primm | Spread: Wyoming (-6.5) | UNLV | 0.68 | 1.00 | +4.71 $ |
-| primm | Spread: Texas State (-13.5) | Texas State | 0.51 | 1.00 | +9.61 $ |
-| primm | Texas State vs. Oregon State: O/U 69.5 | Over | 0.66 | 0.00 | -10.00 $ |
-| primm | Texas State vs. Oregon State: O/U 73.5 | Over | 0.54 | 0.00 | -10.00 $ |
-| primm | Spread: Texas State (-4.5) | Texas State | 0.58 | 1.00 | +7.24 $ |
-| primm | Spread: Texas State (-7.5) | Texas State | 0.44 | 1.00 | +12.73 $ |
-| primm | Spread: Texas State (-5.5) | Texas State | 0.51 | 1.00 | +9.61 $ |
-| primm | Spread: Wyoming (-5.5) | Wyoming | 0.66 | 1.00 | +5.15 $ |
-| primm | Texas State vs. Oregon State | Texas State | 0.56 | 1.00 | +7.86 $ |
-| primm | Spread: Wyoming (-1.5) | Wyoming | 0.62 | 1.00 | +6.13 $ |
-| primm | Spread: Wyoming (-2.5) | Wyoming | 0.59 | 1.00 | +6.95 $ |
 
 Journal complet : `data/journal.csv`
