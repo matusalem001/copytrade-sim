@@ -520,3 +520,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 21:10 UTC,primm,REGLEMENT,Lions vs. Dolphins: O/U 30.5,Under,,0.21,,,47.619,47.62,37.62,gagné
 2026-11-08 21:10 UTC,primm,REGLEMENT,Lions vs. Dolphins: O/U 46.5,Under,,0.73,,,13.6986,13.7,3.7,gagné
 2026-11-08 21:10 UTC,primm,REGLEMENT,Spread: Lions (-7.5),Dolphins,,0.69,,,14.4928,0.0,-10.0,perdu
+2026-11-08 21:15 UTC,BreakTheBank,ACHAT,Raiders vs. 49ers: O/U 50.5,Over,0.55,0.56,1.0,3.8,17.8571,10.0,,
+2026-11-08 21:15 UTC,primm,REGLEMENT,Spread: Lions (-6.5),Lions,,0.58,,,17.2414,17.24,7.24,gagné
+2026-11-08 21:15 UTC,primm,REGLEMENT,Lions vs. Dolphins: O/U 48.5,Under,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-08 21:15 UTC,primm,REGLEMENT,Spread: Lions (-9.5),Lions,,0.41,,,24.3902,24.39,14.39,gagné
+2026-11-08 21:15 UTC,primm,REGLEMENT,Lions vs. Dolphins,Dolphins,,0.25,,,40.0,0.0,-10.0,perdu
