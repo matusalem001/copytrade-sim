@@ -283,3 +283,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 05:35 UTC,primm,ACHAT,Hawai'i vs. UTEP,UTEP,0.19,0.2,1.0,2.6,50.0,10.0,,
 2026-11-08 05:35 UTC,primm,ACHAT,Spread: West Virginia (-3.5),Texas Tech,0.67,0.698,2.8,1.7,14.3266,10.0,,
 2026-11-08 05:35 UTC,primm,IGNORE,Spread: Texas Tech (-1.5),West Virginia,0.62,0.57,-5.0,0.9,,,,prix a trop chuté (match sans doute joué)
+2026-11-08 05:40 UTC,primm,ACHAT,Spread: Hawai'i (-3.5),Hawaii,0.38,0.35,-3.0,2.5,28.5714,10.0,,
