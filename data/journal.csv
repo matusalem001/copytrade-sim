@@ -251,3 +251,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 04:50 UTC,primm,ACHAT,West Virginia vs. Texas Tech,Texas Tech,0.87,0.87,0.0,2.5,11.4943,10.0,,
 2026-11-08 04:55 UTC,primm,ACHAT,Texas State vs. Oregon State: O/U 73.5,Over,0.57,0.54,-3.0,6.8,18.5185,10.0,,
 2026-11-08 04:55 UTC,primm,ACHAT,Texas State vs. Oregon State: O/U 69.5,Over,0.68,0.66,-2.0,1.0,15.1515,10.0,,
+2026-11-08 05:00 UTC,primm,ACHAT,Spread: Texas State (-13.5),Texas State,0.37,0.51,14.0,3.3,19.6078,10.0,,
+2026-11-08 05:00 UTC,primm,ACHAT,Wyoming vs. UNLV: O/U 61.5,Over,0.78,0.85,7.0,3.1,11.7647,10.0,,
+2026-11-08 05:00 UTC,primm,ACHAT,Spread: Wyoming (-6.5),UNLV,0.53,0.68,15.0,3.1,14.7059,10.0,,
+2026-11-08 05:00 UTC,primm,ACHAT,Spread: Utah State (-5.5),Fresno State,0.3,0.43,13.0,0.3,23.2558,10.0,,
