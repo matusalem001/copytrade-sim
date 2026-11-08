@@ -323,3 +323,18 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 06:25 UTC,primm,ACHAT,Wyoming vs. UNLV,UNLV,0.085,0.09,0.5,4.2,111.1111,10.0,,
 2026-11-08 06:35 UTC,primm,REGLEMENT,Wyoming vs. UNLV: O/U 61.5,Over,,0.85,,,11.7647,11.76,1.76,gagné
 2026-11-08 06:35 UTC,primm,REGLEMENT,Wyoming vs. UNLV: O/U 67.5,Over,,0.74,,,13.5135,13.51,3.51,gagné
+2026-11-08 06:40 UTC,primm,REGLEMENT,Spread: Texas Tech (-14.5),West Virginia,,0.4,,,25.0,25.0,15.0,gagné
+2026-11-08 06:40 UTC,primm,REGLEMENT,Spread: Texas Tech (-15.5),West Virginia,,0.39,,,25.641,25.64,15.64,gagné
+2026-11-08 06:40 UTC,primm,REGLEMENT,Spread: Texas Tech (-21.5),West Virginia,,0.63,,,15.873,15.87,5.87,gagné
+2026-11-08 06:40 UTC,primm,REGLEMENT,Spread: Texas Tech (-23.5),West Virginia,,0.69,,,14.4928,14.49,4.49,gagné
+2026-11-08 06:40 UTC,primm,REGLEMENT,Spread: Texas Tech (-20.5),West Virginia,,0.56,,,17.8571,17.86,7.86,gagné
+2026-11-08 06:40 UTC,primm,REGLEMENT,Wyoming vs. UNLV: O/U 67.5,Under,,0.75,,,13.3333,0.0,-10.0,perdu
+2026-11-08 06:40 UTC,primm,REGLEMENT,Spread: Texas Tech (-16.5),West Virginia,,0.43,,,23.2558,23.26,13.26,gagné
+2026-11-08 06:40 UTC,primm,REGLEMENT,Spread: Texas Tech (-6.5),West Virginia,,0.54,,,18.5185,18.52,8.52,gagné
+2026-11-08 06:40 UTC,primm,REGLEMENT,Spread: Texas Tech (-5.5),West Virginia,,0.51,,,19.6078,19.61,9.61,gagné
+2026-11-08 06:40 UTC,primm,REGLEMENT,Spread: Texas Tech (-10.5),West Virginia,,0.8,,,12.5,12.5,2.5,gagné
+2026-11-08 06:40 UTC,primm,REGLEMENT,Spread: Texas Tech (-4.5),West Virginia,,0.49,,,20.4082,0.0,-10.0,perdu
+2026-11-08 06:40 UTC,primm,REGLEMENT,Spread: West Virginia (-4.5),Texas Tech,,0.587,,,17.0358,17.04,7.04,gagné
+2026-11-08 06:40 UTC,primm,REGLEMENT,Spread: West Virginia (-2.5),Texas Tech,,0.42,,,23.8095,23.81,13.81,gagné
+2026-11-08 06:40 UTC,primm,REGLEMENT,Spread: West Virginia (-3.5),Texas Tech,,0.698,,,14.3266,14.33,4.33,gagné
+2026-11-08 06:40 UTC,primm,REGLEMENT,Spread: Texas Tech (-1.5),West Virginia,,0.56,,,17.8571,0.0,-10.0,perdu
