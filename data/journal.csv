@@ -181,3 +181,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 01:15 UTC,primm,ACHAT,Louisville vs. Georgia Tech: O/U 61.5,Under,0.5,0.5,0.0,7.0,20.0,10.0,,
 2026-11-08 01:15 UTC,primm,ACHAT,Louisville vs. Georgia Tech: O/U 65.5,Under,0.6,0.61,1.0,3.1,16.3934,10.0,,
 2026-11-08 01:20 UTC,primm,ACHAT,Spread: Georgia (-16.5),Georgia,0.56,0.6,4.0,3.3,16.6667,10.0,,
+2026-11-08 01:25 UTC,primm,ACHAT,Spread: Air Force (-3.5),Army,0.43,0.44,1.0,1.4,22.7273,10.0,,
