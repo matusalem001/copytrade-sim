@@ -226,3 +226,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 04:20 UTC,primm,ACHAT,Spread: Texas Tech (-21.5),West Virginia,0.57,0.63,6.0,5.0,15.873,10.0,,
 2026-11-08 04:20 UTC,primm,ACHAT,Spread: Wyoming (-2.5),Wyoming,0.52,0.59,7.0,4.4,16.9492,10.0,,
 2026-11-08 04:20 UTC,primm,ACHAT,Spread: Wyoming (-1.5),Wyoming,0.55,0.62,7.0,4.4,16.129,10.0,,
+2026-11-08 04:25 UTC,primm,ACHAT,Texas State vs. Oregon State,Texas State,0.51,0.56,5.0,4.5,17.8571,10.0,,
+2026-11-08 04:25 UTC,primm,ACHAT,Spread: Texas Tech (-23.5),West Virginia,0.67,0.69,2.0,3.3,14.4928,10.0,,
+2026-11-08 04:25 UTC,primm,ACHAT,Spread: Texas Tech (-20.5),West Virginia,0.53,0.56,3.0,3.1,17.8571,10.0,,
+2026-11-08 04:25 UTC,primm,REGLEMENT,Spread: Notre Dame (-7.5),Notre Dame,,0.45,,,22.2222,0.0,-10.0,perdu
+2026-11-08 04:25 UTC,primm,REGLEMENT,Spread: Notre Dame (-6.5),Notre Dame,,0.56,,,17.8571,17.86,7.86,gagné

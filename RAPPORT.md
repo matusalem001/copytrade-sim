@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 04:20 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 04:25 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 9 | 0 | 6 | 0 | -60.00 $ | -100.0 % | 3 | +1.0 ¢ | 4 min |
-| primm | 115 | 2 | 95 | 40 | -59.93 $ | -6.3 % | 20 | +3.0 ¢ | 4 min |
+| primm | 118 | 2 | 97 | 41 | -62.07 $ | -6.4 % | 21 | +3.0 ¢ | 4 min |
 | juice-fruit | 0 | 0 | 0 | 0 | +0.00 $ | +0.0 % | 0 | +0.0 ¢ | 0 min |
 
-**Total réalisé : -119.93 $ sur 1010 $ engagés (-11.9 %)**
+**Total réalisé : -122.07 $ sur 1030 $ engagés (-11.9 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 04:20 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Notre Dame (-6.5) | Notre Dame | 0.56 | 1.00 | +7.86 $ |
+| primm | Spread: Notre Dame (-7.5) | Notre Dame | 0.45 | 0.00 | -10.00 $ |
 | primm | Spread: Iowa (-14.5) | Iowa | 0.48 | 0.00 | -10.00 $ |
 | primm | Louisville vs. Georgia Tech: O/U 65.5 | Under | 0.61 | 1.00 | +6.39 $ |
 | primm | Louisville vs. Georgia Tech: O/U 61.5 | Under | 0.50 | 1.00 | +10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 04:20 UTC** 
 | primm | Miami (FL) vs. Notre Dame: O/U 44.5 | Under | 0.43 | 0.00 | -10.00 $ |
 | primm | Miami (FL) vs. Notre Dame: O/U 50.5 | Under | 0.52 | 0.00 | -10.00 $ |
 | primm | Miami (FL) vs. Notre Dame: O/U 54.5 | Under | 0.60 | 0.00 | -10.00 $ |
-| primm | Air Force vs. Army: O/U 43.5 | Over | 0.46 | 1.00 | +11.74 $ |
-| primm | Miami (FL) vs. Notre Dame: O/U 38.5 | Under | 0.36 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
