@@ -649,3 +649,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 23:05 UTC,BreakTheBank,REGLEMENT,76ers vs. Bulls,Bulls,,0.22,,,45.4545,0.0,-10.0,perdu
 2026-11-08 23:05 UTC,BreakTheBank,REGLEMENT,Spread: 76ers (-8.5),Bulls,,0.47,,,21.2766,21.28,11.28,gagné
 2026-11-08 23:10 UTC,BreakTheBank,REGLEMENT,Spread: 76ers (-9.5),Bulls,,0.52,,,19.2308,19.23,9.23,gagné
+2026-11-08 23:50 UTC,BreakTheBank,ACHAT,Spread: Bears (-7.5),Bears,0.41,0.42,1.0,0.5,23.8095,10.0,,
+2026-11-08 23:50 UTC,BreakTheBank,REGLEMENT,Will Max Verstappen win the 2026 F1 Brazilian Grand Prix?,No,,0.88,,,11.3636,11.36,1.36,gagné
+2026-11-08 23:50 UTC,BreakTheBank,REGLEMENT,Raiders vs. 49ers: O/U 50.5,Over,,0.56,,,17.8571,17.86,7.86,gagné

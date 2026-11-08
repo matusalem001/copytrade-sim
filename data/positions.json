@@ -13,19 +13,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-07 21:10 UTC"
   },
-  "BreakTheBank|33954200530086504067162328328888484694864645800974794460495722703974367951185": {
-   "date": "2026-11-08 01:50 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Will Max Verstappen win the 2026 F1 Brazilian Grand Prix?",
-   "resultat": "No",
-   "prix_trader": 0.86,
-   "retard_min": 5.6,
-   "token": "33954200530086504067162328328888484694864645800974794460495722703974367951185",
-   "prix_simule": 0.88,
-   "parts": 11.3636,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 01:50 UTC"
-  },
   "primm|3056245129719015156340485110272793966206131869899261981635577172569123390532": {
    "date": "2026-11-08 14:05 UTC",
    "trader": "primm",
@@ -155,19 +142,6 @@
    "parts": 18.8679,
    "montant": 10.0,
    "ouvert_le": "2026-11-08 21:05 UTC"
-  },
-  "BreakTheBank|17668499798849961763792413056639260596773528144278488569247384409466091309132": {
-   "date": "2026-11-08 21:15 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Raiders vs. 49ers: O/U 50.5",
-   "resultat": "Over",
-   "prix_trader": 0.55,
-   "retard_min": 3.8,
-   "token": "17668499798849961763792413056639260596773528144278488569247384409466091309132",
-   "prix_simule": 0.56,
-   "parts": 17.8571,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 21:15 UTC"
   },
   "BreakTheBank|76441330721536780286570844360096211077525992542907240528254904694565638010081": {
    "date": "2026-11-08 21:25 UTC",
@@ -753,6 +727,19 @@
    "parts": 37.037,
    "montant": 10.0,
    "ouvert_le": "2026-11-08 23:05 UTC"
+  },
+  "BreakTheBank|76708990756337296689494286231295136682837722452483622589299682024164553917163": {
+   "date": "2026-11-08 23:50 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Bears (-7.5)",
+   "resultat": "Bears",
+   "prix_trader": 0.41,
+   "retard_min": 0.5,
+   "token": "76708990756337296689494286231295136682837722452483622589299682024164553917163",
+   "prix_simule": 0.42,
+   "parts": 23.8095,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 23:50 UTC"
   }
  },
  "fermees": [
@@ -5361,6 +5348,40 @@
    "sortie": 1.0,
    "pnl": 9.2308,
    "ferme_le": "2026-11-08 23:10 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-08 01:50 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Max Verstappen win the 2026 F1 Brazilian Grand Prix?",
+   "resultat": "No",
+   "prix_trader": 0.86,
+   "retard_min": 5.6,
+   "token": "33954200530086504067162328328888484694864645800974794460495722703974367951185",
+   "prix_simule": 0.88,
+   "parts": 11.3636,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 01:50 UTC",
+   "sortie": 1.0,
+   "pnl": 1.3636,
+   "ferme_le": "2026-11-08 23:50 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-08 21:15 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Raiders vs. 49ers: O/U 50.5",
+   "resultat": "Over",
+   "prix_trader": 0.55,
+   "retard_min": 3.8,
+   "token": "17668499798849961763792413056639260596773528144278488569247384409466091309132",
+   "prix_simule": 0.56,
+   "parts": 17.8571,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 21:15 UTC",
+   "sortie": 1.0,
+   "pnl": 7.8571,
+   "ferme_le": "2026-11-08 23:50 UTC",
    "type": "gagné"
   }
  ]
