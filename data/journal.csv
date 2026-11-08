@@ -154,3 +154,10 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 00:45 UTC,primm,REGLEMENT,Spread: Cincinnati (-1.5),Houston,,0.75,,,13.3333,13.33,3.33,gagné
 2026-11-08 00:45 UTC,primm,REGLEMENT,Spread: Houston (-3.5),Cincinnati,,0.46,,,21.7391,0.0,-10.0,perdu
 2026-11-08 00:45 UTC,primm,REGLEMENT,Spread: Houston (-6.5),Cincinnati,,0.4,,,25.0,0.0,-10.0,perdu
+2026-11-08 00:50 UTC,primm,ACHAT,Georgia vs. Ole Miss,Georgia,0.65,0.73,8.0,3.2,13.6986,10.0,,
+2026-11-08 00:50 UTC,primm,ACHAT,Spread: Notre Dame (-6.5),Notre Dame,0.55,0.56,1.0,2.6,17.8571,10.0,,
+2026-11-08 00:50 UTC,BreakTheBank,REGLEMENT,Spread: Nuggets (-7.5),Pacers,,0.48,,,20.8333,0.0,-10.0,perdu
+2026-11-08 00:50 UTC,BreakTheBank,REGLEMENT,Spread: Nuggets (-6.5),Pacers,,0.45,,,22.2222,0.0,-10.0,perdu
+2026-11-08 00:50 UTC,BreakTheBank,REGLEMENT,Spread: Nuggets (-9.5),Pacers,,0.57,,,17.5439,0.0,-10.0,perdu
+2026-11-08 00:50 UTC,BreakTheBank,REGLEMENT,Spread: Nuggets (-5.5),Pacers,,0.42,,,23.8095,0.0,-10.0,perdu
+2026-11-08 00:50 UTC,primm,REGLEMENT,Oregon vs. Ohio State,Oregon,,0.42,,,23.8095,23.81,13.81,gagné
