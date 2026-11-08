@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 02:50 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 02:55 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 9 | 0 | 6 | 0 | -60.00 $ | -100.0 % | 3 | +1.0 ¢ | 4 min |
-| primm | 103 | 2 | 67 | 31 | +35.39 $ | +5.3 % | 36 | +2.8 ¢ | 3 min |
+| primm | 103 | 2 | 69 | 31 | +15.39 $ | +2.2 % | 34 | +2.8 ¢ | 3 min |
 | juice-fruit | 0 | 0 | 0 | 0 | +0.00 $ | +0.0 % | 0 | +0.0 ¢ | 0 min |
 
-**Total réalisé : -24.61 $ sur 730 $ engagés (-3.4 %)**
+**Total réalisé : -44.61 $ sur 750 $ engagés (-5.9 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 02:50 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Boise State (-20.5) | Colorado State | 0.37 | 0.00 | -10.00 $ |
+| primm | Spread: Boise State (-18.5) | Colorado State | 0.30 | 0.00 | -10.00 $ |
 | primm | Spread: North Texas (-5.5) | Rice | 0.35 | 0.00 | -10.00 $ |
 | primm | Spread: North Texas (-4.5) | Rice | 0.33 | 0.00 | -10.00 $ |
 | primm | Spread: North Texas (-10.5) | Rice | 0.57 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 02:50 UTC** 
 | primm | Spread: Oregon (-6.5) | Oregon | 0.39 | 1.00 | +15.84 $ |
 | primm | Spread: Oregon (-3.5) | Oregon | 0.28 | 1.00 | +25.71 $ |
 | primm | Spread: Ohio State (-2.5) | Oregon | 0.50 | 1.00 | +10.00 $ |
-| primm | Rice vs. North Texas: O/U 59.5 | Under | 0.67 | 0.00 | -10.00 $ |
-| primm | Spread: Ohio State (-6.5) | Oregon | 0.44 | 1.00 | +12.73 $ |
 
 Journal complet : `data/journal.csv`

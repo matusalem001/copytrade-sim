@@ -186,3 +186,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 01:50 UTC,BreakTheBank,ACHAT,Will Max Verstappen win the 2026 F1 Brazilian Grand Prix?,No,0.86,0.88,2.0,5.6,11.3636,10.0,,
 2026-11-08 01:55 UTC,primm,ACHAT,Spread: Iowa (-14.5),Iowa,0.52,0.48,-4.0,2.4,20.8333,10.0,,
 2026-11-08 02:00 UTC,BreakTheBank,ACHAT,Spread: Rockets (-7.5),Suns,0.54,0.55,1.0,1.1,18.1818,10.0,,
+2026-11-08 02:55 UTC,primm,REGLEMENT,Spread: Boise State (-18.5),Colorado State,,0.3,,,33.3333,0.0,-10.0,perdu
+2026-11-08 02:55 UTC,primm,REGLEMENT,Spread: Boise State (-20.5),Colorado State,,0.37,,,27.027,0.0,-10.0,perdu

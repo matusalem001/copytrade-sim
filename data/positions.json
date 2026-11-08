@@ -39,32 +39,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-07 22:40 UTC"
   },
-  "primm|90655053934233541578899127527282096468865735942524583463267006437197692955778": {
-   "date": "2026-11-08 00:40 UTC",
-   "trader": "primm",
-   "marche": "Spread: Boise State (-18.5)",
-   "resultat": "Colorado State",
-   "prix_trader": 0.29,
-   "retard_min": 2.6,
-   "token": "90655053934233541578899127527282096468865735942524583463267006437197692955778",
-   "prix_simule": 0.3,
-   "parts": 33.3333,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 00:40 UTC"
-  },
-  "primm|39814758506002105249208210393171805090724593390518612701421511726392504356729": {
-   "date": "2026-11-08 00:40 UTC",
-   "trader": "primm",
-   "marche": "Spread: Boise State (-20.5)",
-   "resultat": "Colorado State",
-   "prix_trader": 0.37,
-   "retard_min": 2.6,
-   "token": "39814758506002105249208210393171805090724593390518612701421511726392504356729",
-   "prix_simule": 0.37,
-   "parts": 27.027,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 00:40 UTC"
-  },
   "primm|101230663600303226142595440368140384229986194303476477227633913686449045888785": {
    "date": "2026-11-08 00:40 UTC",
    "trader": "primm",
@@ -1748,6 +1722,40 @@
    "sortie": 0.0,
    "pnl": -10.0,
    "ferme_le": "2026-11-08 01:00 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-08 00:40 UTC",
+   "trader": "primm",
+   "marche": "Spread: Boise State (-18.5)",
+   "resultat": "Colorado State",
+   "prix_trader": 0.29,
+   "retard_min": 2.6,
+   "token": "90655053934233541578899127527282096468865735942524583463267006437197692955778",
+   "prix_simule": 0.3,
+   "parts": 33.3333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 00:40 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-08 02:55 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-08 00:40 UTC",
+   "trader": "primm",
+   "marche": "Spread: Boise State (-20.5)",
+   "resultat": "Colorado State",
+   "prix_trader": 0.37,
+   "retard_min": 2.6,
+   "token": "39814758506002105249208210393171805090724593390518612701421511726392504356729",
+   "prix_simule": 0.37,
+   "parts": 27.027,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 00:40 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-08 02:55 UTC",
    "type": "perdu"
   }
  ]
