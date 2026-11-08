@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 17:55 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 18:01 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 23 | 3 | 7 | 1 | -51.82 $ | -74.0 % | 16 | +1.0 ¢ | 4 min |
-| primm | 193 | 26 | 176 | 90 | +26.48 $ | +1.5 % | 17 | +3.8 ¢ | 4 min |
-| juice-fruit | 2 | 0 | 1 | 1 | +5.87 $ | +58.7 % | 1 | +0.0 ¢ | 5 min |
+| primm | 193 | 26 | 178 | 92 | +88.21 $ | +5.0 % | 15 | +3.8 ¢ | 4 min |
+| juice-fruit | 3 | 0 | 1 | 1 | +5.87 $ | +58.7 % | 2 | +0.0 ¢ | 5 min |
 
-**Total réalisé : -19.46 $ sur 1840 $ engagés (-1.1 %)**
+**Total réalisé : +42.27 $ sur 1860 $ engagés (+2.3 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 17:55 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Bengals (-14.5) | Bengals | 0.52 | 1.00 | +9.23 $ |
+| primm | Bengals vs. Falcons: O/U 52.5 | Under | 0.16 | 1.00 | +52.50 $ |
 | primm | Spread: Bengals (-9.5) | Falcons | 0.60 | 0.00 | -10.00 $ |
 | primm | Spread: Bengals (-7.5) | Falcons | 0.48 | 0.00 | -10.00 $ |
 | primm | Spread: Bengals (-10.5) | Falcons | 0.65 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 17:55 UTC** 
 | primm | Spread: Texas State (-7.5) | Oregon State | 0.58 | 0.00 | -10.00 $ |
 | primm | Spread: Texas State (-5.5) | Oregon State | 0.47 | 0.00 | -10.00 $ |
 | primm | Spread: Texas State (-10.5) | Oregon State | 0.66 | 0.00 | -10.00 $ |
-| primm | Spread: Texas State (-4.5) | Oregon State | 0.44 | 0.00 | -10.00 $ |
-| primm | Texas State vs. Oregon State | Oregon State | 0.30 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

@@ -430,3 +430,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 17:55 UTC,primm,REGLEMENT,Spread: Bengals (-10.5),Falcons,,0.65,,,15.3846,0.0,-10.0,perdu
 2026-11-08 17:55 UTC,primm,REGLEMENT,Spread: Bengals (-7.5),Falcons,,0.48,,,20.8333,0.0,-10.0,perdu
 2026-11-08 17:55 UTC,primm,REGLEMENT,Spread: Bengals (-9.5),Falcons,,0.6,,,16.6667,0.0,-10.0,perdu
+2026-11-08 18:00 UTC,juice-fruit,ACHAT,Jets vs. Chiefs,Chiefs,0.81,0.81,0.0,5.9,12.3457,10.0,,
+2026-11-08 18:00 UTC,primm,REGLEMENT,Bengals vs. Falcons: O/U 52.5,Under,,0.16,,,62.5,62.5,52.5,gagné
+2026-11-08 18:00 UTC,primm,REGLEMENT,Spread: Bengals (-14.5),Bengals,,0.52,,,19.2308,19.23,9.23,gagné
