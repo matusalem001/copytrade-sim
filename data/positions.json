@@ -364,19 +364,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-08 06:00 UTC"
   },
-  "primm|76078076744195941661750968386480419453816543665151914823175458049471357674779": {
-   "date": "2026-11-08 06:10 UTC",
-   "trader": "primm",
-   "marche": "Texas State vs. Oregon State: O/U 55.5",
-   "resultat": "Under",
-   "prix_trader": 0.47,
-   "retard_min": 1.7,
-   "token": "76078076744195941661750968386480419453816543665151914823175458049471357674779",
-   "prix_simule": 0.49,
-   "parts": 20.4082,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 06:10 UTC"
-  },
   "primm|59852729817733606640298932899124870655890488904921901729463137754193600984591": {
    "date": "2026-11-08 06:20 UTC",
    "trader": "primm",
@@ -2834,6 +2821,23 @@
    "sortie": 0.0,
    "pnl": -10.0,
    "ferme_le": "2026-11-08 06:55 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-08 06:10 UTC",
+   "trader": "primm",
+   "marche": "Texas State vs. Oregon State: O/U 55.5",
+   "resultat": "Under",
+   "prix_trader": 0.47,
+   "retard_min": 1.7,
+   "token": "76078076744195941661750968386480419453816543665151914823175458049471357674779",
+   "prix_simule": 0.49,
+   "parts": 20.4082,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 06:10 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-08 07:10 UTC",
    "type": "perdu"
   }
  ]
