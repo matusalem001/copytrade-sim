@@ -603,3 +603,20 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 21:50 UTC,BreakTheBank,REGLEMENT,Spread: Saints (-5.5),Browns,,0.48,,,20.8333,20.83,10.83,gagné
 2026-11-08 21:50 UTC,primm,REGLEMENT,Browns vs. Saints: O/U 34.5,Under,,0.52,,,19.2308,0.0,-10.0,perdu
 2026-11-08 21:50 UTC,primm,REGLEMENT,Browns vs. Saints,Saints,,0.88,,,11.3636,11.36,1.36,gagné
+2026-11-08 21:55 UTC,primm,IGNORE,Lions vs. Dolphins: O/U 42.5,Under,0.34,,,222.6,,,,vu trop tard
+2026-11-08 21:55 UTC,primm,IGNORE,Rams vs. Commanders: O/U 48.5,Under,0.5,,,197.4,,,,vu trop tard
+2026-11-08 21:55 UTC,primm,IGNORE,Giants vs. Eagles: O/U 42.5,Over,0.51,,,178.1,,,,vu trop tard
+2026-11-08 21:55 UTC,primm,ACHAT,Spread: Texans (-7.5),Texans,0.42,0.42,0.0,4.3,23.8095,10.0,,
+2026-11-08 21:55 UTC,primm,ACHAT,Spread: Texans (-4.5),Texans,0.56,0.56,0.0,4.3,17.8571,10.0,,
+2026-11-08 21:55 UTC,primm,REGLEMENT,Cowboys vs. Colts,Colts,,0.33,,,30.303,0.0,-10.0,perdu
+2026-11-08 21:55 UTC,primm,REGLEMENT,Spread: Cowboys (-2.5),Colts,,0.39,,,25.641,0.0,-10.0,perdu
+2026-11-08 21:55 UTC,primm,REGLEMENT,Spread: Cowboys (-1.5),Colts,,0.37,,,27.027,0.0,-10.0,perdu
+2026-11-08 21:55 UTC,primm,REGLEMENT,Spread: Colts (-1.5),Colts,,0.31,,,32.2581,0.0,-10.0,perdu
+2026-11-08 21:55 UTC,BreakTheBank,REGLEMENT,Cowboys vs. Colts,Colts,,0.34,,,29.4118,0.0,-10.0,perdu
+2026-11-08 21:55 UTC,BreakTheBank,REGLEMENT,Spread: Cowboys (-3.5),Colts,,0.49,,,20.4082,0.0,-10.0,perdu
+2026-11-08 21:55 UTC,primm,REGLEMENT,Spread: Saints (-7.5),Saints,,0.39,,,25.641,0.0,-10.0,perdu
+2026-11-08 21:55 UTC,primm,REGLEMENT,Browns vs. Saints: O/U 40.5,Under,,0.47,,,21.2766,0.0,-10.0,perdu
+2026-11-08 21:55 UTC,primm,REGLEMENT,Browns vs. Saints: O/U 42.5,Under,,0.67,,,14.9254,0.0,-10.0,perdu
+2026-11-08 21:55 UTC,primm,REGLEMENT,Spread: Cowboys (-3.5),Colts,,0.48,,,20.8333,0.0,-10.0,perdu
+2026-11-08 21:55 UTC,primm,REGLEMENT,Spread: Saints (-4.5),Saints,,0.43,,,23.2558,0.0,-10.0,perdu
+2026-11-08 21:55 UTC,primm,REGLEMENT,Cowboys vs. Colts: O/U 46.5,Under,,0.41,,,24.3902,0.0,-10.0,perdu
