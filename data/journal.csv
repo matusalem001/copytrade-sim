@@ -184,3 +184,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 01:25 UTC,primm,ACHAT,Spread: Air Force (-3.5),Army,0.43,0.44,1.0,1.4,22.7273,10.0,,
 2026-11-08 01:45 UTC,primm,ACHAT,Air Force vs. Army: O/U 43.5,Over,0.41,0.46,5.0,2.5,21.7391,10.0,,
 2026-11-08 01:50 UTC,BreakTheBank,ACHAT,Will Max Verstappen win the 2026 F1 Brazilian Grand Prix?,No,0.86,0.88,2.0,5.6,11.3636,10.0,,
+2026-11-08 01:55 UTC,primm,ACHAT,Spread: Iowa (-14.5),Iowa,0.52,0.48,-4.0,2.4,20.8333,10.0,,
