@@ -220,6 +220,19 @@
    "parts": 15.3846,
    "montant": 10.0,
    "ouvert_le": "2026-11-08 16:00 UTC"
+  },
+  "BreakTheBank|37963250997753521906866129723248982492258708342787520962045033796109690419241": {
+   "date": "2026-11-08 16:20 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Manchester United FC win on 2026-11-08?",
+   "resultat": "No",
+   "prix_trader": 0.51,
+   "retard_min": 4.9,
+   "token": "37963250997753521906866129723248982492258708342787520962045033796109690419241",
+   "prix_simule": 0.52,
+   "parts": 19.2308,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 16:20 UTC"
   }
  },
  "fermees": [

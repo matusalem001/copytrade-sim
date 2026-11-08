@@ -391,3 +391,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 16:00 UTC,primm,ACHAT,Lions vs. Dolphins,Lions,0.74,0.74,0.0,6.5,13.5135,10.0,,
 2026-11-08 16:00 UTC,primm,ACHAT,Spread: Lions (-7.5),Lions,0.43,0.44,1.0,6.4,22.7273,10.0,,
 2026-11-08 16:00 UTC,primm,ACHAT,Spread: Bengals (-10.5),Bengals,0.64,0.65,1.0,5.0,15.3846,10.0,,
+2026-11-08 16:20 UTC,BreakTheBank,ACHAT,Will Manchester United FC win on 2026-11-08?,No,0.51,0.52,1.0,4.9,19.2308,10.0,,
