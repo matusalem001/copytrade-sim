@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 23:01 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 23:05 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 42 | 3 | 27 | 16 | +41.32 $ | +15.3 % | 15 | +1.0 ¢ | 4 min |
+| BreakTheBank | 42 | 3 | 29 | 17 | +42.59 $ | +14.7 % | 13 | +1.0 ¢ | 4 min |
 | primm | 281 | 47 | 238 | 113 | -106.64 $ | -4.5 % | 43 | +3.5 ¢ | 4 min |
-| juice-fruit | 5 | 0 | 3 | 2 | -1.78 $ | -5.9 % | 2 | -0.8 ¢ | 5 min |
+| juice-fruit | 6 | 0 | 3 | 2 | -1.78 $ | -5.9 % | 3 | -1.0 ¢ | 5 min |
 
-**Total réalisé : -67.10 $ sur 2680 $ engagés (-2.5 %)**
+**Total réalisé : -65.83 $ sur 2700 $ engagés (-2.4 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 23:01 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Spread: 76ers (-8.5) | Bulls | 0.47 | 1.00 | +11.28 $ |
+| BreakTheBank | 76ers vs. Bulls | Bulls | 0.22 | 0.00 | -10.00 $ |
 | BreakTheBank | Will Club Atlético de Madrid vs. FC Barcelona end in a draw? | Yes | 0.22 | 0.00 | -10.00 $ |
 | BreakTheBank | Will FC Barcelona win on 2026-11-08? | No | 0.49 | 0.00 | -10.00 $ |
 | BreakTheBank | Will Club Atlético de Madrid win on 2026-11-08? | Yes | 0.27 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 23:01 UTC** 
 | BreakTheBank | Spread: Saints (-5.5) | Browns | 0.48 | 1.00 | +10.83 $ |
 | primm | Browns vs. Saints | Browns | 0.33 | 0.00 | -10.00 $ |
 | primm | Broncos vs. Panthers | Panthers | 0.33 | 0.00 | -10.00 $ |
-| primm | Giants vs. Eagles: O/U 34.5 | Over | 0.83 | 0.00 | -10.00 $ |
-| primm | Spread: Eagles (-1.5) | Eagles | 0.39 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

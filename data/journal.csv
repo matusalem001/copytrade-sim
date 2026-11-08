@@ -645,3 +645,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 22:25 UTC,primm,IGNORE,Spread: Lions (-3.5),Dolphins,0.51,,,217.1,,,,vu trop tard
 2026-11-08 22:30 UTC,primm,ACHAT,Packers vs. Patriots,Patriots,0.25,0.24,-1.0,3.4,41.6667,10.0,,
 2026-11-08 22:45 UTC,juice-fruit,ACHAT,Cardinals vs. Seahawks,Cardinals,0.19,0.18,-1.0,0.3,55.5556,10.0,,
+2026-11-08 23:05 UTC,juice-fruit,ACHAT,LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs,T1,0.29,0.27,-2.0,6.9,37.037,10.0,,
+2026-11-08 23:05 UTC,BreakTheBank,REGLEMENT,76ers vs. Bulls,Bulls,,0.22,,,45.4545,0.0,-10.0,perdu
+2026-11-08 23:05 UTC,BreakTheBank,REGLEMENT,Spread: 76ers (-8.5),Bulls,,0.47,,,21.2766,21.28,11.28,gagné

@@ -104,19 +104,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-08 19:55 UTC"
   },
-  "BreakTheBank|79219126438270644699549814421343284924243205220675626625824147664744912880230": {
-   "date": "2026-11-08 19:55 UTC",
-   "trader": "BreakTheBank",
-   "marche": "76ers vs. Bulls",
-   "resultat": "Bulls",
-   "prix_trader": 0.21,
-   "retard_min": 1.8,
-   "token": "79219126438270644699549814421343284924243205220675626625824147664744912880230",
-   "prix_simule": 0.22,
-   "parts": 45.4545,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 19:55 UTC"
-  },
   "BreakTheBank|52932557390119768206604989134829071194128130185555297117875980905452591530322": {
    "date": "2026-11-08 19:55 UTC",
    "trader": "BreakTheBank",
@@ -127,19 +114,6 @@
    "token": "52932557390119768206604989134829071194128130185555297117875980905452591530322",
    "prix_simule": 0.52,
    "parts": 19.2308,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 19:55 UTC"
-  },
-  "BreakTheBank|10725571463742341008695945531298484113039965554167305809672910599731243449401": {
-   "date": "2026-11-08 19:55 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Spread: 76ers (-8.5)",
-   "resultat": "Bulls",
-   "prix_trader": 0.46,
-   "retard_min": 1.2,
-   "token": "10725571463742341008695945531298484113039965554167305809672910599731243449401",
-   "prix_simule": 0.47,
-   "parts": 21.2766,
    "montant": 10.0,
    "ouvert_le": "2026-11-08 19:55 UTC"
   },
@@ -779,6 +753,19 @@
    "parts": 55.5556,
    "montant": 10.0,
    "ouvert_le": "2026-11-08 22:45 UTC"
+  },
+  "juice-fruit|106409214144881346950350560032765597477892557868869036886209856992036034853726": {
+   "date": "2026-11-08 23:05 UTC",
+   "trader": "juice-fruit",
+   "marche": "LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs",
+   "resultat": "T1",
+   "prix_trader": 0.29,
+   "retard_min": 6.9,
+   "token": "106409214144881346950350560032765597477892557868869036886209856992036034853726",
+   "prix_simule": 0.27,
+   "parts": 37.037,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 23:05 UTC"
   }
  },
  "fermees": [
@@ -5337,6 +5324,40 @@
    "pnl": -10.0,
    "ferme_le": "2026-11-08 22:15 UTC",
    "type": "perdu"
+  },
+  {
+   "date": "2026-11-08 19:55 UTC",
+   "trader": "BreakTheBank",
+   "marche": "76ers vs. Bulls",
+   "resultat": "Bulls",
+   "prix_trader": 0.21,
+   "retard_min": 1.8,
+   "token": "79219126438270644699549814421343284924243205220675626625824147664744912880230",
+   "prix_simule": 0.22,
+   "parts": 45.4545,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 19:55 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-08 23:05 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-08 19:55 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: 76ers (-8.5)",
+   "resultat": "Bulls",
+   "prix_trader": 0.46,
+   "retard_min": 1.2,
+   "token": "10725571463742341008695945531298484113039965554167305809672910599731243449401",
+   "prix_simule": 0.47,
+   "parts": 21.2766,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 19:55 UTC",
+   "sortie": 1.0,
+   "pnl": 11.2766,
+   "ferme_le": "2026-11-08 23:05 UTC",
+   "type": "gagné"
   }
  ]
 }
