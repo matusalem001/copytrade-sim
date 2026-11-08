@@ -406,3 +406,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 17:00 UTC,BreakTheBank,ACHAT,Cowboys vs. Colts,Colts,0.33,0.34,1.0,9.2,29.4118,10.0,,
 2026-11-08 17:15 UTC,primm,ACHAT,Spread: Bengals (-14.5),Bengals,0.5,0.52,2.0,3.1,19.2308,10.0,,
 2026-11-08 17:15 UTC,primm,ACHAT,Browns vs. Saints,Browns,0.32,0.33,1.0,0.1,30.303,10.0,,
+2026-11-08 17:20 UTC,primm,ACHAT,Giants vs. Eagles: O/U 40.5,Over,0.41,0.42,1.0,1.2,23.8095,10.0,,
+2026-11-08 17:20 UTC,primm,ACHAT,Giants vs. Eagles: O/U 38.5,Over,0.46,0.46,0.0,1.2,21.7391,10.0,,
