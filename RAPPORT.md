@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 00:05 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 00:10 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 7 | 0 | 0 | 0 | +0.00 $ | +0.0 % | 7 | +0.9 ¢ | 4 min |
-| primm | 67 | 2 | 20 | 7 | -43.50 $ | -21.8 % | 47 | +2.8 ¢ | 4 min |
+| primm | 69 | 2 | 21 | 7 | -53.50 $ | -25.5 % | 48 | +3.0 ¢ | 4 min |
 | juice-fruit | 0 | 0 | 0 | 0 | +0.00 $ | +0.0 % | 0 | +0.0 ¢ | 0 min |
 
-**Total réalisé : -43.50 $ sur 200 $ engagés (-21.8 %)**
+**Total réalisé : -53.50 $ sur 210 $ engagés (-25.5 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 00:05 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Rice vs. North Texas: O/U 47.5 | Under | 0.48 | 0.00 | -10.00 $ |
 | primm | Alabama vs. LSU: O/U 32.5 | Over | 0.78 | 1.00 | +2.82 $ |
 | primm | Spread: Texas A&M (-3.5) | Texas A&M | 0.27 | 0.00 | -10.00 $ |
 | primm | Alabama vs. LSU: O/U 38.5 | Over | 0.53 | 1.00 | +8.87 $ |
