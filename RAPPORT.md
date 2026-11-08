@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 04:35 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 04:40 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 9 | 0 | 6 | 0 | -60.00 $ | -100.0 % | 3 | +1.0 ¢ | 4 min |
-| primm | 121 | 2 | 104 | 48 | -10.86 $ | -1.0 % | 17 | +3.0 ¢ | 3 min |
+| BreakTheBank | 9 | 0 | 7 | 1 | -51.82 $ | -74.0 % | 2 | +1.0 ¢ | 4 min |
+| primm | 123 | 2 | 104 | 48 | -10.86 $ | -1.0 % | 19 | +3.0 ¢ | 4 min |
 | juice-fruit | 0 | 0 | 0 | 0 | +0.00 $ | +0.0 % | 0 | +0.0 ¢ | 0 min |
 
-**Total réalisé : -70.86 $ sur 1100 $ engagés (-6.4 %)**
+**Total réalisé : -62.67 $ sur 1110 $ engagés (-5.6 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 04:35 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Spread: Rockets (-7.5) | Suns | 0.55 | 1.00 | +8.18 $ |
 | primm | Spread: Michigan (-13.5) | Michigan State | 0.48 | 1.00 | +10.83 $ |
 | primm | Spread: Georgia (-16.5) | Georgia | 0.60 | 1.00 | +6.67 $ |
 | primm | Georgia vs. Ole Miss: O/U 69.5 | Under | 0.79 | 1.00 | +2.66 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-08 04:35 UTC** 
 | primm | Spread: Arizona State (-1.5) | Colorado | 0.44 | 0.00 | -10.00 $ |
 | primm | Spread: Arizona State (-2.5) | Colorado | 0.46 | 0.00 | -10.00 $ |
 | primm | Colorado vs. Arizona State: O/U 49.5 | Over | 0.34 | 0.00 | -10.00 $ |
-| primm | Colorado vs. Arizona State: O/U 41.5 | Over | 0.67 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

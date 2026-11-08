@@ -241,3 +241,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-08 04:30 UTC,primm,REGLEMENT,Georgia vs. Ole Miss: O/U 69.5,Under,,0.79,,,12.6582,12.66,2.66,gagné
 2026-11-08 04:30 UTC,primm,REGLEMENT,Spread: Georgia (-16.5),Georgia,,0.6,,,16.6667,16.67,6.67,gagné
 2026-11-08 04:35 UTC,primm,REGLEMENT,Spread: Michigan (-13.5),Michigan State,,0.48,,,20.8333,20.83,10.83,gagné
+2026-11-08 04:40 UTC,primm,ACHAT,Spread: Wyoming (-5.5),Wyoming,0.62,0.66,4.0,6.5,15.1515,10.0,,
+2026-11-08 04:40 UTC,primm,ACHAT,Spread: Texas Tech (-16.5),West Virginia,0.42,0.43,1.0,5.5,23.2558,10.0,,
+2026-11-08 04:40 UTC,BreakTheBank,REGLEMENT,Spread: Rockets (-7.5),Suns,,0.55,,,18.1818,18.18,8.18,gagné
