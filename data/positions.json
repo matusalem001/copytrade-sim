@@ -65,45 +65,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-08 15:25 UTC"
   },
-  "BreakTheBank|18375076738989960239950203428843457237479440935964557641280962198473407816478": {
-   "date": "2026-11-08 16:55 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Spread: Cowboys (-4.5)",
-   "resultat": "Colts",
-   "prix_trader": 0.52,
-   "retard_min": 4.5,
-   "token": "18375076738989960239950203428843457237479440935964557641280962198473407816478",
-   "prix_simule": 0.53,
-   "parts": 18.8679,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 16:55 UTC"
-  },
-  "BreakTheBank|64649539498620187991886849891842972518676343118083282099530203993615128395890": {
-   "date": "2026-11-08 16:55 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Spread: Cowboys (-5.5)",
-   "resultat": "Colts",
-   "prix_trader": 0.54,
-   "retard_min": 4.0,
-   "token": "64649539498620187991886849891842972518676343118083282099530203993615128395890",
-   "prix_simule": 0.55,
-   "parts": 18.1818,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 16:55 UTC"
-  },
-  "BreakTheBank|39316090676000231689092000507044596635775972537214816127235635723431481209390": {
-   "date": "2026-11-08 17:50 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Spread: Cowboys (-6.5)",
-   "resultat": "Colts",
-   "prix_trader": 0.58,
-   "retard_min": 5.2,
-   "token": "39316090676000231689092000507044596635775972537214816127235635723431481209390",
-   "prix_simule": 0.59,
-   "parts": 16.9492,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 17:50 UTC"
-  },
   "BreakTheBank|69881569539001815126695813944920781692783774810809009376992243813835489663346": {
    "date": "2026-11-08 18:05 UTC",
    "trader": "BreakTheBank",
@@ -740,6 +701,45 @@
    "parts": 17.8571,
    "montant": 10.0,
    "ouvert_le": "2026-11-08 21:55 UTC"
+  },
+  "primm|103656417365259267691271761860326645164055886023586371601965591672909305443553": {
+   "date": "2026-11-08 22:00 UTC",
+   "trader": "primm",
+   "marche": "Raiders vs. 49ers: O/U 62.5",
+   "resultat": "Under",
+   "prix_trader": 0.75,
+   "retard_min": 4.1,
+   "token": "103656417365259267691271761860326645164055886023586371601965591672909305443553",
+   "prix_simule": 0.71,
+   "parts": 14.0845,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 22:00 UTC"
+  },
+  "primm|42476023051771495982032413712181337160109545656794367848373411253352834199590": {
+   "date": "2026-11-08 22:00 UTC",
+   "trader": "primm",
+   "marche": "Spread: 49ers (-20.5)",
+   "resultat": "Raiders",
+   "prix_trader": 0.61,
+   "retard_min": 2.7,
+   "token": "42476023051771495982032413712181337160109545656794367848373411253352834199590",
+   "prix_simule": 0.67,
+   "parts": 14.9254,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 22:00 UTC"
+  },
+  "primm|115011681434608375662891532043376482030757700371345050525593136788584531272587": {
+   "date": "2026-11-08 22:00 UTC",
+   "trader": "primm",
+   "marche": "Texans vs. Chargers",
+   "resultat": "Chargers",
+   "prix_trader": 0.3,
+   "retard_min": 0.3,
+   "token": "115011681434608375662891532043376482030757700371345050525593136788584531272587",
+   "prix_simule": 0.34,
+   "parts": 29.4118,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 22:00 UTC"
   }
  },
  "fermees": [
@@ -5196,6 +5196,57 @@
    "pnl": -10.0,
    "ferme_le": "2026-11-08 21:55 UTC",
    "type": "perdu"
+  },
+  {
+   "date": "2026-11-08 16:55 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Cowboys (-4.5)",
+   "resultat": "Colts",
+   "prix_trader": 0.52,
+   "retard_min": 4.5,
+   "token": "18375076738989960239950203428843457237479440935964557641280962198473407816478",
+   "prix_simule": 0.53,
+   "parts": 18.8679,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 16:55 UTC",
+   "sortie": 1.0,
+   "pnl": 8.8679,
+   "ferme_le": "2026-11-08 22:00 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-08 16:55 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Cowboys (-5.5)",
+   "resultat": "Colts",
+   "prix_trader": 0.54,
+   "retard_min": 4.0,
+   "token": "64649539498620187991886849891842972518676343118083282099530203993615128395890",
+   "prix_simule": 0.55,
+   "parts": 18.1818,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 16:55 UTC",
+   "sortie": 1.0,
+   "pnl": 8.1818,
+   "ferme_le": "2026-11-08 22:00 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-08 17:50 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Cowboys (-6.5)",
+   "resultat": "Colts",
+   "prix_trader": 0.58,
+   "retard_min": 5.2,
+   "token": "39316090676000231689092000507044596635775972537214816127235635723431481209390",
+   "prix_simule": 0.59,
+   "parts": 16.9492,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 17:50 UTC",
+   "sortie": 1.0,
+   "pnl": 6.9492,
+   "ferme_le": "2026-11-08 22:00 UTC",
+   "type": "gagné"
   }
  ]
 }
