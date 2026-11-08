@@ -519,6 +519,45 @@
    "parts": 25.641,
    "montant": 10.0,
    "ouvert_le": "2026-11-08 17:45 UTC"
+  },
+  "BreakTheBank|31726776709568981793379039507451501594264343170509914665887943356289849869117": {
+   "date": "2026-11-08 17:50 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Chiefs (-9.5)",
+   "resultat": "Chiefs",
+   "prix_trader": 0.49,
+   "retard_min": 6.7,
+   "token": "31726776709568981793379039507451501594264343170509914665887943356289849869117",
+   "prix_simule": 0.5,
+   "parts": 20.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 17:50 UTC"
+  },
+  "BreakTheBank|39316090676000231689092000507044596635775972537214816127235635723431481209390": {
+   "date": "2026-11-08 17:50 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Cowboys (-6.5)",
+   "resultat": "Colts",
+   "prix_trader": 0.58,
+   "retard_min": 5.2,
+   "token": "39316090676000231689092000507044596635775972537214816127235635723431481209390",
+   "prix_simule": 0.59,
+   "parts": 16.9492,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 17:50 UTC"
+  },
+  "BreakTheBank|76933509042975348942621045685739050911455507171693465805302670004382935890333": {
+   "date": "2026-11-08 17:50 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Rams (-4.5)",
+   "resultat": "Rams",
+   "prix_trader": 0.48,
+   "retard_min": 3.2,
+   "token": "76933509042975348942621045685739050911455507171693465805302670004382935890333",
+   "prix_simule": 0.49,
+   "parts": 20.4082,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 17:50 UTC"
   }
  },
  "fermees": [
