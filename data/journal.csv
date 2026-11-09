@@ -718,3 +718,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-09 01:05 UTC,primm,IGNORE,Spread: Packers (-2.5),Packers,0.46,,,216.1,,,,vu trop tard
 2026-11-09 01:05 UTC,BreakTheBank,REGLEMENT,Packers vs. Patriots,Packers,,0.39,,,25.641,25.64,15.64,gagné
 2026-11-09 01:05 UTC,primm,REGLEMENT,Packers vs. Patriots,Packers,,0.62,,,16.129,16.13,6.13,gagné
+2026-11-09 01:10 UTC,primm,ACHAT,Spread: Bears (-10.5),Bears,0.34,0.35,1.0,0.9,28.5714,10.0,,
