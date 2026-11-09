@@ -727,6 +727,19 @@
    "parts": 58.1395,
    "montant": 10.0,
    "ouvert_le": "2026-11-09 00:15 UTC"
+  },
+  "BreakTheBank|109548262732374541666211303472812194631361468881233112817969442787276877337182": {
+   "date": "2026-11-09 00:20 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Bears (-6.5)",
+   "resultat": "Bears",
+   "prix_trader": 0.48,
+   "retard_min": 4.7,
+   "token": "109548262732374541666211303472812194631361468881233112817969442787276877337182",
+   "prix_simule": 0.49,
+   "parts": 20.4082,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-09 00:20 UTC"
   }
  },
  "fermees": [
