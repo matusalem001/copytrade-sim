@@ -758,3 +758,9 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-09 03:45 UTC,primm,IGNORE,Raiders vs. 49ers: O/U 56.5,Under,0.58,,,347.4,,,,vu trop tard
 2026-11-09 03:45 UTC,primm,ACHAT,Spread: Bears (-2.5),Bears,0.6,0.89,29.0,4.5,11.236,10.0,,
 2026-11-09 03:50 UTC,primm,ACHAT,Spread: Bears (-9.5),Bears,0.51,0.54,3.0,8.1,18.5185,10.0,,
+2026-11-09 04:00 UTC,primm,ACHAT,Spread: Bears (-10.5),Buccaneers,0.58,0.59,1.0,4.6,16.9492,10.0,,
+2026-11-09 04:00 UTC,primm,IGNORE,Spread: Bears (-4.5),Buccaneers,0.28,0.23,-5.0,4.5,,,,prix a trop chuté (match sans doute joué)
+2026-11-09 04:00 UTC,primm,IGNORE,Spread: Bears (-4.5),Buccaneers,0.31,0.23,-8.0,3.7,,,,prix a trop chuté (match sans doute joué)
+2026-11-09 04:00 UTC,primm,IGNORE,Spread: Bears (-4.5),Buccaneers,0.33,0.23,-10.0,3.2,,,,prix a trop chuté (match sans doute joué)
+2026-11-09 04:00 UTC,primm,IGNORE,Spread: Bears (-4.5),Buccaneers,0.33,0.23,-10.0,2.9,,,,prix a trop chuté (match sans doute joué)
+2026-11-09 04:01 UTC,primm,ACHAT,Buccaneers vs. Bears: O/U 46.5,Under,0.34,0.35,1.0,1.0,28.5714,10.0,,
