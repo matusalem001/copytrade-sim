@@ -772,3 +772,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-09 04:20 UTC,primm,ACHAT,Buccaneers vs. Bears: O/U 40.5,Over,0.36,0.36,0.0,0.4,27.7778,10.0,,
 2026-11-09 04:30 UTC,primm,IGNORE,Spread: Texans (-6.5),Texans,0.5,,,399.7,,,,vu trop tard
 2026-11-09 04:30 UTC,primm,IGNORE,Buccaneers vs. Bears: O/U 40.5,Under,0.62,0.001,-61.9,7.4,,,,prix a trop chuté (match sans doute joué)
+2026-11-09 04:35 UTC,primm,IGNORE,Buccaneers vs. Bears: O/U 44.5,Over,0.67,,,8.3,,,,aucun vendeur
