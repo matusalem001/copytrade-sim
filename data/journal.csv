@@ -815,3 +815,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-09 05:45 UTC,BreakTheBank,IGNORE,Raiders vs. 49ers: O/U 52.5,Over,0.47,,,505.4,,,,vu trop tard
 2026-11-09 07:25 UTC,BreakTheBank,IGNORE,Spread: Bears (-6.5),Bears,0.48,,,383.0,,,,vu trop tard
 2026-11-09 12:25 UTC,BreakTheBank,IGNORE,Spread: Bears (-7.5),Bears,0.41,,,703.8,,,,vu trop tard
+2026-11-09 12:30 UTC,BreakTheBank,IGNORE,Will Los Angeles Lakers win the 2027 NBA Finals?,No,0.955,0.955,,6.5,,,,prix trop haut
