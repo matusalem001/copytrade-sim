@@ -754,3 +754,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-09 03:40 UTC,primm,ACHAT,Spread: Bears (-6.5),Buccaneers,0.44,0.63,19.0,9.6,15.873,10.0,,
 2026-11-09 03:40 UTC,primm,ACHAT,Spread: Bears (-9.5),Buccaneers,0.63,0.79,16.0,9.6,12.6582,10.0,,
 2026-11-09 03:40 UTC,primm,ACHAT,Spread: Bears (-3.5),Buccaneers,0.41,0.48,7.0,8.5,20.8333,10.0,,
+2026-11-09 03:45 UTC,primm,IGNORE,Cardinals vs. Seahawks: O/U 38.5,Under,0.55,,,353.1,,,,vu trop tard
+2026-11-09 03:45 UTC,primm,IGNORE,Raiders vs. 49ers: O/U 56.5,Under,0.58,,,347.4,,,,vu trop tard
+2026-11-09 03:45 UTC,primm,ACHAT,Spread: Bears (-2.5),Bears,0.6,0.89,29.0,4.5,11.236,10.0,,
