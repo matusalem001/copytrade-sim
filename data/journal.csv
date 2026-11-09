@@ -809,3 +809,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-09 05:01 UTC,primm,REGLEMENT,Buccaneers vs. Bears,Bears,,0.94,,,10.6383,10.64,0.64,gagné
 2026-11-09 05:01 UTC,primm,REGLEMENT,Spread: Bears (-4.5),Buccaneers,,0.19,,,52.6316,52.63,42.63,gagné
 2026-11-09 05:20 UTC,BreakTheBank,IGNORE,Raiders vs. 49ers: O/U 50.5,Over,0.55,,,476.6,,,,vu trop tard
+2026-11-09 05:25 UTC,BreakTheBank,IGNORE,Spread: Bears (-6.5),Bears,0.48,,,254.3,,,,vu trop tard
