@@ -720,3 +720,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-09 01:05 UTC,primm,REGLEMENT,Packers vs. Patriots,Packers,,0.62,,,16.129,16.13,6.13,gagné
 2026-11-09 01:10 UTC,primm,ACHAT,Spread: Bears (-10.5),Bears,0.34,0.35,1.0,0.9,28.5714,10.0,,
 2026-11-09 01:15 UTC,primm,IGNORE,Raiders vs. 49ers: O/U 62.5,Under,0.69,,,179.3,,,,vu trop tard
+2026-11-09 01:20 UTC,BreakTheBank,ACHAT,Spread: Bears (-5.5),Bears,0.52,0.54,2.0,0.5,18.5185,10.0,,
+2026-11-09 01:20 UTC,primm,ACHAT,Buccaneers vs. Bears: O/U 52.5,Over,0.35,0.37,2.0,4.5,27.027,10.0,,
