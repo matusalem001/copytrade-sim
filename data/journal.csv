@@ -736,3 +736,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-09 01:50 UTC,primm,IGNORE,Spread: Patriots (-1.5),Packers,0.55,,,261.2,,,,vu trop tard
 2026-11-09 02:00 UTC,primm,ACHAT,Spread: Bears (-14.5),Bears,0.51,0.53,2.0,0.9,18.8679,10.0,,
 2026-11-09 02:00 UTC,primm,ACHAT,Spread: Bears (-17.5),Bears,0.42,0.43,1.0,0.9,23.2558,10.0,,
+2026-11-09 02:05 UTC,primm,IGNORE,Spread: Rams (-3.5),Commanders,0.63,,,415.2,,,,vu trop tard
+2026-11-09 02:05 UTC,primm,IGNORE,Browns vs. Saints: O/U 28.5,Over,0.43,,,375.2,,,,vu trop tard
+2026-11-09 02:05 UTC,primm,IGNORE,Spread: Packers (-4.5),Packers,0.5798,,,265.3,,,,vu trop tard
+2026-11-09 02:05 UTC,primm,IGNORE,Cardinals vs. Seahawks: O/U 42.5,Under,0.59,,,261.3,,,,vu trop tard
