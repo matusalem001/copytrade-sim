@@ -52,19 +52,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-08 21:30 UTC"
   },
-  "juice-fruit|106409214144881346950350560032765597477892557868869036886209856992036034853726": {
-   "date": "2026-11-08 23:05 UTC",
-   "trader": "juice-fruit",
-   "marche": "LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs",
-   "resultat": "T1",
-   "prix_trader": 0.29,
-   "retard_min": 6.9,
-   "token": "106409214144881346950350560032765597477892557868869036886209856992036034853726",
-   "prix_simule": 0.27,
-   "parts": 37.037,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 23:05 UTC"
-  },
   "BreakTheBank|76708990756337296689494286231295136682837722452483622589299682024164553917163": {
    "date": "2026-11-08 23:50 UTC",
    "trader": "BreakTheBank",
@@ -5850,6 +5837,23 @@
    "pnl": 6.129,
    "ferme_le": "2026-11-09 01:05 UTC",
    "type": "gagné"
+  },
+  {
+   "date": "2026-11-08 23:05 UTC",
+   "trader": "juice-fruit",
+   "marche": "LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs",
+   "resultat": "T1",
+   "prix_trader": 0.29,
+   "retard_min": 6.9,
+   "token": "106409214144881346950350560032765597477892557868869036886209856992036034853726",
+   "prix_simule": 0.27,
+   "parts": 37.037,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 23:05 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-09 02:20 UTC",
+   "type": "perdu"
   }
  ]
 }
