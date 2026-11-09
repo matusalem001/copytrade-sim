@@ -39,19 +39,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-08 15:25 UTC"
   },
-  "BreakTheBank|14633126211415203319992104727819834222167634471206768236497617418739936203562": {
-   "date": "2026-11-08 20:50 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Packers vs. Patriots",
-   "resultat": "Packers",
-   "prix_trader": 0.38,
-   "retard_min": 3.5,
-   "token": "14633126211415203319992104727819834222167634471206768236497617418739936203562",
-   "prix_simule": 0.39,
-   "parts": 25.641,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 20:50 UTC"
-  },
   "BreakTheBank|61171821976425416119295161040983890703979342146154069180325915850765779881403": {
    "date": "2026-11-08 21:30 UTC",
    "trader": "BreakTheBank",
@@ -64,19 +51,6 @@
    "parts": 21.2766,
    "montant": 10.0,
    "ouvert_le": "2026-11-08 21:30 UTC"
-  },
-  "primm|14633126211415203319992104727819834222167634471206768236497617418739936203562": {
-   "date": "2026-11-08 21:35 UTC",
-   "trader": "primm",
-   "marche": "Packers vs. Patriots",
-   "resultat": "Packers",
-   "prix_trader": 0.64,
-   "retard_min": 1.1,
-   "token": "14633126211415203319992104727819834222167634471206768236497617418739936203562",
-   "prix_simule": 0.62,
-   "parts": 16.129,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 21:35 UTC"
   },
   "juice-fruit|106409214144881346950350560032765597477892557868869036886209856992036034853726": {
    "date": "2026-11-08 23:05 UTC",
@@ -5699,6 +5673,40 @@
    "pnl": -10.0,
    "ferme_le": "2026-11-09 01:00 UTC",
    "type": "perdu"
+  },
+  {
+   "date": "2026-11-08 20:50 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Packers vs. Patriots",
+   "resultat": "Packers",
+   "prix_trader": 0.38,
+   "retard_min": 3.5,
+   "token": "14633126211415203319992104727819834222167634471206768236497617418739936203562",
+   "prix_simule": 0.39,
+   "parts": 25.641,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 20:50 UTC",
+   "sortie": 1.0,
+   "pnl": 15.641,
+   "ferme_le": "2026-11-09 01:05 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-08 21:35 UTC",
+   "trader": "primm",
+   "marche": "Packers vs. Patriots",
+   "resultat": "Packers",
+   "prix_trader": 0.64,
+   "retard_min": 1.1,
+   "token": "14633126211415203319992104727819834222167634471206768236497617418739936203562",
+   "prix_simule": 0.62,
+   "parts": 16.129,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 21:35 UTC",
+   "sortie": 1.0,
+   "pnl": 6.129,
+   "ferme_le": "2026-11-09 01:05 UTC",
+   "type": "gagné"
   }
  ]
 }
