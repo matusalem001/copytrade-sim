@@ -64,6 +64,19 @@
    "parts": 16.6667,
    "montant": 10.0,
    "ouvert_le": "2026-11-09 17:20 UTC"
+  },
+  "BreakTheBank|67095893048026221978740664541566477971165824705586991971047705217950439543434": {
+   "date": "2026-11-09 18:40 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Lakers vs. Hawks",
+   "resultat": "Lakers",
+   "prix_trader": 0.46,
+   "retard_min": 4.4,
+   "token": "67095893048026221978740664541566477971165824705586991971047705217950439543434",
+   "prix_simule": 0.47,
+   "parts": 21.2766,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-09 18:40 UTC"
   }
  },
  "fermees": [

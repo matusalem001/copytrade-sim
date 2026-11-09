@@ -830,3 +830,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-09 17:20 UTC,BreakTheBank,ACHAT,Spread: Bills (-1.5),Bills,0.59,0.6,1.0,1.9,16.6667,10.0,,
 2026-11-09 17:30 UTC,BreakTheBank,IGNORE,Spread: Bears (-7.5),Bears,0.41,,,976.4,,,,vu trop tard
 2026-11-09 18:00 UTC,BreakTheBank,IGNORE,Spread: Bears (-6.5),Bears,0.48,,,1023.4,,,,vu trop tard
+2026-11-09 18:40 UTC,BreakTheBank,ACHAT,Lakers vs. Hawks,Lakers,0.46,0.47,1.0,4.4,21.2766,10.0,,
