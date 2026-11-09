@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-09 00:25 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-09 00:30 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 44 | 3 | 33 | 21 | +71.88 $ | +21.8 % | 11 | +1.0 ¢ | 4 min |
-| primm | 285 | 47 | 243 | 114 | -139.69 $ | -5.7 % | 42 | +3.5 ¢ | 4 min |
+| primm | 285 | 48 | 247 | 117 | -133.21 $ | -5.4 % | 38 | +3.5 ¢ | 4 min |
 | juice-fruit | 6 | 0 | 3 | 2 | -1.78 $ | -5.9 % | 3 | -1.0 ¢ | 5 min |
 
-**Total réalisé : -69.59 $ sur 2790 $ engagés (-2.5 %)**
+**Total réalisé : -63.11 $ sur 2830 $ engagés (-2.2 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,10 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-09 00:25 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: 49ers (-20.5) | Raiders | 0.67 | 0.00 | -10.00 $ |
+| primm | Raiders vs. 49ers: O/U 62.5 | Under | 0.71 | 1.00 | +4.08 $ |
+| primm | Raiders vs. 49ers: O/U 56.5 | Under | 0.58 | 1.00 | +7.24 $ |
+| primm | Spread: 49ers (-10.5) | 49ers | 0.66 | 1.00 | +5.15 $ |
 | primm | Packers vs. Patriots: O/U 48.5 | Under | 0.49 | 0.00 | -10.00 $ |
 | primm | Packers vs. Patriots: O/U 46.5 | Under | 0.41 | 0.00 | -10.00 $ |
 | primm | Packers vs. Patriots: O/U 50.5 | Under | 0.53 | 0.00 | -10.00 $ |
@@ -37,9 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-09 00:25 UTC** 
 | primm | Spread: Saints (-4.5) | Saints | 0.43 | 0.00 | -10.00 $ |
 | primm | Spread: Cowboys (-3.5) | Colts | 0.48 | 0.00 | -10.00 $ |
 | primm | Browns vs. Saints: O/U 42.5 | Under | 0.67 | 0.00 | -10.00 $ |
-| primm | Browns vs. Saints: O/U 40.5 | Under | 0.47 | 0.00 | -10.00 $ |
-| primm | Spread: Saints (-7.5) | Saints | 0.39 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Cowboys (-3.5) | Colts | 0.49 | 0.00 | -10.00 $ |
-| BreakTheBank | Cowboys vs. Colts | Colts | 0.34 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
