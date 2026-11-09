@@ -690,3 +690,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-09 00:45 UTC,primm,REGLEMENT,Spread: Texans (-7.5),Texans,,0.42,,,23.8095,23.81,13.81,gagné
 2026-11-09 00:45 UTC,primm,REGLEMENT,Spread: Texans (-4.5),Texans,,0.56,,,17.8571,17.86,7.86,gagné
 2026-11-09 00:45 UTC,primm,REGLEMENT,Spread: Texans (-10.5),Texans,,0.48,,,20.8333,20.83,10.83,gagné
+2026-11-09 00:50 UTC,BreakTheBank,IGNORE,Spread: Texans (-5.5),Chargers,0.51,,,258.3,,,,carnet indisponible
+2026-11-09 00:50 UTC,BreakTheBank,REGLEMENT,Texans vs. Chargers,Chargers,,0.34,,,29.4118,0.0,-10.0,perdu
+2026-11-09 00:50 UTC,BreakTheBank,REGLEMENT,Spread: Texans (-5.5),Chargers,,0.52,,,19.2308,0.0,-10.0,perdu
+2026-11-09 00:50 UTC,juice-fruit,REGLEMENT,Texans vs. Chargers,Chargers,,0.22,,,45.4545,0.0,-10.0,perdu
+2026-11-09 00:50 UTC,primm,REGLEMENT,Texans vs. Chargers,Chargers,,0.34,,,29.4118,0.0,-10.0,perdu

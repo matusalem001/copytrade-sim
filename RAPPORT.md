@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-09 00:45 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-09 00:50 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 44 | 3 | 35 | 22 | +64.54 $ | +18.4 % | 9 | +1.0 ¢ | 4 min |
-| primm | 285 | 48 | 266 | 130 | -64.26 $ | -2.4 % | 19 | +3.5 ¢ | 4 min |
-| juice-fruit | 6 | 0 | 4 | 2 | -11.78 $ | -29.5 % | 2 | -1.0 ¢ | 5 min |
+| BreakTheBank | 44 | 4 | 37 | 22 | +44.54 $ | +12.0 % | 7 | +1.0 ¢ | 4 min |
+| primm | 285 | 48 | 267 | 130 | -74.26 $ | -2.8 % | 18 | +3.5 ¢ | 4 min |
+| juice-fruit | 6 | 0 | 5 | 2 | -21.78 $ | -43.6 % | 1 | -1.0 ¢ | 5 min |
 
-**Total réalisé : -11.50 $ sur 3050 $ engagés (-0.4 %)**
+**Total réalisé : -51.50 $ sur 3090 $ engagés (-1.7 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,10 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-09 00:45 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Texans vs. Chargers | Chargers | 0.34 | 0.00 | -10.00 $ |
+| juice-fruit | Texans vs. Chargers | Chargers | 0.22 | 0.00 | -10.00 $ |
+| BreakTheBank | Spread: Texans (-5.5) | Chargers | 0.52 | 0.00 | -10.00 $ |
+| BreakTheBank | Texans vs. Chargers | Chargers | 0.34 | 0.00 | -10.00 $ |
 | primm | Spread: Texans (-10.5) | Texans | 0.48 | 1.00 | +10.83 $ |
 | primm | Spread: Texans (-4.5) | Texans | 0.56 | 1.00 | +7.86 $ |
 | primm | Spread: Texans (-7.5) | Texans | 0.42 | 1.00 | +13.81 $ |
@@ -37,9 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-09 00:45 UTC** 
 | primm | Spread: Seahawks (-7.5) | Cardinals | 0.51 | 0.00 | -10.00 $ |
 | primm | Spread: Seahawks (-9.5) | Cardinals | 0.60 | 0.00 | -10.00 $ |
 | BreakTheBank | Cardinals vs. Seahawks | Seahawks | 0.79 | 1.00 | +2.66 $ |
-| primm | Raiders vs. 49ers | 49ers | 0.80 | 1.00 | +2.50 $ |
-| primm | Spread: 49ers (-20.5) | Raiders | 0.67 | 0.00 | -10.00 $ |
-| primm | Raiders vs. 49ers: O/U 62.5 | Under | 0.71 | 1.00 | +4.08 $ |
-| primm | Raiders vs. 49ers: O/U 56.5 | Under | 0.58 | 1.00 | +7.24 $ |
 
 Journal complet : `data/journal.csv`
