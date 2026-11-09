@@ -835,3 +835,9 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-09 19:00 UTC,BreakTheBank,IGNORE,Spread: Bears (-6.5),Bears,0.48,,,1066.8,,,,vu trop tard
 2026-11-09 21:00 UTC,BreakTheBank,IGNORE,Spread: Bears (-6.5),Bears,0.48,,,1186.1,,,,vu trop tard
 2026-11-09 21:25 UTC,BreakTheBank,ACHAT,Spread: Bills (-2.5),Bills,0.58,0.59,1.0,5.1,16.9492,10.0,,
+2026-11-09 21:40 UTC,primm,ACHAT,Spread: Bills (-2.5),Vikings,0.42,0.42,0.0,7.4,23.8095,10.0,,
+2026-11-09 21:40 UTC,primm,ACHAT,Bills vs. Vikings: O/U 44.5,Under,0.47,0.47,0.0,7.4,21.2766,10.0,,
+2026-11-09 21:40 UTC,primm,ACHAT,Spread: Bills (-1.5),Vikings,0.4,0.4,0.0,7.4,25.0,10.0,,
+2026-11-09 21:40 UTC,primm,ACHAT,Spread: Bills (-4.5),Vikings,0.55,0.55,0.0,7.4,18.1818,10.0,,
+2026-11-09 21:40 UTC,primm,ACHAT,Spread: Bills (-3.5),Vikings,0.52,0.52,0.0,7.4,19.2308,10.0,,
+2026-11-09 21:40 UTC,primm,ACHAT,Bills vs. Vikings,Vikings,0.37,0.37,0.0,7.4,27.027,10.0,,
