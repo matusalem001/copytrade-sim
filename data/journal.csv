@@ -723,3 +723,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-09 01:20 UTC,BreakTheBank,ACHAT,Spread: Bears (-5.5),Bears,0.52,0.54,2.0,0.5,18.5185,10.0,,
 2026-11-09 01:20 UTC,primm,ACHAT,Buccaneers vs. Bears: O/U 52.5,Over,0.35,0.37,2.0,4.5,27.027,10.0,,
 2026-11-09 01:25 UTC,primm,IGNORE,Raiders vs. 49ers: O/U 62.5,Under,0.7,,,205.8,,,,vu trop tard
+2026-11-09 01:30 UTC,BreakTheBank,IGNORE,Raiders vs. 49ers: O/U 50.5,Over,0.55,,,248.9,,,,vu trop tard
+2026-11-09 01:30 UTC,juice-fruit,IGNORE,Spread: Bears (-6.5),Buccaneers,0.51,0.45,-6.0,7.0,,,,prix a trop chuté (match sans doute joué)
+2026-11-09 01:30 UTC,juice-fruit,ACHAT,Spread: Bears (-6.5),Buccaneers,0.4844,0.45,-3.4,5.4,22.2222,10.0,,

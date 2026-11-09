@@ -168,6 +168,19 @@
    "parts": 27.027,
    "montant": 10.0,
    "ouvert_le": "2026-11-09 01:20 UTC"
+  },
+  "juice-fruit|52801236811279265721158547548598938815667318237588710394936432465867060790373": {
+   "date": "2026-11-09 01:30 UTC",
+   "trader": "juice-fruit",
+   "marche": "Spread: Bears (-6.5)",
+   "resultat": "Buccaneers",
+   "prix_trader": 0.4844,
+   "retard_min": 5.4,
+   "token": "52801236811279265721158547548598938815667318237588710394936432465867060790373",
+   "prix_simule": 0.45,
+   "parts": 22.2222,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-09 01:30 UTC"
   }
  },
  "fermees": [
