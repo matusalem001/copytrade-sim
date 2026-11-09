@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-09 04:40 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-09 04:45 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 46 | 5 | 40 | 25 | +76.90 $ | +19.2 % | 6 | +1.0 ¢ | 4 min |
-| primm | 311 | 76 | 283 | 142 | +15.89 $ | +0.6 % | 28 | +3.6 ¢ | 4 min |
+| primm | 311 | 77 | 284 | 143 | +33.67 $ | +1.2 % | 27 | +3.6 ¢ | 4 min |
 | juice-fruit | 7 | 1 | 6 | 2 | -31.78 $ | -53.0 % | 1 | -1.3 ¢ | 5 min |
 
-**Total réalisé : +61.01 $ sur 3290 $ engagés (+1.9 %)**
+**Total réalisé : +78.79 $ sur 3300 $ engagés (+2.4 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-09 04:40 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Buccaneers vs. Bears: O/U 40.5 | Over | 0.36 | 1.00 | +17.78 $ |
 | juice-fruit | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | T1 | 0.27 | 0.00 | -10.00 $ |
 | primm | Packers vs. Patriots | Packers | 0.62 | 1.00 | +6.13 $ |
 | BreakTheBank | Packers vs. Patriots | Packers | 0.39 | 1.00 | +15.64 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-09 04:40 UTC** 
 | juice-fruit | Texans vs. Chargers | Chargers | 0.22 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Texans (-5.5) | Chargers | 0.52 | 0.00 | -10.00 $ |
 | BreakTheBank | Texans vs. Chargers | Chargers | 0.34 | 0.00 | -10.00 $ |
-| primm | Spread: Texans (-10.5) | Texans | 0.48 | 1.00 | +10.83 $ |
 
 Journal complet : `data/journal.csv`

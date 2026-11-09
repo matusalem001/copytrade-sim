@@ -441,19 +441,6 @@
    "parts": 52.6316,
    "montant": 10.0,
    "ouvert_le": "2026-11-09 04:20 UTC"
-  },
-  "primm|36209129337373407679481178901935178880949228866897246561790646244525440336496": {
-   "date": "2026-11-09 04:20 UTC",
-   "trader": "primm",
-   "marche": "Buccaneers vs. Bears: O/U 40.5",
-   "resultat": "Over",
-   "prix_trader": 0.36,
-   "retard_min": 0.4,
-   "token": "36209129337373407679481178901935178880949228866897246561790646244525440336496",
-   "prix_simule": 0.36,
-   "parts": 27.7778,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-09 04:20 UTC"
   }
  },
  "fermees": [
@@ -6049,6 +6036,23 @@
    "pnl": -10.0,
    "ferme_le": "2026-11-09 02:20 UTC",
    "type": "perdu"
+  },
+  {
+   "date": "2026-11-09 04:20 UTC",
+   "trader": "primm",
+   "marche": "Buccaneers vs. Bears: O/U 40.5",
+   "resultat": "Over",
+   "prix_trader": 0.36,
+   "retard_min": 0.4,
+   "token": "36209129337373407679481178901935178880949228866897246561790646244525440336496",
+   "prix_simule": 0.36,
+   "parts": 27.7778,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-09 04:20 UTC",
+   "sortie": 1.0,
+   "pnl": 17.7778,
+   "ferme_le": "2026-11-09 04:45 UTC",
+   "type": "gagné"
   }
  ]
 }
