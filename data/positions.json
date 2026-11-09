@@ -51,6 +51,19 @@
    "parts": 22.2222,
    "montant": 10.0,
    "ouvert_le": "2026-11-09 17:01 UTC"
+  },
+  "BreakTheBank|48253008712713658748859707899946265937430543590650574981640573588239899490527": {
+   "date": "2026-11-09 17:20 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Bills (-1.5)",
+   "resultat": "Bills",
+   "prix_trader": 0.59,
+   "retard_min": 1.9,
+   "token": "48253008712713658748859707899946265937430543590650574981640573588239899490527",
+   "prix_simule": 0.6,
+   "parts": 16.6667,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-09 17:20 UTC"
   }
  },
  "fermees": [
