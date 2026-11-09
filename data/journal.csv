@@ -757,3 +757,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-09 03:45 UTC,primm,IGNORE,Cardinals vs. Seahawks: O/U 38.5,Under,0.55,,,353.1,,,,vu trop tard
 2026-11-09 03:45 UTC,primm,IGNORE,Raiders vs. 49ers: O/U 56.5,Under,0.58,,,347.4,,,,vu trop tard
 2026-11-09 03:45 UTC,primm,ACHAT,Spread: Bears (-2.5),Bears,0.6,0.89,29.0,4.5,11.236,10.0,,
+2026-11-09 03:50 UTC,primm,ACHAT,Spread: Bears (-9.5),Bears,0.51,0.54,3.0,8.1,18.5185,10.0,,
