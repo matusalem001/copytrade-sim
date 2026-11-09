@@ -39,19 +39,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-08 15:25 UTC"
   },
-  "BreakTheBank|61171821976425416119295161040983890703979342146154069180325915850765779881403": {
-   "date": "2026-11-08 21:30 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Buccaneers vs. Bears: O/U 46.5",
-   "resultat": "Under",
-   "prix_trader": 0.46,
-   "retard_min": 4.4,
-   "token": "61171821976425416119295161040983890703979342146154069180325915850765779881403",
-   "prix_simule": 0.47,
-   "parts": 21.2766,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-08 21:30 UTC"
-  },
   "BreakTheBank|76708990756337296689494286231295136682837722452483622589299682024164553917163": {
    "date": "2026-11-08 23:50 UTC",
    "trader": "BreakTheBank",
@@ -88,19 +75,6 @@
    "token": "109548262732374541666211303472812194631361468881233112817969442787276877337182",
    "prix_simule": 0.49,
    "parts": 20.4082,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-09 01:00 UTC"
-  },
-  "primm|6720531631905060373387939031438576960305340517125880496825857116917189809199": {
-   "date": "2026-11-09 01:00 UTC",
-   "trader": "primm",
-   "marche": "Buccaneers vs. Bears: O/U 46.5",
-   "resultat": "Over",
-   "prix_trader": 0.53,
-   "retard_min": 3.6,
-   "token": "6720531631905060373387939031438576960305340517125880496825857116917189809199",
-   "prix_simule": 0.53,
-   "parts": 18.8679,
    "montant": 10.0,
    "ouvert_le": "2026-11-09 01:00 UTC"
   },
@@ -402,19 +376,6 @@
    "parts": 16.9492,
    "montant": 10.0,
    "ouvert_le": "2026-11-09 04:00 UTC"
-  },
-  "primm|61171821976425416119295161040983890703979342146154069180325915850765779881403": {
-   "date": "2026-11-09 04:01 UTC",
-   "trader": "primm",
-   "marche": "Buccaneers vs. Bears: O/U 46.5",
-   "resultat": "Under",
-   "prix_trader": 0.34,
-   "retard_min": 1.0,
-   "token": "61171821976425416119295161040983890703979342146154069180325915850765779881403",
-   "prix_simule": 0.35,
-   "parts": 28.5714,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-09 04:01 UTC"
   },
   "primm|24987556217048691567808912858962739589785114896345941814243265642458430967955": {
    "date": "2026-11-09 04:10 UTC",
@@ -6053,6 +6014,57 @@
    "pnl": 17.7778,
    "ferme_le": "2026-11-09 04:45 UTC",
    "type": "gagné"
+  },
+  {
+   "date": "2026-11-08 21:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Buccaneers vs. Bears: O/U 46.5",
+   "resultat": "Under",
+   "prix_trader": 0.46,
+   "retard_min": 4.4,
+   "token": "61171821976425416119295161040983890703979342146154069180325915850765779881403",
+   "prix_simule": 0.47,
+   "parts": 21.2766,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-08 21:30 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-09 04:50 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-09 01:00 UTC",
+   "trader": "primm",
+   "marche": "Buccaneers vs. Bears: O/U 46.5",
+   "resultat": "Over",
+   "prix_trader": 0.53,
+   "retard_min": 3.6,
+   "token": "6720531631905060373387939031438576960305340517125880496825857116917189809199",
+   "prix_simule": 0.53,
+   "parts": 18.8679,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-09 01:00 UTC",
+   "sortie": 1.0,
+   "pnl": 8.8679,
+   "ferme_le": "2026-11-09 04:50 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-09 04:01 UTC",
+   "trader": "primm",
+   "marche": "Buccaneers vs. Bears: O/U 46.5",
+   "resultat": "Under",
+   "prix_trader": 0.34,
+   "retard_min": 1.0,
+   "token": "61171821976425416119295161040983890703979342146154069180325915850765779881403",
+   "prix_simule": 0.35,
+   "parts": 28.5714,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-09 04:01 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-09 04:50 UTC",
+   "type": "perdu"
   }
  ]
 }
