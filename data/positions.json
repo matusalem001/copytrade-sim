@@ -194,6 +194,19 @@
    "parts": 20.0,
    "montant": 10.0,
    "ouvert_le": "2026-11-09 23:20 UTC"
+  },
+  "BreakTheBank|54137220150113073402285070168238780740740856737481037870520151398635814815190": {
+   "date": "2026-11-09 23:25 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Pistons (-9.5)",
+   "resultat": "Wizards",
+   "prix_trader": 0.51,
+   "retard_min": 2.9,
+   "token": "54137220150113073402285070168238780740740856737481037870520151398635814815190",
+   "prix_simule": 0.52,
+   "parts": 19.2308,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-09 23:25 UTC"
   }
  },
  "fermees": [
