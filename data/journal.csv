@@ -748,3 +748,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-09 02:30 UTC,primm,IGNORE,Raiders vs. 49ers,49ers,0.88,,,290.3,,,,vu trop tard
 2026-11-09 02:30 UTC,primm,ACHAT,Spread: Bears (-13.5),Buccaneers,0.39,0.37,-2.0,2.9,27.027,10.0,,
 2026-11-09 02:30 UTC,primm,ACHAT,Spread: Bears (-20.5),Buccaneers,0.65,0.63,-2.0,2.9,15.873,10.0,,
+2026-11-09 03:05 UTC,BreakTheBank,ACHAT,Spread: Bills (-3.5),Bills,0.46,0.46,0.0,3.4,21.7391,10.0,,
