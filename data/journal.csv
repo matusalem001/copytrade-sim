@@ -823,3 +823,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-09 15:20 UTC,BreakTheBank,IGNORE,Spread: Bears (-7.5),Bears,0.41,,,862.0,,,,vu trop tard
 2026-11-09 15:35 UTC,BreakTheBank,IGNORE,Spread: Bears (-7.5),Bears,0.41,,,861.0,,,,vu trop tard
 2026-11-09 15:40 UTC,BreakTheBank,ACHAT,Bills vs. Vikings,Bills,0.62,0.63,1.0,3.2,15.873,10.0,,
+2026-11-09 16:15 UTC,BreakTheBank,IGNORE,Spread: Bears (-7.5),Bears,0.41,,,985.5,,,,vu trop tard
