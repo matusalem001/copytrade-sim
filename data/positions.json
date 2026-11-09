@@ -25,6 +25,19 @@
    "parts": 21.7391,
    "montant": 10.0,
    "ouvert_le": "2026-11-09 03:05 UTC"
+  },
+  "BreakTheBank|66396576201555994148891471175166180593461969988035431286378882540556301360616": {
+   "date": "2026-11-09 15:40 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Bills vs. Vikings",
+   "resultat": "Bills",
+   "prix_trader": 0.62,
+   "retard_min": 3.2,
+   "token": "66396576201555994148891471175166180593461969988035431286378882540556301360616",
+   "prix_simule": 0.63,
+   "parts": 15.873,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-09 15:40 UTC"
   }
  },
  "fermees": [
