@@ -779,3 +779,32 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-09 04:50 UTC,BreakTheBank,REGLEMENT,Buccaneers vs. Bears: O/U 46.5,Under,,0.47,,,21.2766,0.0,-10.0,perdu
 2026-11-09 04:50 UTC,primm,REGLEMENT,Buccaneers vs. Bears: O/U 46.5,Over,,0.53,,,18.8679,18.87,8.87,gagné
 2026-11-09 04:50 UTC,primm,REGLEMENT,Buccaneers vs. Bears: O/U 46.5,Under,,0.35,,,28.5714,0.0,-10.0,perdu
+2026-11-09 05:00 UTC,primm,REGLEMENT,Buccaneers vs. Bears: O/U 48.5,Over,,0.49,,,20.4082,20.41,10.41,gagné
+2026-11-09 05:00 UTC,primm,REGLEMENT,Buccaneers vs. Bears: O/U 58.5,Over,,0.22,,,45.4545,0.0,-10.0,perdu
+2026-11-09 05:00 UTC,BreakTheBank,REGLEMENT,Spread: Bears (-7.5),Bears,,0.42,,,23.8095,0.0,-10.0,perdu
+2026-11-09 05:00 UTC,BreakTheBank,REGLEMENT,Spread: Bears (-6.5),Bears,,0.49,,,20.4082,0.0,-10.0,perdu
+2026-11-09 05:00 UTC,primm,REGLEMENT,Spread: Bears (-6.5),Bears,,0.49,,,20.4082,0.0,-10.0,perdu
+2026-11-09 05:00 UTC,primm,REGLEMENT,Spread: Bears (-7.5),Bears,,0.42,,,23.8095,0.0,-10.0,perdu
+2026-11-09 05:00 UTC,primm,REGLEMENT,Spread: Bears (-10.5),Bears,,0.35,,,28.5714,0.0,-10.0,perdu
+2026-11-09 05:01 UTC,BreakTheBank,REGLEMENT,Spread: Bears (-5.5),Bears,,0.54,,,18.5185,0.0,-10.0,perdu
+2026-11-09 05:01 UTC,primm,REGLEMENT,Buccaneers vs. Bears: O/U 52.5,Over,,0.37,,,27.027,0.0,-10.0,perdu
+2026-11-09 05:01 UTC,juice-fruit,REGLEMENT,Spread: Bears (-6.5),Buccaneers,,0.45,,,22.2222,22.22,12.22,gagné
+2026-11-09 05:01 UTC,primm,REGLEMENT,Buccaneers vs. Bears,Buccaneers,,0.1,,,100.0,0.0,-10.0,perdu
+2026-11-09 05:01 UTC,primm,REGLEMENT,Buccaneers vs. Bears: O/U 52.5,Under,,0.46,,,21.7391,21.74,11.74,gagné
+2026-11-09 05:01 UTC,primm,REGLEMENT,Buccaneers vs. Bears: O/U 48.5,Under,,0.33,,,30.303,0.0,-10.0,perdu
+2026-11-09 05:01 UTC,primm,REGLEMENT,Buccaneers vs. Bears: O/U 58.5,Under,,0.64,,,15.625,15.62,5.62,gagné
+2026-11-09 05:01 UTC,primm,REGLEMENT,Spread: Bears (-17.5),Buccaneers,,0.54,,,18.5185,18.52,8.52,gagné
+2026-11-09 05:01 UTC,primm,REGLEMENT,Spread: Bears (-14.5),Bears,,0.53,,,18.8679,0.0,-10.0,perdu
+2026-11-09 05:01 UTC,primm,REGLEMENT,Spread: Bears (-17.5),Bears,,0.43,,,23.2558,0.0,-10.0,perdu
+2026-11-09 05:01 UTC,primm,REGLEMENT,Spread: Bears (-13.5),Buccaneers,,0.37,,,27.027,27.03,17.03,gagné
+2026-11-09 05:01 UTC,primm,REGLEMENT,Spread: Bears (-20.5),Buccaneers,,0.63,,,15.873,15.87,5.87,gagné
+2026-11-09 05:01 UTC,primm,REGLEMENT,Spread: Bears (-5.5),Buccaneers,,0.61,,,16.3934,16.39,6.39,gagné
+2026-11-09 05:01 UTC,primm,REGLEMENT,Spread: Bears (-7.5),Buccaneers,,0.71,,,14.0845,14.08,4.08,gagné
+2026-11-09 05:01 UTC,primm,REGLEMENT,Spread: Bears (-6.5),Buccaneers,,0.63,,,15.873,15.87,5.87,gagné
+2026-11-09 05:01 UTC,primm,REGLEMENT,Spread: Bears (-9.5),Buccaneers,,0.79,,,12.6582,12.66,2.66,gagné
+2026-11-09 05:01 UTC,primm,REGLEMENT,Spread: Bears (-3.5),Buccaneers,,0.48,,,20.8333,20.83,10.83,gagné
+2026-11-09 05:01 UTC,primm,REGLEMENT,Spread: Bears (-2.5),Bears,,0.89,,,11.236,11.24,1.24,gagné
+2026-11-09 05:01 UTC,primm,REGLEMENT,Spread: Bears (-9.5),Bears,,0.54,,,18.5185,0.0,-10.0,perdu
+2026-11-09 05:01 UTC,primm,REGLEMENT,Spread: Bears (-10.5),Buccaneers,,0.59,,,16.9492,16.95,6.95,gagné
+2026-11-09 05:01 UTC,primm,REGLEMENT,Buccaneers vs. Bears,Bears,,0.94,,,10.6383,10.64,0.64,gagné
+2026-11-09 05:01 UTC,primm,REGLEMENT,Spread: Bears (-4.5),Buccaneers,,0.19,,,52.6316,52.63,42.63,gagné

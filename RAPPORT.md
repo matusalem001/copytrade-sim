@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-09 04:55 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-09 05:01 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 46 | 5 | 41 | 25 | +66.90 $ | +16.3 % | 5 | +1.0 ¢ | 4 min |
-| primm | 311 | 77 | 286 | 144 | +32.54 $ | +1.1 % | 25 | +3.6 ¢ | 4 min |
-| juice-fruit | 7 | 1 | 6 | 2 | -31.78 $ | -53.0 % | 1 | -1.3 ¢ | 5 min |
+| BreakTheBank | 46 | 5 | 44 | 25 | +36.90 $ | +8.4 % | 2 | +1.0 ¢ | 4 min |
+| primm | 311 | 77 | 311 | 159 | +73.03 $ | +2.3 % | 0 | +3.6 ¢ | 4 min |
+| juice-fruit | 7 | 1 | 7 | 3 | -19.56 $ | -27.9 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : +67.66 $ sur 3330 $ engagés (+2.0 %)**
+**Total réalisé : +90.37 $ sur 3620 $ engagés (+2.5 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,30 +16,30 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-09 04:55 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
-| primm | Buccaneers vs. Bears: O/U 46.5 | Under | 0.35 | 0.00 | -10.00 $ |
-| primm | Buccaneers vs. Bears: O/U 46.5 | Over | 0.53 | 1.00 | +8.87 $ |
-| BreakTheBank | Buccaneers vs. Bears: O/U 46.5 | Under | 0.47 | 0.00 | -10.00 $ |
-| primm | Buccaneers vs. Bears: O/U 40.5 | Over | 0.36 | 1.00 | +17.78 $ |
-| juice-fruit | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | T1 | 0.27 | 0.00 | -10.00 $ |
-| primm | Packers vs. Patriots | Packers | 0.62 | 1.00 | +6.13 $ |
-| BreakTheBank | Packers vs. Patriots | Packers | 0.39 | 1.00 | +15.64 $ |
-| primm | Spread: Packers (-14.5) | Patriots | 0.17 | 0.00 | -10.00 $ |
-| primm | Spread: Packers (-20.5) | Patriots | 0.52 | 1.00 | +9.12 $ |
-| primm | Spread: Packers (-17.5) | Patriots | 0.35 | 0.00 | -10.00 $ |
-| primm | Spread: Packers (-16.5) | Patriots | 0.28 | 0.00 | -10.00 $ |
-| primm | Packers vs. Patriots | Patriots | 0.24 | 0.00 | -10.00 $ |
-| primm | Spread: Packers (-16.5) | Packers | 0.29 | 1.00 | +24.48 $ |
-| primm | Spread: Packers (-9.5) | Packers | 0.47 | 1.00 | +11.28 $ |
-| primm | Spread: Packers (-4.5) | Packers | 0.62 | 1.00 | +6.13 $ |
-| primm | Spread: Packers (-10.5) | Packers | 0.45 | 1.00 | +12.22 $ |
-| primm | Spread: Packers (-7.5) | Packers | 0.47 | 1.00 | +11.28 $ |
-| primm | Spread: Packers (-5.5) | Packers | 0.46 | 1.00 | +11.74 $ |
-| primm | Spread: Packers (-3.5) | Packers | 0.51 | 1.00 | +9.61 $ |
-| primm | Spread: Packers (-6.5) | Packers | 0.43 | 1.00 | +13.26 $ |
-| primm | Spread: Packers (-2.5) | Packers | 0.54 | 1.00 | +8.52 $ |
-| primm | Spread: Patriots (-1.5) | Packers | 0.61 | 1.00 | +6.39 $ |
-| BreakTheBank | Spread: Patriots (-3.5) | Packers | 0.53 | 1.00 | +8.87 $ |
-| BreakTheBank | Spread: Patriots (-4.5) | Packers | 0.56 | 1.00 | +7.86 $ |
-| primm | Texans vs. Chargers | Chargers | 0.34 | 0.00 | -10.00 $ |
+| primm | Spread: Bears (-4.5) | Buccaneers | 0.19 | 1.00 | +42.63 $ |
+| primm | Buccaneers vs. Bears | Bears | 0.94 | 1.00 | +0.64 $ |
+| primm | Spread: Bears (-10.5) | Buccaneers | 0.59 | 1.00 | +6.95 $ |
+| primm | Spread: Bears (-9.5) | Bears | 0.54 | 0.00 | -10.00 $ |
+| primm | Spread: Bears (-2.5) | Bears | 0.89 | 1.00 | +1.24 $ |
+| primm | Spread: Bears (-3.5) | Buccaneers | 0.48 | 1.00 | +10.83 $ |
+| primm | Spread: Bears (-9.5) | Buccaneers | 0.79 | 1.00 | +2.66 $ |
+| primm | Spread: Bears (-6.5) | Buccaneers | 0.63 | 1.00 | +5.87 $ |
+| primm | Spread: Bears (-7.5) | Buccaneers | 0.71 | 1.00 | +4.08 $ |
+| primm | Spread: Bears (-5.5) | Buccaneers | 0.61 | 1.00 | +6.39 $ |
+| primm | Spread: Bears (-20.5) | Buccaneers | 0.63 | 1.00 | +5.87 $ |
+| primm | Spread: Bears (-13.5) | Buccaneers | 0.37 | 1.00 | +17.03 $ |
+| primm | Spread: Bears (-17.5) | Bears | 0.43 | 0.00 | -10.00 $ |
+| primm | Spread: Bears (-14.5) | Bears | 0.53 | 0.00 | -10.00 $ |
+| primm | Spread: Bears (-17.5) | Buccaneers | 0.54 | 1.00 | +8.52 $ |
+| primm | Buccaneers vs. Bears: O/U 58.5 | Under | 0.64 | 1.00 | +5.62 $ |
+| primm | Buccaneers vs. Bears: O/U 48.5 | Under | 0.33 | 0.00 | -10.00 $ |
+| primm | Buccaneers vs. Bears: O/U 52.5 | Under | 0.46 | 1.00 | +11.74 $ |
+| primm | Buccaneers vs. Bears | Buccaneers | 0.10 | 0.00 | -10.00 $ |
+| juice-fruit | Spread: Bears (-6.5) | Buccaneers | 0.45 | 1.00 | +12.22 $ |
+| primm | Buccaneers vs. Bears: O/U 52.5 | Over | 0.37 | 0.00 | -10.00 $ |
+| BreakTheBank | Spread: Bears (-5.5) | Bears | 0.54 | 0.00 | -10.00 $ |
+| primm | Spread: Bears (-10.5) | Bears | 0.35 | 0.00 | -10.00 $ |
+| primm | Spread: Bears (-7.5) | Bears | 0.42 | 0.00 | -10.00 $ |
+| primm | Spread: Bears (-6.5) | Bears | 0.49 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
