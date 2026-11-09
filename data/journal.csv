@@ -734,3 +734,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-09 01:45 UTC,primm,ACHAT,Buccaneers vs. Bears: O/U 58.5,Under,0.67,0.64,-3.0,1.9,15.625,10.0,,
 2026-11-09 01:45 UTC,primm,ACHAT,Spread: Bears (-17.5),Buccaneers,0.57,0.54,-3.0,1.9,18.5185,10.0,,
 2026-11-09 01:50 UTC,primm,IGNORE,Spread: Patriots (-1.5),Packers,0.55,,,261.2,,,,vu trop tard
+2026-11-09 02:00 UTC,primm,ACHAT,Spread: Bears (-14.5),Bears,0.51,0.53,2.0,0.9,18.8679,10.0,,
+2026-11-09 02:00 UTC,primm,ACHAT,Spread: Bears (-17.5),Bears,0.42,0.43,1.0,0.9,23.2558,10.0,,
