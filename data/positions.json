@@ -259,6 +259,19 @@
    "parts": 26.3158,
    "montant": 10.0,
    "ouvert_le": "2026-11-10 00:20 UTC"
+  },
+  "BreakTheBank|60726126951539130594457745308006473154344457472431098929350080992899330708790": {
+   "date": "2026-11-10 00:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",
+   "resultat": "Ciryl Gane",
+   "prix_trader": 0.65,
+   "retard_min": 2.8,
+   "token": "60726126951539130594457745308006473154344457472431098929350080992899330708790",
+   "prix_simule": 0.66,
+   "parts": 15.1515,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-10 00:30 UTC"
   }
  },
  "fermees": [
