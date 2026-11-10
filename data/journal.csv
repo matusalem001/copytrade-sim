@@ -890,3 +890,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-10 02:50 UTC,primm,IGNORE,Spread: Bears (-6.5),Buccaneers,0.17,,,1350.8,,,,vu trop tard
 2026-11-10 02:55 UTC,primm,IGNORE,Spread: Bears (-4.5),Buccaneers,0.31,,,1378.0,,,,vu trop tard
 2026-11-10 03:00 UTC,BreakTheBank,REGLEMENT,Spread: Pistons (-9.5),Wizards,,0.52,,,19.2308,0.0,-10.0,perdu
+2026-11-10 03:10 UTC,BreakTheBank,REGLEMENT,Grizzlies vs. Raptors,Grizzlies,,0.54,,,18.5185,18.52,8.52,gagné
+2026-11-10 03:10 UTC,BreakTheBank,REGLEMENT,Spread: Grizzlies (-2.5),Grizzlies,,0.47,,,21.2766,21.28,11.28,gagné

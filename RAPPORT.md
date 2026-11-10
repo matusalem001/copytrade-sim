@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-10 03:05 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-10 03:10 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 63 | 26 | 47 | 27 | +48.18 $ | +10.3 % | 16 | +1.0 ¢ | 4 min |
+| BreakTheBank | 63 | 26 | 49 | 29 | +67.97 $ | +13.9 % | 14 | +1.0 ¢ | 4 min |
 | primm | 333 | 96 | 311 | 159 | +73.03 $ | +2.3 % | 22 | +3.4 ¢ | 4 min |
 | juice-fruit | 7 | 1 | 7 | 3 | -19.56 $ | -27.9 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : +101.65 $ sur 3650 $ engagés (+2.8 %)**
+**Total réalisé : +121.44 $ sur 3670 $ engagés (+3.3 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-10 03:05 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Spread: Grizzlies (-2.5) | Grizzlies | 0.47 | 1.00 | +11.28 $ |
+| BreakTheBank | Grizzlies vs. Raptors | Grizzlies | 0.54 | 1.00 | +8.52 $ |
 | BreakTheBank | Spread: Pistons (-9.5) | Wizards | 0.52 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Hawks (-2.5) | Lakers | 0.50 | 1.00 | +10.00 $ |
 | BreakTheBank | Lakers vs. Hawks | Lakers | 0.47 | 1.00 | +11.28 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-10 03:05 UTC** 
 | primm | Buccaneers vs. Bears: O/U 52.5 | Under | 0.46 | 1.00 | +11.74 $ |
 | primm | Buccaneers vs. Bears | Buccaneers | 0.10 | 0.00 | -10.00 $ |
 | juice-fruit | Spread: Bears (-6.5) | Buccaneers | 0.45 | 1.00 | +12.22 $ |
-| primm | Buccaneers vs. Bears: O/U 52.5 | Over | 0.37 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Bears (-5.5) | Bears | 0.54 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
