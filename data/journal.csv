@@ -965,3 +965,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-10 10:30 UTC,BreakTheBank,IGNORE,Spread: Bills (-4.5),Bills,0.44,,,558.7,,,,vu trop tard
 2026-11-10 13:45 UTC,BreakTheBank,IGNORE,Spread: Spurs (-7.5),Suns,0.44,,,751.4,,,,vu trop tard
 2026-11-10 16:50 UTC,BreakTheBank,IGNORE,Spread: Warriors (-11.5),Warriors,0.48,,,851.8,,,,vu trop tard
+2026-11-10 17:30 UTC,primm,ACHAT,Spread: Western Michigan (-14.5),Akron,0.48,0.48,0.0,5.5,20.8333,10.0,,
