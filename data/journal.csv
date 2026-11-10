@@ -953,3 +953,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-10 07:45 UTC,BreakTheBank,IGNORE,Spread: Bills (-4.5),Bills,0.44,,,394.3,,,,vu trop tard
 2026-11-10 07:45 UTC,BreakTheBank,IGNORE,Spread: Bills (-1.5),Bills,0.6,,,390.8,,,,vu trop tard
 2026-11-10 09:30 UTC,BreakTheBank,ACHAT,"Jensen Huang divorce by December 31, 2026?",Yes,0.09,0.1,1.0,4.8,100.0,10.0,,
+2026-11-10 09:35 UTC,BreakTheBank,IGNORE,Spread: Warriors (-11.5),Warriors,0.48,,,416.9,,,,vu trop tard
