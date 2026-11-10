@@ -904,3 +904,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-10 03:40 UTC,primm,IGNORE,Spread: Bills (-7.5),Bills,0.56,0.5,-6.0,3.0,,,,prix a trop chuté (match sans doute joué)
 2026-11-10 03:40 UTC,primm,ACHAT,Spread: Bills (-6.5),Bills,0.68,0.64,-4.0,3.0,15.625,10.0,,
 2026-11-10 03:40 UTC,primm,ACHAT,Spread: Bills (-10.5),Vikings,0.61,0.72,11.0,2.2,13.8889,10.0,,
+2026-11-10 03:45 UTC,primm,IGNORE,Spread: Bears (-7.5),Buccaneers,0.18,,,1405.9,,,,vu trop tard
