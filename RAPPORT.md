@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-10 04:05 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-10 04:10 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 64 | 26 | 50 | 29 | +57.97 $ | +11.6 % | 14 | +1.1 ¢ | 4 min |
+| BreakTheBank | 64 | 26 | 51 | 30 | +68.81 $ | +13.5 % | 13 | +1.1 ¢ | 4 min |
 | primm | 337 | 104 | 311 | 159 | +73.03 $ | +2.3 % | 26 | +3.3 ¢ | 4 min |
 | juice-fruit | 7 | 1 | 7 | 3 | -19.56 $ | -27.9 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : +111.44 $ sur 3680 $ engagés (+3.0 %)**
+**Total réalisé : +122.27 $ sur 3690 $ engagés (+3.3 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-10 04:05 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Spread: Rockets (-5.5) | Rockets | 0.48 | 1.00 | +10.83 $ |
 | BreakTheBank | Pacers vs. Mavericks | Pacers | 0.38 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Grizzlies (-2.5) | Grizzlies | 0.47 | 1.00 | +11.28 $ |
 | BreakTheBank | Grizzlies vs. Raptors | Grizzlies | 0.54 | 1.00 | +8.52 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-10 04:05 UTC** 
 | primm | Buccaneers vs. Bears: O/U 58.5 | Under | 0.64 | 1.00 | +5.62 $ |
 | primm | Buccaneers vs. Bears: O/U 48.5 | Under | 0.33 | 0.00 | -10.00 $ |
 | primm | Buccaneers vs. Bears: O/U 52.5 | Under | 0.46 | 1.00 | +11.74 $ |
-| primm | Buccaneers vs. Bears | Buccaneers | 0.10 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

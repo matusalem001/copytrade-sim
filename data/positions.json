@@ -260,19 +260,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-10 01:20 UTC"
   },
-  "BreakTheBank|69818546260068873918935955593320290587607761869639575129170597011889276507381": {
-   "date": "2026-11-10 01:30 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Spread: Rockets (-5.5)",
-   "resultat": "Rockets",
-   "prix_trader": 0.47,
-   "retard_min": 1.6,
-   "token": "69818546260068873918935955593320290587607761869639575129170597011889276507381",
-   "prix_simule": 0.48,
-   "parts": 20.8333,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-10 01:30 UTC"
-  },
   "primm|5604007073947861255154872550768319693609434757113039342084474861205185479493": {
    "date": "2026-11-10 01:30 UTC",
    "trader": "primm",
@@ -6777,6 +6764,23 @@
    "pnl": -10.0,
    "ferme_le": "2026-11-10 04:00 UTC",
    "type": "perdu"
+  },
+  {
+   "date": "2026-11-10 01:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Rockets (-5.5)",
+   "resultat": "Rockets",
+   "prix_trader": 0.47,
+   "retard_min": 1.6,
+   "token": "69818546260068873918935955593320290587607761869639575129170597011889276507381",
+   "prix_simule": 0.48,
+   "parts": 20.8333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-10 01:30 UTC",
+   "sortie": 1.0,
+   "pnl": 10.8333,
+   "ferme_le": "2026-11-10 04:10 UTC",
+   "type": "gagné"
   }
  ]
 }

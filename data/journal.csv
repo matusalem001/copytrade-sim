@@ -906,3 +906,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-10 03:40 UTC,primm,ACHAT,Spread: Bills (-10.5),Vikings,0.61,0.72,11.0,2.2,13.8889,10.0,,
 2026-11-10 03:45 UTC,primm,IGNORE,Spread: Bears (-7.5),Buccaneers,0.18,,,1405.9,,,,vu trop tard
 2026-11-10 04:00 UTC,BreakTheBank,REGLEMENT,Pacers vs. Mavericks,Pacers,,0.38,,,26.3158,0.0,-10.0,perdu
+2026-11-10 04:10 UTC,BreakTheBank,REGLEMENT,Spread: Rockets (-5.5),Rockets,,0.48,,,20.8333,20.83,10.83,gagné
