@@ -25,6 +25,19 @@
    "parts": 15.1515,
    "montant": 10.0,
    "ouvert_le": "2026-11-10 00:30 UTC"
+  },
+  "BreakTheBank|112979941438829737800400495517316534522150056152145374913362684879882796860277": {
+   "date": "2026-11-10 09:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Jensen Huang divorce by December 31, 2026?",
+   "resultat": "Yes",
+   "prix_trader": 0.09,
+   "retard_min": 4.8,
+   "token": "112979941438829737800400495517316534522150056152145374913362684879882796860277",
+   "prix_simule": 0.1,
+   "parts": 100.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-10 09:30 UTC"
   }
  },
  "fermees": [
