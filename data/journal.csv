@@ -941,3 +941,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-10 04:45 UTC,primm,REGLEMENT,Spread: Bills (-10.5),Bills,,0.41,,,24.3902,24.39,14.39,gagné
 2026-11-10 04:45 UTC,primm,REGLEMENT,Spread: Bills (-6.5),Bills,,0.64,,,15.625,15.62,5.62,gagné
 2026-11-10 04:45 UTC,primm,REGLEMENT,Spread: Bills (-10.5),Vikings,,0.72,,,13.8889,0.0,-10.0,perdu
+2026-11-10 04:50 UTC,BreakTheBank,REGLEMENT,Bills vs. Vikings,Bills,,0.63,,,15.873,15.87,5.87,gagné

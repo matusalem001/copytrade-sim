@@ -13,19 +13,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-07 21:10 UTC"
   },
-  "BreakTheBank|66396576201555994148891471175166180593461969988035431286378882540556301360616": {
-   "date": "2026-11-09 15:40 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Bills vs. Vikings",
-   "resultat": "Bills",
-   "prix_trader": 0.62,
-   "retard_min": 3.2,
-   "token": "66396576201555994148891471175166180593461969988035431286378882540556301360616",
-   "prix_simule": 0.63,
-   "parts": 15.873,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-09 15:40 UTC"
-  },
   "BreakTheBank|60726126951539130594457745308006473154344457472431098929350080992899330708790": {
    "date": "2026-11-10 00:30 UTC",
    "trader": "BreakTheBank",
@@ -6917,6 +6904,23 @@
    "pnl": -10.0,
    "ferme_le": "2026-11-10 04:45 UTC",
    "type": "perdu"
+  },
+  {
+   "date": "2026-11-09 15:40 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Bills vs. Vikings",
+   "resultat": "Bills",
+   "prix_trader": 0.62,
+   "retard_min": 3.2,
+   "token": "66396576201555994148891471175166180593461969988035431286378882540556301360616",
+   "prix_simule": 0.63,
+   "parts": 15.873,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-09 15:40 UTC",
+   "sortie": 1.0,
+   "pnl": 5.873,
+   "ferme_le": "2026-11-10 04:50 UTC",
+   "type": "gagné"
   }
  ]
 }
