@@ -77,6 +77,71 @@
    "parts": 23.8095,
    "montant": 10.0,
    "ouvert_le": "2026-11-10 22:10 UTC"
+  },
+  "primm|43750055620170888830802442780661483864527512411050887679874323933655487829381": {
+   "date": "2026-11-10 22:40 UTC",
+   "trader": "primm",
+   "marche": "Spread: Bowling Green (-4.5)",
+   "resultat": "Bowling Green",
+   "prix_trader": 0.51,
+   "retard_min": 5.5,
+   "token": "43750055620170888830802442780661483864527512411050887679874323933655487829381",
+   "prix_simule": 0.52,
+   "parts": 19.2308,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-10 22:40 UTC"
+  },
+  "primm|40202185306381277175747149729954536157001385378012079751635780739337973829693": {
+   "date": "2026-11-10 22:40 UTC",
+   "trader": "primm",
+   "marche": "Kent State vs. Bowling Green",
+   "resultat": "Bowling Green",
+   "prix_trader": 0.65,
+   "retard_min": 5.5,
+   "token": "40202185306381277175747149729954536157001385378012079751635780739337973829693",
+   "prix_simule": 0.65,
+   "parts": 15.3846,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-10 22:40 UTC"
+  },
+  "primm|104305992903645771504904239813853203650138440571115788761288359326908780671113": {
+   "date": "2026-11-10 22:40 UTC",
+   "trader": "primm",
+   "marche": "Spread: Bowling Green (-6.5)",
+   "resultat": "Bowling Green",
+   "prix_trader": 0.46,
+   "retard_min": 5.5,
+   "token": "104305992903645771504904239813853203650138440571115788761288359326908780671113",
+   "prix_simule": 0.47,
+   "parts": 21.2766,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-10 22:40 UTC"
+  },
+  "primm|107579469711080884897681435802629501571969081627821925566494025490790814421614": {
+   "date": "2026-11-10 22:40 UTC",
+   "trader": "primm",
+   "marche": "Spread: Bowling Green (-5.5)",
+   "resultat": "Bowling Green",
+   "prix_trader": 0.49,
+   "retard_min": 5.5,
+   "token": "107579469711080884897681435802629501571969081627821925566494025490790814421614",
+   "prix_simule": 0.5,
+   "parts": 20.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-10 22:40 UTC"
+  },
+  "primm|82116456456297240830650891591782693150193833764876927491139526482378027315770": {
+   "date": "2026-11-10 22:40 UTC",
+   "trader": "primm",
+   "marche": "Spread: Bowling Green (-3.5)",
+   "resultat": "Bowling Green",
+   "prix_trader": 0.54,
+   "retard_min": 5.5,
+   "token": "82116456456297240830650891591782693150193833764876927491139526482378027315770",
+   "prix_simule": 0.55,
+   "parts": 18.1818,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-10 22:40 UTC"
   }
  },
  "fermees": [

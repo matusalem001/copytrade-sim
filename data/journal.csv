@@ -970,3 +970,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-10 19:55 UTC,primm,IGNORE,Bills vs. Vikings: O/U 34.5,Over,0.59,,,1021.9,,,,vu trop tard
 2026-11-10 20:45 UTC,BreakTheBank,ACHAT,Will the Buffalo Bills win the 2027 NFL league championship?,Yes,0.14,0.15,1.0,4.2,66.6667,10.0,,
 2026-11-10 22:10 UTC,BreakTheBank,ACHAT,"UFC 334: Caio Borralho vs. Yousri Belgaroui (Middleweight, Main Card)",Yousri Belgaroui,0.41,0.42,1.0,0.7,23.8095,10.0,,
+2026-11-10 22:40 UTC,primm,ACHAT,Spread: Bowling Green (-4.5),Bowling Green,0.51,0.52,1.0,5.5,19.2308,10.0,,
+2026-11-10 22:40 UTC,primm,ACHAT,Kent State vs. Bowling Green,Bowling Green,0.65,0.65,0.0,5.5,15.3846,10.0,,
+2026-11-10 22:40 UTC,primm,ACHAT,Spread: Bowling Green (-6.5),Bowling Green,0.46,0.47,1.0,5.5,21.2766,10.0,,
+2026-11-10 22:40 UTC,primm,ACHAT,Spread: Bowling Green (-5.5),Bowling Green,0.49,0.5,1.0,5.5,20.0,10.0,,
+2026-11-10 22:40 UTC,primm,ACHAT,Spread: Bowling Green (-3.5),Bowling Green,0.54,0.55,1.0,5.5,18.1818,10.0,,
