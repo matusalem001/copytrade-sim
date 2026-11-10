@@ -883,3 +883,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-10 02:40 UTC,BreakTheBank,REGLEMENT,Spread: Hawks (-2.5),Lakers,,0.5,,,20.0,20.0,10.0,gagné
 2026-11-10 02:45 UTC,primm,IGNORE,Spread: Bears (-6.5),Buccaneers,0.44,,,1367.7,,,,vu trop tard
 2026-11-10 02:45 UTC,primm,IGNORE,Buccaneers vs. Bears: O/U 40.5,Under,0.62,,,1342.1,,,,vu trop tard
+2026-11-10 02:46 UTC,primm,ACHAT,Bills vs. Vikings: O/U 34.5,Over,0.34,0.51,17.0,6.0,19.6078,10.0,,
