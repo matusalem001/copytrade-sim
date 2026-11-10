@@ -51,6 +51,19 @@
    "parts": 20.8333,
    "montant": 10.0,
    "ouvert_le": "2026-11-10 17:30 UTC"
+  },
+  "BreakTheBank|15005653350202922348701786607519856020257461135905285631675545513297078700601": {
+   "date": "2026-11-10 20:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will the Buffalo Bills win the 2027 NFL league championship?",
+   "resultat": "Yes",
+   "prix_trader": 0.14,
+   "retard_min": 4.2,
+   "token": "15005653350202922348701786607519856020257461135905285631675545513297078700601",
+   "prix_simule": 0.15,
+   "parts": 66.6667,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-10 20:45 UTC"
   }
  },
  "fermees": [

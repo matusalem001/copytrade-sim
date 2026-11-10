@@ -968,3 +968,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-10 17:30 UTC,primm,ACHAT,Spread: Western Michigan (-14.5),Akron,0.48,0.48,0.0,5.5,20.8333,10.0,,
 2026-11-10 19:50 UTC,primm,IGNORE,Bills vs. Vikings: O/U 44.5,Under,0.45,,,1232.5,,,,vu trop tard
 2026-11-10 19:55 UTC,primm,IGNORE,Bills vs. Vikings: O/U 34.5,Over,0.59,,,1021.9,,,,vu trop tard
+2026-11-10 20:45 UTC,BreakTheBank,ACHAT,Will the Buffalo Bills win the 2027 NFL league championship?,Yes,0.14,0.15,1.0,4.2,66.6667,10.0,,
