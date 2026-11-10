@@ -246,6 +246,19 @@
    "parts": 21.2766,
    "montant": 10.0,
    "ouvert_le": "2026-11-09 23:45 UTC"
+  },
+  "BreakTheBank|8849814269275051894519790220330465776213306024539991413510024378147652558027": {
+   "date": "2026-11-10 00:20 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Pacers vs. Mavericks",
+   "resultat": "Pacers",
+   "prix_trader": 0.37,
+   "retard_min": 1.0,
+   "token": "8849814269275051894519790220330465776213306024539991413510024378147652558027",
+   "prix_simule": 0.38,
+   "parts": 26.3158,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-10 00:20 UTC"
   }
  },
  "fermees": [
