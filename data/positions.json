@@ -64,6 +64,19 @@
    "parts": 66.6667,
    "montant": 10.0,
    "ouvert_le": "2026-11-10 20:45 UTC"
+  },
+  "BreakTheBank|71595882160867874922427735736451380877539663898303967706416900719597209196072": {
+   "date": "2026-11-10 22:10 UTC",
+   "trader": "BreakTheBank",
+   "marche": "UFC 334: Caio Borralho vs. Yousri Belgaroui (Middleweight, Main Card)",
+   "resultat": "Yousri Belgaroui",
+   "prix_trader": 0.41,
+   "retard_min": 0.7,
+   "token": "71595882160867874922427735736451380877539663898303967706416900719597209196072",
+   "prix_simule": 0.42,
+   "parts": 23.8095,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-10 22:10 UTC"
   }
  },
  "fermees": [
