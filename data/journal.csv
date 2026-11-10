@@ -956,3 +956,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-10 09:35 UTC,BreakTheBank,IGNORE,Spread: Warriors (-11.5),Warriors,0.48,,,416.9,,,,vu trop tard
 2026-11-10 09:40 UTC,BreakTheBank,IGNORE,Spread: Bills (-7.5),Bills,0.33,,,505.8,,,,vu trop tard
 2026-11-10 09:40 UTC,BreakTheBank,IGNORE,Spread: Warriors (-11.5),Warriors,0.48,,,421.7,,,,vu trop tard
+2026-11-10 10:00 UTC,BreakTheBank,IGNORE,Spread: Bills (-7.5),Bills,0.33,,,529.5,,,,vu trop tard
+2026-11-10 10:00 UTC,BreakTheBank,IGNORE,Spread: Warriors (-11.5),Warriors,0.48,,,442.3,,,,vu trop tard
