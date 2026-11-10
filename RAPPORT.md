@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-10 04:40 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-10 04:45 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 64 | 26 | 53 | 30 | +48.81 $ | +9.2 % | 11 | +1.1 ¢ | 4 min |
-| primm | 337 | 104 | 313 | 160 | +67.73 $ | +2.2 % | 24 | +3.3 ¢ | 4 min |
+| BreakTheBank | 64 | 26 | 59 | 35 | +96.69 $ | +16.4 % | 5 | +1.1 ¢ | 4 min |
+| primm | 337 | 104 | 337 | 170 | +22.53 $ | +0.7 % | 0 | +3.3 ¢ | 4 min |
 | juice-fruit | 7 | 1 | 7 | 3 | -19.56 $ | -27.9 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : +96.98 $ sur 3730 $ engagés (+2.6 %)**
+**Total réalisé : +99.66 $ sur 4030 $ engagés (+2.5 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,30 +16,30 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-10 04:40 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
-| BreakTheBank | Spread: Spurs (-9.5) | Suns | 0.52 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Spurs (-7.5) | Suns | 0.45 | 0.00 | -10.00 $ |
-| primm | Bills vs. Vikings: O/U 28.5 | Under | 0.41 | 0.00 | -10.00 $ |
-| primm | Bills vs. Vikings: O/U 28.5 | Over | 0.68 | 1.00 | +4.71 $ |
-| BreakTheBank | Spread: Rockets (-5.5) | Rockets | 0.48 | 1.00 | +10.83 $ |
-| BreakTheBank | Pacers vs. Mavericks | Pacers | 0.38 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Grizzlies (-2.5) | Grizzlies | 0.47 | 1.00 | +11.28 $ |
-| BreakTheBank | Grizzlies vs. Raptors | Grizzlies | 0.54 | 1.00 | +8.52 $ |
-| BreakTheBank | Spread: Pistons (-9.5) | Wizards | 0.52 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Hawks (-2.5) | Lakers | 0.50 | 1.00 | +10.00 $ |
-| BreakTheBank | Lakers vs. Hawks | Lakers | 0.47 | 1.00 | +11.28 $ |
-| primm | Spread: Bears (-4.5) | Buccaneers | 0.19 | 1.00 | +42.63 $ |
-| primm | Buccaneers vs. Bears | Bears | 0.94 | 1.00 | +0.64 $ |
-| primm | Spread: Bears (-10.5) | Buccaneers | 0.59 | 1.00 | +6.95 $ |
-| primm | Spread: Bears (-9.5) | Bears | 0.54 | 0.00 | -10.00 $ |
-| primm | Spread: Bears (-2.5) | Bears | 0.89 | 1.00 | +1.24 $ |
-| primm | Spread: Bears (-3.5) | Buccaneers | 0.48 | 1.00 | +10.83 $ |
-| primm | Spread: Bears (-9.5) | Buccaneers | 0.79 | 1.00 | +2.66 $ |
-| primm | Spread: Bears (-6.5) | Buccaneers | 0.63 | 1.00 | +5.87 $ |
-| primm | Spread: Bears (-7.5) | Buccaneers | 0.71 | 1.00 | +4.08 $ |
-| primm | Spread: Bears (-5.5) | Buccaneers | 0.61 | 1.00 | +6.39 $ |
-| primm | Spread: Bears (-20.5) | Buccaneers | 0.63 | 1.00 | +5.87 $ |
-| primm | Spread: Bears (-13.5) | Buccaneers | 0.37 | 1.00 | +17.03 $ |
-| primm | Spread: Bears (-17.5) | Bears | 0.43 | 0.00 | -10.00 $ |
-| primm | Spread: Bears (-14.5) | Bears | 0.53 | 0.00 | -10.00 $ |
+| primm | Spread: Bills (-10.5) | Vikings | 0.72 | 0.00 | -10.00 $ |
+| primm | Spread: Bills (-6.5) | Bills | 0.64 | 1.00 | +5.62 $ |
+| primm | Spread: Bills (-10.5) | Bills | 0.41 | 1.00 | +14.39 $ |
+| primm | Bills vs. Vikings: O/U 34.5 | Under | 0.50 | 1.00 | +10.00 $ |
+| primm | Bills vs. Vikings: O/U 34.5 | Over | 0.51 | 0.00 | -10.00 $ |
+| primm | Spread: Bills (-1.5) | Bills | 0.63 | 1.00 | +5.87 $ |
+| primm | Spread: Vikings (-1.5) | Bills | 0.70 | 1.00 | +4.29 $ |
+| primm | Spread: Vikings (-2.5) | Vikings | 0.33 | 0.00 | -10.00 $ |
+| primm | Spread: Bills (-5.5) | Vikings | 0.58 | 0.00 | -10.00 $ |
+| primm | Spread: Vikings (-1.5) | Vikings | 0.34 | 0.00 | -10.00 $ |
+| primm | Bills vs. Vikings: O/U 40.5 | Over | 0.25 | 0.00 | -10.00 $ |
+| primm | Bills vs. Vikings: O/U 40.5 | Under | 0.52 | 1.00 | +9.23 $ |
+| primm | Bills vs. Vikings: O/U 46.5 | Under | 0.61 | 1.00 | +6.39 $ |
+| primm | Spread: Bills (-6.5) | Vikings | 0.59 | 0.00 | -10.00 $ |
+| primm | Bills vs. Vikings: O/U 48.5 | Over | 0.38 | 0.00 | -10.00 $ |
+| primm | Spread: Bills (-4.5) | Bills | 0.40 | 1.00 | +15.00 $ |
+| primm | Spread: Bills (-3.5) | Bills | 0.44 | 1.00 | +12.73 $ |
+| primm | Bills vs. Vikings: O/U 46.5 | Over | 0.44 | 0.00 | -10.00 $ |
+| BreakTheBank | Bills vs. Vikings: O/U 46.5 | Over | 0.49 | 0.00 | -10.00 $ |
+| primm | Bills vs. Vikings | Vikings | 0.37 | 0.00 | -10.00 $ |
+| primm | Spread: Bills (-3.5) | Vikings | 0.52 | 0.00 | -10.00 $ |
+| primm | Spread: Bills (-4.5) | Vikings | 0.55 | 0.00 | -10.00 $ |
+| primm | Spread: Bills (-1.5) | Vikings | 0.40 | 0.00 | -10.00 $ |
+| primm | Bills vs. Vikings: O/U 44.5 | Under | 0.47 | 1.00 | +11.28 $ |
+| primm | Spread: Bills (-2.5) | Vikings | 0.42 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

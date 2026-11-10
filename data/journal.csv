@@ -911,3 +911,33 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-10 04:35 UTC,primm,REGLEMENT,Bills vs. Vikings: O/U 28.5,Under,,0.41,,,24.3902,0.0,-10.0,perdu
 2026-11-10 04:40 UTC,BreakTheBank,REGLEMENT,Spread: Spurs (-7.5),Suns,,0.45,,,22.2222,0.0,-10.0,perdu
 2026-11-10 04:40 UTC,BreakTheBank,REGLEMENT,Spread: Spurs (-9.5),Suns,,0.52,,,19.2308,0.0,-10.0,perdu
+2026-11-10 04:45 UTC,BreakTheBank,REGLEMENT,Spread: Bills (-3.5),Bills,,0.46,,,21.7391,21.74,11.74,gagné
+2026-11-10 04:45 UTC,BreakTheBank,REGLEMENT,Spread: Bills (-4.5),Bills,,0.45,,,22.2222,22.22,12.22,gagné
+2026-11-10 04:45 UTC,BreakTheBank,REGLEMENT,Spread: Bills (-1.5),Bills,,0.6,,,16.6667,16.67,6.67,gagné
+2026-11-10 04:45 UTC,BreakTheBank,REGLEMENT,Spread: Bills (-7.5),Bills,,0.33,,,30.303,30.3,20.3,gagné
+2026-11-10 04:45 UTC,BreakTheBank,REGLEMENT,Spread: Bills (-2.5),Bills,,0.59,,,16.9492,16.95,6.95,gagné
+2026-11-10 04:45 UTC,primm,REGLEMENT,Spread: Bills (-2.5),Vikings,,0.42,,,23.8095,0.0,-10.0,perdu
+2026-11-10 04:45 UTC,primm,REGLEMENT,Bills vs. Vikings: O/U 44.5,Under,,0.47,,,21.2766,21.28,11.28,gagné
+2026-11-10 04:45 UTC,primm,REGLEMENT,Spread: Bills (-1.5),Vikings,,0.4,,,25.0,0.0,-10.0,perdu
+2026-11-10 04:45 UTC,primm,REGLEMENT,Spread: Bills (-4.5),Vikings,,0.55,,,18.1818,0.0,-10.0,perdu
+2026-11-10 04:45 UTC,primm,REGLEMENT,Spread: Bills (-3.5),Vikings,,0.52,,,19.2308,0.0,-10.0,perdu
+2026-11-10 04:45 UTC,primm,REGLEMENT,Bills vs. Vikings,Vikings,,0.37,,,27.027,0.0,-10.0,perdu
+2026-11-10 04:45 UTC,BreakTheBank,REGLEMENT,Bills vs. Vikings: O/U 46.5,Over,,0.49,,,20.4082,0.0,-10.0,perdu
+2026-11-10 04:45 UTC,primm,REGLEMENT,Bills vs. Vikings: O/U 46.5,Over,,0.44,,,22.7273,0.0,-10.0,perdu
+2026-11-10 04:45 UTC,primm,REGLEMENT,Spread: Bills (-3.5),Bills,,0.44,,,22.7273,22.73,12.73,gagné
+2026-11-10 04:45 UTC,primm,REGLEMENT,Spread: Bills (-4.5),Bills,,0.4,,,25.0,25.0,15.0,gagné
+2026-11-10 04:45 UTC,primm,REGLEMENT,Bills vs. Vikings: O/U 48.5,Over,,0.38,,,26.3158,0.0,-10.0,perdu
+2026-11-10 04:45 UTC,primm,REGLEMENT,Spread: Bills (-6.5),Vikings,,0.59,,,16.9492,0.0,-10.0,perdu
+2026-11-10 04:45 UTC,primm,REGLEMENT,Bills vs. Vikings: O/U 46.5,Under,,0.61,,,16.3934,16.39,6.39,gagné
+2026-11-10 04:45 UTC,primm,REGLEMENT,Bills vs. Vikings: O/U 40.5,Under,,0.52,,,19.2308,19.23,9.23,gagné
+2026-11-10 04:45 UTC,primm,REGLEMENT,Bills vs. Vikings: O/U 40.5,Over,,0.25,,,40.0,0.0,-10.0,perdu
+2026-11-10 04:45 UTC,primm,REGLEMENT,Spread: Vikings (-1.5),Vikings,,0.34,,,29.4118,0.0,-10.0,perdu
+2026-11-10 04:45 UTC,primm,REGLEMENT,Spread: Bills (-5.5),Vikings,,0.58,,,17.2414,0.0,-10.0,perdu
+2026-11-10 04:45 UTC,primm,REGLEMENT,Spread: Vikings (-2.5),Vikings,,0.33,,,30.303,0.0,-10.0,perdu
+2026-11-10 04:45 UTC,primm,REGLEMENT,Spread: Vikings (-1.5),Bills,,0.7,,,14.2857,14.29,4.29,gagné
+2026-11-10 04:45 UTC,primm,REGLEMENT,Spread: Bills (-1.5),Bills,,0.63,,,15.873,15.87,5.87,gagné
+2026-11-10 04:45 UTC,primm,REGLEMENT,Bills vs. Vikings: O/U 34.5,Over,,0.51,,,19.6078,0.0,-10.0,perdu
+2026-11-10 04:45 UTC,primm,REGLEMENT,Bills vs. Vikings: O/U 34.5,Under,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-10 04:45 UTC,primm,REGLEMENT,Spread: Bills (-10.5),Bills,,0.41,,,24.3902,24.39,14.39,gagné
+2026-11-10 04:45 UTC,primm,REGLEMENT,Spread: Bills (-6.5),Bills,,0.64,,,15.625,15.62,5.62,gagné
+2026-11-10 04:45 UTC,primm,REGLEMENT,Spread: Bills (-10.5),Vikings,,0.72,,,13.8889,0.0,-10.0,perdu
