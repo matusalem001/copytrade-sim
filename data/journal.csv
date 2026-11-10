@@ -909,3 +909,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-10 04:10 UTC,BreakTheBank,REGLEMENT,Spread: Rockets (-5.5),Rockets,,0.48,,,20.8333,20.83,10.83,gagné
 2026-11-10 04:35 UTC,primm,REGLEMENT,Bills vs. Vikings: O/U 28.5,Over,,0.68,,,14.7059,14.71,4.71,gagné
 2026-11-10 04:35 UTC,primm,REGLEMENT,Bills vs. Vikings: O/U 28.5,Under,,0.41,,,24.3902,0.0,-10.0,perdu
+2026-11-10 04:40 UTC,BreakTheBank,REGLEMENT,Spread: Spurs (-7.5),Suns,,0.45,,,22.2222,0.0,-10.0,perdu
+2026-11-10 04:40 UTC,BreakTheBank,REGLEMENT,Spread: Spurs (-9.5),Suns,,0.52,,,19.2308,0.0,-10.0,perdu
