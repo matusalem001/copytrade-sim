@@ -892,3 +892,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-10 03:00 UTC,BreakTheBank,REGLEMENT,Spread: Pistons (-9.5),Wizards,,0.52,,,19.2308,0.0,-10.0,perdu
 2026-11-10 03:10 UTC,BreakTheBank,REGLEMENT,Grizzlies vs. Raptors,Grizzlies,,0.54,,,18.5185,18.52,8.52,gagné
 2026-11-10 03:10 UTC,BreakTheBank,REGLEMENT,Spread: Grizzlies (-2.5),Grizzlies,,0.47,,,21.2766,21.28,11.28,gagné
+2026-11-10 03:15 UTC,BreakTheBank,ACHAT,Spread: Warriors (-12.5),Warriors,0.44,0.52,8.0,7.5,19.2308,10.0,,
+2026-11-10 03:15 UTC,primm,ACHAT,Bills vs. Vikings: O/U 34.5,Under,0.46,0.5,4.0,2.5,20.0,10.0,,
