@@ -896,3 +896,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-10 03:15 UTC,primm,ACHAT,Bills vs. Vikings: O/U 34.5,Under,0.46,0.5,4.0,2.5,20.0,10.0,,
 2026-11-10 03:25 UTC,primm,IGNORE,Spread: Bears (-5.5),Buccaneers,0.28,,,1412.7,,,,vu trop tard
 2026-11-10 03:25 UTC,primm,IGNORE,Buccaneers vs. Bears: O/U 52.5,Under,0.65,,,1372.8,,,,vu trop tard
+2026-11-10 03:30 UTC,primm,IGNORE,Spread: Bears (-10.5),Buccaneers,0.67,,,1412.9,,,,vu trop tard
+2026-11-10 03:30 UTC,primm,IGNORE,Spread: Bears (-6.5),Buccaneers,0.17,,,1391.1,,,,vu trop tard
