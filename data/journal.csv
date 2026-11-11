@@ -1141,3 +1141,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-11 08:25 UTC,BreakTheBank,IGNORE,Spread: Thunder (-4.5),Trail Blazers,0.6,,,280.1,,,,vu trop tard
 2026-11-11 08:30 UTC,BreakTheBank,IGNORE,Spread: Thunder (-2.5),Trail Blazers,0.54,,,312.3,,,,vu trop tard
 2026-11-11 09:05 UTC,BreakTheBank,IGNORE,Spread: Thunder (-2.5),Trail Blazers,0.54,,,321.0,,,,vu trop tard
+2026-11-11 22:40 UTC,BreakTheBank,IGNORE,Will Josh Hokit win in Round 3?,No,0.91,0.97,,7.4,,,,prix trop haut
