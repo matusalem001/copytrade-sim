@@ -993,3 +993,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-11 00:25 UTC,primm,ACHAT,Kent State vs. Bowling Green: O/U 55.5,Under,0.59,0.66,7.0,4.6,15.1515,10.0,,
 2026-11-11 00:25 UTC,primm,ACHAT,Kent State vs. Bowling Green: O/U 55.5,Over,0.35,0.38,3.0,4.5,26.3158,10.0,,
 2026-11-11 00:25 UTC,primm,ACHAT,Kent State vs. Bowling Green: O/U 49.5,Over,0.54,0.56,2.0,3.6,17.8571,10.0,,
+2026-11-11 00:30 UTC,primm,IGNORE,Spread: Vikings (-1.5),Vikings,0.35,,,1339.8,,,,vu trop tard
+2026-11-11 00:30 UTC,primm,IGNORE,Bills vs. Vikings: O/U 28.5,Over,0.72,,,1339.8,,,,vu trop tard
+2026-11-11 00:30 UTC,primm,IGNORE,Bills vs. Vikings: O/U 28.5,Over,0.62,,,1309.9,,,,vu trop tard
