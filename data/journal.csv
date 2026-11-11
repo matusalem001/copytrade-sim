@@ -1142,3 +1142,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-11 08:30 UTC,BreakTheBank,IGNORE,Spread: Thunder (-2.5),Trail Blazers,0.54,,,312.3,,,,vu trop tard
 2026-11-11 09:05 UTC,BreakTheBank,IGNORE,Spread: Thunder (-2.5),Trail Blazers,0.54,,,321.0,,,,vu trop tard
 2026-11-11 22:40 UTC,BreakTheBank,IGNORE,Will Josh Hokit win in Round 3?,No,0.91,0.97,,7.4,,,,prix trop haut
+2026-11-11 22:50 UTC,primm,ACHAT,Buffalo vs. Ball State: O/U 53.5,Over,0.45,0.46,1.0,8.9,21.7391,10.0,,
+2026-11-11 22:50 UTC,primm,ACHAT,Buffalo vs. Ball State: O/U 49.5,Over,0.57,0.58,1.0,8.9,17.2414,10.0,,
