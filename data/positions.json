@@ -259,6 +259,19 @@
    "parts": 17.8571,
    "montant": 10.0,
    "ouvert_le": "2026-11-11 00:40 UTC"
+  },
+  "primm|67057655107388660913520500926638354876167739342450496571745746173860177113949": {
+   "date": "2026-11-11 00:45 UTC",
+   "trader": "primm",
+   "marche": "Kent State vs. Bowling Green",
+   "resultat": "Kent State",
+   "prix_trader": 0.4,
+   "retard_min": 1.6,
+   "token": "67057655107388660913520500926638354876167739342450496571745746173860177113949",
+   "prix_simule": 0.44,
+   "parts": 22.7273,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-11 00:45 UTC"
   }
  },
  "fermees": [
