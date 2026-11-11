@@ -1033,3 +1033,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-11 02:00 UTC,primm,ACHAT,Spread: Bowling Green (-6.5),Kent State,0.59,0.63,4.0,5.0,15.873,10.0,,
 2026-11-11 02:20 UTC,primm,IGNORE,Spread: Ohio (-7.5),Miami (OH),0.35,0.27,-8.0,2.8,,,,prix a trop chuté (match sans doute joué)
 2026-11-11 02:25 UTC,primm,ACHAT,Spread: Bowling Green (-10.5),Kent State,0.5,0.47,-3.0,1.9,21.2766,10.0,,
+2026-11-11 02:30 UTC,primm,ACHAT,Spread: Ohio (-14.5),Ohio,0.56,0.58,2.0,2.0,17.2414,10.0,,
+2026-11-11 02:30 UTC,primm,ACHAT,Spread: Ohio (-16.5),Ohio,0.53,0.54,1.0,2.0,18.5185,10.0,,
+2026-11-11 02:30 UTC,primm,ACHAT,Ohio vs. Miami (OH): O/U 43.5,Under,0.43,0.47,4.0,2.0,21.2766,10.0,,
+2026-11-11 02:30 UTC,primm,ACHAT,Spread: Ohio (-13.5),Ohio,0.61,0.62,1.0,1.9,16.129,10.0,,
+2026-11-11 02:30 UTC,primm,ACHAT,Ohio vs. Miami (OH): O/U 47.5,Under,0.5874,0.6,1.3,1.9,16.6667,10.0,,
