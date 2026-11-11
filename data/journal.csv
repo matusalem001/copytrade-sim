@@ -1005,3 +1005,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-11 00:50 UTC,primm,IGNORE,Bills vs. Vikings: O/U 34.5,Over,0.35,,,1329.6,,,,vu trop tard
 2026-11-11 00:50 UTC,primm,IGNORE,Bills vs. Vikings: O/U 34.5,Over,0.5,,,1323.2,,,,vu trop tard
 2026-11-11 00:50 UTC,primm,IGNORE,Bills vs. Vikings: O/U 40.5,Over,0.32,,,1317.3,,,,vu trop tard
+2026-11-11 00:55 UTC,BreakTheBank,ACHAT,Spread: Celtics (-3.5),Celtics,0.44,0.45,1.0,7.6,22.2222,10.0,,
+2026-11-11 00:55 UTC,BreakTheBank,ACHAT,Spread: Celtics (-4.5),Celtics,0.4,0.41,1.0,2.2,24.3902,10.0,,
+2026-11-11 00:55 UTC,primm,ACHAT,Spread: Miami (OH) (-1.5),Ohio,0.53,0.54,1.0,9.1,18.5185,10.0,,
+2026-11-11 00:55 UTC,primm,ACHAT,Spread: Ohio (-1.5),Ohio,0.47,0.48,1.0,1.8,20.8333,10.0,,
+2026-11-11 00:55 UTC,primm,ACHAT,Ohio vs. Miami (OH),Ohio,0.51,0.51,0.0,1.7,19.6078,10.0,,
