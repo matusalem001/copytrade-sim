@@ -988,3 +988,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-10 23:40 UTC,primm,IGNORE,Spread: Bears (-7.5),Buccaneers,0.18,,,2600.8,,,,vu trop tard
 2026-11-10 23:40 UTC,primm,IGNORE,Spread: Bills (-2.5),Vikings,0.41,,,1467.2,,,,vu trop tard
 2026-11-11 00:10 UTC,primm,ACHAT,Ohio vs. Miami (OH): O/U 49.5,Over,0.43,0.44,1.0,1.6,22.7273,10.0,,
+2026-11-11 00:15 UTC,primm,IGNORE,Spread: Bills (-2.5),Vikings,0.39,,,1265.2,,,,vu trop tard
