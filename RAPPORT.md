@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-11 03:20 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-11 03:25 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 83 | 47 | 62 | 38 | +122.20 $ | +19.7 % | 21 | +1.1 ¢ | 5 min |
-| primm | 376 | 129 | 338 | 170 | +12.53 $ | +0.4 % | 38 | +3.2 ¢ | 4 min |
+| BreakTheBank | 84 | 47 | 62 | 38 | +122.20 $ | +19.7 % | 22 | +1.1 ¢ | 5 min |
+| primm | 378 | 129 | 341 | 173 | +38.27 $ | +1.1 % | 37 | +3.3 ¢ | 4 min |
 | juice-fruit | 7 | 1 | 7 | 3 | -19.56 $ | -27.9 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : +115.17 $ sur 4070 $ engagés (+2.8 %)**
+**Total réalisé : +140.91 $ sur 4100 $ engagés (+3.4 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,9 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-11 03:20 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Kent State vs. Bowling Green: O/U 45.5 | Over | 0.56 | 1.00 | +7.86 $ |
+| primm | Kent State vs. Bowling Green: O/U 47.5 | Over | 0.66 | 1.00 | +5.15 $ |
+| primm | Kent State vs. Bowling Green: O/U 43.5 | Over | 0.44 | 1.00 | +12.73 $ |
 | primm | Spread: Western Michigan (-14.5) | Akron | 0.48 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Warriors (-12.5) | Warriors | 0.52 | 1.00 | +9.23 $ |
 | BreakTheBank | Spread: Warriors (-11.5) | Warriors | 0.49 | 1.00 | +10.41 $ |
@@ -38,8 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-11 03:20 UTC** 
 | primm | Spread: Bills (-4.5) | Bills | 0.40 | 1.00 | +15.00 $ |
 | primm | Spread: Bills (-3.5) | Bills | 0.44 | 1.00 | +12.73 $ |
 | primm | Bills vs. Vikings: O/U 46.5 | Over | 0.44 | 0.00 | -10.00 $ |
-| BreakTheBank | Bills vs. Vikings: O/U 46.5 | Over | 0.49 | 0.00 | -10.00 $ |
-| primm | Bills vs. Vikings | Vikings | 0.37 | 0.00 | -10.00 $ |
-| primm | Spread: Bills (-3.5) | Vikings | 0.52 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

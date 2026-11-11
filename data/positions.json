@@ -156,19 +156,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-10 22:50 UTC"
   },
-  "primm|7277127947867183165536310389476713730209571563275168916817705544705531620669": {
-   "date": "2026-11-10 23:30 UTC",
-   "trader": "primm",
-   "marche": "Kent State vs. Bowling Green: O/U 43.5",
-   "resultat": "Over",
-   "prix_trader": 0.42,
-   "retard_min": 4.0,
-   "token": "7277127947867183165536310389476713730209571563275168916817705544705531620669",
-   "prix_simule": 0.44,
-   "parts": 22.7273,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-10 23:30 UTC"
-  },
   "primm|12043412721002604930361453071812664765725994574549029190923331213951190255421": {
    "date": "2026-11-11 00:10 UTC",
    "trader": "primm",
@@ -181,19 +168,6 @@
    "parts": 22.7273,
    "montant": 10.0,
    "ouvert_le": "2026-11-11 00:10 UTC"
-  },
-  "primm|54525248301366535188485904217801029135395039190144008135689751081082061270547": {
-   "date": "2026-11-11 00:25 UTC",
-   "trader": "primm",
-   "marche": "Kent State vs. Bowling Green: O/U 47.5",
-   "resultat": "Over",
-   "prix_trader": 0.61,
-   "retard_min": 5.0,
-   "token": "54525248301366535188485904217801029135395039190144008135689751081082061270547",
-   "prix_simule": 0.66,
-   "parts": 15.1515,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-11 00:25 UTC"
   },
   "primm|103479734552101382268037409903389249216032720770175524770975306384386853788046": {
    "date": "2026-11-11 00:25 UTC",
@@ -233,19 +207,6 @@
    "parts": 17.8571,
    "montant": 10.0,
    "ouvert_le": "2026-11-11 00:25 UTC"
-  },
-  "primm|55320251684834251042484538790566522043791085097135246692749015043882240823252": {
-   "date": "2026-11-11 00:40 UTC",
-   "trader": "primm",
-   "marche": "Kent State vs. Bowling Green: O/U 45.5",
-   "resultat": "Over",
-   "prix_trader": 0.55,
-   "retard_min": 2.8,
-   "token": "55320251684834251042484538790566522043791085097135246692749015043882240823252",
-   "prix_simule": 0.56,
-   "parts": 17.8571,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-11 00:40 UTC"
   },
   "primm|67057655107388660913520500926638354876167739342450496571745746173860177113949": {
    "date": "2026-11-11 00:45 UTC",
@@ -766,6 +727,45 @@
    "parts": 19.6078,
    "montant": 10.0,
    "ouvert_le": "2026-11-11 03:15 UTC"
+  },
+  "BreakTheBank|84271288087190837093913740296552838233678887887311897621545780683503965079452": {
+   "date": "2026-11-11 03:25 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Thunder vs. Trail Blazers",
+   "resultat": "Trail Blazers",
+   "prix_trader": 0.46,
+   "retard_min": 6.6,
+   "token": "84271288087190837093913740296552838233678887887311897621545780683503965079452",
+   "prix_simule": 0.48,
+   "parts": 20.8333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-11 03:25 UTC"
+  },
+  "primm|92460512612594678281171424903038906427885591361726543225124075320895532618324": {
+   "date": "2026-11-11 03:25 UTC",
+   "trader": "primm",
+   "marche": "Spread: Kent State (-1.5)",
+   "resultat": "Kent State",
+   "prix_trader": 0.099,
+   "retard_min": 6.9,
+   "token": "92460512612594678281171424903038906427885591361726543225124075320895532618324",
+   "prix_simule": 0.095,
+   "parts": 105.2632,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-11 03:25 UTC"
+  },
+  "primm|88455614982880205952894538000530665630621954861744409165067749861304042779642": {
+   "date": "2026-11-11 03:25 UTC",
+   "trader": "primm",
+   "marche": "Spread: Bowling Green (-1.5)",
+   "resultat": "Bowling Green",
+   "prix_trader": 0.4109,
+   "retard_min": 6.2,
+   "token": "88455614982880205952894538000530665630621954861744409165067749861304042779642",
+   "prix_simule": 0.89,
+   "parts": 11.236,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-11 03:25 UTC"
   }
  },
  "fermees": [
@@ -7687,6 +7687,57 @@
    "pnl": -10.0,
    "ferme_le": "2026-11-11 03:20 UTC",
    "type": "perdu"
+  },
+  {
+   "date": "2026-11-10 23:30 UTC",
+   "trader": "primm",
+   "marche": "Kent State vs. Bowling Green: O/U 43.5",
+   "resultat": "Over",
+   "prix_trader": 0.42,
+   "retard_min": 4.0,
+   "token": "7277127947867183165536310389476713730209571563275168916817705544705531620669",
+   "prix_simule": 0.44,
+   "parts": 22.7273,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-10 23:30 UTC",
+   "sortie": 1.0,
+   "pnl": 12.7273,
+   "ferme_le": "2026-11-11 03:25 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-11 00:25 UTC",
+   "trader": "primm",
+   "marche": "Kent State vs. Bowling Green: O/U 47.5",
+   "resultat": "Over",
+   "prix_trader": 0.61,
+   "retard_min": 5.0,
+   "token": "54525248301366535188485904217801029135395039190144008135689751081082061270547",
+   "prix_simule": 0.66,
+   "parts": 15.1515,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-11 00:25 UTC",
+   "sortie": 1.0,
+   "pnl": 5.1515,
+   "ferme_le": "2026-11-11 03:25 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-11 00:40 UTC",
+   "trader": "primm",
+   "marche": "Kent State vs. Bowling Green: O/U 45.5",
+   "resultat": "Over",
+   "prix_trader": 0.55,
+   "retard_min": 2.8,
+   "token": "55320251684834251042484538790566522043791085097135246692749015043882240823252",
+   "prix_simule": 0.56,
+   "parts": 17.8571,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-11 00:40 UTC",
+   "sortie": 1.0,
+   "pnl": 7.8571,
+   "ferme_le": "2026-11-11 03:25 UTC",
+   "type": "gagné"
   }
  ]
 }
