@@ -155,6 +155,19 @@
    "parts": 28.5714,
    "montant": 10.0,
    "ouvert_le": "2026-11-11 23:25 UTC"
+  },
+  "BreakTheBank|30405602279651360127925271081672782809311474396699236885161637979551123016715": {
+   "date": "2026-11-11 23:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Nuggets (-2.5)",
+   "resultat": "Grizzlies",
+   "prix_trader": 0.45,
+   "retard_min": 3.7,
+   "token": "30405602279651360127925271081672782809311474396699236885161637979551123016715",
+   "prix_simule": 0.47,
+   "parts": 21.2766,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-11 23:30 UTC"
   }
  },
  "fermees": [
