@@ -1017,3 +1017,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-11 01:01 UTC,primm,ACHAT,Spread: Kent State (-3.5),Kent State,0.48,0.48,0.0,1.1,20.8333,10.0,,
 2026-11-11 01:05 UTC,primm,IGNORE,Bills vs. Vikings,Vikings,0.23,,,1313.9,,,,vu trop tard
 2026-11-11 01:05 UTC,primm,IGNORE,Bills vs. Vikings: O/U 34.5,Under,0.46,,,1312.1,,,,vu trop tard
+2026-11-11 01:10 UTC,BreakTheBank,ACHAT,Spread: Celtics (-1.5),Celtics,0.52,0.53,1.0,9.3,18.8679,10.0,,
+2026-11-11 01:10 UTC,BreakTheBank,ACHAT,Spread: Celtics (-2.5),Celtics,0.48,0.49,1.0,5.4,20.4082,10.0,,
