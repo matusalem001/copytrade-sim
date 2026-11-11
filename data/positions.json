@@ -181,6 +181,19 @@
    "parts": 16.6667,
    "montant": 10.0,
    "ouvert_le": "2026-11-11 23:40 UTC"
+  },
+  "BreakTheBank|86795810421184884402814891839036380476183020356775274466199427053485720468062": {
+   "date": "2026-11-11 23:50 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Nets vs. Pelicans",
+   "resultat": "Nets",
+   "prix_trader": 0.42,
+   "retard_min": 4.8,
+   "token": "86795810421184884402814891839036380476183020356775274466199427053485720468062",
+   "prix_simule": 0.43,
+   "parts": 23.2558,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-11 23:50 UTC"
   }
  },
  "fermees": [
