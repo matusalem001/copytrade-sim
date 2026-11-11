@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-11 03:15 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-11 03:20 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 83 | 47 | 62 | 38 | +122.20 $ | +19.7 % | 21 | +1.1 ¢ | 5 min |
-| primm | 376 | 129 | 337 | 170 | +22.53 $ | +0.7 % | 39 | +3.2 ¢ | 4 min |
+| primm | 376 | 129 | 338 | 170 | +12.53 $ | +0.4 % | 38 | +3.2 ¢ | 4 min |
 | juice-fruit | 7 | 1 | 7 | 3 | -19.56 $ | -27.9 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : +125.17 $ sur 4060 $ engagés (+3.1 %)**
+**Total réalisé : +115.17 $ sur 4070 $ engagés (+2.8 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-11 03:15 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Western Michigan (-14.5) | Akron | 0.48 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Warriors (-12.5) | Warriors | 0.52 | 1.00 | +9.23 $ |
 | BreakTheBank | Spread: Warriors (-11.5) | Warriors | 0.49 | 1.00 | +10.41 $ |
 | BreakTheBank | Bills vs. Vikings | Bills | 0.63 | 1.00 | +5.87 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-11 03:15 UTC** 
 | BreakTheBank | Bills vs. Vikings: O/U 46.5 | Over | 0.49 | 0.00 | -10.00 $ |
 | primm | Bills vs. Vikings | Vikings | 0.37 | 0.00 | -10.00 $ |
 | primm | Spread: Bills (-3.5) | Vikings | 0.52 | 0.00 | -10.00 $ |
-| primm | Spread: Bills (-4.5) | Vikings | 0.55 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

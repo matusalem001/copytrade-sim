@@ -39,19 +39,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-10 09:30 UTC"
   },
-  "primm|81692608066391072647600283853074414369666882469343836399464256601089305165016": {
-   "date": "2026-11-10 17:30 UTC",
-   "trader": "primm",
-   "marche": "Spread: Western Michigan (-14.5)",
-   "resultat": "Akron",
-   "prix_trader": 0.48,
-   "retard_min": 5.5,
-   "token": "81692608066391072647600283853074414369666882469343836399464256601089305165016",
-   "prix_simule": 0.48,
-   "parts": 20.8333,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-10 17:30 UTC"
-  },
   "BreakTheBank|15005653350202922348701786607519856020257461135905285631675545513297078700601": {
    "date": "2026-11-10 20:45 UTC",
    "trader": "BreakTheBank",
@@ -7683,6 +7670,23 @@
    "pnl": 9.2308,
    "ferme_le": "2026-11-10 05:45 UTC",
    "type": "gagné"
+  },
+  {
+   "date": "2026-11-10 17:30 UTC",
+   "trader": "primm",
+   "marche": "Spread: Western Michigan (-14.5)",
+   "resultat": "Akron",
+   "prix_trader": 0.48,
+   "retard_min": 5.5,
+   "token": "81692608066391072647600283853074414369666882469343836399464256601089305165016",
+   "prix_simule": 0.48,
+   "parts": 20.8333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-10 17:30 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-11 03:20 UTC",
+   "type": "perdu"
   }
  ]
 }
