@@ -1093,3 +1093,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-11 04:35 UTC,primm,IGNORE,Kent State vs. Bowling Green,Bowling Green,0.44,,,76.7,,,,vu trop tard
 2026-11-11 04:35 UTC,primm,IGNORE,Kent State vs. Bowling Green,Bowling Green,0.44,,,76.7,,,,vu trop tard
 2026-11-11 04:40 UTC,primm,IGNORE,Kent State vs. Bowling Green,Bowling Green,0.44,,,81.8,,,,vu trop tard
+2026-11-11 04:45 UTC,BreakTheBank,REGLEMENT,Spread: Suns (-3.5),Clippers,,0.51,,,19.6078,0.0,-10.0,perdu
+2026-11-11 04:45 UTC,BreakTheBank,REGLEMENT,Spread: Clippers (-1.5),Clippers,,0.38,,,26.3158,0.0,-10.0,perdu
+2026-11-11 04:45 UTC,BreakTheBank,REGLEMENT,Spread: Suns (-2.5),Clippers,,0.47,,,21.2766,0.0,-10.0,perdu
+2026-11-11 04:45 UTC,BreakTheBank,REGLEMENT,Clippers vs. Suns,Clippers,,0.4,,,25.0,0.0,-10.0,perdu
