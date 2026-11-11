@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-11 07:15 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-11 07:20 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 85 | 50 | 80 | 47 | +127.32 $ | +15.9 % | 5 | +1.1 ¢ | 6 min |
+| BreakTheBank | 85 | 50 | 81 | 47 | +125.32 $ | +15.5 % | 4 | +1.1 ¢ | 6 min |
 | primm | 381 | 137 | 381 | 189 | -42.86 $ | -1.1 % | 0 | +3.3 ¢ | 4 min |
 | juice-fruit | 7 | 1 | 7 | 3 | -19.56 $ | -27.9 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : +64.90 $ sur 4680 $ engagés (+1.4 %)**
+**Total réalisé : +62.90 $ sur 4690 $ engagés (+1.3 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-11 07:15 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Jensen Huang divorce by December 31, 2026? | Yes | 0.10 | 0.08 | -2.00 $ |
 | BreakTheBank | Spread: Thunder (-4.5) | Trail Blazers | 0.61 | 1.00 | +6.39 $ |
 | BreakTheBank | Thunder vs. Trail Blazers | Trail Blazers | 0.48 | 1.00 | +10.83 $ |
 | BreakTheBank | Spread: Thunder (-2.5) | Trail Blazers | 0.55 | 1.00 | +8.18 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-11 07:15 UTC** 
 | primm | Ohio vs. Miami (OH): O/U 49.5 | Under | 0.57 | 0.00 | -10.00 $ |
 | primm | Ohio vs. Miami (OH): O/U 37.5 | Under | 0.26 | 0.00 | -10.00 $ |
 | primm | Ohio vs. Miami (OH): O/U 47.5 | Under | 0.60 | 0.00 | -10.00 $ |
-| primm | Ohio vs. Miami (OH): O/U 43.5 | Under | 0.47 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

@@ -1128,3 +1128,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-11 06:50 UTC,BreakTheBank,REGLEMENT,Spread: Thunder (-4.5),Trail Blazers,,0.61,,,16.3934,16.39,6.39,gagné
 2026-11-11 07:05 UTC,BreakTheBank,IGNORE,Spread: Magic (-6.5),Kings,0.54,,,259.5,,,,vu trop tard
 2026-11-11 07:10 UTC,BreakTheBank,IGNORE,Thunder vs. Trail Blazers,Trail Blazers,0.46,,,230.7,,,,vu trop tard
+2026-11-11 07:20 UTC,BreakTheBank,VENTE,"Jensen Huang divorce by December 31, 2026?",Yes,0.1,0.08,,3.9,100.0,8.0,-2.0,
