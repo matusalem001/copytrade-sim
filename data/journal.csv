@@ -1097,3 +1097,10 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-11 04:45 UTC,BreakTheBank,REGLEMENT,Spread: Clippers (-1.5),Clippers,,0.38,,,26.3158,0.0,-10.0,perdu
 2026-11-11 04:45 UTC,BreakTheBank,REGLEMENT,Spread: Suns (-2.5),Clippers,,0.47,,,21.2766,0.0,-10.0,perdu
 2026-11-11 04:45 UTC,BreakTheBank,REGLEMENT,Clippers vs. Suns,Clippers,,0.4,,,25.0,0.0,-10.0,perdu
+2026-11-11 05:00 UTC,primm,REGLEMENT,Ohio vs. Miami (OH): O/U 47.5,Over,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-11 05:00 UTC,primm,REGLEMENT,Ohio vs. Miami (OH): O/U 43.5,Over,,0.62,,,16.129,16.13,6.13,gagné
+2026-11-11 05:00 UTC,primm,REGLEMENT,Ohio vs. Miami (OH): O/U 49.5,Over,,0.44,,,22.7273,22.73,12.73,gagné
+2026-11-11 05:00 UTC,primm,REGLEMENT,Ohio vs. Miami (OH): O/U 43.5,Under,,0.47,,,21.2766,0.0,-10.0,perdu
+2026-11-11 05:00 UTC,primm,REGLEMENT,Ohio vs. Miami (OH): O/U 47.5,Under,,0.6,,,16.6667,0.0,-10.0,perdu
+2026-11-11 05:00 UTC,primm,REGLEMENT,Ohio vs. Miami (OH): O/U 37.5,Under,,0.26,,,38.4615,0.0,-10.0,perdu
+2026-11-11 05:00 UTC,primm,REGLEMENT,Ohio vs. Miami (OH): O/U 49.5,Under,,0.57,,,17.5439,0.0,-10.0,perdu
