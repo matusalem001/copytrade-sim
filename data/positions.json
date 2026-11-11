@@ -727,6 +727,32 @@
    "parts": 20.4082,
    "montant": 10.0,
    "ouvert_le": "2026-11-11 02:48 UTC"
+  },
+  "BreakTheBank|4911783685967451564238408411814739382320234455634007488777335092844871190019": {
+   "date": "2026-11-11 02:55 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Magic (-4.5)",
+   "resultat": "Kings",
+   "prix_trader": 0.47,
+   "retard_min": 6.3,
+   "token": "4911783685967451564238408411814739382320234455634007488777335092844871190019",
+   "prix_simule": 0.48,
+   "parts": 20.8333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-11 02:55 UTC"
+  },
+  "BreakTheBank|12774065999277410600423742732174183306239882775789886219819132150336573076725": {
+   "date": "2026-11-11 02:55 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Magic (-1.5)",
+   "resultat": "Kings",
+   "prix_trader": 0.36,
+   "retard_min": 3.9,
+   "token": "12774065999277410600423742732174183306239882775789886219819132150336573076725",
+   "prix_simule": 0.38,
+   "parts": 26.3158,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-11 02:55 UTC"
   }
  },
  "fermees": [
