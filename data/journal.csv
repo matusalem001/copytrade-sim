@@ -1154,3 +1154,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-11 23:00 UTC,primm,IGNORE,Ohio vs. Miami (OH): O/U 47.5,Over,0.52,,,1248.7,,,,vu trop tard
 2026-11-11 23:25 UTC,BreakTheBank,ACHAT,Celtics vs. Raptors,Raptors,0.34,0.35,1.0,5.8,28.5714,10.0,,
 2026-11-11 23:30 UTC,BreakTheBank,ACHAT,Spread: Nuggets (-2.5),Grizzlies,0.45,0.47,2.0,3.7,21.2766,10.0,,
+2026-11-11 23:40 UTC,BreakTheBank,ACHAT,Wizards vs. Pacers,Pacers,0.59,0.6,1.0,1.3,16.6667,10.0,,
