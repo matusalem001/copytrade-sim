@@ -532,6 +532,45 @@
    "parts": 35.7143,
    "montant": 10.0,
    "ouvert_le": "2026-11-11 01:50 UTC"
+  },
+  "BreakTheBank|42244241051145802781230559112968113644481209927152821708068457863420602075932": {
+   "date": "2026-11-11 02:00 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Suns (-2.5)",
+   "resultat": "Clippers",
+   "prix_trader": 0.46,
+   "retard_min": 8.1,
+   "token": "42244241051145802781230559112968113644481209927152821708068457863420602075932",
+   "prix_simule": 0.47,
+   "parts": 21.2766,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-11 02:00 UTC"
+  },
+  "BreakTheBank|43687102424840778193549147007256905475309842645480378994719764257112565181230": {
+   "date": "2026-11-11 02:00 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Clippers vs. Suns",
+   "resultat": "Clippers",
+   "prix_trader": 0.39,
+   "retard_min": 0.6,
+   "token": "43687102424840778193549147007256905475309842645480378994719764257112565181230",
+   "prix_simule": 0.4,
+   "parts": 25.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-11 02:00 UTC"
+  },
+  "primm|52117121674822973651001522870234762527397696946909435153414882665890944118420": {
+   "date": "2026-11-11 02:00 UTC",
+   "trader": "primm",
+   "marche": "Spread: Bowling Green (-6.5)",
+   "resultat": "Kent State",
+   "prix_trader": 0.59,
+   "retard_min": 5.0,
+   "token": "52117121674822973651001522870234762527397696946909435153414882665890944118420",
+   "prix_simule": 0.63,
+   "parts": 15.873,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-11 02:00 UTC"
   }
  },
  "fermees": [
