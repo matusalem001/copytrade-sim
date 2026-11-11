@@ -142,6 +142,19 @@
    "parts": 20.8333,
    "montant": 10.0,
    "ouvert_le": "2026-11-11 23:00 UTC"
+  },
+  "BreakTheBank|91027047039515555078480262066003399273625964896522601460638681904234161231814": {
+   "date": "2026-11-11 23:25 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Celtics vs. Raptors",
+   "resultat": "Raptors",
+   "prix_trader": 0.34,
+   "retard_min": 5.8,
+   "token": "91027047039515555078480262066003399273625964896522601460638681904234161231814",
+   "prix_simule": 0.35,
+   "parts": 28.5714,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-11 23:25 UTC"
   }
  },
  "fermees": [
