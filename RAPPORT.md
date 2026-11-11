@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-11 05:01 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-11 05:05 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 85 | 47 | 72 | 44 | +151.91 $ | +21.1 % | 13 | +1.1 ¢ | 6 min |
-| primm | 381 | 137 | 368 | 186 | +11.41 $ | +0.3 % | 13 | +3.3 ¢ | 4 min |
+| primm | 381 | 137 | 379 | 188 | -58.57 $ | -1.5 % | 2 | +3.3 ¢ | 4 min |
 | juice-fruit | 7 | 1 | 7 | 3 | -19.56 $ | -27.9 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : +143.76 $ sur 4470 $ engagés (+3.2 %)**
+**Total réalisé : +73.78 $ sur 4580 $ engagés (+1.6 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,17 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-11 05:01 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Ohio (-2.5) | Miami (OH) | 0.51 | 1.00 | +9.61 $ |
+| primm | Spread: Ohio (-1.5) | Miami (OH) | 0.49 | 1.00 | +10.41 $ |
+| primm | Spread: Miami (OH) (-3.5) | Ohio | 0.73 | 0.00 | -10.00 $ |
+| primm | Spread: Ohio (-7.5) | Ohio | 0.55 | 0.00 | -10.00 $ |
+| primm | Spread: Ohio (-13.5) | Ohio | 0.62 | 0.00 | -10.00 $ |
+| primm | Spread: Ohio (-16.5) | Ohio | 0.54 | 0.00 | -10.00 $ |
+| primm | Spread: Ohio (-14.5) | Ohio | 0.58 | 0.00 | -10.00 $ |
+| primm | Ohio vs. Miami (OH): O/U 51.5 | Over | 0.38 | 0.00 | -10.00 $ |
+| primm | Spread: Miami (OH) (-2.5) | Ohio | 0.56 | 0.00 | -10.00 $ |
+| primm | Spread: Ohio (-1.5) | Ohio | 0.48 | 0.00 | -10.00 $ |
+| primm | Spread: Miami (OH) (-1.5) | Ohio | 0.54 | 0.00 | -10.00 $ |
 | primm | Ohio vs. Miami (OH): O/U 49.5 | Under | 0.57 | 0.00 | -10.00 $ |
 | primm | Ohio vs. Miami (OH): O/U 37.5 | Under | 0.26 | 0.00 | -10.00 $ |
 | primm | Ohio vs. Miami (OH): O/U 47.5 | Under | 0.60 | 0.00 | -10.00 $ |
@@ -30,16 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-11 05:01 UTC** 
 | primm | Spread: Bowling Green (-5.5) | Kent State | 0.54 | 1.00 | +8.52 $ |
 | primm | Spread: Bowling Green (-1.5) | Bowling Green | 0.89 | 1.00 | +1.24 $ |
 | primm | Spread: Kent State (-1.5) | Kent State | 0.10 | 0.00 | -10.00 $ |
-| primm | Spread: Bowling Green (-7.5) | Kent State | 0.49 | 1.00 | +10.41 $ |
-| primm | Spread: Bowling Green (-10.5) | Kent State | 0.47 | 1.00 | +11.28 $ |
-| primm | Spread: Bowling Green (-6.5) | Kent State | 0.63 | 1.00 | +5.87 $ |
-| primm | Spread: Bowling Green (-3.5) | Kent State | 0.64 | 0.00 | -10.00 $ |
-| primm | Spread: Bowling Green (-1.5) | Kent State | 0.47 | 0.00 | -10.00 $ |
-| primm | Spread: Bowling Green (-4.5) | Kent State | 0.66 | 0.00 | -10.00 $ |
-| primm | Spread: Bowling Green (-2.5) | Kent State | 0.47 | 0.00 | -10.00 $ |
-| primm | Spread: Kent State (-3.5) | Kent State | 0.48 | 0.00 | -10.00 $ |
-| primm | Kent State vs. Bowling Green | Kent State | 0.44 | 0.00 | -10.00 $ |
-| primm | Spread: Bowling Green (-3.5) | Bowling Green | 0.55 | 1.00 | +8.18 $ |
-| primm | Spread: Bowling Green (-5.5) | Bowling Green | 0.50 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
