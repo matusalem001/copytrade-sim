@@ -129,6 +129,19 @@
    "parts": 24.3902,
    "montant": 10.0,
    "ouvert_le": "2026-11-11 22:55 UTC"
+  },
+  "BreakTheBank|75693754841964507763873483976222615575432949586133446617192906022591877194234": {
+   "date": "2026-11-11 23:00 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Pacers (-3.5)",
+   "resultat": "Pacers",
+   "prix_trader": 0.47,
+   "retard_min": 6.6,
+   "token": "75693754841964507763873483976222615575432949586133446617192906022591877194234",
+   "prix_simule": 0.48,
+   "parts": 20.8333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-11 23:00 UTC"
   }
  },
  "fermees": [
