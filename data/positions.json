@@ -428,6 +428,19 @@
    "parts": 21.2766,
    "montant": 10.0,
    "ouvert_le": "2026-11-11 01:15 UTC"
+  },
+  "BreakTheBank|44660173368409116729493049106557758023026217489715871948202782977885050562106": {
+   "date": "2026-11-11 01:20 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Suns (-3.5)",
+   "resultat": "Clippers",
+   "prix_trader": 0.5,
+   "retard_min": 6.9,
+   "token": "44660173368409116729493049106557758023026217489715871948202782977885050562106",
+   "prix_simule": 0.51,
+   "parts": 19.6078,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-11 01:20 UTC"
   }
  },
  "fermees": [
