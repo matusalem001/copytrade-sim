@@ -1015,3 +1015,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-11 01:00 UTC,BreakTheBank,ACHAT,Celtics vs. 76ers,Celtics,0.54,0.55,1.0,2.1,18.1818,10.0,,
 2026-11-11 01:00 UTC,primm,ACHAT,Spread: Miami (OH) (-2.5),Ohio,0.55,0.56,1.0,3.4,17.8571,10.0,,
 2026-11-11 01:01 UTC,primm,ACHAT,Spread: Kent State (-3.5),Kent State,0.48,0.48,0.0,1.1,20.8333,10.0,,
+2026-11-11 01:05 UTC,primm,IGNORE,Bills vs. Vikings,Vikings,0.23,,,1313.9,,,,vu trop tard
+2026-11-11 01:05 UTC,primm,IGNORE,Bills vs. Vikings: O/U 34.5,Under,0.46,,,1312.1,,,,vu trop tard
