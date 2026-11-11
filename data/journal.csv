@@ -1156,3 +1156,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-11 23:30 UTC,BreakTheBank,ACHAT,Spread: Nuggets (-2.5),Grizzlies,0.45,0.47,2.0,3.7,21.2766,10.0,,
 2026-11-11 23:40 UTC,BreakTheBank,ACHAT,Wizards vs. Pacers,Pacers,0.59,0.6,1.0,1.3,16.6667,10.0,,
 2026-11-11 23:50 UTC,BreakTheBank,ACHAT,Nets vs. Pelicans,Nets,0.42,0.43,1.0,4.8,23.2558,10.0,,
+2026-11-11 23:55 UTC,BreakTheBank,ACHAT,Spread: Pelicans (-3.5),Nets,0.53,0.54,1.0,8.8,18.5185,10.0,,
+2026-11-11 23:55 UTC,BreakTheBank,ACHAT,Nuggets vs. Grizzlies,Grizzlies,0.4,0.41,1.0,8.1,24.3902,10.0,,
+2026-11-11 23:55 UTC,BreakTheBank,ACHAT,Spread: Nuggets (-1.5),Grizzlies,0.42,0.43,1.0,7.8,23.2558,10.0,,
