@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-11 05:05 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-11 05:10 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 85 | 47 | 72 | 44 | +151.91 $ | +21.1 % | 13 | +1.1 ¢ | 6 min |
-| primm | 381 | 137 | 379 | 188 | -58.57 $ | -1.5 % | 2 | +3.3 ¢ | 4 min |
+| primm | 381 | 137 | 381 | 189 | -42.86 $ | -1.1 % | 0 | +3.3 ¢ | 4 min |
 | juice-fruit | 7 | 1 | 7 | 3 | -19.56 $ | -27.9 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : +73.78 $ sur 4580 $ engagés (+1.6 %)**
+**Total réalisé : +89.49 $ sur 4600 $ engagés (+1.9 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-11 05:05 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Ohio vs. Miami (OH) | Miami (OH) | 0.28 | 1.00 | +25.71 $ |
+| primm | Ohio vs. Miami (OH) | Ohio | 0.51 | 0.00 | -10.00 $ |
 | primm | Spread: Ohio (-2.5) | Miami (OH) | 0.51 | 1.00 | +9.61 $ |
 | primm | Spread: Ohio (-1.5) | Miami (OH) | 0.49 | 1.00 | +10.41 $ |
 | primm | Spread: Miami (OH) (-3.5) | Ohio | 0.73 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-11 05:05 UTC** 
 | BreakTheBank | Spread: Clippers (-1.5) | Clippers | 0.38 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Suns (-3.5) | Clippers | 0.51 | 0.00 | -10.00 $ |
 | primm | Spread: Bowling Green (-5.5) | Kent State | 0.54 | 1.00 | +8.52 $ |
-| primm | Spread: Bowling Green (-1.5) | Bowling Green | 0.89 | 1.00 | +1.24 $ |
-| primm | Spread: Kent State (-1.5) | Kent State | 0.10 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

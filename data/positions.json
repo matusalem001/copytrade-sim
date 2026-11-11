@@ -65,32 +65,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-10 22:10 UTC"
   },
-  "primm|114446928263623830989779780229006318898805006903060368914124552644449653744623": {
-   "date": "2026-11-11 00:55 UTC",
-   "trader": "primm",
-   "marche": "Ohio vs. Miami (OH)",
-   "resultat": "Ohio",
-   "prix_trader": 0.51,
-   "retard_min": 1.7,
-   "token": "114446928263623830989779780229006318898805006903060368914124552644449653744623",
-   "prix_simule": 0.51,
-   "parts": 19.6078,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-11 00:55 UTC"
-  },
-  "primm|81184959633084168360248779103888919876147029879940854231521320476329273420384": {
-   "date": "2026-11-11 01:50 UTC",
-   "trader": "primm",
-   "marche": "Ohio vs. Miami (OH)",
-   "resultat": "Miami (OH)",
-   "prix_trader": 0.27,
-   "retard_min": 1.6,
-   "token": "81184959633084168360248779103888919876147029879940854231521320476329273420384",
-   "prix_simule": 0.28,
-   "parts": 35.7143,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-11 01:50 UTC"
-  },
   "BreakTheBank|90855781074674405444460545339369775110680885375311616936957226495058652067195": {
    "date": "2026-11-11 02:35 UTC",
    "trader": "BreakTheBank",
@@ -7981,6 +7955,40 @@
    "sortie": 1.0,
    "pnl": 9.6078,
    "ferme_le": "2026-11-11 05:05 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-11 00:55 UTC",
+   "trader": "primm",
+   "marche": "Ohio vs. Miami (OH)",
+   "resultat": "Ohio",
+   "prix_trader": 0.51,
+   "retard_min": 1.7,
+   "token": "114446928263623830989779780229006318898805006903060368914124552644449653744623",
+   "prix_simule": 0.51,
+   "parts": 19.6078,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-11 00:55 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-11 05:10 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-11 01:50 UTC",
+   "trader": "primm",
+   "marche": "Ohio vs. Miami (OH)",
+   "resultat": "Miami (OH)",
+   "prix_trader": 0.27,
+   "retard_min": 1.6,
+   "token": "81184959633084168360248779103888919876147029879940854231521320476329273420384",
+   "prix_simule": 0.28,
+   "parts": 35.7143,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-11 01:50 UTC",
+   "sortie": 1.0,
+   "pnl": 25.7143,
+   "ferme_le": "2026-11-11 05:10 UTC",
    "type": "gagné"
   }
  ]
