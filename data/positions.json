@@ -649,6 +649,19 @@
    "parts": 16.6667,
    "montant": 10.0,
    "ouvert_le": "2026-11-11 02:30 UTC"
+  },
+  "BreakTheBank|90855781074674405444460545339369775110680885375311616936957226495058652067195": {
+   "date": "2026-11-11 02:35 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Magic (-3.5)",
+   "resultat": "Kings",
+   "prix_trader": 0.43,
+   "retard_min": 0.4,
+   "token": "90855781074674405444460545339369775110680885375311616936957226495058652067195",
+   "prix_simule": 0.44,
+   "parts": 22.7273,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-11 02:35 UTC"
   }
  },
  "fermees": [

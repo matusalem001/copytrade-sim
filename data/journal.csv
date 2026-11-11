@@ -1038,3 +1038,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-11 02:30 UTC,primm,ACHAT,Ohio vs. Miami (OH): O/U 43.5,Under,0.43,0.47,4.0,2.0,21.2766,10.0,,
 2026-11-11 02:30 UTC,primm,ACHAT,Spread: Ohio (-13.5),Ohio,0.61,0.62,1.0,1.9,16.129,10.0,,
 2026-11-11 02:30 UTC,primm,ACHAT,Ohio vs. Miami (OH): O/U 47.5,Under,0.5874,0.6,1.3,1.9,16.6667,10.0,,
+2026-11-11 02:35 UTC,BreakTheBank,ACHAT,Spread: Magic (-3.5),Kings,0.43,0.44,1.0,0.4,22.7273,10.0,,
