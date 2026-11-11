@@ -1126,3 +1126,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-11 06:50 UTC,BreakTheBank,REGLEMENT,Spread: Thunder (-2.5),Trail Blazers,,0.55,,,18.1818,18.18,8.18,gagné
 2026-11-11 06:50 UTC,BreakTheBank,REGLEMENT,Thunder vs. Trail Blazers,Trail Blazers,,0.48,,,20.8333,20.83,10.83,gagné
 2026-11-11 06:50 UTC,BreakTheBank,REGLEMENT,Spread: Thunder (-4.5),Trail Blazers,,0.61,,,16.3934,16.39,6.39,gagné
+2026-11-11 07:05 UTC,BreakTheBank,IGNORE,Spread: Magic (-6.5),Kings,0.54,,,259.5,,,,vu trop tard
