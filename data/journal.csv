@@ -1040,3 +1040,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-11 02:30 UTC,primm,ACHAT,Ohio vs. Miami (OH): O/U 47.5,Under,0.5874,0.6,1.3,1.9,16.6667,10.0,,
 2026-11-11 02:35 UTC,BreakTheBank,ACHAT,Spread: Magic (-3.5),Kings,0.43,0.44,1.0,0.4,22.7273,10.0,,
 2026-11-11 02:40 UTC,primm,ACHAT,Ohio vs. Miami (OH): O/U 37.5,Under,0.28,0.26,-2.0,5.3,38.4615,10.0,,
+2026-11-11 02:48 UTC,BreakTheBank,ACHAT,Spread: Thunder (-2.5),Trail Blazers,0.54,0.55,1.0,4.3,18.1818,10.0,,
+2026-11-11 02:48 UTC,BreakTheBank,ACHAT,Spread: Magic (-6.5),Kings,0.54,0.55,1.0,3.2,18.1818,10.0,,
+2026-11-11 02:48 UTC,primm,ACHAT,Ohio vs. Miami (OH): O/U 49.5,Under,0.56,0.57,1.0,6.8,17.5439,10.0,,
+2026-11-11 02:48 UTC,primm,ACHAT,Spread: Bowling Green (-7.5),Kent State,0.49,0.49,0.0,2.6,20.4082,10.0,,
