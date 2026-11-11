@@ -1010,3 +1010,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-11 00:55 UTC,primm,ACHAT,Spread: Miami (OH) (-1.5),Ohio,0.53,0.54,1.0,9.1,18.5185,10.0,,
 2026-11-11 00:55 UTC,primm,ACHAT,Spread: Ohio (-1.5),Ohio,0.47,0.48,1.0,1.8,20.8333,10.0,,
 2026-11-11 00:55 UTC,primm,ACHAT,Ohio vs. Miami (OH),Ohio,0.51,0.51,0.0,1.7,19.6078,10.0,,
+2026-11-11 01:00 UTC,BreakTheBank,IGNORE,Spread: Warriors (-11.5),Warriors,0.48,,,1313.3,,,,vu trop tard
+2026-11-11 01:00 UTC,BreakTheBank,ACHAT,Spread: Celtics (-5.5),Celtics,0.37,0.39,2.0,3.4,25.641,10.0,,
+2026-11-11 01:00 UTC,BreakTheBank,ACHAT,Celtics vs. 76ers,Celtics,0.54,0.55,1.0,2.1,18.1818,10.0,,
+2026-11-11 01:00 UTC,primm,ACHAT,Spread: Miami (OH) (-2.5),Ohio,0.55,0.56,1.0,3.4,17.8571,10.0,,
+2026-11-11 01:01 UTC,primm,ACHAT,Spread: Kent State (-3.5),Kent State,0.48,0.48,0.0,1.1,20.8333,10.0,,
