@@ -181,6 +181,19 @@
    "parts": 35.7143,
    "montant": 10.0,
    "ouvert_le": "2026-11-12 23:30 UTC"
+  },
+  "BreakTheBank|11153737756118877283958729454693494298466079836756591727178781104409633990366": {
+   "date": "2026-11-12 23:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: 76ers (-5.5)",
+   "resultat": "Raptors",
+   "prix_trader": 0.42,
+   "retard_min": 4.7,
+   "token": "11153737756118877283958729454693494298466079836756591727178781104409633990366",
+   "prix_simule": 0.43,
+   "parts": 23.2558,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-12 23:45 UTC"
   }
  },
  "fermees": [
