@@ -1195,3 +1195,17 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-12 01:10 UTC,primm,ACHAT,UMass vs. Toledo: O/U 41.5,Under,0.3,0.31,1.0,1.0,32.2581,10.0,,
 2026-11-12 01:15 UTC,primm,IGNORE,Kent State vs. Bowling Green: O/U 55.5,Over,0.56,,,1315.4,,,,vu trop tard
 2026-11-12 01:15 UTC,primm,IGNORE,Spread: Miami (OH) (-3.5),Miami (OH),0.4,,,1249.3,,,,vu trop tard
+2026-11-12 01:20 UTC,BreakTheBank,ACHAT,"UFC 334: Amanda Nunes vs. Kayla Harrison (Women's Bantamweight, Main Card)",Kayla Harrison,0.62,0.63,1.0,9.0,15.873,10.0,,
+2026-11-12 01:20 UTC,primm,ACHAT,UMass vs. Toledo,Toledo,0.9,0.95,5.0,8.6,10.5263,10.0,,
+2026-11-12 01:20 UTC,primm,IGNORE,Buffalo vs. Ball State: O/U 47.5,Under,0.69,0.55,-14.0,6.9,,,,prix a trop chuté (match sans doute joué)
+2026-11-12 01:20 UTC,primm,IGNORE,Buffalo vs. Ball State: O/U 41.5,Under,0.53,0.39,-14.0,6.9,,,,prix a trop chuté (match sans doute joué)
+2026-11-12 01:20 UTC,primm,IGNORE,Buffalo vs. Ball State: O/U 35.5,Under,0.36,0.22,-14.0,6.7,,,,prix a trop chuté (match sans doute joué)
+2026-11-12 01:20 UTC,primm,IGNORE,Buffalo vs. Ball State: O/U 41.5,Under,0.53,0.39,-14.0,6.7,,,,prix a trop chuté (match sans doute joué)
+2026-11-12 01:20 UTC,primm,ACHAT,Buffalo vs. Ball State: O/U 47.5,Over,0.42,0.46,4.0,5.6,21.7391,10.0,,
+2026-11-12 01:20 UTC,primm,ACHAT,Sacramento State vs. Central Michigan: O/U 35.5,Under,0.51,0.52,1.0,5.0,19.2308,10.0,,
+2026-11-12 01:20 UTC,primm,ACHAT,Spread: Toledo (-27.5),Toledo,0.35,0.39,4.0,4.4,25.641,10.0,,
+2026-11-12 01:20 UTC,primm,ACHAT,Spread: Toledo (-30.5),Toledo,0.31,0.31,0.0,4.1,32.2581,10.0,,
+2026-11-12 01:20 UTC,primm,ACHAT,Spread: Toledo (-24.5),Toledo,0.44,0.44,0.0,3.1,22.7273,10.0,,
+2026-11-12 01:20 UTC,primm,ACHAT,Spread: Toledo (-31.5),Toledo,0.27,0.33,6.0,2.6,30.303,10.0,,
+2026-11-12 01:20 UTC,primm,ACHAT,Buffalo vs. Ball State: O/U 41.5,Under,0.38,0.39,1.0,0.9,25.641,10.0,,
+2026-11-12 01:20 UTC,primm,ACHAT,Buffalo vs. Ball State: O/U 47.5,Under,0.54,0.55,1.0,0.9,18.1818,10.0,,
