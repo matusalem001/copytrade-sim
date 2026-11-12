@@ -181,6 +181,19 @@
    "parts": 27.027,
    "montant": 10.0,
    "ouvert_le": "2026-11-12 19:35 UTC"
+  },
+  "juice-fruit|17521445279536909646348548722839415922466518283021361085303000206552426009209": {
+   "date": "2026-11-12 20:40 UTC",
+   "trader": "juice-fruit",
+   "marche": "WTA Finals, Group A: Marta Kostyuk vs Coco Gauff",
+   "resultat": "Marta Kostyuk",
+   "prix_trader": 0.2211,
+   "retard_min": 5.3,
+   "token": "17521445279536909646348548722839415922466518283021361085303000206552426009209",
+   "prix_simule": 0.18,
+   "parts": 55.5556,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-12 20:40 UTC"
   }
  },
  "fermees": [
