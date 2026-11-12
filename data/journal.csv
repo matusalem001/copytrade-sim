@@ -1354,3 +1354,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-12 20:40 UTC,juice-fruit,IGNORE,"WTA Finals, Group A: Marta Kostyuk vs Coco Gauff",Marta Kostyuk,0.23,0.18,-5.0,5.3,,,,prix a trop chuté (match sans doute joué)
 2026-11-12 20:40 UTC,juice-fruit,ACHAT,"WTA Finals, Group A: Marta Kostyuk vs Coco Gauff",Marta Kostyuk,0.2211,0.18,-4.1,5.3,55.5556,10.0,,
 2026-11-12 20:45 UTC,BreakTheBank,IGNORE,Will Ciryl Gane win in Round 3?,No,0.83,0.96,,4.3,,,,prix trop haut
+2026-11-12 21:45 UTC,juice-fruit,REGLEMENT,Will Arsenal WFC win on 2026-11-12?,No,,0.72,,,13.8889,13.89,3.89,gagné

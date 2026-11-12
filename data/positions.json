@@ -156,19 +156,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-12 18:10 UTC"
   },
-  "juice-fruit|57029031646556646928606050269965136463200205530717741901092454581162146800793": {
-   "date": "2026-11-12 19:00 UTC",
-   "trader": "juice-fruit",
-   "marche": "Will Arsenal WFC win on 2026-11-12?",
-   "resultat": "No",
-   "prix_trader": 0.75,
-   "retard_min": 4.8,
-   "token": "57029031646556646928606050269965136463200205530717741901092454581162146800793",
-   "prix_simule": 0.72,
-   "parts": 13.8889,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-12 19:00 UTC"
-  },
   "juice-fruit|4635620155121947122915962743966616637046600211332057968046194632990893027272": {
    "date": "2026-11-12 19:35 UTC",
    "trader": "juice-fruit",
@@ -9512,6 +9499,23 @@
    "pnl": -0.2128,
    "ferme_le": "2026-11-12 17:15 UTC",
    "type": "revente"
+  },
+  {
+   "date": "2026-11-12 19:00 UTC",
+   "trader": "juice-fruit",
+   "marche": "Will Arsenal WFC win on 2026-11-12?",
+   "resultat": "No",
+   "prix_trader": 0.75,
+   "retard_min": 4.8,
+   "token": "57029031646556646928606050269965136463200205530717741901092454581162146800793",
+   "prix_simule": 0.72,
+   "parts": 13.8889,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-12 19:00 UTC",
+   "sortie": 1.0,
+   "pnl": 3.8889,
+   "ferme_le": "2026-11-12 21:45 UTC",
+   "type": "gagné"
   }
  ]
 }
