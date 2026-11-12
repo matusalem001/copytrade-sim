@@ -233,6 +233,32 @@
    "parts": 23.2558,
    "montant": 10.0,
    "ouvert_le": "2026-11-11 23:55 UTC"
+  },
+  "BreakTheBank|44517470094586053251851726540349187675962156214353493555279173569526227040358": {
+   "date": "2026-11-12 00:00 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Nuggets (-3.5)",
+   "resultat": "Grizzlies",
+   "prix_trader": 0.49,
+   "retard_min": 5.6,
+   "token": "44517470094586053251851726540349187675962156214353493555279173569526227040358",
+   "prix_simule": 0.5,
+   "parts": 20.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-12 00:00 UTC"
+  },
+  "BreakTheBank|91312216951557525293884905171902573674976018469551783568783047942228223380002": {
+   "date": "2026-11-12 00:00 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will the Cincinnati Bengals win the 2027 NFL league championship?",
+   "resultat": "Yes",
+   "prix_trader": 0.056,
+   "retard_min": 4.4,
+   "token": "91312216951557525293884905171902573674976018469551783568783047942228223380002",
+   "prix_simule": 0.058,
+   "parts": 172.4138,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-12 00:00 UTC"
   }
  },
  "fermees": [
