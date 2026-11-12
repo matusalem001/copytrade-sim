@@ -1162,3 +1162,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-12 00:00 UTC,BreakTheBank,ACHAT,Spread: Nuggets (-3.5),Grizzlies,0.49,0.5,1.0,5.6,20.0,10.0,,
 2026-11-12 00:00 UTC,BreakTheBank,ACHAT,Will the Cincinnati Bengals win the 2027 NFL league championship?,Yes,0.056,0.058,0.2,4.4,172.4138,10.0,,
 2026-11-12 00:20 UTC,primm,ACHAT,Spread: Central Michigan (-17.5),Central Michigan,0.48,0.49,1.0,0.7,20.4082,10.0,,
+2026-11-12 00:30 UTC,primm,ACHAT,Spread: Central Michigan (-14.5),Central Michigan,0.56,0.58,2.0,6.4,17.2414,10.0,,
