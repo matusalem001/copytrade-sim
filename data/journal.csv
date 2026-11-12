@@ -1164,3 +1164,11 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-12 00:20 UTC,primm,ACHAT,Spread: Central Michigan (-17.5),Central Michigan,0.48,0.49,1.0,0.7,20.4082,10.0,,
 2026-11-12 00:30 UTC,primm,ACHAT,Spread: Central Michigan (-14.5),Central Michigan,0.56,0.58,2.0,6.4,17.2414,10.0,,
 2026-11-12 00:35 UTC,primm,IGNORE,Spread: Ohio (-16.5),Ohio,0.43,,,1320.2,,,,vu trop tard
+2026-11-12 00:40 UTC,BreakTheBank,ACHAT,Spurs vs. Bulls,Spurs,0.9,0.91,1.0,3.1,10.989,10.0,,
+2026-11-12 00:40 UTC,primm,ACHAT,Buffalo vs. Ball State,Ball State,0.48,0.49,1.0,7.8,20.4082,10.0,,
+2026-11-12 00:40 UTC,primm,ACHAT,Spread: Central Michigan (-20.5),Central Michigan,0.48,0.6,12.0,3.8,16.6667,10.0,,
+2026-11-12 00:40 UTC,primm,ACHAT,Spread: Central Michigan (-16.5),Central Michigan,0.62,0.68,6.0,3.2,14.7059,10.0,,
+2026-11-12 00:40 UTC,primm,ACHAT,Spread: Central Michigan (-23.5),Central Michigan,0.42,0.51,9.0,3.2,19.6078,10.0,,
+2026-11-12 00:40 UTC,primm,ACHAT,Spread: Central Michigan (-27.5),Central Michigan,0.32,0.41,9.0,3.2,24.3902,10.0,,
+2026-11-12 00:40 UTC,primm,ACHAT,Spread: Central Michigan (-24.5),Central Michigan,0.35,0.46,11.0,2.5,21.7391,10.0,,
+2026-11-12 00:40 UTC,primm,ACHAT,Sacramento State vs. Central Michigan: O/U 43.5,Over,0.55,0.57,2.0,1.6,17.5439,10.0,,
