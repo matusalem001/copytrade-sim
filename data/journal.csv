@@ -1235,3 +1235,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-12 02:40 UTC,BreakTheBank,REGLEMENT,Spread: Pacers (-3.5),Pacers,,0.48,,,20.8333,20.83,10.83,gagné
 2026-11-12 02:40 UTC,BreakTheBank,REGLEMENT,Wizards vs. Pacers,Pacers,,0.6,,,16.6667,16.67,6.67,gagné
 2026-11-12 02:45 UTC,primm,ACHAT,Spread: Toledo (-24.5),UMass,0.32,0.31,-1.0,2.0,32.2581,10.0,,
+2026-11-12 03:00 UTC,BreakTheBank,REGLEMENT,Celtics vs. Raptors,Raptors,,0.35,,,28.5714,0.0,-10.0,perdu

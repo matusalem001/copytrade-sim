@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-12 02:55 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-12 03:01 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 100 | 63 | 83 | 49 | +142.82 $ | +17.2 % | 17 | +1.1 ¢ | 6 min |
+| BreakTheBank | 100 | 63 | 84 | 49 | +132.82 $ | +15.8 % | 16 | +1.1 ¢ | 6 min |
 | primm | 439 | 155 | 381 | 189 | -42.86 $ | -1.1 % | 58 | +3.1 ¢ | 4 min |
 | juice-fruit | 7 | 1 | 7 | 3 | -19.56 $ | -27.9 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : +80.40 $ sur 4710 $ engagés (+1.7 %)**
+**Total réalisé : +70.40 $ sur 4720 $ engagés (+1.5 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-12 02:55 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Celtics vs. Raptors | Raptors | 0.35 | 0.00 | -10.00 $ |
 | BreakTheBank | Wizards vs. Pacers | Pacers | 0.60 | 1.00 | +6.67 $ |
 | BreakTheBank | Spread: Pacers (-3.5) | Pacers | 0.48 | 1.00 | +10.83 $ |
 | BreakTheBank | Jensen Huang divorce by December 31, 2026? | Yes | 0.10 | 0.08 | -2.00 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-12 02:55 UTC** 
 | primm | Spread: Miami (OH) (-2.5) | Ohio | 0.56 | 0.00 | -10.00 $ |
 | primm | Spread: Ohio (-1.5) | Ohio | 0.48 | 0.00 | -10.00 $ |
 | primm | Spread: Miami (OH) (-1.5) | Ohio | 0.54 | 0.00 | -10.00 $ |
-| primm | Ohio vs. Miami (OH): O/U 49.5 | Under | 0.57 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

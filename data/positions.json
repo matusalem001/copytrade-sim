@@ -130,19 +130,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-11 22:55 UTC"
   },
-  "BreakTheBank|91027047039515555078480262066003399273625964896522601460638681904234161231814": {
-   "date": "2026-11-11 23:25 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Celtics vs. Raptors",
-   "resultat": "Raptors",
-   "prix_trader": 0.34,
-   "retard_min": 5.8,
-   "token": "91027047039515555078480262066003399273625964896522601460638681904234161231814",
-   "prix_simule": 0.35,
-   "parts": 28.5714,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-11 23:25 UTC"
-  },
   "BreakTheBank|30405602279651360127925271081672782809311474396699236885161637979551123016715": {
    "date": "2026-11-11 23:30 UTC",
    "trader": "BreakTheBank",
@@ -8983,6 +8970,23 @@
    "pnl": 6.6667,
    "ferme_le": "2026-11-12 02:40 UTC",
    "type": "gagné"
+  },
+  {
+   "date": "2026-11-11 23:25 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Celtics vs. Raptors",
+   "resultat": "Raptors",
+   "prix_trader": 0.34,
+   "retard_min": 5.8,
+   "token": "91027047039515555078480262066003399273625964896522601460638681904234161231814",
+   "prix_simule": 0.35,
+   "parts": 28.5714,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-11 23:25 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-12 03:00 UTC",
+   "type": "perdu"
   }
  ]
 }
