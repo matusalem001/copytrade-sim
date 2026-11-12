@@ -1178,3 +1178,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-12 00:50 UTC,primm,ACHAT,Spread: Buffalo (-1.5),Ball State,0.56,0.59,3.0,1.9,16.9492,10.0,,
 2026-11-12 00:50 UTC,primm,ACHAT,Spread: Ball State (-1.5),Ball State,0.5,0.53,3.0,1.9,18.8679,10.0,,
 2026-11-12 00:50 UTC,primm,ACHAT,Spread: Ball State (-2.5),Ball State,0.48,0.52,4.0,2.0,19.2308,10.0,,
+2026-11-12 00:55 UTC,primm,IGNORE,Sacramento State vs. Central Michigan: O/U 47.5,Over,0.48,0.38,-10.0,6.1,,,,prix a trop chuté (match sans doute joué)
+2026-11-12 00:55 UTC,primm,ACHAT,Sacramento State vs. Central Michigan: O/U 41.5,Over,0.5398,0.53,-1.0,4.9,18.8679,10.0,,
+2026-11-12 00:55 UTC,primm,ACHAT,Spread: Central Michigan (-21.5),Central Michigan,0.52,0.55,3.0,1.9,18.1818,10.0,,
+2026-11-12 00:55 UTC,primm,ACHAT,Sacramento State vs. Central Michigan: O/U 35.5,Over,0.7,0.71,1.0,1.7,14.0845,10.0,,
+2026-11-12 00:55 UTC,primm,ACHAT,Buffalo vs. Ball State: O/U 49.5,Under,0.48,0.49,1.0,0.3,20.4082,10.0,,

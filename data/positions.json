@@ -454,6 +454,58 @@
    "parts": 19.2308,
    "montant": 10.0,
    "ouvert_le": "2026-11-12 00:50 UTC"
+  },
+  "primm|78040443095075077199973498628121863155274375629091167452732642681981075613119": {
+   "date": "2026-11-12 00:55 UTC",
+   "trader": "primm",
+   "marche": "Sacramento State vs. Central Michigan: O/U 41.5",
+   "resultat": "Over",
+   "prix_trader": 0.5398,
+   "retard_min": 4.9,
+   "token": "78040443095075077199973498628121863155274375629091167452732642681981075613119",
+   "prix_simule": 0.53,
+   "parts": 18.8679,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-12 00:55 UTC"
+  },
+  "primm|69585324136114439883603496449849716276110771880557195782350332732014984806224": {
+   "date": "2026-11-12 00:55 UTC",
+   "trader": "primm",
+   "marche": "Spread: Central Michigan (-21.5)",
+   "resultat": "Central Michigan",
+   "prix_trader": 0.52,
+   "retard_min": 1.9,
+   "token": "69585324136114439883603496449849716276110771880557195782350332732014984806224",
+   "prix_simule": 0.55,
+   "parts": 18.1818,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-12 00:55 UTC"
+  },
+  "primm|58046018452545219619424741174702786972665737787862973613108129754826970988545": {
+   "date": "2026-11-12 00:55 UTC",
+   "trader": "primm",
+   "marche": "Sacramento State vs. Central Michigan: O/U 35.5",
+   "resultat": "Over",
+   "prix_trader": 0.7,
+   "retard_min": 1.7,
+   "token": "58046018452545219619424741174702786972665737787862973613108129754826970988545",
+   "prix_simule": 0.71,
+   "parts": 14.0845,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-12 00:55 UTC"
+  },
+  "primm|100117263205293897100020058342662267694949051308382979860973124034116406563823": {
+   "date": "2026-11-12 00:55 UTC",
+   "trader": "primm",
+   "marche": "Buffalo vs. Ball State: O/U 49.5",
+   "resultat": "Under",
+   "prix_trader": 0.48,
+   "retard_min": 0.3,
+   "token": "100117263205293897100020058342662267694949051308382979860973124034116406563823",
+   "prix_simule": 0.49,
+   "parts": 20.4082,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-12 00:55 UTC"
   }
  },
  "fermees": [
