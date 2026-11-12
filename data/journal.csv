@@ -1193,3 +1193,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-12 01:10 UTC,primm,ACHAT,Spread: Toledo (-20.5),Toledo,0.49,0.49,0.0,1.2,20.4082,10.0,,
 2026-11-12 01:10 UTC,primm,ACHAT,Spread: Toledo (-17.5),Toledo,0.55,0.56,1.0,1.2,17.8571,10.0,,
 2026-11-12 01:10 UTC,primm,ACHAT,UMass vs. Toledo: O/U 41.5,Under,0.3,0.31,1.0,1.0,32.2581,10.0,,
+2026-11-12 01:15 UTC,primm,IGNORE,Kent State vs. Bowling Green: O/U 55.5,Over,0.56,,,1315.4,,,,vu trop tard
+2026-11-12 01:15 UTC,primm,IGNORE,Spread: Miami (OH) (-3.5),Miami (OH),0.4,,,1249.3,,,,vu trop tard
