@@ -389,6 +389,19 @@
    "parts": 17.5439,
    "montant": 10.0,
    "ouvert_le": "2026-11-12 00:40 UTC"
+  },
+  "BreakTheBank|103596387742399597186008701410297268273305222888464368176968480956037754492347": {
+   "date": "2026-11-12 00:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Lakers (-14.5)",
+   "resultat": "Lakers",
+   "prix_trader": 0.49,
+   "retard_min": 4.6,
+   "token": "103596387742399597186008701410297268273305222888464368176968480956037754492347",
+   "prix_simule": 0.5,
+   "parts": 20.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-12 00:45 UTC"
   }
  },
  "fermees": [

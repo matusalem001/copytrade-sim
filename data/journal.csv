@@ -1172,3 +1172,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-12 00:40 UTC,primm,ACHAT,Spread: Central Michigan (-27.5),Central Michigan,0.32,0.41,9.0,3.2,24.3902,10.0,,
 2026-11-12 00:40 UTC,primm,ACHAT,Spread: Central Michigan (-24.5),Central Michigan,0.35,0.46,11.0,2.5,21.7391,10.0,,
 2026-11-12 00:40 UTC,primm,ACHAT,Sacramento State vs. Central Michigan: O/U 43.5,Over,0.55,0.57,2.0,1.6,17.5439,10.0,,
+2026-11-12 00:45 UTC,BreakTheBank,ACHAT,Spread: Lakers (-14.5),Lakers,0.49,0.5,1.0,4.6,20.0,10.0,,
+2026-11-12 00:45 UTC,primm,IGNORE,Spread: Miami (OH) (-1.5),Ohio,0.51,,,1222.2,,,,vu trop tard
