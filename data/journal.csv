@@ -1225,3 +1225,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-12 01:55 UTC,primm,ACHAT,Spread: Central Michigan (-13.5),Sacramento State,0.48,0.48,0.0,3.5,20.8333,10.0,,
 2026-11-12 02:00 UTC,primm,ACHAT,Spread: Central Michigan (-14.5),Sacramento State,0.57,0.58,1.0,5.3,17.2414,10.0,,
 2026-11-12 02:00 UTC,primm,ACHAT,Spread: Central Michigan (-11.5),Sacramento State,0.47,0.47,0.0,0.8,21.2766,10.0,,
+2026-11-12 02:10 UTC,primm,ACHAT,Spread: Toledo (-21.5),UMass,0.23,0.23,0.0,1.3,43.4783,10.0,,
+2026-11-12 02:10 UTC,primm,ACHAT,Spread: Toledo (-27.5),UMass,0.42,0.44,2.0,1.3,22.7273,10.0,,
+2026-11-12 02:10 UTC,primm,ACHAT,UMass vs. Toledo: O/U 51.5,Over,0.43,0.44,1.0,1.2,22.7273,10.0,,
+2026-11-12 02:10 UTC,primm,ACHAT,UMass vs. Toledo: O/U 53.5,Over,0.38,0.38,0.0,1.0,26.3158,10.0,,
