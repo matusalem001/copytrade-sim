@@ -1230,3 +1230,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-12 02:10 UTC,primm,ACHAT,UMass vs. Toledo: O/U 51.5,Over,0.43,0.44,1.0,1.2,22.7273,10.0,,
 2026-11-12 02:10 UTC,primm,ACHAT,UMass vs. Toledo: O/U 53.5,Over,0.38,0.38,0.0,1.0,26.3158,10.0,,
 2026-11-12 02:15 UTC,primm,ACHAT,Sacramento State vs. Central Michigan,Sacramento State,0.1,0.1,0.0,2.8,100.0,10.0,,
+2026-11-12 02:25 UTC,primm,ACHAT,Spread: Central Michigan (-6.5),Sacramento State,0.24,0.22,-2.0,9.3,45.4545,10.0,,
