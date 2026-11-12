@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-12 22:25 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-12 22:30 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 108 | 86 | 96 | 55 | +130.00 $ | +13.5 % | 12 | +1.1 ¢ | 8 min |
 | primm | 445 | 156 | 445 | 214 | -193.52 $ | -4.3 % | 0 | +3.2 ¢ | 4 min |
-| juice-fruit | 11 | 2 | 8 | 4 | -15.67 $ | -19.6 % | 3 | -1.2 ¢ | 5 min |
+| juice-fruit | 11 | 2 | 9 | 4 | -25.67 $ | -28.5 % | 2 | -1.2 ¢ | 5 min |
 
-**Total réalisé : -79.19 $ sur 5490 $ engagés (-1.4 %)**
+**Total réalisé : -89.19 $ sur 5500 $ engagés (-1.6 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-12 22:25 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| juice-fruit | WTA Finals, Group A: Marta Kostyuk vs Coco Gauff | Marta Kostyuk | 0.18 | 0.00 | -10.00 $ |
 | juice-fruit | Will Arsenal WFC win on 2026-11-12? | No | 0.72 | 1.00 | +3.89 $ |
 | BreakTheBank | Spread: 76ers (-7.5) | Raptors | 0.47 | 0.46 | -0.21 $ |
 | BreakTheBank | Thunder vs. Trail Blazers | Trail Blazers | 0.56 | 1.00 | +7.86 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-12 22:25 UTC** 
 | primm | Spread: Toledo (-17.5) | UMass | 0.19 | 0.00 | -10.00 $ |
 | primm | Spread: Toledo (-20.5) | UMass | 0.22 | 0.00 | -10.00 $ |
 | primm | UMass vs. Toledo: O/U 35.5 | Under | 0.50 | 1.00 | +10.00 $ |
-| primm | Spread: Toledo (-24.5) | UMass | 0.31 | 1.00 | +22.26 $ |
 
 Journal complet : `data/journal.csv`

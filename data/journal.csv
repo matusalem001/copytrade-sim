@@ -1356,3 +1356,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-12 20:45 UTC,BreakTheBank,IGNORE,Will Ciryl Gane win in Round 3?,No,0.83,0.96,,4.3,,,,prix trop haut
 2026-11-12 21:45 UTC,juice-fruit,REGLEMENT,Will Arsenal WFC win on 2026-11-12?,No,,0.72,,,13.8889,13.89,3.89,gagné
 2026-11-12 22:10 UTC,juice-fruit,ACHAT,"WTA Finals, Group A: Jessica Pegula vs Linda Noskova",Linda Noskova,0.57,0.58,1.0,3.7,17.2414,10.0,,
+2026-11-12 22:30 UTC,juice-fruit,REGLEMENT,"WTA Finals, Group A: Marta Kostyuk vs Coco Gauff",Marta Kostyuk,,0.18,,,55.5556,0.0,-10.0,perdu
