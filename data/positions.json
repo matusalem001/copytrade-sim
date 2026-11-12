@@ -181,6 +181,19 @@
    "parts": 55.5556,
    "montant": 10.0,
    "ouvert_le": "2026-11-12 20:40 UTC"
+  },
+  "juice-fruit|107109571384699101410194952559565549500068407458321551193919730427867593694101": {
+   "date": "2026-11-12 22:10 UTC",
+   "trader": "juice-fruit",
+   "marche": "WTA Finals, Group A: Jessica Pegula vs Linda Noskova",
+   "resultat": "Linda Noskova",
+   "prix_trader": 0.57,
+   "retard_min": 3.7,
+   "token": "107109571384699101410194952559565549500068407458321551193919730427867593694101",
+   "prix_simule": 0.58,
+   "parts": 17.2414,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-12 22:10 UTC"
   }
  },
  "fermees": [
