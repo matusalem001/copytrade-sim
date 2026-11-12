@@ -1245,3 +1245,29 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-12 03:20 UTC,primm,ACHAT,Spread: Buffalo (-4.5),Buffalo,0.45,0.68,23.0,4.6,14.7059,10.0,,
 2026-11-12 03:30 UTC,primm,ACHAT,Spread: Toledo (-17.5),UMass,0.18,0.19,1.0,2.0,52.6316,10.0,,
 2026-11-12 03:40 UTC,BreakTheBank,REGLEMENT,Spurs vs. Bulls,Spurs,,0.91,,,10.989,10.99,0.99,gagné
+2026-11-12 03:50 UTC,primm,IGNORE,Spread: Central Michigan (-7.5),Sacramento State,0.34,,,119.3,,,,carnet indisponible
+2026-11-12 03:50 UTC,BreakTheBank,REGLEMENT,Spread: Nuggets (-2.5),Grizzlies,,0.47,,,21.2766,0.0,-10.0,perdu
+2026-11-12 03:50 UTC,BreakTheBank,REGLEMENT,Spread: Nuggets (-1.5),Grizzlies,,0.43,,,23.2558,0.0,-10.0,perdu
+2026-11-12 03:50 UTC,BreakTheBank,REGLEMENT,Spread: Nuggets (-3.5),Grizzlies,,0.5,,,20.0,0.0,-10.0,perdu
+2026-11-12 03:50 UTC,primm,REGLEMENT,Spread: Central Michigan (-17.5),Central Michigan,,0.49,,,20.4082,20.41,10.41,gagné
+2026-11-12 03:50 UTC,primm,REGLEMENT,Spread: Central Michigan (-20.5),Central Michigan,,0.6,,,16.6667,16.67,6.67,gagné
+2026-11-12 03:50 UTC,primm,REGLEMENT,Spread: Central Michigan (-16.5),Central Michigan,,0.68,,,14.7059,14.71,4.71,gagné
+2026-11-12 03:50 UTC,primm,REGLEMENT,Spread: Central Michigan (-23.5),Central Michigan,,0.51,,,19.6078,0.0,-10.0,perdu
+2026-11-12 03:50 UTC,primm,REGLEMENT,Spread: Central Michigan (-27.5),Central Michigan,,0.41,,,24.3902,0.0,-10.0,perdu
+2026-11-12 03:50 UTC,primm,REGLEMENT,Spread: Central Michigan (-24.5),Central Michigan,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-12 03:50 UTC,primm,REGLEMENT,Sacramento State vs. Central Michigan: O/U 43.5,Over,,0.57,,,17.5439,0.0,-10.0,perdu
+2026-11-12 03:50 UTC,BreakTheBank,REGLEMENT,Spread: Lakers (-14.5),Lakers,,0.5,,,20.0,0.0,-10.0,perdu
+2026-11-12 03:50 UTC,primm,REGLEMENT,Sacramento State vs. Central Michigan: O/U 41.5,Over,,0.53,,,18.8679,0.0,-10.0,perdu
+2026-11-12 03:50 UTC,primm,REGLEMENT,Spread: Central Michigan (-21.5),Central Michigan,,0.55,,,18.1818,0.0,-10.0,perdu
+2026-11-12 03:50 UTC,primm,REGLEMENT,Sacramento State vs. Central Michigan: O/U 35.5,Over,,0.71,,,14.0845,0.0,-10.0,perdu
+2026-11-12 03:50 UTC,primm,REGLEMENT,Sacramento State vs. Central Michigan: O/U 35.5,Under,,0.52,,,19.2308,19.23,9.23,gagné
+2026-11-12 03:50 UTC,primm,REGLEMENT,Sacramento State vs. Central Michigan: O/U 41.5,Under,,0.82,,,12.1951,12.2,2.2,gagné
+2026-11-12 03:50 UTC,primm,REGLEMENT,Spread: Central Michigan (-10.5),Sacramento State,,0.42,,,23.8095,0.0,-10.0,perdu
+2026-11-12 03:50 UTC,primm,REGLEMENT,Spread: Central Michigan (-16.5),Sacramento State,,0.6,,,16.6667,0.0,-10.0,perdu
+2026-11-12 03:50 UTC,primm,REGLEMENT,Spread: Central Michigan (-7.5),Sacramento State,,0.35,,,28.5714,0.0,-10.0,perdu
+2026-11-12 03:50 UTC,primm,REGLEMENT,Spread: Central Michigan (-9.5),Sacramento State,,0.37,,,27.027,0.0,-10.0,perdu
+2026-11-12 03:50 UTC,primm,REGLEMENT,Spread: Central Michigan (-13.5),Sacramento State,,0.48,,,20.8333,0.0,-10.0,perdu
+2026-11-12 03:50 UTC,primm,REGLEMENT,Spread: Central Michigan (-14.5),Sacramento State,,0.58,,,17.2414,0.0,-10.0,perdu
+2026-11-12 03:50 UTC,primm,REGLEMENT,Spread: Central Michigan (-11.5),Sacramento State,,0.47,,,21.2766,0.0,-10.0,perdu
+2026-11-12 03:50 UTC,primm,REGLEMENT,Sacramento State vs. Central Michigan,Sacramento State,,0.1,,,100.0,0.0,-10.0,perdu
+2026-11-12 03:50 UTC,primm,REGLEMENT,Spread: Central Michigan (-6.5),Sacramento State,,0.22,,,45.4545,0.0,-10.0,perdu
