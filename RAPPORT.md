@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-12 03:35 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-12 03:40 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 102 | 63 | 84 | 49 | +132.82 $ | +15.8 % | 18 | +1.1 ¢ | 6 min |
+| BreakTheBank | 102 | 63 | 85 | 50 | +133.81 $ | +15.7 % | 17 | +1.1 ¢ | 6 min |
 | primm | 445 | 155 | 381 | 189 | -42.86 $ | -1.1 % | 64 | +3.2 ¢ | 4 min |
 | juice-fruit | 7 | 1 | 7 | 3 | -19.56 $ | -27.9 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : +70.40 $ sur 4720 $ engagés (+1.5 %)**
+**Total réalisé : +71.39 $ sur 4730 $ engagés (+1.5 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-12 03:35 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Spurs vs. Bulls | Spurs | 0.91 | 1.00 | +0.99 $ |
 | BreakTheBank | Celtics vs. Raptors | Raptors | 0.35 | 0.00 | -10.00 $ |
 | BreakTheBank | Wizards vs. Pacers | Pacers | 0.60 | 1.00 | +6.67 $ |
 | BreakTheBank | Spread: Pacers (-3.5) | Pacers | 0.48 | 1.00 | +10.83 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-12 03:35 UTC** 
 | primm | Ohio vs. Miami (OH): O/U 51.5 | Over | 0.38 | 0.00 | -10.00 $ |
 | primm | Spread: Miami (OH) (-2.5) | Ohio | 0.56 | 0.00 | -10.00 $ |
 | primm | Spread: Ohio (-1.5) | Ohio | 0.48 | 0.00 | -10.00 $ |
-| primm | Spread: Miami (OH) (-1.5) | Ohio | 0.54 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

@@ -247,19 +247,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-12 00:30 UTC"
   },
-  "BreakTheBank|95063800438576437355570551200414037015696320981413711438437323652892004100743": {
-   "date": "2026-11-12 00:40 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Spurs vs. Bulls",
-   "resultat": "Spurs",
-   "prix_trader": 0.9,
-   "retard_min": 3.1,
-   "token": "95063800438576437355570551200414037015696320981413711438437323652892004100743",
-   "prix_simule": 0.91,
-   "parts": 10.989,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-12 00:40 UTC"
-  },
   "primm|34206742836789206134502514461186719328554653551920153101192538323826541837489": {
    "date": "2026-11-12 00:40 UTC",
    "trader": "primm",
@@ -9091,6 +9078,23 @@
    "pnl": -10.0,
    "ferme_le": "2026-11-12 03:00 UTC",
    "type": "perdu"
+  },
+  {
+   "date": "2026-11-12 00:40 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spurs vs. Bulls",
+   "resultat": "Spurs",
+   "prix_trader": 0.9,
+   "retard_min": 3.1,
+   "token": "95063800438576437355570551200414037015696320981413711438437323652892004100743",
+   "prix_simule": 0.91,
+   "parts": 10.989,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-12 00:40 UTC",
+   "sortie": 1.0,
+   "pnl": 0.989,
+   "ferme_le": "2026-11-12 03:40 UTC",
+   "type": "gagné"
   }
  ]
 }
