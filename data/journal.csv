@@ -1343,3 +1343,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-12 15:15 UTC,BreakTheBank,ACHAT,Spread: 76ers (-7.5),Raptors,0.46,0.47,1.0,7.4,21.2766,10.0,,
 2026-11-12 15:15 UTC,BreakTheBank,ACHAT,Spread: 76ers (-9.5),Raptors,0.53,0.54,1.0,7.4,18.5185,10.0,,
 2026-11-12 16:20 UTC,BreakTheBank,IGNORE,Thunder vs. Trail Blazers,Trail Blazers,0.58,,,792.2,,,,vu trop tard
+2026-11-12 16:25 UTC,BreakTheBank,IGNORE,Thunder vs. Trail Blazers,Trail Blazers,0.58,,,796.4,,,,vu trop tard
