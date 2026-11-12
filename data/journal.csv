@@ -1271,3 +1271,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-12 03:50 UTC,primm,REGLEMENT,Spread: Central Michigan (-11.5),Sacramento State,,0.47,,,21.2766,0.0,-10.0,perdu
 2026-11-12 03:50 UTC,primm,REGLEMENT,Sacramento State vs. Central Michigan,Sacramento State,,0.1,,,100.0,0.0,-10.0,perdu
 2026-11-12 03:50 UTC,primm,REGLEMENT,Spread: Central Michigan (-6.5),Sacramento State,,0.22,,,45.4545,0.0,-10.0,perdu
+2026-11-12 03:55 UTC,BreakTheBank,REGLEMENT,Nets vs. Pelicans,Nets,,0.43,,,23.2558,23.26,13.26,gagné
+2026-11-12 03:55 UTC,BreakTheBank,REGLEMENT,Spread: Pelicans (-3.5),Nets,,0.54,,,18.5185,18.52,8.52,gagné
+2026-11-12 03:55 UTC,BreakTheBank,REGLEMENT,Nuggets vs. Grizzlies,Grizzlies,,0.41,,,24.3902,0.0,-10.0,perdu
+2026-11-12 03:55 UTC,primm,REGLEMENT,Spread: Central Michigan (-14.5),Central Michigan,,0.58,,,17.2414,17.24,7.24,gagné
+2026-11-12 03:55 UTC,primm,REGLEMENT,Spread: Central Michigan (-17.5),Sacramento State,,0.66,,,15.1515,0.0,-10.0,perdu
