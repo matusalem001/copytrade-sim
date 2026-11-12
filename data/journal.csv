@@ -1318,3 +1318,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-12 04:20 UTC,primm,REGLEMENT,Buffalo vs. Ball State,Ball State,,0.49,,,20.4082,0.0,-10.0,perdu
 2026-11-12 04:20 UTC,primm,REGLEMENT,Buffalo vs. Ball State: O/U 49.5,Under,,0.49,,,20.4082,20.41,10.41,gagné
 2026-11-12 05:45 UTC,BreakTheBank,IGNORE,Spurs vs. Bulls,Spurs,0.9,,,291.6,,,,vu trop tard
+2026-11-12 05:50 UTC,BreakTheBank,REGLEMENT,Spread: Trail Blazers (-2.5),Trail Blazers,,0.52,,,19.2308,19.23,9.23,gagné
+2026-11-12 05:50 UTC,BreakTheBank,REGLEMENT,Spread: Trail Blazers (-1.5),Trail Blazers,,0.57,,,17.5439,17.54,7.54,gagné
+2026-11-12 05:50 UTC,BreakTheBank,REGLEMENT,Thunder vs. Trail Blazers,Trail Blazers,,0.56,,,17.8571,17.86,7.86,gagné

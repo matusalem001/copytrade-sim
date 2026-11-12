@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-12 05:45 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-12 05:50 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 102 | 64 | 92 | 52 | +105.58 $ | +11.5 % | 10 | +1.1 ¢ | 7 min |
+| BreakTheBank | 102 | 64 | 95 | 55 | +130.21 $ | +13.7 % | 7 | +1.1 ¢ | 7 min |
 | primm | 445 | 156 | 445 | 214 | -193.52 $ | -4.3 % | 0 | +3.2 ¢ | 4 min |
 | juice-fruit | 7 | 1 | 7 | 3 | -19.56 $ | -27.9 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : -107.50 $ sur 5440 $ engagés (-2.0 %)**
+**Total réalisé : -82.87 $ sur 5470 $ engagés (-1.5 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,9 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-12 05:45 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Thunder vs. Trail Blazers | Trail Blazers | 0.56 | 1.00 | +7.86 $ |
+| BreakTheBank | Spread: Trail Blazers (-1.5) | Trail Blazers | 0.57 | 1.00 | +7.54 $ |
+| BreakTheBank | Spread: Trail Blazers (-2.5) | Trail Blazers | 0.52 | 1.00 | +9.23 $ |
 | primm | Buffalo vs. Ball State: O/U 49.5 | Under | 0.49 | 1.00 | +10.41 $ |
 | primm | Buffalo vs. Ball State | Ball State | 0.49 | 0.00 | -10.00 $ |
 | primm | Spread: Buffalo (-4.5) | Buffalo | 0.68 | 1.00 | +4.71 $ |
@@ -38,8 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-12 05:45 UTC** 
 | primm | Spread: Toledo (-24.5) | UMass | 0.31 | 1.00 | +22.26 $ |
 | primm | UMass vs. Toledo: O/U 53.5 | Over | 0.38 | 0.00 | -10.00 $ |
 | primm | UMass vs. Toledo: O/U 51.5 | Over | 0.44 | 0.00 | -10.00 $ |
-| primm | Spread: Toledo (-27.5) | UMass | 0.44 | 1.00 | +12.73 $ |
-| primm | Spread: Toledo (-21.5) | UMass | 0.23 | 0.00 | -10.00 $ |
-| primm | Spread: Toledo (-30.5) | UMass | 0.61 | 1.00 | +6.39 $ |
 
 Journal complet : `data/journal.csv`
