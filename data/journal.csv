@@ -1276,3 +1276,28 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-12 03:55 UTC,BreakTheBank,REGLEMENT,Nuggets vs. Grizzlies,Grizzlies,,0.41,,,24.3902,0.0,-10.0,perdu
 2026-11-12 03:55 UTC,primm,REGLEMENT,Spread: Central Michigan (-14.5),Central Michigan,,0.58,,,17.2414,17.24,7.24,gagné
 2026-11-12 03:55 UTC,primm,REGLEMENT,Spread: Central Michigan (-17.5),Sacramento State,,0.66,,,15.1515,0.0,-10.0,perdu
+2026-11-12 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-13.5),UMass,,0.48,,,20.8333,0.0,-10.0,perdu
+2026-11-12 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-10.5),UMass,,0.44,,,22.7273,0.0,-10.0,perdu
+2026-11-12 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-9.5),UMass,,0.41,,,24.3902,0.0,-10.0,perdu
+2026-11-12 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-14.5),Toledo,,0.63,,,15.873,15.87,5.87,gagné
+2026-11-12 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-16.5),Toledo,,0.59,,,16.9492,16.95,6.95,gagné
+2026-11-12 04:10 UTC,primm,REGLEMENT,UMass vs. Toledo: O/U 47.5,Under,,0.48,,,20.8333,20.83,10.83,gagné
+2026-11-12 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-21.5),Toledo,,0.43,,,23.2558,23.26,13.26,gagné
+2026-11-12 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-20.5),Toledo,,0.49,,,20.4082,20.41,10.41,gagné
+2026-11-12 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-17.5),Toledo,,0.56,,,17.8571,17.86,7.86,gagné
+2026-11-12 04:10 UTC,primm,REGLEMENT,UMass vs. Toledo: O/U 41.5,Under,,0.31,,,32.2581,32.26,22.26,gagné
+2026-11-12 04:10 UTC,primm,REGLEMENT,UMass vs. Toledo,Toledo,,0.95,,,10.5263,10.53,0.53,gagné
+2026-11-12 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-27.5),Toledo,,0.39,,,25.641,0.0,-10.0,perdu
+2026-11-12 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-30.5),Toledo,,0.31,,,32.2581,0.0,-10.0,perdu
+2026-11-12 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-24.5),Toledo,,0.44,,,22.7273,0.0,-10.0,perdu
+2026-11-12 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-31.5),Toledo,,0.33,,,30.303,0.0,-10.0,perdu
+2026-11-12 04:10 UTC,primm,REGLEMENT,UMass vs. Toledo: O/U 53.5,Under,,0.72,,,13.8889,13.89,3.89,gagné
+2026-11-12 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-30.5),UMass,,0.61,,,16.3934,16.39,6.39,gagné
+2026-11-12 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-21.5),UMass,,0.23,,,43.4783,0.0,-10.0,perdu
+2026-11-12 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-27.5),UMass,,0.44,,,22.7273,22.73,12.73,gagné
+2026-11-12 04:10 UTC,primm,REGLEMENT,UMass vs. Toledo: O/U 51.5,Over,,0.44,,,22.7273,0.0,-10.0,perdu
+2026-11-12 04:10 UTC,primm,REGLEMENT,UMass vs. Toledo: O/U 53.5,Over,,0.38,,,26.3158,0.0,-10.0,perdu
+2026-11-12 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-24.5),UMass,,0.31,,,32.2581,32.26,22.26,gagné
+2026-11-12 04:10 UTC,primm,REGLEMENT,UMass vs. Toledo: O/U 35.5,Under,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-12 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-20.5),UMass,,0.22,,,45.4545,0.0,-10.0,perdu
+2026-11-12 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-17.5),UMass,,0.19,,,52.6316,0.0,-10.0,perdu
