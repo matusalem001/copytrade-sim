@@ -156,19 +156,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-12 18:10 UTC"
   },
-  "juice-fruit|4635620155121947122915962743966616637046600211332057968046194632990893027272": {
-   "date": "2026-11-12 19:35 UTC",
-   "trader": "juice-fruit",
-   "marche": "BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert",
-   "resultat": "Ugo Humbert",
-   "prix_trader": 0.35,
-   "retard_min": 1.8,
-   "token": "4635620155121947122915962743966616637046600211332057968046194632990893027272",
-   "prix_simule": 0.37,
-   "parts": 27.027,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-12 19:35 UTC"
-  },
   "juice-fruit|107109571384699101410194952559565549500068407458321551193919730427867593694101": {
    "date": "2026-11-12 22:10 UTC",
    "trader": "juice-fruit",
@@ -9532,6 +9519,23 @@
    "sortie": 0.0,
    "pnl": -10.0,
    "ferme_le": "2026-11-12 22:30 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-12 19:35 UTC",
+   "trader": "juice-fruit",
+   "marche": "BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert",
+   "resultat": "Ugo Humbert",
+   "prix_trader": 0.35,
+   "retard_min": 1.8,
+   "token": "4635620155121947122915962743966616637046600211332057968046194632990893027272",
+   "prix_simule": 0.37,
+   "parts": 27.027,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-12 19:35 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-12 22:35 UTC",
    "type": "perdu"
   }
  ]

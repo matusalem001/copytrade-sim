@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-12 22:30 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-12 22:35 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 108 | 86 | 96 | 55 | +130.00 $ | +13.5 % | 12 | +1.1 ¢ | 8 min |
 | primm | 445 | 156 | 445 | 214 | -193.52 $ | -4.3 % | 0 | +3.2 ¢ | 4 min |
-| juice-fruit | 11 | 2 | 9 | 4 | -25.67 $ | -28.5 % | 2 | -1.2 ¢ | 5 min |
+| juice-fruit | 11 | 2 | 10 | 4 | -35.67 $ | -35.7 % | 1 | -1.2 ¢ | 5 min |
 
-**Total réalisé : -89.19 $ sur 5500 $ engagés (-1.6 %)**
+**Total réalisé : -99.19 $ sur 5510 $ engagés (-1.8 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-12 22:30 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| juice-fruit | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Ugo Humbert | 0.37 | 0.00 | -10.00 $ |
 | juice-fruit | WTA Finals, Group A: Marta Kostyuk vs Coco Gauff | Marta Kostyuk | 0.18 | 0.00 | -10.00 $ |
 | juice-fruit | Will Arsenal WFC win on 2026-11-12? | No | 0.72 | 1.00 | +3.89 $ |
 | BreakTheBank | Spread: 76ers (-7.5) | Raptors | 0.47 | 0.46 | -0.21 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-12 22:30 UTC** 
 | primm | Buffalo vs. Ball State: O/U 53.5 | Over | 0.46 | 0.00 | -10.00 $ |
 | primm | Spread: Toledo (-17.5) | UMass | 0.19 | 0.00 | -10.00 $ |
 | primm | Spread: Toledo (-20.5) | UMass | 0.22 | 0.00 | -10.00 $ |
-| primm | UMass vs. Toledo: O/U 35.5 | Under | 0.50 | 1.00 | +10.00 $ |
 
 Journal complet : `data/journal.csv`
