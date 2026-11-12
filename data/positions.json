@@ -1013,6 +1013,32 @@
    "parts": 20.0,
    "montant": 10.0,
    "ouvert_le": "2026-11-12 03:10 UTC"
+  },
+  "BreakTheBank|9411386589520672391654622914239392046678726424208317296293717133130116786156": {
+   "date": "2026-11-12 03:15 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Thunder vs. Trail Blazers",
+   "resultat": "Trail Blazers",
+   "prix_trader": 0.58,
+   "retard_min": 7.9,
+   "token": "9411386589520672391654622914239392046678726424208317296293717133130116786156",
+   "prix_simule": 0.56,
+   "parts": 17.8571,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-12 03:15 UTC"
+  },
+  "primm|2393391356503514377788405382627878274730171767688501675932612948697742047028": {
+   "date": "2026-11-12 03:15 UTC",
+   "trader": "primm",
+   "marche": "Spread: Toledo (-20.5)",
+   "resultat": "UMass",
+   "prix_trader": 0.22,
+   "retard_min": 1.6,
+   "token": "2393391356503514377788405382627878274730171767688501675932612948697742047028",
+   "prix_simule": 0.22,
+   "parts": 45.4545,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-12 03:15 UTC"
   }
  },
  "fermees": [
