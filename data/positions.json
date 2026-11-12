@@ -961,6 +961,19 @@
    "parts": 32.2581,
    "montant": 10.0,
    "ouvert_le": "2026-11-12 02:45 UTC"
+  },
+  "BreakTheBank|19984013644425508777123336886028665102752324948478041210395878309130003684551": {
+   "date": "2026-11-12 03:05 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Trail Blazers (-1.5)",
+   "resultat": "Trail Blazers",
+   "prix_trader": 0.55,
+   "retard_min": 5.4,
+   "token": "19984013644425508777123336886028665102752324948478041210395878309130003684551",
+   "prix_simule": 0.57,
+   "parts": 17.5439,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-12 03:05 UTC"
   }
  },
  "fermees": [
