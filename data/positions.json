@@ -259,6 +259,19 @@
    "parts": 172.4138,
    "montant": 10.0,
    "ouvert_le": "2026-11-12 00:00 UTC"
+  },
+  "primm|88754751821122943728727491124089285199825870250609586159602056140866178634349": {
+   "date": "2026-11-12 00:20 UTC",
+   "trader": "primm",
+   "marche": "Spread: Central Michigan (-17.5)",
+   "resultat": "Central Michigan",
+   "prix_trader": 0.48,
+   "retard_min": 0.7,
+   "token": "88754751821122943728727491124089285199825870250609586159602056140866178634349",
+   "prix_simule": 0.49,
+   "parts": 20.4082,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-12 00:20 UTC"
   }
  },
  "fermees": [
