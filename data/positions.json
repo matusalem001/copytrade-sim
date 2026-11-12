@@ -948,6 +948,19 @@
    "parts": 26.3158,
    "montant": 10.0,
    "ouvert_le": "2026-11-12 02:10 UTC"
+  },
+  "primm|50671031279871350124148341069405783573974361497693063532059413837790676565829": {
+   "date": "2026-11-12 02:15 UTC",
+   "trader": "primm",
+   "marche": "Sacramento State vs. Central Michigan",
+   "resultat": "Sacramento State",
+   "prix_trader": 0.1,
+   "retard_min": 2.8,
+   "token": "50671031279871350124148341069405783573974361497693063532059413837790676565829",
+   "prix_simule": 0.1,
+   "parts": 100.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-12 02:15 UTC"
   }
  },
  "fermees": [
