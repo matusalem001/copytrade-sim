@@ -1521,3 +1521,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 20:40 UTC,BreakTheBank,ACHAT,Will Oklahoma City Thunder advance to the Western Conference Finals in the 2027 NBA Playoffs?,Yes,0.37,0.47,10.0,1.2,21.2766,10.0,,
 2026-11-13 20:45 UTC,primm,ACHAT,Spread: Ohio State (-11.5),Northwestern,0.44,0.45,1.0,4.6,22.2222,10.0,,
 2026-11-13 20:45 UTC,primm,ACHAT,Spread: Ohio State (-13.5),Northwestern,0.47,0.47,0.0,4.6,21.2766,10.0,,
+2026-11-13 20:50 UTC,BreakTheBank,IGNORE,Will Josh Hokit win in Round 3?,No,0.91,0.985,,3.9,,,,prix trop haut
+2026-11-13 20:50 UTC,BreakTheBank,IGNORE,Will Josh Hokit win in Round 3?,No,0.91,0.985,,3.7,,,,prix trop haut
+2026-11-13 20:50 UTC,primm,IGNORE,Spread: Buffalo (-3.5),Ball State,0.28,,,2490.6,,,,vu trop tard
+2026-11-13 20:50 UTC,primm,IGNORE,Spread: Buffalo (-3.5),Ball State,0.28,,,2490.3,,,,vu trop tard
