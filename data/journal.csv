@@ -1457,3 +1457,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 05:15 UTC,primm,REGLEMENT,Memphis vs. South Florida,Memphis,,0.88,,,11.3636,11.36,1.36,gagné
 2026-11-13 05:15 UTC,primm,REGLEMENT,Memphis vs. South Florida,South Florida,,0.128,,,78.125,0.0,-10.0,perdu
 2026-11-13 05:25 UTC,primm,REGLEMENT,Louisiana vs. Louisiana-Monroe: O/U 47.5,Under,,0.52,,,19.2308,0.0,-10.0,perdu
+2026-11-13 05:30 UTC,primm,REGLEMENT,Louisiana vs. Louisiana-Monroe: O/U 43.5,Under,,0.36,,,27.7778,0.0,-10.0,perdu
+2026-11-13 05:30 UTC,primm,REGLEMENT,Louisiana vs. Louisiana-Monroe: O/U 47.5,Over,,0.72,,,13.8889,13.89,3.89,gagné
