@@ -1552,3 +1552,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 23:25 UTC,BreakTheBank,ACHAT,Spread: Magic (-7.5),Bucks,0.42,0.43,1.0,9.7,23.2558,10.0,,
 2026-11-13 23:25 UTC,primm,ACHAT,Florida State vs. Pittsburgh: O/U 53.5,Over,0.47,0.47,0.0,6.2,21.2766,10.0,,
 2026-11-13 23:30 UTC,primm,IGNORE,Spread: Toledo (-24.5),UMass,0.5,,,2655.7,,,,vu trop tard
+2026-11-13 23:45 UTC,BreakTheBank,ACHAT,Spread: Grizzlies (-4.5),Grizzlies,0.45,0.47,2.0,6.9,21.2766,10.0,,
