@@ -129,6 +129,19 @@
    "parts": 12.6582,
    "montant": 10.0,
    "ouvert_le": "2026-11-13 15:55 UTC"
+  },
+  "BreakTheBank|91702330346946548622675210116459489728256362045133972362648212561233748753861": {
+   "date": "2026-11-13 16:10 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Ciryl Gane win in Round 3?",
+   "resultat": "No",
+   "prix_trader": 0.83,
+   "retard_min": 4.5,
+   "token": "91702330346946548622675210116459489728256362045133972362648212561233748753861",
+   "prix_simule": 0.94,
+   "parts": 10.6383,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 16:10 UTC"
   }
  },
  "fermees": [
