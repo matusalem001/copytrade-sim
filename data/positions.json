@@ -234,19 +234,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-13 19:25 UTC"
   },
-  "BreakTheBank|11144960374208664461444702435156167489461388687325334674790184764551076587211": {
-   "date": "2026-11-13 19:30 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Will Serbia vs. Germany end in a draw?",
-   "resultat": "Yes",
-   "prix_trader": 0.14,
-   "retard_min": 3.9,
-   "token": "11144960374208664461444702435156167489461388687325334674790184764551076587211",
-   "prix_simule": 0.15,
-   "parts": 66.6667,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-13 19:30 UTC"
-  },
   "primm|50804260809189801853046864243379872420510224720023455373220631696220556407080": {
    "date": "2026-11-13 20:25 UTC",
    "trader": "primm",
@@ -10860,6 +10847,23 @@
    "sortie": 0.0,
    "pnl": -10.0,
    "ferme_le": "2026-11-13 22:00 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-13 19:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Serbia vs. Germany end in a draw?",
+   "resultat": "Yes",
+   "prix_trader": 0.14,
+   "retard_min": 3.9,
+   "token": "11144960374208664461444702435156167489461388687325334674790184764551076587211",
+   "prix_simule": 0.15,
+   "parts": 66.6667,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 19:30 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-13 22:05 UTC",
    "type": "perdu"
   }
  ]

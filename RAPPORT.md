@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 22:00 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 22:05 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 127 | 109 | 116 | 59 | +5.72 $ | +0.5 % | 11 | +1.3 ¢ | 8 min |
+| BreakTheBank | 127 | 109 | 117 | 59 | -4.28 $ | -0.4 % | 10 | +1.3 ¢ | 8 min |
 | primm | 509 | 177 | 481 | 227 | -334.69 $ | -7.0 % | 28 | +3.2 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 12 | 5 | -32.41 $ | -27.0 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : -361.38 $ sur 6090 $ engagés (-5.9 %)**
+**Total réalisé : -371.38 $ sur 6100 $ engagés (-6.1 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 22:00 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Will Serbia vs. Germany end in a draw? | Yes | 0.15 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Germany (-1.5) | Serbia | 0.42 | 0.00 | -10.00 $ |
 | BreakTheBank | Will Serbia win on 2026-11-13? | Yes | 0.09 | 0.00 | -10.00 $ |
 | BreakTheBank | Will Netherlands win on 2026-11-13? | Yes | 0.65 | 1.00 | +5.38 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 22:00 UTC** 
 | primm | Louisiana vs. Louisiana-Monroe: O/U 49.5 | Under | 0.58 | 0.00 | -10.00 $ |
 | primm | Louisiana vs. Louisiana-Monroe: O/U 47.5 | Over | 0.72 | 1.00 | +3.89 $ |
 | primm | Louisiana vs. Louisiana-Monroe: O/U 43.5 | Under | 0.36 | 0.00 | -10.00 $ |
-| primm | Louisiana vs. Louisiana-Monroe: O/U 47.5 | Under | 0.52 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
