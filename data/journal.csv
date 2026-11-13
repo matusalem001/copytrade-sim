@@ -1449,3 +1449,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 04:40 UTC,BreakTheBank,REGLEMENT,Spread: Giants (-7.5),Giants,,0.25,,,40.0,0.0,-10.0,perdu
 2026-11-13 04:40 UTC,juice-fruit,REGLEMENT,Commanders vs. Giants,Commanders,,0.43,,,23.2558,23.26,13.26,gagné
 2026-11-13 05:00 UTC,primm,IGNORE,Spread: Louisiana (-17.5),Louisiana-Monroe,0.64,0.57,-7.0,9.6,,,,prix a trop chuté (match sans doute joué)
+2026-11-13 05:10 UTC,primm,ACHAT,Spread: Louisiana (-16.5),Louisiana-Monroe,0.26,0.27,1.0,5.3,37.037,10.0,,
+2026-11-13 05:10 UTC,primm,REGLEMENT,Spread: Memphis (-3.5),South Florida,,0.45,,,22.2222,0.0,-10.0,perdu
+2026-11-13 05:10 UTC,primm,REGLEMENT,Spread: Memphis (-2.5),South Florida,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-13 05:10 UTC,primm,REGLEMENT,Spread: South Florida (-3.5),Memphis,,0.629,,,15.8983,15.9,5.9,gagné
+2026-11-13 05:10 UTC,primm,REGLEMENT,Spread: Memphis (-1.5),Memphis,,0.45,,,22.2222,22.22,12.22,gagné

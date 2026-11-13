@@ -117,19 +117,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-13 00:40 UTC"
   },
-  "primm|111724128352649147769893746009217843124849251702279280836286279194344013753865": {
-   "date": "2026-11-13 01:10 UTC",
-   "trader": "primm",
-   "marche": "Spread: Memphis (-3.5)",
-   "resultat": "South Florida",
-   "prix_trader": 0.45,
-   "retard_min": 2.6,
-   "token": "111724128352649147769893746009217843124849251702279280836286279194344013753865",
-   "prix_simule": 0.45,
-   "parts": 22.2222,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-13 01:10 UTC"
-  },
   "primm|42988311932930871810695387381246195776330315765690303430130253079962259253213": {
    "date": "2026-11-13 01:25 UTC",
    "trader": "primm",
@@ -364,45 +351,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-13 03:30 UTC"
   },
-  "primm|77851201365007282688861390625052466649928140572783860956701249515968380143827": {
-   "date": "2026-11-13 04:00 UTC",
-   "trader": "primm",
-   "marche": "Spread: Memphis (-2.5)",
-   "resultat": "South Florida",
-   "prix_trader": 0.43,
-   "retard_min": 6.6,
-   "token": "77851201365007282688861390625052466649928140572783860956701249515968380143827",
-   "prix_simule": 0.46,
-   "parts": 21.7391,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-13 04:00 UTC"
-  },
-  "primm|87939185778448833667459430427450786945916350781817617120179937311094984770441": {
-   "date": "2026-11-13 04:10 UTC",
-   "trader": "primm",
-   "marche": "Spread: South Florida (-3.5)",
-   "resultat": "Memphis",
-   "prix_trader": 0.66,
-   "retard_min": 4.3,
-   "token": "87939185778448833667459430427450786945916350781817617120179937311094984770441",
-   "prix_simule": 0.629,
-   "parts": 15.8983,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-13 04:10 UTC"
-  },
-  "primm|39222532158617114140376291231774494562143669146535631393368416001348779421676": {
-   "date": "2026-11-13 04:25 UTC",
-   "trader": "primm",
-   "marche": "Spread: Memphis (-1.5)",
-   "resultat": "Memphis",
-   "prix_trader": 0.49,
-   "retard_min": 0.7,
-   "token": "39222532158617114140376291231774494562143669146535631393368416001348779421676",
-   "prix_simule": 0.45,
-   "parts": 22.2222,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-13 04:25 UTC"
-  },
   "primm|41365192842455233075026235507737229966938860398128239220920691570938449088248": {
    "date": "2026-11-13 04:30 UTC",
    "trader": "primm",
@@ -428,6 +376,19 @@
    "parts": 17.2414,
    "montant": 10.0,
    "ouvert_le": "2026-11-13 04:40 UTC"
+  },
+  "primm|75246197322720880920733815206373337635769018891835785296498498662697007861290": {
+   "date": "2026-11-13 05:10 UTC",
+   "trader": "primm",
+   "marche": "Spread: Louisiana (-16.5)",
+   "resultat": "Louisiana-Monroe",
+   "prix_trader": 0.26,
+   "retard_min": 5.3,
+   "token": "75246197322720880920733815206373337635769018891835785296498498662697007861290",
+   "prix_simule": 0.27,
+   "parts": 37.037,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 05:10 UTC"
   }
  },
  "fermees": [
@@ -10255,6 +10216,74 @@
    "sortie": 1.0,
    "pnl": 13.2558,
    "ferme_le": "2026-11-13 04:40 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-13 01:10 UTC",
+   "trader": "primm",
+   "marche": "Spread: Memphis (-3.5)",
+   "resultat": "South Florida",
+   "prix_trader": 0.45,
+   "retard_min": 2.6,
+   "token": "111724128352649147769893746009217843124849251702279280836286279194344013753865",
+   "prix_simule": 0.45,
+   "parts": 22.2222,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 01:10 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-13 05:10 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-13 04:00 UTC",
+   "trader": "primm",
+   "marche": "Spread: Memphis (-2.5)",
+   "resultat": "South Florida",
+   "prix_trader": 0.43,
+   "retard_min": 6.6,
+   "token": "77851201365007282688861390625052466649928140572783860956701249515968380143827",
+   "prix_simule": 0.46,
+   "parts": 21.7391,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 04:00 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-13 05:10 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-13 04:10 UTC",
+   "trader": "primm",
+   "marche": "Spread: South Florida (-3.5)",
+   "resultat": "Memphis",
+   "prix_trader": 0.66,
+   "retard_min": 4.3,
+   "token": "87939185778448833667459430427450786945916350781817617120179937311094984770441",
+   "prix_simule": 0.629,
+   "parts": 15.8983,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 04:10 UTC",
+   "sortie": 1.0,
+   "pnl": 5.8983,
+   "ferme_le": "2026-11-13 05:10 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-13 04:25 UTC",
+   "trader": "primm",
+   "marche": "Spread: Memphis (-1.5)",
+   "resultat": "Memphis",
+   "prix_trader": 0.49,
+   "retard_min": 0.7,
+   "token": "39222532158617114140376291231774494562143669146535631393368416001348779421676",
+   "prix_simule": 0.45,
+   "parts": 22.2222,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 04:25 UTC",
+   "sortie": 1.0,
+   "pnl": 12.2222,
+   "ferme_le": "2026-11-13 05:10 UTC",
    "type": "gagné"
   }
  ]
