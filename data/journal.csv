@@ -1416,3 +1416,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 03:00 UTC,primm,ACHAT,Louisiana vs. Louisiana-Monroe: O/U 55.5,Over,0.46,0.52,6.0,6.0,19.2308,10.0,,
 2026-11-13 03:00 UTC,primm,ACHAT,Spread: Louisiana-Monroe (-1.5),Louisiana,0.59,0.61,2.0,6.0,16.3934,10.0,,
 2026-11-13 03:00 UTC,primm,ACHAT,Spread: Louisiana (-1.5),Louisiana-Monroe,0.48,0.61,13.0,5.5,16.3934,10.0,,
+2026-11-13 03:05 UTC,primm,ACHAT,Spread: Louisiana (-2.5),Louisiana-Monroe,0.58,0.53,-5.0,3.3,18.8679,10.0,,
+2026-11-13 03:05 UTC,primm,REGLEMENT,Memphis vs. South Florida: O/U 41.5,Over,,0.8,,,12.5,12.5,2.5,gagné

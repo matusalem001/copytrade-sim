@@ -260,19 +260,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-13 01:15 UTC"
   },
-  "primm|76672856996280112429192858292554762197587185138056556792148979779800826244385": {
-   "date": "2026-11-13 01:15 UTC",
-   "trader": "primm",
-   "marche": "Memphis vs. South Florida: O/U 41.5",
-   "resultat": "Over",
-   "prix_trader": 0.67,
-   "retard_min": 4.7,
-   "token": "76672856996280112429192858292554762197587185138056556792148979779800826244385",
-   "prix_simule": 0.8,
-   "parts": 12.5,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-13 01:15 UTC"
-  },
   "juice-fruit|57116982052065311213148272017509019091878460161804135776191150711401823772495": {
    "date": "2026-11-13 01:20 UTC",
    "trader": "juice-fruit",
@@ -558,6 +545,19 @@
    "parts": 16.3934,
    "montant": 10.0,
    "ouvert_le": "2026-11-13 03:00 UTC"
+  },
+  "primm|729588695894055375412686961289557291149640099444880936527418015911373868676": {
+   "date": "2026-11-13 03:05 UTC",
+   "trader": "primm",
+   "marche": "Spread: Louisiana (-2.5)",
+   "resultat": "Louisiana-Monroe",
+   "prix_trader": 0.58,
+   "retard_min": 3.3,
+   "token": "729588695894055375412686961289557291149640099444880936527418015911373868676",
+   "prix_simule": 0.53,
+   "parts": 18.8679,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 03:05 UTC"
   }
  },
  "fermees": [
@@ -10063,6 +10063,23 @@
    "pnl": -10.0,
    "ferme_le": "2026-11-13 02:45 UTC",
    "type": "perdu"
+  },
+  {
+   "date": "2026-11-13 01:15 UTC",
+   "trader": "primm",
+   "marche": "Memphis vs. South Florida: O/U 41.5",
+   "resultat": "Over",
+   "prix_trader": 0.67,
+   "retard_min": 4.7,
+   "token": "76672856996280112429192858292554762197587185138056556792148979779800826244385",
+   "prix_simule": 0.8,
+   "parts": 12.5,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 01:15 UTC",
+   "sortie": 1.0,
+   "pnl": 2.5,
+   "ferme_le": "2026-11-13 03:05 UTC",
+   "type": "gagné"
   }
  ]
 }
