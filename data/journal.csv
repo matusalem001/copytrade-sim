@@ -1463,3 +1463,17 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 05:40 UTC,primm,REGLEMENT,Louisiana vs. Louisiana-Monroe: O/U 51.5,Over,,0.68,,,14.7059,14.71,4.71,gagné
 2026-11-13 05:40 UTC,primm,REGLEMENT,Louisiana vs. Louisiana-Monroe: O/U 55.5,Over,,0.52,,,19.2308,19.23,9.23,gagné
 2026-11-13 05:40 UTC,primm,REGLEMENT,Louisiana vs. Louisiana-Monroe: O/U 49.5,Over,,0.58,,,17.2414,17.24,7.24,gagné
+2026-11-13 06:00 UTC,primm,REGLEMENT,Louisiana vs. Louisiana-Monroe,Louisiana-Monroe,,0.26,,,38.4615,0.0,-10.0,perdu
+2026-11-13 06:00 UTC,primm,REGLEMENT,Spread: Louisiana (-10.5),Louisiana-Monroe,,0.64,,,15.625,0.0,-10.0,perdu
+2026-11-13 06:00 UTC,primm,REGLEMENT,Spread: Louisiana (-7.5),Louisiana-Monroe,,0.59,,,16.9492,0.0,-10.0,perdu
+2026-11-13 06:00 UTC,primm,REGLEMENT,Spread: Louisiana (-11.5),Louisiana-Monroe,,0.72,,,13.8889,0.0,-10.0,perdu
+2026-11-13 06:00 UTC,primm,REGLEMENT,Spread: Louisiana (-6.5),Louisiana-Monroe,,0.49,,,20.4082,0.0,-10.0,perdu
+2026-11-13 06:00 UTC,primm,REGLEMENT,Spread: Louisiana (-4.5),Louisiana-Monroe,,0.53,,,18.8679,0.0,-10.0,perdu
+2026-11-13 06:00 UTC,primm,REGLEMENT,Spread: Louisiana (-5.5),Louisiana-Monroe,,0.54,,,18.5185,0.0,-10.0,perdu
+2026-11-13 06:00 UTC,primm,REGLEMENT,Spread: Louisiana (-3.5),Louisiana-Monroe,,0.5,,,20.0,0.0,-10.0,perdu
+2026-11-13 06:00 UTC,primm,REGLEMENT,Spread: Louisiana (-6.5),Louisiana,,0.36,,,27.7778,27.78,17.78,gagné
+2026-11-13 06:00 UTC,primm,REGLEMENT,Spread: Louisiana-Monroe (-1.5),Louisiana,,0.61,,,16.3934,16.39,6.39,gagné
+2026-11-13 06:00 UTC,primm,REGLEMENT,Spread: Louisiana (-1.5),Louisiana-Monroe,,0.61,,,16.3934,0.0,-10.0,perdu
+2026-11-13 06:00 UTC,primm,REGLEMENT,Spread: Louisiana (-2.5),Louisiana-Monroe,,0.53,,,18.8679,0.0,-10.0,perdu
+2026-11-13 06:00 UTC,primm,REGLEMENT,Spread: Louisiana (-13.5),Louisiana-Monroe,,0.61,,,16.3934,0.0,-10.0,perdu
+2026-11-13 06:00 UTC,primm,REGLEMENT,Spread: Louisiana (-16.5),Louisiana-Monroe,,0.27,,,37.037,0.0,-10.0,perdu

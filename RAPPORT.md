@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 05:55 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 06:00 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 119 | 87 | 112 | 58 | +30.34 $ | +2.7 % | 7 | +1.1 ¢ | 7 min |
-| primm | 481 | 172 | 467 | 225 | -238.86 $ | -5.1 % | 14 | +3.3 ¢ | 4 min |
+| primm | 481 | 172 | 481 | 227 | -334.69 $ | -7.0 % | 0 | +3.3 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 12 | 5 | -32.41 $ | -27.0 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : -240.94 $ sur 5910 $ engagés (-4.1 %)**
+**Total réalisé : -336.77 $ sur 6050 $ engagés (-5.6 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,20 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 05:55 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Louisiana (-16.5) | Louisiana-Monroe | 0.27 | 0.00 | -10.00 $ |
+| primm | Spread: Louisiana (-13.5) | Louisiana-Monroe | 0.61 | 0.00 | -10.00 $ |
+| primm | Spread: Louisiana (-2.5) | Louisiana-Monroe | 0.53 | 0.00 | -10.00 $ |
+| primm | Spread: Louisiana (-1.5) | Louisiana-Monroe | 0.61 | 0.00 | -10.00 $ |
+| primm | Spread: Louisiana-Monroe (-1.5) | Louisiana | 0.61 | 1.00 | +6.39 $ |
+| primm | Spread: Louisiana (-6.5) | Louisiana | 0.36 | 1.00 | +17.78 $ |
+| primm | Spread: Louisiana (-3.5) | Louisiana-Monroe | 0.50 | 0.00 | -10.00 $ |
+| primm | Spread: Louisiana (-5.5) | Louisiana-Monroe | 0.54 | 0.00 | -10.00 $ |
+| primm | Spread: Louisiana (-4.5) | Louisiana-Monroe | 0.53 | 0.00 | -10.00 $ |
+| primm | Spread: Louisiana (-6.5) | Louisiana-Monroe | 0.49 | 0.00 | -10.00 $ |
+| primm | Spread: Louisiana (-11.5) | Louisiana-Monroe | 0.72 | 0.00 | -10.00 $ |
+| primm | Spread: Louisiana (-7.5) | Louisiana-Monroe | 0.59 | 0.00 | -10.00 $ |
+| primm | Spread: Louisiana (-10.5) | Louisiana-Monroe | 0.64 | 0.00 | -10.00 $ |
+| primm | Louisiana vs. Louisiana-Monroe | Louisiana-Monroe | 0.26 | 0.00 | -10.00 $ |
 | primm | Louisiana vs. Louisiana-Monroe: O/U 49.5 | Over | 0.58 | 1.00 | +7.24 $ |
 | primm | Louisiana vs. Louisiana-Monroe: O/U 55.5 | Over | 0.52 | 1.00 | +9.23 $ |
 | primm | Louisiana vs. Louisiana-Monroe: O/U 51.5 | Over | 0.68 | 1.00 | +4.71 $ |
@@ -27,19 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 05:55 UTC** 
 | primm | Memphis vs. South Florida | Memphis | 0.88 | 1.00 | +1.36 $ |
 | primm | Spread: Memphis (-1.5) | Memphis | 0.45 | 1.00 | +12.22 $ |
 | primm | Spread: South Florida (-3.5) | Memphis | 0.63 | 1.00 | +5.90 $ |
-| primm | Spread: Memphis (-2.5) | South Florida | 0.46 | 0.00 | -10.00 $ |
-| primm | Spread: Memphis (-3.5) | South Florida | 0.45 | 0.00 | -10.00 $ |
-| juice-fruit | Commanders vs. Giants | Commanders | 0.43 | 1.00 | +13.26 $ |
-| BreakTheBank | Spread: Giants (-7.5) | Giants | 0.25 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Giants (-1.5) | Giants | 0.51 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Giants (-8.5) | Giants | 0.24 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Giants (-6.5) | Giants | 0.33 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Giants (-3.5) | Giants | 0.40 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Giants (-2.5) | Giants | 0.48 | 0.00 | -10.00 $ |
-| BreakTheBank | Commanders vs. Giants: O/U 40.5 | Over | 0.53 | 1.00 | +8.87 $ |
-| BreakTheBank | Commanders vs. Giants: O/U 44.5 | Over | 0.38 | 1.00 | +16.32 $ |
-| primm | Memphis vs. South Florida: O/U 71.5 | Under | 0.47 | 0.00 | -10.00 $ |
-| primm | Memphis vs. South Florida: O/U 71.5 | Over | 0.52 | 1.00 | +9.23 $ |
-| primm | Memphis vs. South Florida: O/U 65.5 | Over | 0.72 | 1.00 | +3.89 $ |
 
 Journal complet : `data/journal.csv`
