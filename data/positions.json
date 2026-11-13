@@ -428,6 +428,32 @@
    "parts": 23.2558,
    "montant": 10.0,
    "ouvert_le": "2026-11-13 21:10 UTC"
+  },
+  "primm|15750679887954793638048956680354119863786920885217526078189440646031351822493": {
+   "date": "2026-11-13 21:15 UTC",
+   "trader": "primm",
+   "marche": "Spread: Appalachian State (-3.5)",
+   "resultat": "Appalachian State",
+   "prix_trader": 0.41,
+   "retard_min": 2.3,
+   "token": "15750679887954793638048956680354119863786920885217526078189440646031351822493",
+   "prix_simule": 0.42,
+   "parts": 23.8095,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 21:15 UTC"
+  },
+  "primm|103065854736691550939487478861761695384129140714964795401810600519938592619146": {
+   "date": "2026-11-13 21:15 UTC",
+   "trader": "primm",
+   "marche": "Spread: Appalachian State (-2.5)",
+   "resultat": "Appalachian State",
+   "prix_trader": 0.47,
+   "retard_min": 2.3,
+   "token": "103065854736691550939487478861761695384129140714964795401810600519938592619146",
+   "prix_simule": 0.48,
+   "parts": 20.8333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 21:15 UTC"
   }
  },
  "fermees": [

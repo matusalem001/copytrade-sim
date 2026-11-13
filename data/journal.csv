@@ -1530,3 +1530,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 21:05 UTC,primm,ACHAT,Spread: Miami (FL) (-14.5),Miami (FL),0.45,0.46,1.0,1.0,21.7391,10.0,,
 2026-11-13 21:10 UTC,primm,IGNORE,Spread: Louisiana (-6.5),Louisiana,0.33,,,1095.4,,,,vu trop tard
 2026-11-13 21:10 UTC,primm,ACHAT,Spread: Georgia Southern (-7.5),Georgia Southern,0.42,0.43,1.0,1.4,23.2558,10.0,,
+2026-11-13 21:15 UTC,primm,ACHAT,Spread: Appalachian State (-3.5),Appalachian State,0.41,0.42,1.0,2.3,23.8095,10.0,,
+2026-11-13 21:15 UTC,primm,ACHAT,Spread: Appalachian State (-2.5),Appalachian State,0.47,0.48,1.0,2.3,20.8333,10.0,,
