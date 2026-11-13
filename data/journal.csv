@@ -1392,3 +1392,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 02:10 UTC,primm,ACHAT,Spread: Louisiana (-11.5),Louisiana-Monroe,0.57,0.72,15.0,1.5,13.8889,10.0,,
 2026-11-13 02:10 UTC,primm,ACHAT,Spread: Louisiana (-6.5),Louisiana-Monroe,0.41,0.49,8.0,1.5,20.4082,10.0,,
 2026-11-13 02:15 UTC,primm,IGNORE,Spread: Central Michigan (-13.5),Sacramento State,0.49,,,1454.3,,,,vu trop tard
+2026-11-13 02:20 UTC,primm,IGNORE,Spread: Toledo (-27.5),UMass,0.41,,,1417.1,,,,vu trop tard
+2026-11-13 02:20 UTC,primm,ACHAT,Spread: Louisiana (-4.5),Louisiana-Monroe,0.46,0.53,7.0,3.8,18.8679,10.0,,
+2026-11-13 02:20 UTC,primm,ACHAT,Spread: Louisiana (-5.5),Louisiana-Monroe,0.48,0.54,6.0,3.8,18.5185,10.0,,
+2026-11-13 02:20 UTC,primm,ACHAT,Spread: Louisiana (-3.5),Louisiana-Monroe,0.43,0.5,7.0,3.2,20.0,10.0,,
