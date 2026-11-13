@@ -1506,3 +1506,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 19:30 UTC,BreakTheBank,ACHAT,Will Serbia vs. Germany end in a draw?,Yes,0.14,0.15,1.0,3.9,66.6667,10.0,,
 2026-11-13 19:30 UTC,BreakTheBank,ACHAT,Spread: Germany (-1.5),Serbia,0.41,0.42,1.0,3.7,23.8095,10.0,,
 2026-11-13 19:30 UTC,primm,IGNORE,Memphis vs. South Florida: O/U 71.5,Over,0.51,,,1002.9,,,,vu trop tard
+2026-11-13 19:35 UTC,BreakTheBank,IGNORE,Spread: Giants (-2.5),Giants,0.48,,,1102.6,,,,vu trop tard
+2026-11-13 19:35 UTC,BreakTheBank,IGNORE,Spread: Giants (-3.5),Giants,0.39,,,1102.4,,,,vu trop tard
+2026-11-13 19:35 UTC,BreakTheBank,IGNORE,Spread: Giants (-2.5),Giants,0.48,,,1101.7,,,,vu trop tard
+2026-11-13 19:35 UTC,BreakTheBank,IGNORE,Spread: Giants (-2.5),Giants,0.48,,,1101.0,,,,vu trop tard
+2026-11-13 19:35 UTC,BreakTheBank,IGNORE,Commanders vs. Giants: O/U 40.5,Over,0.52,,,1100.6,,,,vu trop tard
