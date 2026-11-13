@@ -584,6 +584,19 @@
    "parts": 78.125,
    "montant": 10.0,
    "ouvert_le": "2026-11-13 03:15 UTC"
+  },
+  "primm|101187689151005727811826836860896272282276948129687632994082766718312921223082": {
+   "date": "2026-11-13 03:30 UTC",
+   "trader": "primm",
+   "marche": "Louisiana vs. Louisiana-Monroe: O/U 47.5",
+   "resultat": "Over",
+   "prix_trader": 0.58,
+   "retard_min": 9.8,
+   "token": "101187689151005727811826836860896272282276948129687632994082766718312921223082",
+   "prix_simule": 0.72,
+   "parts": 13.8889,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 03:30 UTC"
   }
  },
  "fermees": [
