@@ -1496,3 +1496,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 19:05 UTC,BreakTheBank,ACHAT,Will Netherlands win on 2026-11-13?,Yes,0.63,0.65,2.0,7.1,15.3846,10.0,,
 2026-11-13 19:10 UTC,BreakTheBank,IGNORE,Commanders vs. Giants: O/U 40.5,Over,0.52,,,1075.9,,,,vu trop tard
 2026-11-13 19:10 UTC,BreakTheBank,IGNORE,Spread: Giants (-2.5),Giants,0.48,,,1075.4,,,,vu trop tard
+2026-11-13 19:15 UTC,BreakTheBank,IGNORE,Spread: Giants (-2.5),Giants,0.48,,,1082.3,,,,vu trop tard
+2026-11-13 19:15 UTC,primm,ACHAT,Spread: Rams (-14.5),Rams,0.3,0.37,7.0,3.5,27.027,10.0,,
+2026-11-13 19:15 UTC,primm,ACHAT,Spread: 49ers (-6.5),49ers,0.42,0.43,1.0,2.1,23.2558,10.0,,
+2026-11-13 19:15 UTC,primm,ACHAT,Steelers vs. Bengals: O/U 50.5,Over,0.47,0.48,1.0,0.5,20.8333,10.0,,
