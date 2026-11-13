@@ -220,6 +220,19 @@
    "parts": 25.0,
    "montant": 10.0,
    "ouvert_le": "2026-11-12 23:55 UTC"
+  },
+  "BreakTheBank|99875399488266125803361563369625423550869720569680361132574143132980667981377": {
+   "date": "2026-11-13 00:05 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Commanders vs. Giants: O/U 36.5",
+   "resultat": "Over",
+   "prix_trader": 0.65,
+   "retard_min": 4.0,
+   "token": "99875399488266125803361563369625423550869720569680361132574143132980667981377",
+   "prix_simule": 0.66,
+   "parts": 15.1515,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 00:05 UTC"
   }
  },
  "fermees": [

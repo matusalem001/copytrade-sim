@@ -1363,3 +1363,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-12 23:45 UTC,BreakTheBank,ACHAT,Spread: 76ers (-5.5),Raptors,0.42,0.43,1.0,4.7,23.2558,10.0,,
 2026-11-12 23:50 UTC,BreakTheBank,ACHAT,Spread: Giants (-2.5),Giants,0.47,0.48,1.0,3.2,20.8333,10.0,,
 2026-11-12 23:55 UTC,BreakTheBank,ACHAT,Spread: Giants (-3.5),Giants,0.39,0.4,1.0,3.6,25.0,10.0,,
+2026-11-13 00:05 UTC,BreakTheBank,ACHAT,Commanders vs. Giants: O/U 36.5,Over,0.65,0.66,1.0,4.0,15.1515,10.0,,
