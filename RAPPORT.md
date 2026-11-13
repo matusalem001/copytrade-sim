@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 02:40 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 02:45 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 119 | 87 | 96 | 55 | +130.00 $ | +13.5 % | 23 | +1.1 ¢ | 7 min |
-| primm | 464 | 166 | 445 | 214 | -193.52 $ | -4.3 % | 19 | +3.3 ¢ | 4 min |
+| BreakTheBank | 119 | 87 | 103 | 55 | +60.00 $ | +5.8 % | 16 | +1.1 ¢ | 7 min |
+| primm | 465 | 167 | 445 | 214 | -193.52 $ | -4.3 % | 20 | +3.3 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 11 | 4 | -45.67 $ | -41.5 % | 1 | -1.3 ¢ | 5 min |
 
-**Total réalisé : -109.19 $ sur 5520 $ engagés (-2.0 %)**
+**Total réalisé : -179.19 $ sur 5590 $ engagés (-3.2 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,13 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 02:40 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Spread: 76ers (-5.5) | Raptors | 0.43 | 0.00 | -10.00 $ |
+| BreakTheBank | Raptors vs. 76ers | Raptors | 0.28 | 0.00 | -10.00 $ |
+| BreakTheBank | Spread: 76ers (-10.5) | Raptors | 0.60 | 0.00 | -10.00 $ |
+| BreakTheBank | Spread: 76ers (-6.5) | Raptors | 0.46 | 0.00 | -10.00 $ |
+| BreakTheBank | Spread: 76ers (-7.5) | Raptors | 0.48 | 0.00 | -10.00 $ |
+| BreakTheBank | Spread: 76ers (-9.5) | Raptors | 0.54 | 0.00 | -10.00 $ |
+| BreakTheBank | Spread: 76ers (-8.5) | Raptors | 0.51 | 0.00 | -10.00 $ |
 | juice-fruit | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Linda Noskova | 0.58 | 0.00 | -10.00 $ |
 | juice-fruit | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Ugo Humbert | 0.37 | 0.00 | -10.00 $ |
 | juice-fruit | WTA Finals, Group A: Marta Kostyuk vs Coco Gauff | Marta Kostyuk | 0.18 | 0.00 | -10.00 $ |
@@ -34,12 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 02:40 UTC** 
 | primm | Buffalo vs. Ball State: O/U 41.5 | Under | 0.39 | 1.00 | +15.64 $ |
 | primm | Buffalo vs. Ball State: O/U 47.5 | Over | 0.46 | 0.00 | -10.00 $ |
 | primm | Spread: Ball State (-2.5) | Ball State | 0.52 | 0.00 | -10.00 $ |
-| primm | Spread: Ball State (-1.5) | Ball State | 0.53 | 0.00 | -10.00 $ |
-| primm | Spread: Buffalo (-1.5) | Ball State | 0.59 | 0.00 | -10.00 $ |
-| primm | Spread: Buffalo (-2.5) | Ball State | 0.61 | 0.00 | -10.00 $ |
-| primm | UMass vs. Toledo: O/U 51.5 | Under | 0.49 | 1.00 | +10.41 $ |
-| primm | Buffalo vs. Ball State: O/U 49.5 | Over | 0.58 | 0.00 | -10.00 $ |
-| primm | Buffalo vs. Ball State: O/U 53.5 | Over | 0.46 | 0.00 | -10.00 $ |
-| primm | Spread: Toledo (-17.5) | UMass | 0.19 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
