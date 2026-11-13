@@ -376,6 +376,19 @@
    "parts": 12.5,
    "montant": 10.0,
    "ouvert_le": "2026-11-13 01:15 UTC"
+  },
+  "juice-fruit|57116982052065311213148272017509019091878460161804135776191150711401823772495": {
+   "date": "2026-11-13 01:20 UTC",
+   "trader": "juice-fruit",
+   "marche": "Commanders vs. Giants",
+   "resultat": "Commanders",
+   "prix_trader": 0.45,
+   "retard_min": 2.8,
+   "token": "57116982052065311213148272017509019091878460161804135776191150711401823772495",
+   "prix_simule": 0.43,
+   "parts": 23.2558,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 01:20 UTC"
   }
  },
  "fermees": [
