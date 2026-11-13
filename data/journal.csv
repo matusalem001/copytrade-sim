@@ -1518,3 +1518,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 20:25 UTC,primm,ACHAT,Cincinnati vs. Iowa State: O/U 59.5,Under,0.55,0.55,0.0,1.0,18.1818,10.0,,
 2026-11-13 20:30 UTC,primm,IGNORE,Louisiana vs. Louisiana-Monroe: O/U 51.5,Over,0.5472,,,951.4,,,,vu trop tard
 2026-11-13 20:35 UTC,primm,ACHAT,Kansas vs. West Virginia: O/U 69.5,Over,0.45,0.47,2.0,0.7,21.2766,10.0,,
+2026-11-13 20:40 UTC,BreakTheBank,ACHAT,Will Oklahoma City Thunder advance to the Western Conference Finals in the 2027 NBA Playoffs?,Yes,0.37,0.47,10.0,1.2,21.2766,10.0,,

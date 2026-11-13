@@ -337,6 +337,19 @@
    "parts": 21.2766,
    "montant": 10.0,
    "ouvert_le": "2026-11-13 20:35 UTC"
+  },
+  "BreakTheBank|29815869211305214820512624086256093110321649176445970071728385740566078938876": {
+   "date": "2026-11-13 20:40 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Oklahoma City Thunder advance to the Western Conference Finals in the 2027 NBA Playoffs?",
+   "resultat": "Yes",
+   "prix_trader": 0.37,
+   "retard_min": 1.2,
+   "token": "29815869211305214820512624086256093110321649176445970071728385740566078938876",
+   "prix_simule": 0.47,
+   "parts": 21.2766,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 20:40 UTC"
   }
  },
  "fermees": [
