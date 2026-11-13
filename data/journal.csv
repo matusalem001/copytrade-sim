@@ -1545,3 +1545,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 22:00 UTC,BreakTheBank,REGLEMENT,Will Serbia win on 2026-11-13?,Yes,,0.09,,,111.1111,0.0,-10.0,perdu
 2026-11-13 22:00 UTC,BreakTheBank,REGLEMENT,Spread: Germany (-1.5),Serbia,,0.42,,,23.8095,0.0,-10.0,perdu
 2026-11-13 22:05 UTC,BreakTheBank,REGLEMENT,Will Serbia vs. Germany end in a draw?,Yes,,0.15,,,66.6667,0.0,-10.0,perdu
+2026-11-13 23:05 UTC,BreakTheBank,IGNORE,Will Josh Hokit win in Round 2?,No,0.88,0.97,,6.2,,,,prix trop haut
