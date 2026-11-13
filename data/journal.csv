@@ -1400,3 +1400,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 02:25 UTC,primm,IGNORE,Spread: Buffalo (-3.5),Ball State,0.28,,,1385.5,,,,vu trop tard
 2026-11-13 02:25 UTC,primm,ACHAT,Louisiana vs. Louisiana-Monroe: O/U 43.5,Under,0.36,0.36,0.0,4.1,27.7778,10.0,,
 2026-11-13 02:35 UTC,primm,IGNORE,Spread: Louisiana (-2.5),Louisiana-Monroe,0.34,0.28,-6.0,6.4,,,,prix a trop chuté (match sans doute joué)
+2026-11-13 02:40 UTC,primm,IGNORE,Spread: Toledo (-20.5),UMass,0.22,,,1406.4,,,,vu trop tard
