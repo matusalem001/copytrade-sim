@@ -1430,3 +1430,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 04:00 UTC,primm,REGLEMENT,Memphis vs. South Florida: O/U 59.5,Under,,0.44,,,22.7273,0.0,-10.0,perdu
 2026-11-13 04:00 UTC,primm,REGLEMENT,Memphis vs. South Florida: O/U 65.5,Over,,0.72,,,13.8889,13.89,3.89,gagné
 2026-11-13 04:05 UTC,primm,IGNORE,Spread: Buffalo (-3.5),Ball State,0.28,,,1485.1,,,,vu trop tard
+2026-11-13 04:10 UTC,primm,ACHAT,Spread: South Florida (-3.5),Memphis,0.66,0.629,-3.1,4.3,15.8983,10.0,,
+2026-11-13 04:10 UTC,primm,REGLEMENT,Memphis vs. South Florida: O/U 71.5,Over,,0.52,,,19.2308,19.23,9.23,gagné
+2026-11-13 04:10 UTC,primm,REGLEMENT,Memphis vs. South Florida: O/U 71.5,Under,,0.47,,,21.2766,0.0,-10.0,perdu
