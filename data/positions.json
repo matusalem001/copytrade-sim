@@ -181,6 +181,19 @@
    "parts": 21.2766,
    "montant": 10.0,
    "ouvert_le": "2026-11-13 18:45 UTC"
+  },
+  "BreakTheBank|72138900851783767381049534482074711421501999578125198929992682355658378251880": {
+   "date": "2026-11-13 18:55 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Germany win on 2026-11-13?",
+   "resultat": "No",
+   "prix_trader": 0.22,
+   "retard_min": 5.9,
+   "token": "72138900851783767381049534482074711421501999578125198929992682355658378251880",
+   "prix_simule": 0.23,
+   "parts": 43.4783,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 18:55 UTC"
   }
  },
  "fermees": [
