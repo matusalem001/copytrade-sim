@@ -1484,3 +1484,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 12:30 UTC,BreakTheBank,IGNORE,Spread: Giants (-3.5),Giants,0.39,,,676.1,,,,vu trop tard
 2026-11-13 12:55 UTC,BreakTheBank,IGNORE,Spread: Giants (-3.5),Giants,0.39,,,704.9,,,,vu trop tard
 2026-11-13 12:55 UTC,BreakTheBank,IGNORE,Spread: Giants (-2.5),Giants,0.48,,,702.5,,,,vu trop tard
+2026-11-13 14:45 UTC,BreakTheBank,IGNORE,Spread: Giants (-2.5),Giants,0.48,,,814.4,,,,vu trop tard
