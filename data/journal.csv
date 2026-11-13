@@ -1380,3 +1380,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 01:20 UTC,juice-fruit,ACHAT,Commanders vs. Giants,Commanders,0.45,0.43,-2.0,2.8,23.2558,10.0,,
 2026-11-13 01:25 UTC,primm,ACHAT,Memphis vs. South Florida,Memphis,0.85,0.88,3.0,4.1,11.3636,10.0,,
 2026-11-13 01:35 UTC,primm,ACHAT,Memphis vs. South Florida: O/U 65.5,Under,0.73,0.73,0.0,2.7,13.6986,10.0,,
+2026-11-13 01:45 UTC,primm,ACHAT,Memphis vs. South Florida: O/U 59.5,Under,0.42,0.44,2.0,0.3,22.7273,10.0,,
+2026-11-13 01:45 UTC,juice-fruit,REGLEMENT,"WTA Finals, Group A: Jessica Pegula vs Linda Noskova",Linda Noskova,,0.58,,,17.2414,0.0,-10.0,perdu
