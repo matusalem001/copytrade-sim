@@ -233,6 +233,19 @@
    "parts": 15.1515,
    "montant": 10.0,
    "ouvert_le": "2026-11-13 00:05 UTC"
+  },
+  "BreakTheBank|6399529909095610637021861241095497330793594137626031888161094400535637093506": {
+   "date": "2026-11-13 00:10 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Giants (-6.5)",
+   "resultat": "Giants",
+   "prix_trader": 0.31,
+   "retard_min": 2.0,
+   "token": "6399529909095610637021861241095497330793594137626031888161094400535637093506",
+   "prix_simule": 0.33,
+   "parts": 30.303,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 00:10 UTC"
   }
  },
  "fermees": [
