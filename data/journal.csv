@@ -1502,3 +1502,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 19:15 UTC,primm,ACHAT,Steelers vs. Bengals: O/U 50.5,Over,0.47,0.48,1.0,0.5,20.8333,10.0,,
 2026-11-13 19:20 UTC,BreakTheBank,IGNORE,Spread: Giants (-2.5),Giants,0.48,,,1089.5,,,,vu trop tard
 2026-11-13 19:25 UTC,primm,ACHAT,Chiefs vs. Falcons: O/U 48.5,Over,0.46,0.46,0.0,0.9,21.7391,10.0,,
+2026-11-13 19:30 UTC,BreakTheBank,ACHAT,Will Serbia win on 2026-11-13?,Yes,0.08,0.09,1.0,4.3,111.1111,10.0,,
+2026-11-13 19:30 UTC,BreakTheBank,ACHAT,Will Serbia vs. Germany end in a draw?,Yes,0.14,0.15,1.0,3.9,66.6667,10.0,,
+2026-11-13 19:30 UTC,BreakTheBank,ACHAT,Spread: Germany (-1.5),Serbia,0.41,0.42,1.0,3.7,23.8095,10.0,,
+2026-11-13 19:30 UTC,primm,IGNORE,Memphis vs. South Florida: O/U 71.5,Over,0.51,,,1002.9,,,,vu trop tard
