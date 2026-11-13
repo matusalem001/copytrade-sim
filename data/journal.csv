@@ -1439,3 +1439,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 04:30 UTC,primm,IGNORE,Spread: Toledo (-24.5),UMass,0.51,,,1507.5,,,,vu trop tard
 2026-11-13 04:30 UTC,primm,ACHAT,Spread: Louisiana (-13.5),Louisiana-Monroe,0.57,0.61,4.0,3.9,16.3934,10.0,,
 2026-11-13 04:30 UTC,BreakTheBank,REGLEMENT,Commanders vs. Giants: O/U 44.5,Over,,0.38,,,26.3158,26.32,16.32,gagné
+2026-11-13 04:35 UTC,BreakTheBank,REGLEMENT,Commanders vs. Giants: O/U 40.5,Over,,0.53,,,18.8679,18.87,8.87,gagné

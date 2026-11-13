@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 04:30 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 04:35 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 119 | 87 | 105 | 57 | +81.47 $ | +7.8 % | 14 | +1.1 ¢ | 7 min |
+| BreakTheBank | 119 | 87 | 106 | 58 | +90.34 $ | +8.5 % | 13 | +1.1 ¢ | 7 min |
 | primm | 479 | 171 | 454 | 218 | -223.41 $ | -4.9 % | 25 | +3.3 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 11 | 4 | -45.67 $ | -41.5 % | 1 | -1.3 ¢ | 5 min |
 
-**Total réalisé : -187.61 $ sur 5700 $ engagés (-3.3 %)**
+**Total réalisé : -178.74 $ sur 5710 $ engagés (-3.1 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 04:30 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Commanders vs. Giants: O/U 40.5 | Over | 0.53 | 1.00 | +8.87 $ |
 | BreakTheBank | Commanders vs. Giants: O/U 44.5 | Over | 0.38 | 1.00 | +16.32 $ |
 | primm | Memphis vs. South Florida: O/U 71.5 | Under | 0.47 | 0.00 | -10.00 $ |
 | primm | Memphis vs. South Florida: O/U 71.5 | Over | 0.52 | 1.00 | +9.23 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 04:30 UTC** 
 | juice-fruit | Will Arsenal WFC win on 2026-11-12? | No | 0.72 | 1.00 | +3.89 $ |
 | BreakTheBank | Spread: 76ers (-7.5) | Raptors | 0.47 | 0.46 | -0.21 $ |
 | BreakTheBank | Thunder vs. Trail Blazers | Trail Blazers | 0.56 | 1.00 | +7.86 $ |
-| BreakTheBank | Spread: Trail Blazers (-1.5) | Trail Blazers | 0.57 | 1.00 | +7.54 $ |
 
 Journal complet : `data/journal.csv`

@@ -195,19 +195,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-13 01:00 UTC"
   },
-  "BreakTheBank|86541241073910113923909758382515000118476332003166824684349727507494724584043": {
-   "date": "2026-11-13 01:10 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Commanders vs. Giants: O/U 40.5",
-   "resultat": "Over",
-   "prix_trader": 0.52,
-   "retard_min": 5.4,
-   "token": "86541241073910113923909758382515000118476332003166824684349727507494724584043",
-   "prix_simule": 0.53,
-   "parts": 18.8679,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-13 01:10 UTC"
-  },
   "primm|111724128352649147769893746009217843124849251702279280836286279194344013753865": {
    "date": "2026-11-13 01:10 UTC",
    "trader": "primm",
@@ -10210,6 +10197,23 @@
    "sortie": 1.0,
    "pnl": 16.3158,
    "ferme_le": "2026-11-13 04:30 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-13 01:10 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Commanders vs. Giants: O/U 40.5",
+   "resultat": "Over",
+   "prix_trader": 0.52,
+   "retard_min": 5.4,
+   "token": "86541241073910113923909758382515000118476332003166824684349727507494724584043",
+   "prix_simule": 0.53,
+   "parts": 18.8679,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 01:10 UTC",
+   "sortie": 1.0,
+   "pnl": 8.8679,
+   "ferme_le": "2026-11-13 04:35 UTC",
    "type": "gagné"
   }
  ]
