@@ -1536,3 +1536,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 21:20 UTC,primm,ACHAT,Auburn vs. Mississippi State: O/U 51.5,Over,0.49,0.5,1.0,4.6,20.0,10.0,,
 2026-11-13 21:20 UTC,primm,ACHAT,Spread: East Carolina (-14.5),East Carolina,0.42,0.44,2.0,3.2,22.7273,10.0,,
 2026-11-13 21:20 UTC,primm,ACHAT,Spread: East Carolina (-13.5),East Carolina,0.45,0.46,1.0,3.2,21.7391,10.0,,
+2026-11-13 21:40 UTC,primm,ACHAT,Spread: Clemson (-17.5),Clemson,0.41,0.42,1.0,4.9,23.8095,10.0,,
+2026-11-13 21:40 UTC,primm,ACHAT,Wake Forest vs. SMU: O/U 59.5,Under,0.48,0.49,1.0,1.7,20.4082,10.0,,
