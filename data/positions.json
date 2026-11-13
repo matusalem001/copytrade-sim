@@ -441,6 +441,71 @@
    "parts": 23.2558,
    "montant": 10.0,
    "ouvert_le": "2026-11-13 02:05 UTC"
+  },
+  "primm|79976298691211011640176505211987056128998694924404165146275152033938129600625": {
+   "date": "2026-11-13 02:10 UTC",
+   "trader": "primm",
+   "marche": "Louisiana vs. Louisiana-Monroe",
+   "resultat": "Louisiana-Monroe",
+   "prix_trader": 0.24,
+   "retard_min": 2.1,
+   "token": "79976298691211011640176505211987056128998694924404165146275152033938129600625",
+   "prix_simule": 0.26,
+   "parts": 38.4615,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 02:10 UTC"
+  },
+  "primm|9725014112503158189119632549530102277614106101546104535352606967495321262303": {
+   "date": "2026-11-13 02:10 UTC",
+   "trader": "primm",
+   "marche": "Spread: Louisiana (-10.5)",
+   "resultat": "Louisiana-Monroe",
+   "prix_trader": 0.55,
+   "retard_min": 2.1,
+   "token": "9725014112503158189119632549530102277614106101546104535352606967495321262303",
+   "prix_simule": 0.64,
+   "parts": 15.625,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 02:10 UTC"
+  },
+  "primm|109965921038638537921060218471994846864825215897588151496183013234210219398196": {
+   "date": "2026-11-13 02:10 UTC",
+   "trader": "primm",
+   "marche": "Spread: Louisiana (-7.5)",
+   "resultat": "Louisiana-Monroe",
+   "prix_trader": 0.47,
+   "retard_min": 2.1,
+   "token": "109965921038638537921060218471994846864825215897588151496183013234210219398196",
+   "prix_simule": 0.59,
+   "parts": 16.9492,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 02:10 UTC"
+  },
+  "primm|94707696782748792397528022127460477114338564664440031531724073604904984770717": {
+   "date": "2026-11-13 02:10 UTC",
+   "trader": "primm",
+   "marche": "Spread: Louisiana (-11.5)",
+   "resultat": "Louisiana-Monroe",
+   "prix_trader": 0.57,
+   "retard_min": 1.5,
+   "token": "94707696782748792397528022127460477114338564664440031531724073604904984770717",
+   "prix_simule": 0.72,
+   "parts": 13.8889,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 02:10 UTC"
+  },
+  "primm|39591270886462003186995750194471745450755234543947676742460161603535278511722": {
+   "date": "2026-11-13 02:10 UTC",
+   "trader": "primm",
+   "marche": "Spread: Louisiana (-6.5)",
+   "resultat": "Louisiana-Monroe",
+   "prix_trader": 0.41,
+   "retard_min": 1.5,
+   "token": "39591270886462003186995750194471745450755234543947676742460161603535278511722",
+   "prix_simule": 0.49,
+   "parts": 20.4082,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 02:10 UTC"
   }
  },
  "fermees": [
