@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 03:45 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 03:50 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 119 | 87 | 103 | 55 | +60.00 $ | +5.8 % | 16 | +1.1 ¢ | 7 min |
-| primm | 475 | 167 | 448 | 216 | -196.53 $ | -4.4 % | 27 | +3.3 ¢ | 4 min |
+| primm | 475 | 167 | 449 | 216 | -206.53 $ | -4.6 % | 26 | +3.3 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 11 | 4 | -45.67 $ | -41.5 % | 1 | -1.3 ¢ | 5 min |
 
-**Total réalisé : -182.20 $ sur 5620 $ engagés (-3.2 %)**
+**Total réalisé : -192.20 $ sur 5630 $ engagés (-3.4 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 03:45 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Memphis vs. South Florida: O/U 53.5 | Under | 0.43 | 0.00 | -10.00 $ |
 | primm | Memphis vs. South Florida: O/U 51.5 | Under | 0.36 | 0.00 | -10.00 $ |
 | primm | Memphis vs. South Florida: O/U 47.5 | Over | 0.69 | 1.00 | +4.49 $ |
 | primm | Memphis vs. South Florida: O/U 41.5 | Over | 0.80 | 1.00 | +2.50 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 03:45 UTC** 
 | primm | Spread: Buffalo (-6.5) | Ball State | 0.44 | 0.00 | -10.00 $ |
 | primm | Spread: Buffalo (-3.5) | Ball State | 0.43 | 0.00 | -10.00 $ |
 | primm | Buffalo vs. Ball State: O/U 35.5 | Under | 0.38 | 1.00 | +16.32 $ |
-| primm | Buffalo vs. Ball State: O/U 47.5 | Under | 0.55 | 1.00 | +8.18 $ |
 
 Journal complet : `data/journal.csv`
