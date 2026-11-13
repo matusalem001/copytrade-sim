@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 04:35 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 04:40 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 119 | 87 | 106 | 58 | +90.34 $ | +8.5 % | 13 | +1.1 ¢ | 7 min |
-| primm | 479 | 171 | 454 | 218 | -223.41 $ | -4.9 % | 25 | +3.3 ¢ | 4 min |
-| juice-fruit | 12 | 2 | 11 | 4 | -45.67 $ | -41.5 % | 1 | -1.3 ¢ | 5 min |
+| BreakTheBank | 119 | 87 | 112 | 58 | +30.34 $ | +2.7 % | 7 | +1.1 ¢ | 7 min |
+| primm | 480 | 171 | 454 | 218 | -223.41 $ | -4.9 % | 26 | +3.3 ¢ | 4 min |
+| juice-fruit | 12 | 2 | 12 | 5 | -32.41 $ | -27.0 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : -178.74 $ sur 5710 $ engagés (-3.1 %)**
+**Total réalisé : -225.49 $ sur 5780 $ engagés (-3.9 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,13 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 04:35 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| juice-fruit | Commanders vs. Giants | Commanders | 0.43 | 1.00 | +13.26 $ |
+| BreakTheBank | Spread: Giants (-7.5) | Giants | 0.25 | 0.00 | -10.00 $ |
+| BreakTheBank | Spread: Giants (-1.5) | Giants | 0.51 | 0.00 | -10.00 $ |
+| BreakTheBank | Spread: Giants (-8.5) | Giants | 0.24 | 0.00 | -10.00 $ |
+| BreakTheBank | Spread: Giants (-6.5) | Giants | 0.33 | 0.00 | -10.00 $ |
+| BreakTheBank | Spread: Giants (-3.5) | Giants | 0.40 | 0.00 | -10.00 $ |
+| BreakTheBank | Spread: Giants (-2.5) | Giants | 0.48 | 0.00 | -10.00 $ |
 | BreakTheBank | Commanders vs. Giants: O/U 40.5 | Over | 0.53 | 1.00 | +8.87 $ |
 | BreakTheBank | Commanders vs. Giants: O/U 44.5 | Over | 0.38 | 1.00 | +16.32 $ |
 | primm | Memphis vs. South Florida: O/U 71.5 | Under | 0.47 | 0.00 | -10.00 $ |
@@ -34,12 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 04:35 UTC** 
 | BreakTheBank | Spread: 76ers (-6.5) | Raptors | 0.46 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: 76ers (-7.5) | Raptors | 0.48 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: 76ers (-9.5) | Raptors | 0.54 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: 76ers (-8.5) | Raptors | 0.51 | 0.00 | -10.00 $ |
-| juice-fruit | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Linda Noskova | 0.58 | 0.00 | -10.00 $ |
-| juice-fruit | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Ugo Humbert | 0.37 | 0.00 | -10.00 $ |
-| juice-fruit | WTA Finals, Group A: Marta Kostyuk vs Coco Gauff | Marta Kostyuk | 0.18 | 0.00 | -10.00 $ |
-| juice-fruit | Will Arsenal WFC win on 2026-11-12? | No | 0.72 | 1.00 | +3.89 $ |
-| BreakTheBank | Spread: 76ers (-7.5) | Raptors | 0.47 | 0.46 | -0.21 $ |
-| BreakTheBank | Thunder vs. Trail Blazers | Trail Blazers | 0.56 | 1.00 | +7.86 $ |
 
 Journal complet : `data/journal.csv`
