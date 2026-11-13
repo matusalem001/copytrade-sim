@@ -1525,3 +1525,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 20:50 UTC,BreakTheBank,IGNORE,Will Josh Hokit win in Round 3?,No,0.91,0.985,,3.7,,,,prix trop haut
 2026-11-13 20:50 UTC,primm,IGNORE,Spread: Buffalo (-3.5),Ball State,0.28,,,2490.6,,,,vu trop tard
 2026-11-13 20:50 UTC,primm,IGNORE,Spread: Buffalo (-3.5),Ball State,0.28,,,2490.3,,,,vu trop tard
+2026-11-13 20:55 UTC,primm,ACHAT,UAB vs. Temple: O/U 51.5,Under,0.61,0.62,1.0,4.6,16.129,10.0,,
