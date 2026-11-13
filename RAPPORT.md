@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 05:10 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 05:15 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 119 | 87 | 112 | 58 | +30.34 $ | +2.7 % | 7 | +1.1 ¢ | 7 min |
-| primm | 481 | 172 | 458 | 220 | -225.29 $ | -4.9 % | 23 | +3.3 ¢ | 4 min |
+| primm | 481 | 172 | 460 | 221 | -233.93 $ | -5.1 % | 21 | +3.3 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 12 | 5 | -32.41 $ | -27.0 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : -227.37 $ sur 5820 $ engagés (-3.9 %)**
+**Total réalisé : -236.00 $ sur 5840 $ engagés (-4.0 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 05:10 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Memphis vs. South Florida | South Florida | 0.13 | 0.00 | -10.00 $ |
+| primm | Memphis vs. South Florida | Memphis | 0.88 | 1.00 | +1.36 $ |
 | primm | Spread: Memphis (-1.5) | Memphis | 0.45 | 1.00 | +12.22 $ |
 | primm | Spread: South Florida (-3.5) | Memphis | 0.63 | 1.00 | +5.90 $ |
 | primm | Spread: Memphis (-2.5) | South Florida | 0.46 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 05:10 UTC** 
 | primm | Memphis vs. South Florida: O/U 51.5 | Under | 0.36 | 0.00 | -10.00 $ |
 | primm | Memphis vs. South Florida: O/U 47.5 | Over | 0.69 | 1.00 | +4.49 $ |
 | primm | Memphis vs. South Florida: O/U 41.5 | Over | 0.80 | 1.00 | +2.50 $ |
-| BreakTheBank | Spread: 76ers (-5.5) | Raptors | 0.43 | 0.00 | -10.00 $ |
-| BreakTheBank | Raptors vs. 76ers | Raptors | 0.28 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

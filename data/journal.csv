@@ -1454,3 +1454,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 05:10 UTC,primm,REGLEMENT,Spread: Memphis (-2.5),South Florida,,0.46,,,21.7391,0.0,-10.0,perdu
 2026-11-13 05:10 UTC,primm,REGLEMENT,Spread: South Florida (-3.5),Memphis,,0.629,,,15.8983,15.9,5.9,gagné
 2026-11-13 05:10 UTC,primm,REGLEMENT,Spread: Memphis (-1.5),Memphis,,0.45,,,22.2222,22.22,12.22,gagné
+2026-11-13 05:15 UTC,primm,REGLEMENT,Memphis vs. South Florida,Memphis,,0.88,,,11.3636,11.36,1.36,gagné
+2026-11-13 05:15 UTC,primm,REGLEMENT,Memphis vs. South Florida,South Florida,,0.128,,,78.125,0.0,-10.0,perdu
