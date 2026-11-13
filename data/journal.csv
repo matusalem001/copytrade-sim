@@ -1410,3 +1410,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 02:45 UTC,BreakTheBank,REGLEMENT,Spread: 76ers (-10.5),Raptors,,0.6,,,16.6667,0.0,-10.0,perdu
 2026-11-13 02:45 UTC,BreakTheBank,REGLEMENT,Raptors vs. 76ers,Raptors,,0.28,,,35.7143,0.0,-10.0,perdu
 2026-11-13 02:45 UTC,BreakTheBank,REGLEMENT,Spread: 76ers (-5.5),Raptors,,0.43,,,23.2558,0.0,-10.0,perdu
+2026-11-13 02:50 UTC,primm,ACHAT,Memphis vs. South Florida: O/U 65.5,Over,0.7,0.72,2.0,2.7,13.8889,10.0,,
+2026-11-13 02:50 UTC,primm,ACHAT,Memphis vs. South Florida: O/U 71.5,Over,0.51,0.52,1.0,2.7,19.2308,10.0,,
