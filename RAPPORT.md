@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 03:55 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 04:00 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 119 | 87 | 103 | 55 | +60.00 $ | +5.8 % | 16 | +1.1 ¢ | 7 min |
-| primm | 475 | 167 | 449 | 216 | -206.53 $ | -4.6 % | 26 | +3.3 ¢ | 4 min |
+| BreakTheBank | 119 | 87 | 104 | 56 | +65.15 $ | +6.3 % | 15 | +1.1 ¢ | 7 min |
+| primm | 476 | 167 | 452 | 217 | -222.64 $ | -4.9 % | 24 | +3.3 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 11 | 4 | -45.67 $ | -41.5 % | 1 | -1.3 ¢ | 5 min |
 
-**Total réalisé : -192.20 $ sur 5630 $ engagés (-3.4 %)**
+**Total réalisé : -203.16 $ sur 5670 $ engagés (-3.6 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,10 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 03:55 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Memphis vs. South Florida: O/U 65.5 | Over | 0.72 | 1.00 | +3.89 $ |
+| primm | Memphis vs. South Florida: O/U 59.5 | Under | 0.44 | 0.00 | -10.00 $ |
+| primm | Memphis vs. South Florida: O/U 65.5 | Under | 0.73 | 0.00 | -10.00 $ |
+| BreakTheBank | Commanders vs. Giants: O/U 36.5 | Over | 0.66 | 1.00 | +5.15 $ |
 | primm | Memphis vs. South Florida: O/U 53.5 | Under | 0.43 | 0.00 | -10.00 $ |
 | primm | Memphis vs. South Florida: O/U 51.5 | Under | 0.36 | 0.00 | -10.00 $ |
 | primm | Memphis vs. South Florida: O/U 47.5 | Over | 0.69 | 1.00 | +4.49 $ |
@@ -37,9 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 03:55 UTC** 
 | BreakTheBank | Spread: Trail Blazers (-2.5) | Trail Blazers | 0.52 | 1.00 | +9.23 $ |
 | primm | Buffalo vs. Ball State: O/U 49.5 | Under | 0.49 | 1.00 | +10.41 $ |
 | primm | Buffalo vs. Ball State | Ball State | 0.49 | 0.00 | -10.00 $ |
-| primm | Spread: Buffalo (-4.5) | Buffalo | 0.68 | 1.00 | +4.71 $ |
-| primm | Spread: Buffalo (-6.5) | Ball State | 0.44 | 0.00 | -10.00 $ |
-| primm | Spread: Buffalo (-3.5) | Ball State | 0.43 | 0.00 | -10.00 $ |
-| primm | Buffalo vs. Ball State: O/U 35.5 | Under | 0.38 | 1.00 | +16.32 $ |
 
 Journal complet : `data/journal.csv`

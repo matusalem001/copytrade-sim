@@ -117,19 +117,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-12 23:55 UTC"
   },
-  "BreakTheBank|99875399488266125803361563369625423550869720569680361132574143132980667981377": {
-   "date": "2026-11-13 00:05 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Commanders vs. Giants: O/U 36.5",
-   "resultat": "Over",
-   "prix_trader": 0.65,
-   "retard_min": 4.0,
-   "token": "99875399488266125803361563369625423550869720569680361132574143132980667981377",
-   "prix_simule": 0.66,
-   "parts": 15.1515,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-13 00:05 UTC"
-  },
   "BreakTheBank|6399529909095610637021861241095497330793594137626031888161094400535637093506": {
    "date": "2026-11-13 00:10 UTC",
    "trader": "BreakTheBank",
@@ -273,32 +260,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-13 01:25 UTC"
   },
-  "primm|27924641413817372926274889673550131166947691340577054196971645509490127562627": {
-   "date": "2026-11-13 01:35 UTC",
-   "trader": "primm",
-   "marche": "Memphis vs. South Florida: O/U 65.5",
-   "resultat": "Under",
-   "prix_trader": 0.73,
-   "retard_min": 2.7,
-   "token": "27924641413817372926274889673550131166947691340577054196971645509490127562627",
-   "prix_simule": 0.73,
-   "parts": 13.6986,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-13 01:35 UTC"
-  },
-  "primm|82338347632252531000628044673985174860756160583519537422744675101044880519806": {
-   "date": "2026-11-13 01:45 UTC",
-   "trader": "primm",
-   "marche": "Memphis vs. South Florida: O/U 59.5",
-   "resultat": "Under",
-   "prix_trader": 0.42,
-   "retard_min": 0.3,
-   "token": "82338347632252531000628044673985174860756160583519537422744675101044880519806",
-   "prix_simule": 0.44,
-   "parts": 22.7273,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-13 01:45 UTC"
-  },
   "primm|79976298691211011640176505211987056128998694924404165146275152033938129600625": {
    "date": "2026-11-13 02:10 UTC",
    "trader": "primm",
@@ -429,19 +390,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-13 02:45 UTC"
   },
-  "primm|15192129328089354317394291604096124788932803638517190460000132769768113991782": {
-   "date": "2026-11-13 02:50 UTC",
-   "trader": "primm",
-   "marche": "Memphis vs. South Florida: O/U 65.5",
-   "resultat": "Over",
-   "prix_trader": 0.7,
-   "retard_min": 2.7,
-   "token": "15192129328089354317394291604096124788932803638517190460000132769768113991782",
-   "prix_simule": 0.72,
-   "parts": 13.8889,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-13 02:50 UTC"
-  },
   "primm|107425939469460526681959511818421453646300829483518394253832569668528086701440": {
    "date": "2026-11-13 02:50 UTC",
    "trader": "primm",
@@ -558,6 +506,19 @@
    "parts": 13.8889,
    "montant": 10.0,
    "ouvert_le": "2026-11-13 03:30 UTC"
+  },
+  "primm|77851201365007282688861390625052466649928140572783860956701249515968380143827": {
+   "date": "2026-11-13 04:00 UTC",
+   "trader": "primm",
+   "marche": "Spread: Memphis (-2.5)",
+   "resultat": "South Florida",
+   "prix_trader": 0.43,
+   "retard_min": 6.6,
+   "token": "77851201365007282688861390625052466649928140572783860956701249515968380143827",
+   "prix_simule": 0.46,
+   "parts": 21.7391,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 04:00 UTC"
   }
  },
  "fermees": [
@@ -10131,6 +10092,74 @@
    "pnl": -10.0,
    "ferme_le": "2026-11-13 03:50 UTC",
    "type": "perdu"
+  },
+  {
+   "date": "2026-11-13 00:05 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Commanders vs. Giants: O/U 36.5",
+   "resultat": "Over",
+   "prix_trader": 0.65,
+   "retard_min": 4.0,
+   "token": "99875399488266125803361563369625423550869720569680361132574143132980667981377",
+   "prix_simule": 0.66,
+   "parts": 15.1515,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 00:05 UTC",
+   "sortie": 1.0,
+   "pnl": 5.1515,
+   "ferme_le": "2026-11-13 04:00 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-13 01:35 UTC",
+   "trader": "primm",
+   "marche": "Memphis vs. South Florida: O/U 65.5",
+   "resultat": "Under",
+   "prix_trader": 0.73,
+   "retard_min": 2.7,
+   "token": "27924641413817372926274889673550131166947691340577054196971645509490127562627",
+   "prix_simule": 0.73,
+   "parts": 13.6986,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 01:35 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-13 04:00 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-13 01:45 UTC",
+   "trader": "primm",
+   "marche": "Memphis vs. South Florida: O/U 59.5",
+   "resultat": "Under",
+   "prix_trader": 0.42,
+   "retard_min": 0.3,
+   "token": "82338347632252531000628044673985174860756160583519537422744675101044880519806",
+   "prix_simule": 0.44,
+   "parts": 22.7273,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 01:45 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-13 04:00 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-13 02:50 UTC",
+   "trader": "primm",
+   "marche": "Memphis vs. South Florida: O/U 65.5",
+   "resultat": "Over",
+   "prix_trader": 0.7,
+   "retard_min": 2.7,
+   "token": "15192129328089354317394291604096124788932803638517190460000132769768113991782",
+   "prix_simule": 0.72,
+   "parts": 13.8889,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 02:50 UTC",
+   "sortie": 1.0,
+   "pnl": 3.8889,
+   "ferme_le": "2026-11-13 04:00 UTC",
+   "type": "gagné"
   }
  ]
 }

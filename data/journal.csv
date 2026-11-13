@@ -1424,3 +1424,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 03:45 UTC,primm,REGLEMENT,Memphis vs. South Florida: O/U 47.5,Over,,0.69,,,14.4928,14.49,4.49,gagné
 2026-11-13 03:45 UTC,primm,REGLEMENT,Memphis vs. South Florida: O/U 51.5,Under,,0.36,,,27.7778,0.0,-10.0,perdu
 2026-11-13 03:50 UTC,primm,REGLEMENT,Memphis vs. South Florida: O/U 53.5,Under,,0.43,,,23.2558,0.0,-10.0,perdu
+2026-11-13 04:00 UTC,primm,ACHAT,Spread: Memphis (-2.5),South Florida,0.43,0.46,3.0,6.6,21.7391,10.0,,
+2026-11-13 04:00 UTC,BreakTheBank,REGLEMENT,Commanders vs. Giants: O/U 36.5,Over,,0.66,,,15.1515,15.15,5.15,gagné
+2026-11-13 04:00 UTC,primm,REGLEMENT,Memphis vs. South Florida: O/U 65.5,Under,,0.73,,,13.6986,0.0,-10.0,perdu
+2026-11-13 04:00 UTC,primm,REGLEMENT,Memphis vs. South Florida: O/U 59.5,Under,,0.44,,,22.7273,0.0,-10.0,perdu
+2026-11-13 04:00 UTC,primm,REGLEMENT,Memphis vs. South Florida: O/U 65.5,Over,,0.72,,,13.8889,13.89,3.89,gagné
