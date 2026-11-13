@@ -558,6 +558,32 @@
    "parts": 18.8679,
    "montant": 10.0,
    "ouvert_le": "2026-11-13 03:05 UTC"
+  },
+  "primm|94624255758821720892720295521317118740593585327063717079307657434573131426478": {
+   "date": "2026-11-13 03:15 UTC",
+   "trader": "primm",
+   "marche": "Memphis vs. South Florida: O/U 71.5",
+   "resultat": "Under",
+   "prix_trader": 0.43,
+   "retard_min": 1.8,
+   "token": "94624255758821720892720295521317118740593585327063717079307657434573131426478",
+   "prix_simule": 0.47,
+   "parts": 21.2766,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 03:15 UTC"
+  },
+  "primm|67294505089574131098305449310906548172629101848651145871329738303930969455945": {
+   "date": "2026-11-13 03:15 UTC",
+   "trader": "primm",
+   "marche": "Memphis vs. South Florida",
+   "resultat": "South Florida",
+   "prix_trader": 0.124,
+   "retard_min": 0.1,
+   "token": "67294505089574131098305449310906548172629101848651145871329738303930969455945",
+   "prix_simule": 0.128,
+   "parts": 78.125,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 03:15 UTC"
   }
  },
  "fermees": [
