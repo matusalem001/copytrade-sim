@@ -1382,3 +1382,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 01:35 UTC,primm,ACHAT,Memphis vs. South Florida: O/U 65.5,Under,0.73,0.73,0.0,2.7,13.6986,10.0,,
 2026-11-13 01:45 UTC,primm,ACHAT,Memphis vs. South Florida: O/U 59.5,Under,0.42,0.44,2.0,0.3,22.7273,10.0,,
 2026-11-13 01:45 UTC,juice-fruit,REGLEMENT,"WTA Finals, Group A: Jessica Pegula vs Linda Noskova",Linda Noskova,,0.58,,,17.2414,0.0,-10.0,perdu
+2026-11-13 02:00 UTC,primm,IGNORE,Spread: Central Michigan (-7.5),Sacramento State,0.36,,,1440.8,,,,vu trop tard
+2026-11-13 02:00 UTC,primm,IGNORE,Spread: Buffalo (-3.5),Ball State,0.28,,,1361.1,,,,vu trop tard
