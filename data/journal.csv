@@ -1370,3 +1370,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 00:40 UTC,primm,ACHAT,Louisiana vs. Louisiana-Monroe: O/U 49.5,Under,0.57,0.58,1.0,5.2,17.2414,10.0,,
 2026-11-13 00:55 UTC,BreakTheBank,ACHAT,Spread: Giants (-1.5),Giants,0.5,0.51,1.0,6.7,19.6078,10.0,,
 2026-11-13 00:55 UTC,BreakTheBank,ACHAT,Commanders vs. Giants: O/U 44.5,Over,0.37,0.38,1.0,1.3,26.3158,10.0,,
+2026-11-13 01:00 UTC,BreakTheBank,ACHAT,Spread: Giants (-7.5),Giants,0.24,0.25,1.0,4.4,40.0,10.0,,
