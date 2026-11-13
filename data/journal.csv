@@ -1492,3 +1492,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 18:45 UTC,primm,ACHAT,Spread: Pittsburgh (-5.5),Pittsburgh,0.44,0.44,0.0,1.9,22.7273,10.0,,
 2026-11-13 18:45 UTC,primm,ACHAT,Spread: Pittsburgh (-4.5),Pittsburgh,0.46,0.47,1.0,1.9,21.2766,10.0,,
 2026-11-13 18:55 UTC,BreakTheBank,ACHAT,Will Germany win on 2026-11-13?,No,0.22,0.23,1.0,5.9,43.4783,10.0,,
+2026-11-13 19:05 UTC,BreakTheBank,IGNORE,Spread: Giants (-3.5),Giants,0.39,,,1072.5,,,,vu trop tard
+2026-11-13 19:05 UTC,BreakTheBank,ACHAT,Will Netherlands win on 2026-11-13?,Yes,0.63,0.65,2.0,7.1,15.3846,10.0,,

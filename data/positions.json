@@ -194,6 +194,19 @@
    "parts": 43.4783,
    "montant": 10.0,
    "ouvert_le": "2026-11-13 18:55 UTC"
+  },
+  "BreakTheBank|74657628586889486024754819662205824483780876102677936465769588864193909242916": {
+   "date": "2026-11-13 19:05 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Netherlands win on 2026-11-13?",
+   "resultat": "Yes",
+   "prix_trader": 0.63,
+   "retard_min": 7.1,
+   "token": "74657628586889486024754819662205824483780876102677936465769588864193909242916",
+   "prix_simule": 0.65,
+   "parts": 15.3846,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 19:05 UTC"
   }
  },
  "fermees": [
