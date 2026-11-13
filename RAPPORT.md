@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 05:20 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 05:25 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 119 | 87 | 112 | 58 | +30.34 $ | +2.7 % | 7 | +1.1 ¢ | 7 min |
-| primm | 481 | 172 | 460 | 221 | -233.93 $ | -5.1 % | 21 | +3.3 ¢ | 4 min |
+| primm | 481 | 172 | 461 | 221 | -243.93 $ | -5.3 % | 20 | +3.3 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 12 | 5 | -32.41 $ | -27.0 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : -236.00 $ sur 5840 $ engagés (-4.0 %)**
+**Total réalisé : -246.00 $ sur 5850 $ engagés (-4.2 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 05:20 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Louisiana vs. Louisiana-Monroe: O/U 47.5 | Under | 0.52 | 0.00 | -10.00 $ |
 | primm | Memphis vs. South Florida | South Florida | 0.13 | 0.00 | -10.00 $ |
 | primm | Memphis vs. South Florida | Memphis | 0.88 | 1.00 | +1.36 $ |
 | primm | Spread: Memphis (-1.5) | Memphis | 0.45 | 1.00 | +12.22 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-13 05:20 UTC** 
 | primm | Memphis vs. South Florida: O/U 53.5 | Under | 0.43 | 0.00 | -10.00 $ |
 | primm | Memphis vs. South Florida: O/U 51.5 | Under | 0.36 | 0.00 | -10.00 $ |
 | primm | Memphis vs. South Florida: O/U 47.5 | Over | 0.69 | 1.00 | +4.49 $ |
-| primm | Memphis vs. South Florida: O/U 41.5 | Over | 0.80 | 1.00 | +2.50 $ |
 
 Journal complet : `data/journal.csv`
