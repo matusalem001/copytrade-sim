@@ -415,6 +415,19 @@
    "parts": 21.7391,
    "montant": 10.0,
    "ouvert_le": "2026-11-13 21:05 UTC"
+  },
+  "primm|68958797487630943627622458832645999034202420998085682514338849311013790319768": {
+   "date": "2026-11-13 21:10 UTC",
+   "trader": "primm",
+   "marche": "Spread: Georgia Southern (-7.5)",
+   "resultat": "Georgia Southern",
+   "prix_trader": 0.42,
+   "retard_min": 1.4,
+   "token": "68958797487630943627622458832645999034202420998085682514338849311013790319768",
+   "prix_simule": 0.43,
+   "parts": 23.2558,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 21:10 UTC"
   }
  },
  "fermees": [

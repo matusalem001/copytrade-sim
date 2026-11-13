@@ -1528,3 +1528,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 20:55 UTC,primm,ACHAT,UAB vs. Temple: O/U 51.5,Under,0.61,0.62,1.0,4.6,16.129,10.0,,
 2026-11-13 21:05 UTC,primm,ACHAT,Spread: Auburn (-4.5),Auburn,0.42,0.43,1.0,2.0,23.2558,10.0,,
 2026-11-13 21:05 UTC,primm,ACHAT,Spread: Miami (FL) (-14.5),Miami (FL),0.45,0.46,1.0,1.0,21.7391,10.0,,
+2026-11-13 21:10 UTC,primm,IGNORE,Spread: Louisiana (-6.5),Louisiana,0.33,,,1095.4,,,,vu trop tard
+2026-11-13 21:10 UTC,primm,ACHAT,Spread: Georgia Southern (-7.5),Georgia Southern,0.42,0.43,1.0,1.4,23.2558,10.0,,
