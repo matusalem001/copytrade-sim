@@ -1538,3 +1538,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 21:20 UTC,primm,ACHAT,Spread: East Carolina (-13.5),East Carolina,0.45,0.46,1.0,3.2,21.7391,10.0,,
 2026-11-13 21:40 UTC,primm,ACHAT,Spread: Clemson (-17.5),Clemson,0.41,0.42,1.0,4.9,23.8095,10.0,,
 2026-11-13 21:40 UTC,primm,ACHAT,Wake Forest vs. SMU: O/U 59.5,Under,0.48,0.49,1.0,1.7,20.4082,10.0,,
+2026-11-13 21:55 UTC,primm,ACHAT,Spread: Washington (-1.5),Michigan State,0.42,0.43,1.0,9.8,23.2558,10.0,,
+2026-11-13 21:55 UTC,primm,ACHAT,Spread: Washington (-2.5),Michigan State,0.44,0.45,1.0,9.8,22.2222,10.0,,
