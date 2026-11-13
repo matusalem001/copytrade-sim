@@ -1478,3 +1478,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-13 06:00 UTC,primm,REGLEMENT,Spread: Louisiana (-13.5),Louisiana-Monroe,,0.61,,,16.3934,0.0,-10.0,perdu
 2026-11-13 06:00 UTC,primm,REGLEMENT,Spread: Louisiana (-16.5),Louisiana-Monroe,,0.27,,,37.037,0.0,-10.0,perdu
 2026-11-13 09:00 UTC,BreakTheBank,ACHAT,Will Ciryl Gane win in Round 2?,No,0.81,0.93,12.0,5.5,10.7527,10.0,,
+2026-11-13 11:30 UTC,BreakTheBank,IGNORE,Spread: Giants (-3.5),Giants,0.39,,,616.0,,,,vu trop tard
