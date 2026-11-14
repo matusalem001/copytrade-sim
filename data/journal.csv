@@ -1889,3 +1889,9 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 17:15 UTC,primm,ACHAT,Wake Forest vs. SMU: O/U 65.5,Under,0.56,0.55,-1.0,3.8,18.1818,10.0,,
 2026-11-14 17:15 UTC,primm,IGNORE,Spread: Miami (FL) (-16.5),Miami (FL),0.46,0.41,-5.0,2.3,,,,prix a trop chuté (match sans doute joué)
 2026-11-14 17:20 UTC,primm,IGNORE,Houston vs. Colorado: O/U 75.5,Under,0.67,,,701.8,,,,vu trop tard
+2026-11-14 17:25 UTC,primm,ACHAT,Spread: Ohio State (-20.5),Northwestern,0.54,0.76,22.0,9.5,13.1579,10.0,,
+2026-11-14 17:25 UTC,primm,ACHAT,Spread: Ohio State (-17.5),Northwestern,0.47,0.71,24.0,9.5,14.0845,10.0,,
+2026-11-14 17:25 UTC,primm,ACHAT,Spread: Ohio State (-14.5),Northwestern,0.5,0.62,12.0,7.6,16.129,10.0,,
+2026-11-14 17:25 UTC,primm,ACHAT,Northwestern vs. Ohio State: O/U 39.5,Over,0.61,0.61,0.0,4.0,16.3934,10.0,,
+2026-11-14 17:25 UTC,primm,ACHAT,Spread: Ohio State (-10.5),Northwestern,0.45,0.52,7.0,3.3,19.2308,10.0,,
+2026-11-14 17:25 UTC,primm,ACHAT,Spread: Ohio State (-7.5),Northwestern,0.37,0.45,8.0,1.5,22.2222,10.0,,
