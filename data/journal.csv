@@ -1667,3 +1667,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 04:15 UTC,primm,IGNORE,Spread: Florida State (-3.5),Pittsburgh,0.51,,,123.3,,,,vu trop tard
 2026-11-14 04:15 UTC,primm,ACHAT,Houston vs. Colorado: O/U 63.5,Under,0.75,0.81,6.0,0.8,12.3457,10.0,,
 2026-11-14 04:35 UTC,primm,ACHAT,Spread: Houston (-20.5),Colorado,0.64,0.68,4.0,2.4,14.7059,10.0,,
+2026-11-14 04:40 UTC,primm,ACHAT,Spread: UCLA (-6.5),UCLA,0.44,0.44,0.0,1.3,22.7273,10.0,,
+2026-11-14 04:40 UTC,primm,ACHAT,Spread: UCLA (-5.5),UCLA,0.45,0.46,1.0,1.3,21.7391,10.0,,
+2026-11-14 04:40 UTC,primm,ACHAT,Spread: UCLA (-2.5),UCLA,0.7,0.71,1.0,1.3,14.0845,10.0,,
+2026-11-14 04:40 UTC,primm,ACHAT,Spread: UCLA (-3.5),UCLA,0.67,0.67,0.0,1.3,14.9254,10.0,,
