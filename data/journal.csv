@@ -1940,3 +1940,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 18:01 UTC,primm,ACHAT,Spread: Clemson (-3.5),Georgia Tech,0.36,0.35,-1.0,0.4,28.5714,10.0,,
 2026-11-14 18:01 UTC,primm,ACHAT,Spread: Clemson (-4.5),Georgia Tech,0.4,0.37,-3.0,0.4,27.027,10.0,,
 2026-11-14 18:01 UTC,primm,ACHAT,Spread: Wake Forest (-16.5),Wake Forest,0.52,0.52,0.0,0.2,19.2308,10.0,,
+2026-11-14 18:05 UTC,primm,ACHAT,Spread: Alabama (-11.5),Vanderbilt,0.41,0.46,5.0,2.6,21.7391,10.0,,
+2026-11-14 18:05 UTC,primm,ACHAT,Spread: Clemson (-1.5),Georgia Tech,0.38,0.4,2.0,2.4,25.0,10.0,,
+2026-11-14 18:05 UTC,primm,ACHAT,Spread: Clemson (-2.5),Georgia Tech,0.4,0.42,2.0,2.4,23.8095,10.0,,
+2026-11-14 18:05 UTC,primm,ACHAT,Spread: Georgia Tech (-2.5),Georgia Tech,0.31,0.33,2.0,2.4,30.303,10.0,,
+2026-11-14 18:05 UTC,primm,ACHAT,Northwestern vs. Ohio State: O/U 45.5,Under,0.57,0.68,11.0,0.6,14.7059,10.0,,
