@@ -1666,3 +1666,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 04:10 UTC,primm,ACHAT,Spread: Houston (-10.5),Colorado,0.46,0.59,13.0,2.4,16.9492,10.0,,
 2026-11-14 04:15 UTC,primm,IGNORE,Spread: Florida State (-3.5),Pittsburgh,0.51,,,123.3,,,,vu trop tard
 2026-11-14 04:15 UTC,primm,ACHAT,Houston vs. Colorado: O/U 63.5,Under,0.75,0.81,6.0,0.8,12.3457,10.0,,
+2026-11-14 04:35 UTC,primm,ACHAT,Spread: Houston (-20.5),Colorado,0.64,0.68,4.0,2.4,14.7059,10.0,,
