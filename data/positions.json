@@ -351,19 +351,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-14 08:20 UTC"
   },
-  "primm|32977713863691174306851949131833842859591008566826703150389852195112300380247": {
-   "date": "2026-11-14 14:45 UTC",
-   "trader": "primm",
-   "marche": "Arkansas State vs. Coastal Carolina: O/U 51.5",
-   "resultat": "Over",
-   "prix_trader": 0.54,
-   "retard_min": 7.0,
-   "token": "32977713863691174306851949131833842859591008566826703150389852195112300380247",
-   "prix_simule": 0.55,
-   "parts": 18.1818,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-14 14:45 UTC"
-  },
   "primm|21199311419195425074059601209382222907790701222372894973478975678913489744800": {
    "date": "2026-11-14 14:45 UTC",
    "trader": "primm",
@@ -1299,6 +1286,19 @@
    "parts": 20.8333,
    "montant": 10.0,
    "ouvert_le": "2026-11-14 21:40 UTC"
+  },
+  "primm|6050283123831173441025308241434726102150825993870046964380817434650843369438": {
+   "date": "2026-11-14 21:45 UTC",
+   "trader": "primm",
+   "marche": "Spread: Kansas (-6.5)",
+   "resultat": "Kansas",
+   "prix_trader": 0.58,
+   "retard_min": 3.9,
+   "token": "6050283123831173441025308241434726102150825993870046964380817434650843369438",
+   "prix_simule": 0.69,
+   "parts": 14.4928,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 21:45 UTC"
   }
  },
  "fermees": [
@@ -15104,6 +15104,23 @@
    "sortie": 0.0,
    "pnl": -10.0,
    "ferme_le": "2026-11-14 21:40 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-14 14:45 UTC",
+   "trader": "primm",
+   "marche": "Arkansas State vs. Coastal Carolina: O/U 51.5",
+   "resultat": "Over",
+   "prix_trader": 0.54,
+   "retard_min": 7.0,
+   "token": "32977713863691174306851949131833842859591008566826703150389852195112300380247",
+   "prix_simule": 0.55,
+   "parts": 18.1818,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 14:45 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-14 21:45 UTC",
    "type": "perdu"
   }
  ]

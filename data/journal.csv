@@ -2154,3 +2154,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 21:40 UTC,primm,ACHAT,Auburn vs. Mississippi State: O/U 47.5,Over,0.48,0.48,0.0,2.2,20.8333,10.0,,
 2026-11-14 21:40 UTC,primm,REGLEMENT,UAB vs. Temple: O/U 51.5,Under,,0.62,,,16.129,16.13,6.13,gagné
 2026-11-14 21:40 UTC,primm,REGLEMENT,Arkansas State vs. Coastal Carolina: O/U 53.5,Over,,0.5,,,20.0,0.0,-10.0,perdu
+2026-11-14 21:45 UTC,primm,ACHAT,Spread: Kansas (-6.5),Kansas,0.58,0.69,11.0,3.9,14.4928,10.0,,
+2026-11-14 21:45 UTC,primm,REGLEMENT,Arkansas State vs. Coastal Carolina: O/U 51.5,Over,,0.55,,,18.1818,0.0,-10.0,perdu
