@@ -1964,3 +1964,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 18:40 UTC,primm,ACHAT,Spread: Nebraska (-17.5),Nebraska,0.55,0.63,8.0,8.0,15.873,10.0,,
 2026-11-14 18:55 UTC,BreakTheBank,ACHAT,Total Kills Over/Under 24.5 in Game 1?,Over,0.65,0.66,1.0,4.7,15.1515,10.0,,
 2026-11-14 18:55 UTC,primm,ACHAT,Spread: Nebraska (-30.5),Nebraska,0.23,0.23,0.0,3.7,43.4783,10.0,,
+2026-11-14 19:30 UTC,BreakTheBank,ACHAT,Game Handicap: GEN (-1.5) vs Bilibili Gaming (+1.5),Gen.G,0.41,0.43,2.0,5.3,23.2558,10.0,,
+2026-11-14 19:30 UTC,BreakTheBank,ACHAT,LoL: Bilibili Gaming vs Gen.G - Game 1 Winner,Bilibili Gaming,0.42,0.43,1.0,3.6,23.2558,10.0,,

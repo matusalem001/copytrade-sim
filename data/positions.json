@@ -2131,6 +2131,32 @@
    "parts": 43.4783,
    "montant": 10.0,
    "ouvert_le": "2026-11-14 18:55 UTC"
+  },
+  "BreakTheBank|98451741212126613864550285351613662055779226928166302238227418580630876973049": {
+   "date": "2026-11-14 19:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Game Handicap: GEN (-1.5) vs Bilibili Gaming (+1.5)",
+   "resultat": "Gen.G",
+   "prix_trader": 0.41,
+   "retard_min": 5.3,
+   "token": "98451741212126613864550285351613662055779226928166302238227418580630876973049",
+   "prix_simule": 0.43,
+   "parts": 23.2558,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 19:30 UTC"
+  },
+  "BreakTheBank|114327819279418864132873617241212978640507552479014150599746788815851538352960": {
+   "date": "2026-11-14 19:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "LoL: Bilibili Gaming vs Gen.G - Game 1 Winner",
+   "resultat": "Bilibili Gaming",
+   "prix_trader": 0.42,
+   "retard_min": 3.6,
+   "token": "114327819279418864132873617241212978640507552479014150599746788815851538352960",
+   "prix_simule": 0.43,
+   "parts": 23.2558,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 19:30 UTC"
   }
  },
  "fermees": [
