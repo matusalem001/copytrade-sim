@@ -922,6 +922,32 @@
    "parts": 20.8333,
    "montant": 10.0,
    "ouvert_le": "2026-11-14 02:40 UTC"
+  },
+  "BreakTheBank|70587203690313695968577538170386280087945672208430643018505833771038471837059": {
+   "date": "2026-11-14 02:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Thunder (-7.5)",
+   "resultat": "Clippers",
+   "prix_trader": 0.55,
+   "retard_min": 6.0,
+   "token": "70587203690313695968577538170386280087945672208430643018505833771038471837059",
+   "prix_simule": 0.56,
+   "parts": 17.8571,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 02:45 UTC"
+  },
+  "BreakTheBank|94473158855842972204051260740010503905130773305004301080875206695674171245211": {
+   "date": "2026-11-14 02:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Thunder (-6.5)",
+   "resultat": "Clippers",
+   "prix_trader": 0.51,
+   "retard_min": 5.7,
+   "token": "94473158855842972204051260740010503905130773305004301080875206695674171245211",
+   "prix_simule": 0.52,
+   "parts": 19.2308,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 02:45 UTC"
   }
  },
  "fermees": [
