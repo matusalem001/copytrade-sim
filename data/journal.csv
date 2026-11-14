@@ -1622,3 +1622,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 03:30 UTC,BreakTheBank,IGNORE,Will Josh Hokit win in Round 1?,No,0.81,0.97,,7.3,,,,prix trop haut
 2026-11-14 03:35 UTC,BreakTheBank,ACHAT,Spread: Thunder (-2.5),Clippers,0.37,0.4,3.0,7.2,25.0,10.0,,
 2026-11-14 03:35 UTC,primm,ACHAT,Houston vs. Colorado: O/U 51.5,Under,0.48,0.56,8.0,2.3,17.8571,10.0,,
+2026-11-14 03:40 UTC,primm,ACHAT,Spread: UCLA (-16.5),Illinois,0.57,0.63,6.0,5.0,15.873,10.0,,
+2026-11-14 03:40 UTC,primm,ACHAT,Spread: Houston (-6.5),Colorado,0.4,0.42,2.0,3.1,23.8095,10.0,,
+2026-11-14 03:40 UTC,primm,ACHAT,Spread: UCLA (-6.5),Illinois,0.28,0.3,2.0,3.0,33.3333,10.0,,
+2026-11-14 03:40 UTC,primm,ACHAT,Illinois vs. UCLA: O/U 39.5,Under,0.74,0.79,5.0,2.9,12.6582,10.0,,
