@@ -1959,3 +1959,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 18:20 UTC,primm,ACHAT,Spread: Wisconsin (-2.5),Maryland,0.3,0.3,0.0,1.5,33.3333,10.0,,
 2026-11-14 18:25 UTC,primm,ACHAT,Spread: Nebraska (-20.5),Nebraska,0.43,0.43,0.0,2.9,23.2558,10.0,,
 2026-11-14 18:25 UTC,primm,ACHAT,Spread: Nebraska (-21.5),Nebraska,0.37,0.38,1.0,2.9,26.3158,10.0,,
+2026-11-14 18:30 UTC,BreakTheBank,ACHAT,LoL: Bilibili Gaming vs Gen.G - Game 4 Winner,Bilibili Gaming,0.44,0.45,1.0,2.7,22.2222,10.0,,
+2026-11-14 18:30 UTC,primm,ACHAT,Spread: Miami (FL) (-7.5),Miami (FL),0.5,0.55,5.0,4.2,18.1818,10.0,,

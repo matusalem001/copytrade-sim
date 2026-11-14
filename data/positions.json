@@ -2066,6 +2066,32 @@
    "parts": 26.3158,
    "montant": 10.0,
    "ouvert_le": "2026-11-14 18:25 UTC"
+  },
+  "BreakTheBank|23555656414479578214783409735181893321320439016101276963821570969645913208343": {
+   "date": "2026-11-14 18:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "LoL: Bilibili Gaming vs Gen.G - Game 4 Winner",
+   "resultat": "Bilibili Gaming",
+   "prix_trader": 0.44,
+   "retard_min": 2.7,
+   "token": "23555656414479578214783409735181893321320439016101276963821570969645913208343",
+   "prix_simule": 0.45,
+   "parts": 22.2222,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 18:30 UTC"
+  },
+  "primm|53547984179947676214540041930376175299990468716521221682774240425437450107365": {
+   "date": "2026-11-14 18:30 UTC",
+   "trader": "primm",
+   "marche": "Spread: Miami (FL) (-7.5)",
+   "resultat": "Miami (FL)",
+   "prix_trader": 0.5,
+   "retard_min": 4.2,
+   "token": "53547984179947676214540041930376175299990468716521221682774240425437450107365",
+   "prix_simule": 0.55,
+   "parts": 18.1818,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 18:30 UTC"
   }
  },
  "fermees": [
