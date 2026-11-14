@@ -1902,3 +1902,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 17:30 UTC,primm,ACHAT,Spread: Ohio State (-6.5),Northwestern,0.37,0.38,1.0,4.8,26.3158,10.0,,
 2026-11-14 17:30 UTC,primm,ACHAT,Spread: Ohio State (-4.5),Northwestern,0.36,0.33,-3.0,4.3,30.303,10.0,,
 2026-11-14 17:30 UTC,primm,ACHAT,James Madison vs. UConn,UConn,0.3,0.31,1.0,0.8,32.2581,10.0,,
+2026-11-14 17:35 UTC,primm,IGNORE,Houston vs. Colorado: O/U 63.5,Under,0.35,,,689.8,,,,vu trop tard
+2026-11-14 17:35 UTC,primm,ACHAT,Spread: Alabama (-13.5),Vanderbilt,0.44,0.43,-1.0,3.2,23.2558,10.0,,
