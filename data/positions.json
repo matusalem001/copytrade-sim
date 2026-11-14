@@ -2209,6 +2209,19 @@
    "parts": 12.0482,
    "montant": 10.0,
    "ouvert_le": "2026-11-14 20:30 UTC"
+  },
+  "BreakTheBank|32638308034813705091356217367248336719479631204939473971476873766917452625430": {
+   "date": "2026-11-14 20:35 UTC",
+   "trader": "BreakTheBank",
+   "marche": "LoL: Bilibili Gaming vs Gen.G - Game 3 Winner",
+   "resultat": "Gen.G",
+   "prix_trader": 0.57,
+   "retard_min": 5.5,
+   "token": "32638308034813705091356217367248336719479631204939473971476873766917452625430",
+   "prix_simule": 0.59,
+   "parts": 16.9492,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 20:35 UTC"
   }
  },
  "fermees": [
