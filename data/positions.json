@@ -441,6 +441,19 @@
    "parts": 15.3846,
    "montant": 10.0,
    "ouvert_le": "2026-11-14 07:30 UTC"
+  },
+  "BreakTheBank|9976305045498235978272736345192704117628210655983582890289239766181957218921": {
+   "date": "2026-11-14 08:20 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Games Total: O/U 3.5",
+   "resultat": "Under",
+   "prix_trader": 0.27,
+   "retard_min": 8.2,
+   "token": "9976305045498235978272736345192704117628210655983582890289239766181957218921",
+   "prix_simule": 0.28,
+   "parts": 35.7143,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 08:20 UTC"
   }
  },
  "fermees": [

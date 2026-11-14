@@ -1787,3 +1787,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 07:10 UTC,primm,REGLEMENT,Spread: Colorado (-10.5),Houston,,0.666,,,15.015,15.02,5.02,gagné
 2026-11-14 07:10 UTC,primm,REGLEMENT,Houston vs. Colorado: O/U 75.5,Over,,0.32,,,31.25,0.0,-10.0,perdu
 2026-11-14 07:30 UTC,BreakTheBank,ACHAT,Games Total: O/U 4.5,Under,0.64,0.65,1.0,9.3,15.3846,10.0,,
+2026-11-14 08:20 UTC,BreakTheBank,ACHAT,Games Total: O/U 3.5,Under,0.27,0.28,1.0,8.2,35.7143,10.0,,
