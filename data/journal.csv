@@ -1854,3 +1854,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 16:20 UTC,primm,ACHAT,Spread: Iowa (-20.5),Purdue,0.58,0.59,1.0,4.4,16.9492,10.0,,
 2026-11-14 16:20 UTC,primm,ACHAT,Spread: Iowa (-11.5),Purdue,0.37,0.38,1.0,4.4,26.3158,10.0,,
 2026-11-14 16:20 UTC,primm,ACHAT,Stanford vs. Virginia Tech: O/U 57.5,Over,0.51,0.52,1.0,1.2,19.2308,10.0,,
+2026-11-14 16:25 UTC,primm,IGNORE,Spread: UCLA (-7.5),UCLA,0.35,,,676.6,,,,vu trop tard
+2026-11-14 16:25 UTC,primm,IGNORE,Houston vs. Colorado: O/U 75.5,Over,0.52,,,656.9,,,,vu trop tard
+2026-11-14 16:25 UTC,primm,ACHAT,Spread: South Carolina (-6.5),Arkansas,0.42,0.43,1.0,2.6,23.2558,10.0,,
