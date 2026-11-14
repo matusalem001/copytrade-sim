@@ -1757,3 +1757,32 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 06:50 UTC,primm,REGLEMENT,Houston vs. Colorado: O/U 63.5,Under,,0.81,,,12.3457,0.0,-10.0,perdu
 2026-11-14 07:00 UTC,primm,REGLEMENT,Houston vs. Colorado: O/U 69.5,Over,,0.65,,,15.3846,15.38,5.38,gagné
 2026-11-14 07:00 UTC,primm,REGLEMENT,Houston vs. Colorado: O/U 69.5,Under,,0.44,,,22.7273,0.0,-10.0,perdu
+2026-11-14 07:10 UTC,primm,REGLEMENT,Spread: Houston (-10.5),Houston,,0.42,,,23.8095,0.0,-10.0,perdu
+2026-11-14 07:10 UTC,primm,REGLEMENT,Spread: Houston (-7.5),Houston,,0.49,,,20.4082,0.0,-10.0,perdu
+2026-11-14 07:10 UTC,primm,REGLEMENT,Spread: Houston (-6.5),Colorado,,0.42,,,23.8095,23.81,13.81,gagné
+2026-11-14 07:10 UTC,primm,REGLEMENT,Spread: Houston (-9.5),Colorado,,0.43,,,23.2558,23.26,13.26,gagné
+2026-11-14 07:10 UTC,primm,REGLEMENT,Spread: Houston (-5.5),Colorado,,0.32,,,31.25,31.25,21.25,gagné
+2026-11-14 07:10 UTC,primm,REGLEMENT,Spread: Houston (-13.5),Colorado,,0.65,,,15.3846,15.38,5.38,gagné
+2026-11-14 07:10 UTC,primm,REGLEMENT,Spread: Houston (-16.5),Colorado,,0.71,,,14.0845,14.08,4.08,gagné
+2026-11-14 07:10 UTC,primm,REGLEMENT,Spread: Houston (-7.5),Colorado,,0.49,,,20.4082,20.41,10.41,gagné
+2026-11-14 07:10 UTC,primm,REGLEMENT,Spread: Houston (-10.5),Colorado,,0.59,,,16.9492,16.95,6.95,gagné
+2026-11-14 07:10 UTC,primm,REGLEMENT,Spread: Houston (-20.5),Colorado,,0.68,,,14.7059,14.71,4.71,gagné
+2026-11-14 07:10 UTC,primm,REGLEMENT,Spread: Houston (-1.5),Colorado,,0.58,,,17.2414,17.24,7.24,gagné
+2026-11-14 07:10 UTC,primm,REGLEMENT,Houston vs. Colorado,Colorado,,0.51,,,19.6078,19.61,9.61,gagné
+2026-11-14 07:10 UTC,primm,REGLEMENT,Spread: Houston (-4.5),Colorado,,0.71,,,14.0845,14.08,4.08,gagné
+2026-11-14 07:10 UTC,primm,REGLEMENT,Spread: Houston (-2.5),Colorado,,0.61,,,16.3934,16.39,6.39,gagné
+2026-11-14 07:10 UTC,primm,REGLEMENT,Spread: Houston (-3.5),Colorado,,0.69,,,14.4928,14.49,4.49,gagné
+2026-11-14 07:10 UTC,primm,REGLEMENT,Spread: Colorado (-5.5),Colorado,,0.478,,,20.9205,20.92,10.92,gagné
+2026-11-14 07:10 UTC,primm,REGLEMENT,Spread: Colorado (-2.5),Colorado,,0.629,,,15.8983,15.9,5.9,gagné
+2026-11-14 07:10 UTC,primm,REGLEMENT,Spread: Colorado (-6.5),Colorado,,0.52,,,19.2308,19.23,9.23,gagné
+2026-11-14 07:10 UTC,primm,REGLEMENT,Spread: Colorado (-4.5),Colorado,,0.559,,,17.8891,17.89,7.89,gagné
+2026-11-14 07:10 UTC,primm,REGLEMENT,Houston vs. Colorado: O/U 75.5,Under,,0.68,,,14.7059,14.71,4.71,gagné
+2026-11-14 07:10 UTC,primm,REGLEMENT,Spread: Colorado (-4.5),Houston,,0.519,,,19.2678,0.0,-10.0,perdu
+2026-11-14 07:10 UTC,primm,REGLEMENT,Houston vs. Colorado,Houston,,0.35,,,28.5714,0.0,-10.0,perdu
+2026-11-14 07:10 UTC,primm,REGLEMENT,Spread: Colorado (-6.5),Houston,,0.599,,,16.6945,0.0,-10.0,perdu
+2026-11-14 07:10 UTC,primm,REGLEMENT,Spread: Colorado (-1.5),Houston,,0.37,,,27.027,0.0,-10.0,perdu
+2026-11-14 07:10 UTC,primm,REGLEMENT,Spread: Colorado (-2.5),Houston,,0.438,,,22.8311,0.0,-10.0,perdu
+2026-11-14 07:10 UTC,primm,REGLEMENT,Spread: Colorado (-7.5),Colorado,,0.51,,,19.6078,19.61,9.61,gagné
+2026-11-14 07:10 UTC,primm,REGLEMENT,Spread: Colorado (-3.5),Houston,,0.41,,,24.3902,0.0,-10.0,perdu
+2026-11-14 07:10 UTC,primm,REGLEMENT,Spread: Colorado (-10.5),Houston,,0.666,,,15.015,15.02,5.02,gagné
+2026-11-14 07:10 UTC,primm,REGLEMENT,Houston vs. Colorado: O/U 75.5,Over,,0.32,,,31.25,0.0,-10.0,perdu
