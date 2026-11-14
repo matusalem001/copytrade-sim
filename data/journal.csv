@@ -1857,3 +1857,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 16:25 UTC,primm,IGNORE,Spread: UCLA (-7.5),UCLA,0.35,,,676.6,,,,vu trop tard
 2026-11-14 16:25 UTC,primm,IGNORE,Houston vs. Colorado: O/U 75.5,Over,0.52,,,656.9,,,,vu trop tard
 2026-11-14 16:25 UTC,primm,ACHAT,Spread: South Carolina (-6.5),Arkansas,0.42,0.43,1.0,2.6,23.2558,10.0,,
+2026-11-14 16:30 UTC,primm,IGNORE,Spread: Colorado (-2.5),Colorado,0.525,,,659.0,,,,vu trop tard
+2026-11-14 16:30 UTC,primm,ACHAT,Wyoming vs. UTEP: O/U 43.5,Under,0.59,0.6,1.0,3.2,16.6667,10.0,,
+2026-11-14 16:30 UTC,primm,ACHAT,Spread: Arizona (-3.5),Utah,0.62,0.65,3.0,2.5,15.3846,10.0,,
+2026-11-14 16:30 UTC,primm,ACHAT,Spread: Arizona (-2.5),Utah,0.55,0.56,1.0,2.5,17.8571,10.0,,
+2026-11-14 16:30 UTC,primm,ACHAT,Spread: Arizona (-1.5),Utah,0.53,0.54,1.0,2.5,18.5185,10.0,,
