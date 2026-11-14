@@ -1832,3 +1832,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 15:15 UTC,primm,IGNORE,Illinois vs. UCLA: O/U 39.5,Over,0.35,,,614.7,,,,vu trop tard
 2026-11-14 15:15 UTC,primm,IGNORE,Houston vs. Colorado: O/U 75.5,Over,0.5299,,,587.2,,,,vu trop tard
 2026-11-14 15:15 UTC,primm,ACHAT,Michigan vs. Oregon: O/U 39.5,Over,0.51,0.52,1.0,1.5,19.2308,10.0,,
+2026-11-14 15:20 UTC,primm,IGNORE,Illinois vs. UCLA,Illinois,0.025,,,593.4,,,,vu trop tard
