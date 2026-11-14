@@ -922,6 +922,19 @@
    "parts": 32.2581,
    "montant": 10.0,
    "ouvert_le": "2026-11-14 03:00 UTC"
+  },
+  "primm|21163995553402517232754245269508953353039800367929776436767834648013227695006": {
+   "date": "2026-11-14 03:10 UTC",
+   "trader": "primm",
+   "marche": "Florida State vs. Pittsburgh",
+   "resultat": "Florida State",
+   "prix_trader": 0.7,
+   "retard_min": 4.5,
+   "token": "21163995553402517232754245269508953353039800367929776436767834648013227695006",
+   "prix_simule": 0.74,
+   "parts": 13.5135,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 03:10 UTC"
   }
  },
  "fermees": [
