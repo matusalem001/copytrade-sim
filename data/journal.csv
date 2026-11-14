@@ -1675,3 +1675,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 05:00 UTC,primm,ACHAT,Spread: UCLA (-7.5),UCLA,0.45,0.51,6.0,0.2,19.6078,10.0,,
 2026-11-14 05:10 UTC,primm,IGNORE,Florida State vs. Pittsburgh,Florida State,0.7,,,124.5,,,,vu trop tard
 2026-11-14 05:10 UTC,primm,ACHAT,Spread: UCLA (-4.5),Illinois,0.25,0.27,2.0,0.2,37.037,10.0,,
+2026-11-14 05:15 UTC,primm,IGNORE,Spread: Pittsburgh (-2.5),Pittsburgh,0.28,,,189.7,,,,vu trop tard
