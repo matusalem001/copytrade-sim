@@ -1904,3 +1904,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 17:30 UTC,primm,ACHAT,James Madison vs. UConn,UConn,0.3,0.31,1.0,0.8,32.2581,10.0,,
 2026-11-14 17:35 UTC,primm,IGNORE,Houston vs. Colorado: O/U 63.5,Under,0.35,,,689.8,,,,vu trop tard
 2026-11-14 17:35 UTC,primm,ACHAT,Spread: Alabama (-13.5),Vanderbilt,0.44,0.43,-1.0,3.2,23.2558,10.0,,
+2026-11-14 17:40 UTC,primm,ACHAT,Spread: Wake Forest (-5.5),Wake Forest,0.55,0.66,11.0,4.5,15.1515,10.0,,
+2026-11-14 17:40 UTC,primm,ACHAT,Spread: Wake Forest (-4.5),Wake Forest,0.55,0.69,14.0,4.5,14.4928,10.0,,
+2026-11-14 17:40 UTC,primm,ACHAT,Spread: Wake Forest (-7.5),Wake Forest,0.48,0.57,9.0,3.9,17.5439,10.0,,
