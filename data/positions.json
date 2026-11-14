@@ -2105,6 +2105,32 @@
    "parts": 15.873,
    "montant": 10.0,
    "ouvert_le": "2026-11-14 18:40 UTC"
+  },
+  "BreakTheBank|96396416703686536178063130570298088366263533110006603242418401995333304651765": {
+   "date": "2026-11-14 18:55 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Total Kills Over/Under 24.5 in Game 1?",
+   "resultat": "Over",
+   "prix_trader": 0.65,
+   "retard_min": 4.7,
+   "token": "96396416703686536178063130570298088366263533110006603242418401995333304651765",
+   "prix_simule": 0.66,
+   "parts": 15.1515,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 18:55 UTC"
+  },
+  "primm|104084618222606748967386539240998166766507896470922370224197510089401368588410": {
+   "date": "2026-11-14 18:55 UTC",
+   "trader": "primm",
+   "marche": "Spread: Nebraska (-30.5)",
+   "resultat": "Nebraska",
+   "prix_trader": 0.23,
+   "retard_min": 3.7,
+   "token": "104084618222606748967386539240998166766507896470922370224197510089401368588410",
+   "prix_simule": 0.23,
+   "parts": 43.4783,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 18:55 UTC"
   }
  },
  "fermees": [
