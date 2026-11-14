@@ -1609,3 +1609,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 02:55 UTC,BreakTheBank,REGLEMENT,Spread: Magic (-7.5),Bucks,,0.43,,,23.2558,0.0,-10.0,perdu
 2026-11-14 02:55 UTC,BreakTheBank,REGLEMENT,Bucks vs. Magic,Bucks,,0.21,,,47.619,0.0,-10.0,perdu
 2026-11-14 02:55 UTC,BreakTheBank,REGLEMENT,Spread: Magic (-8.5),Bucks,,0.46,,,21.7391,21.74,11.74,gagné
+2026-11-14 03:00 UTC,BreakTheBank,IGNORE,Will Serbia win on 2026-11-13?,Yes,0.08,,,436.3,,,,vu trop tard
+2026-11-14 03:00 UTC,BreakTheBank,ACHAT,Spread: Clippers (-1.5),Clippers,0.3,0.31,1.0,4.0,32.2581,10.0,,
+2026-11-14 03:00 UTC,primm,IGNORE,Spread: South Florida (-3.5),Memphis,0.66,,,1374.9,,,,vu trop tard
+2026-11-14 03:01 UTC,BreakTheBank,REGLEMENT,Spread: Knicks (-8.5),Pacers,,0.53,,,18.8679,18.87,8.87,gagné
+2026-11-14 03:01 UTC,BreakTheBank,REGLEMENT,Spread: Knicks (-7.5),Pacers,,0.48,,,20.8333,20.83,10.83,gagné

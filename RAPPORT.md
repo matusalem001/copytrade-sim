@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 02:55 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 03:01 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 140 | 122 | 120 | 60 | -12.54 $ | -1.0 % | 20 | +1.3 ¢ | 8 min |
-| primm | 533 | 188 | 481 | 227 | -334.69 $ | -7.0 % | 52 | +3.3 ¢ | 4 min |
+| BreakTheBank | 141 | 123 | 122 | 62 | +7.16 $ | +0.6 % | 19 | +1.3 ¢ | 8 min |
+| primm | 533 | 189 | 481 | 227 | -334.69 $ | -7.0 % | 52 | +3.3 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 12 | 5 | -32.41 $ | -27.0 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : -379.64 $ sur 6130 $ engagés (-6.2 %)**
+**Total réalisé : -359.94 $ sur 6150 $ engagés (-5.9 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 02:55 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Spread: Knicks (-7.5) | Pacers | 0.48 | 1.00 | +10.83 $ |
+| BreakTheBank | Spread: Knicks (-8.5) | Pacers | 0.53 | 1.00 | +8.87 $ |
 | BreakTheBank | Spread: Magic (-8.5) | Bucks | 0.46 | 1.00 | +11.74 $ |
 | BreakTheBank | Bucks vs. Magic | Bucks | 0.21 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Magic (-7.5) | Bucks | 0.43 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 02:55 UTC** 
 | primm | Spread: Louisiana (-10.5) | Louisiana-Monroe | 0.64 | 0.00 | -10.00 $ |
 | primm | Louisiana vs. Louisiana-Monroe | Louisiana-Monroe | 0.26 | 0.00 | -10.00 $ |
 | primm | Louisiana vs. Louisiana-Monroe: O/U 49.5 | Over | 0.58 | 1.00 | +7.24 $ |
-| primm | Louisiana vs. Louisiana-Monroe: O/U 55.5 | Over | 0.52 | 1.00 | +9.23 $ |
-| primm | Louisiana vs. Louisiana-Monroe: O/U 51.5 | Over | 0.68 | 1.00 | +4.71 $ |
 
 Journal complet : `data/journal.csv`
