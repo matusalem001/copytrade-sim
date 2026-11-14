@@ -1948,3 +1948,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 18:10 UTC,primm,ACHAT,Syracuse vs. NC State: O/U 47.5,Over,0.27,0.26,-1.0,3.9,38.4615,10.0,,
 2026-11-14 18:10 UTC,primm,ACHAT,Syracuse vs. NC State: O/U 41.5,Over,0.44,0.44,0.0,3.8,22.7273,10.0,,
 2026-11-14 18:10 UTC,primm,ACHAT,Spread: Miami (FL) (-10.5),Miami (FL),0.48,0.5,2.0,2.1,20.0,10.0,,
+2026-11-14 18:15 UTC,primm,ACHAT,Spread: Georgia Tech (-3.5),Georgia Tech,0.34,0.42,8.0,2.4,23.8095,10.0,,
+2026-11-14 18:15 UTC,primm,ACHAT,Spread: Georgia Tech (-1.5),Georgia Tech,0.42,0.5,8.0,2.4,20.0,10.0,,
+2026-11-14 18:15 UTC,primm,ACHAT,Spread: Ohio State (-14.5),Ohio State,0.46,0.49,3.0,1.0,20.4082,10.0,,
+2026-11-14 18:15 UTC,primm,ACHAT,Spread: Georgia Tech (-5.5),Georgia Tech,0.35,0.36,1.0,0.4,27.7778,10.0,,
+2026-11-14 18:15 UTC,primm,ACHAT,Spread: Georgia Tech (-4.5),Georgia Tech,0.37,0.38,1.0,0.4,26.3158,10.0,,
