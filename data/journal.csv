@@ -1708,3 +1708,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 05:45 UTC,primm,IGNORE,Houston vs. Colorado: O/U 47.5,Under,0.47,,,124.6,,,,carnet indisponible
 2026-11-14 05:45 UTC,primm,REGLEMENT,Houston vs. Colorado: O/U 45.5,Under,,0.45,,,22.2222,0.0,-10.0,perdu
 2026-11-14 05:45 UTC,primm,REGLEMENT,Houston vs. Colorado: O/U 47.5,Under,,0.5,,,20.0,0.0,-10.0,perdu
+2026-11-14 05:55 UTC,primm,IGNORE,Houston vs. Colorado: O/U 47.5,Under,0.47,,,112.2,,,,vu trop tard
+2026-11-14 05:55 UTC,primm,ACHAT,Spread: Colorado (-7.5),Colorado,0.458,0.51,5.2,5.5,19.6078,10.0,,
