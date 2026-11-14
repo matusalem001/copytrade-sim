@@ -2140,3 +2140,13 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 21:30 UTC,primm,ACHAT,Michigan vs. Oregon: O/U 51.5,Over,0.54,0.66,12.0,5.3,15.1515,10.0,,
 2026-11-14 21:30 UTC,primm,ACHAT,Auburn vs. Mississippi State,Auburn,0.48,0.57,9.0,4.9,17.5439,10.0,,
 2026-11-14 21:30 UTC,primm,REGLEMENT,Spread: Alabama (-14.5),Vanderbilt,,0.53,,,18.8679,0.0,-10.0,perdu
+2026-11-14 21:35 UTC,primm,IGNORE,Spread: Georgia Tech (-4.5),Georgia Tech,0.38,,,197.2,,,,vu trop tard
+2026-11-14 21:35 UTC,primm,ACHAT,USC vs. Indiana: O/U 39.5,Over,0.68,0.74,6.0,4.1,13.5135,10.0,,
+2026-11-14 21:35 UTC,primm,ACHAT,New Mexico State vs. Missouri State: O/U 45.5,Over,0.45,0.45,0.0,2.1,22.2222,10.0,,
+2026-11-14 21:35 UTC,primm,ACHAT,Florida International vs. Delaware: O/U 39.5,Over,0.52,0.53,1.0,1.7,18.8679,10.0,,
+2026-11-14 21:35 UTC,primm,ACHAT,Florida International vs. Delaware: O/U 45.5,Over,0.32,0.33,1.0,1.7,30.303,10.0,,
+2026-11-14 21:35 UTC,primm,ACHAT,Florida International vs. Delaware,Delaware,0.59,0.6,1.0,1.7,16.6667,10.0,,
+2026-11-14 21:35 UTC,primm,ACHAT,Spread: Delaware (-6.5),Delaware,0.36,0.36,0.0,1.7,27.7778,10.0,,
+2026-11-14 21:35 UTC,primm,ACHAT,Spread: Delaware (-4.5),Delaware,0.4,0.4,0.0,1.7,25.0,10.0,,
+2026-11-14 21:35 UTC,primm,ACHAT,Michigan vs. Oregon: O/U 57.5,Over,0.43,0.48,5.0,1.4,20.8333,10.0,,
+2026-11-14 21:35 UTC,primm,REGLEMENT,UAB vs. Temple: O/U 49.5,Under,,0.56,,,17.8571,17.86,7.86,gagné
