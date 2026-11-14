@@ -1569,3 +1569,9 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 01:10 UTC,primm,ACHAT,Spread: Pittsburgh (-2.5),Pittsburgh,0.37,0.47,10.0,3.8,21.2766,10.0,,
 2026-11-14 01:10 UTC,primm,ACHAT,Spread: Pittsburgh (-1.5),Pittsburgh,0.39,0.5,11.0,3.8,20.0,10.0,,
 2026-11-14 01:10 UTC,primm,ACHAT,Spread: Florida State (-4.5),Pittsburgh,0.59,0.7,11.0,3.8,14.2857,10.0,,
+2026-11-14 01:15 UTC,BreakTheBank,IGNORE,Will Germany win on 2026-11-13?,No,0.22,,,378.5,,,,vu trop tard
+2026-11-14 01:15 UTC,BreakTheBank,IGNORE,Will Serbia win on 2026-11-13?,Yes,0.08,,,348.6,,,,vu trop tard
+2026-11-14 01:15 UTC,BreakTheBank,IGNORE,Will Serbia win on 2026-11-13?,Yes,0.08,,,338.6,,,,vu trop tard
+2026-11-14 01:15 UTC,primm,IGNORE,Spread: Toledo (-24.5),UMass,0.51,,,2752.2,,,,vu trop tard
+2026-11-14 01:15 UTC,primm,IGNORE,Spread: Buffalo (-3.5),Ball State,0.3,,,2750.0,,,,vu trop tard
+2026-11-14 01:15 UTC,primm,IGNORE,Memphis vs. South Florida: O/U 51.5,Under,0.38,,,1376.7,,,,vu trop tard
