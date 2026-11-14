@@ -2169,3 +2169,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 21:55 UTC,primm,ACHAT,Spread: Auburn (-13.5),Auburn,0.38,0.53,15.0,0.8,18.8679,10.0,,
 2026-11-14 21:55 UTC,primm,IGNORE,Spread: Texas A&M (-2.5),Texas A&M,0.46,0.4,-6.0,0.8,,,,prix a trop chuté (match sans doute joué)
 2026-11-14 21:55 UTC,primm,ACHAT,Spread: Texas A&M (-3.5),Texas A&M,0.41,0.37,-4.0,0.8,27.027,10.0,,
+2026-11-14 22:00 UTC,BreakTheBank,ACHAT,Total Kills Over/Under 24.5 in Game 3?,Over,0.66,0.72,6.0,6.8,13.8889,10.0,,
+2026-11-14 22:00 UTC,primm,ACHAT,Spread: Texas A&M (-2.5),Texas A&M,0.39,0.41,2.0,0.4,24.3902,10.0,,
+2026-11-14 22:00 UTC,primm,REGLEMENT,Spread: East Carolina (-14.5),East Carolina,,0.44,,,22.7273,0.0,-10.0,perdu
+2026-11-14 22:00 UTC,primm,REGLEMENT,Spread: East Carolina (-13.5),East Carolina,,0.46,,,21.7391,0.0,-10.0,perdu

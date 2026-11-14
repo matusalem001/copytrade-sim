@@ -273,32 +273,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-13 21:20 UTC"
   },
-  "primm|21103925703511346898834990036133413504297522536225978636718747553616170833856": {
-   "date": "2026-11-13 21:20 UTC",
-   "trader": "primm",
-   "marche": "Spread: East Carolina (-14.5)",
-   "resultat": "East Carolina",
-   "prix_trader": 0.42,
-   "retard_min": 3.2,
-   "token": "21103925703511346898834990036133413504297522536225978636718747553616170833856",
-   "prix_simule": 0.44,
-   "parts": 22.7273,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-13 21:20 UTC"
-  },
-  "primm|31948604245091732023915359526657344902362570051122732415275007447961674990975": {
-   "date": "2026-11-13 21:20 UTC",
-   "trader": "primm",
-   "marche": "Spread: East Carolina (-13.5)",
-   "resultat": "East Carolina",
-   "prix_trader": 0.45,
-   "retard_min": 3.2,
-   "token": "31948604245091732023915359526657344902362570051122732415275007447961674990975",
-   "prix_simule": 0.46,
-   "parts": 21.7391,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-13 21:20 UTC"
-  },
   "primm|98276840808501424122827763838701082744908983303961842254399465152394213583738": {
    "date": "2026-11-13 21:55 UTC",
    "trader": "primm",
@@ -1377,6 +1351,32 @@
    "parts": 27.027,
    "montant": 10.0,
    "ouvert_le": "2026-11-14 21:55 UTC"
+  },
+  "BreakTheBank|91322891933619026654633052461425753844570922472627076707940669708557840555223": {
+   "date": "2026-11-14 22:00 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Total Kills Over/Under 24.5 in Game 3?",
+   "resultat": "Over",
+   "prix_trader": 0.66,
+   "retard_min": 6.8,
+   "token": "91322891933619026654633052461425753844570922472627076707940669708557840555223",
+   "prix_simule": 0.72,
+   "parts": 13.8889,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 22:00 UTC"
+  },
+  "primm|40510580510818324808810491426290868801393897706383562548342609867843569937173": {
+   "date": "2026-11-14 22:00 UTC",
+   "trader": "primm",
+   "marche": "Spread: Texas A&M (-2.5)",
+   "resultat": "Texas A&M",
+   "prix_trader": 0.39,
+   "retard_min": 0.4,
+   "token": "40510580510818324808810491426290868801393897706383562548342609867843569937173",
+   "prix_simule": 0.41,
+   "parts": 24.3902,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 22:00 UTC"
   }
  },
  "fermees": [
@@ -15199,6 +15199,40 @@
    "sortie": 0.0,
    "pnl": -10.0,
    "ferme_le": "2026-11-14 21:45 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-13 21:20 UTC",
+   "trader": "primm",
+   "marche": "Spread: East Carolina (-14.5)",
+   "resultat": "East Carolina",
+   "prix_trader": 0.42,
+   "retard_min": 3.2,
+   "token": "21103925703511346898834990036133413504297522536225978636718747553616170833856",
+   "prix_simule": 0.44,
+   "parts": 22.7273,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 21:20 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-14 22:00 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-13 21:20 UTC",
+   "trader": "primm",
+   "marche": "Spread: East Carolina (-13.5)",
+   "resultat": "East Carolina",
+   "prix_trader": 0.45,
+   "retard_min": 3.2,
+   "token": "31948604245091732023915359526657344902362570051122732415275007447961674990975",
+   "prix_simule": 0.46,
+   "parts": 21.7391,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 21:20 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-14 22:00 UTC",
    "type": "perdu"
   }
  ]

@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 21:55 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 22:01 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 153 | 159 | 132 | 71 | +99.83 $ | +7.6 % | 21 | +1.3 ¢ | 9 min |
-| primm | 754 | 277 | 669 | 350 | +306.00 $ | +4.6 % | 85 | +3.4 ¢ | 4 min |
+| BreakTheBank | 154 | 159 | 132 | 71 | +99.83 $ | +7.6 % | 22 | +1.4 ¢ | 9 min |
+| primm | 755 | 277 | 671 | 350 | +286.00 $ | +4.3 % | 84 | +3.4 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 12 | 5 | -32.41 $ | -27.0 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : +373.42 $ sur 8130 $ engagés (+4.6 %)**
+**Total réalisé : +353.42 $ sur 8150 $ engagés (+4.3 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 21:55 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: East Carolina (-13.5) | East Carolina | 0.46 | 0.00 | -10.00 $ |
+| primm | Spread: East Carolina (-14.5) | East Carolina | 0.44 | 0.00 | -10.00 $ |
 | primm | Arkansas State vs. Coastal Carolina: O/U 51.5 | Over | 0.55 | 0.00 | -10.00 $ |
 | primm | Arkansas State vs. Coastal Carolina: O/U 53.5 | Over | 0.50 | 0.00 | -10.00 $ |
 | primm | UAB vs. Temple: O/U 51.5 | Under | 0.62 | 1.00 | +6.13 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 21:55 UTC** 
 | primm | Spread: Georgia Tech (-3.5) | Georgia Tech | 0.42 | 1.00 | +13.81 $ |
 | primm | Spread: Georgia Tech (-2.5) | Georgia Tech | 0.33 | 1.00 | +20.30 $ |
 | primm | Spread: Clemson (-2.5) | Georgia Tech | 0.42 | 1.00 | +13.81 $ |
-| primm | Spread: Clemson (-1.5) | Georgia Tech | 0.40 | 1.00 | +15.00 $ |
-| primm | Spread: Clemson (-4.5) | Georgia Tech | 0.37 | 1.00 | +17.03 $ |
 
 Journal complet : `data/journal.csv`
