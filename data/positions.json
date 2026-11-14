@@ -975,19 +975,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-14 16:35 UTC"
   },
-  "primm|100688926466658352233237898672843097064802644784346595540084193102767431295725": {
-   "date": "2026-11-14 16:35 UTC",
-   "trader": "primm",
-   "marche": "Cincinnati vs. Iowa State: O/U 53.5",
-   "resultat": "Under",
-   "prix_trader": 0.37,
-   "retard_min": 3.3,
-   "token": "100688926466658352233237898672843097064802644784346595540084193102767431295725",
-   "prix_simule": 0.4,
-   "parts": 25.0,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-14 16:35 UTC"
-  },
   "primm|72735418494465559716555434757213930496965631248715797238198164679193995555276": {
    "date": "2026-11-14 16:50 UTC",
    "trader": "primm",
@@ -14197,6 +14184,23 @@
    "pnl": 6.3934,
    "ferme_le": "2026-11-14 20:20 UTC",
    "type": "gagné"
+  },
+  {
+   "date": "2026-11-14 16:35 UTC",
+   "trader": "primm",
+   "marche": "Cincinnati vs. Iowa State: O/U 53.5",
+   "resultat": "Under",
+   "prix_trader": 0.37,
+   "retard_min": 3.3,
+   "token": "100688926466658352233237898672843097064802644784346595540084193102767431295725",
+   "prix_simule": 0.4,
+   "parts": 25.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 16:35 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-14 20:25 UTC",
+   "type": "perdu"
   }
  ]
 }

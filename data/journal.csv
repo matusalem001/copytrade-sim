@@ -1985,3 +1985,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 20:09 UTC,primm,IGNORE,Syracuse vs. NC State: O/U 65.5,Over,0.29,0.215,-7.5,5.8,,,,prix a trop chuté (match sans doute joué)
 2026-11-14 20:20 UTC,primm,ACHAT,Syracuse vs. NC State,NC State,0.295,0.42,12.5,0.8,23.8095,10.0,,
 2026-11-14 20:20 UTC,primm,REGLEMENT,Northwestern vs. Ohio State: O/U 39.5,Over,,0.61,,,16.3934,16.39,6.39,gagné
+2026-11-14 20:25 UTC,BreakTheBank,IGNORE,LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs,Bilibili Gaming,0.5203,0.32,-20.0,9.3,,,,prix a trop chuté (match sans doute joué)
+2026-11-14 20:25 UTC,BreakTheBank,IGNORE,LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs,Bilibili Gaming,0.53,0.32,-21.0,9.3,,,,prix a trop chuté (match sans doute joué)
+2026-11-14 20:25 UTC,BreakTheBank,IGNORE,LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs,Bilibili Gaming,0.53,0.32,-21.0,9.3,,,,prix a trop chuté (match sans doute joué)
+2026-11-14 20:25 UTC,primm,REGLEMENT,Cincinnati vs. Iowa State: O/U 53.5,Under,,0.4,,,25.0,0.0,-10.0,perdu

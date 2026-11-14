@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 20:20 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 20:25 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 151 | 156 | 132 | 71 | +99.83 $ | +7.6 % | 19 | +1.3 ¢ | 9 min |
-| primm | 713 | 250 | 558 | 268 | -361.38 $ | -6.5 % | 155 | +3.4 ¢ | 4 min |
+| BreakTheBank | 151 | 159 | 132 | 71 | +99.83 $ | +7.6 % | 19 | +1.3 ¢ | 9 min |
+| primm | 713 | 250 | 559 | 268 | -371.38 $ | -6.6 % | 154 | +3.4 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 12 | 5 | -32.41 $ | -27.0 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : -293.97 $ sur 7020 $ engagés (-4.2 %)**
+**Total réalisé : -303.97 $ sur 7030 $ engagés (-4.3 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 20:20 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Cincinnati vs. Iowa State: O/U 53.5 | Under | 0.40 | 0.00 | -10.00 $ |
 | primm | Northwestern vs. Ohio State: O/U 39.5 | Over | 0.61 | 1.00 | +6.39 $ |
 | primm | Syracuse vs. NC State: O/U 41.5 | Over | 0.44 | 1.00 | +12.73 $ |
 | primm | Syracuse vs. NC State: O/U 47.5 | Over | 0.26 | 1.00 | +28.46 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 20:20 UTC** 
 | primm | Houston vs. Colorado | Colorado | 0.51 | 1.00 | +9.61 $ |
 | primm | Spread: Houston (-1.5) | Colorado | 0.58 | 1.00 | +7.24 $ |
 | primm | Spread: Houston (-20.5) | Colorado | 0.68 | 1.00 | +4.71 $ |
-| primm | Spread: Houston (-10.5) | Colorado | 0.59 | 1.00 | +6.95 $ |
 
 Journal complet : `data/journal.csv`
