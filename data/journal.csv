@@ -1657,3 +1657,10 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 04:00 UTC,BreakTheBank,REGLEMENT,Grizzlies vs. Pelicans,Grizzlies,,0.62,,,16.129,16.13,6.13,gagné
 2026-11-14 04:00 UTC,BreakTheBank,REGLEMENT,Spread: Grizzlies (-3.5),Grizzlies,,0.53,,,18.8679,18.87,8.87,gagné
 2026-11-14 04:00 UTC,BreakTheBank,REGLEMENT,Spread: Grizzlies (-5.5),Grizzlies,,0.45,,,22.2222,22.22,12.22,gagné
+2026-11-14 04:10 UTC,primm,IGNORE,Spread: Pittsburgh (-6.5),Pittsburgh,0.4,,,242.5,,,,vu trop tard
+2026-11-14 04:10 UTC,primm,IGNORE,Florida State vs. Pittsburgh,Pittsburgh,0.58,,,242.5,,,,vu trop tard
+2026-11-14 04:10 UTC,primm,IGNORE,Spread: Pittsburgh (-5.5),Pittsburgh,0.4,,,239.9,,,,vu trop tard
+2026-11-14 04:10 UTC,primm,ACHAT,Spread: Houston (-13.5),Colorado,0.48,0.65,17.0,4.4,15.3846,10.0,,
+2026-11-14 04:10 UTC,primm,ACHAT,Spread: Houston (-16.5),Colorado,0.55,0.71,16.0,4.4,14.0845,10.0,,
+2026-11-14 04:10 UTC,primm,ACHAT,Spread: Houston (-7.5),Colorado,0.34,0.49,15.0,4.2,20.4082,10.0,,
+2026-11-14 04:10 UTC,primm,ACHAT,Spread: Houston (-10.5),Colorado,0.46,0.59,13.0,2.4,16.9492,10.0,,
