@@ -1619,3 +1619,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 03:15 UTC,BreakTheBank,IGNORE,Will Serbia win on 2026-11-13?,Yes,0.08,,,453.9,,,,vu trop tard
 2026-11-14 03:15 UTC,BreakTheBank,IGNORE,Will Serbia win on 2026-11-13?,Yes,0.08,,,451.9,,,,vu trop tard
 2026-11-14 03:20 UTC,BreakTheBank,IGNORE,Bucks vs. Magic,Bucks,0.21,,,203.4,,,,vu trop tard
+2026-11-14 03:30 UTC,BreakTheBank,IGNORE,Will Josh Hokit win in Round 1?,No,0.81,0.97,,7.3,,,,prix trop haut
