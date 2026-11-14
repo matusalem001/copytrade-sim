@@ -741,32 +741,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-14 03:40 UTC"
   },
-  "primm|26654913259069976652840521957555195107279421660641300930980625165359042437023": {
-   "date": "2026-11-14 03:45 UTC",
-   "trader": "primm",
-   "marche": "Houston vs. Colorado: O/U 45.5",
-   "resultat": "Under",
-   "prix_trader": 0.4,
-   "retard_min": 4.9,
-   "token": "26654913259069976652840521957555195107279421660641300930980625165359042437023",
-   "prix_simule": 0.45,
-   "parts": 22.2222,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-14 03:45 UTC"
-  },
-  "primm|93692667467235772542463803330354366518879272201342260578541107756671573002662": {
-   "date": "2026-11-14 03:45 UTC",
-   "trader": "primm",
-   "marche": "Houston vs. Colorado: O/U 47.5",
-   "resultat": "Under",
-   "prix_trader": 0.46,
-   "retard_min": 4.9,
-   "token": "93692667467235772542463803330354366518879272201342260578541107756671573002662",
-   "prix_simule": 0.5,
-   "parts": 20.0,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-14 03:45 UTC"
-  },
   "primm|6911611133046007861474079769564976721429579723300879547304431581392484958639": {
    "date": "2026-11-14 03:45 UTC",
    "trader": "primm",
@@ -11996,6 +11970,40 @@
    "pnl": 12.2222,
    "ferme_le": "2026-11-14 04:00 UTC",
    "type": "gagné"
+  },
+  {
+   "date": "2026-11-14 03:45 UTC",
+   "trader": "primm",
+   "marche": "Houston vs. Colorado: O/U 45.5",
+   "resultat": "Under",
+   "prix_trader": 0.4,
+   "retard_min": 4.9,
+   "token": "26654913259069976652840521957555195107279421660641300930980625165359042437023",
+   "prix_simule": 0.45,
+   "parts": 22.2222,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 03:45 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-14 05:45 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-14 03:45 UTC",
+   "trader": "primm",
+   "marche": "Houston vs. Colorado: O/U 47.5",
+   "resultat": "Under",
+   "prix_trader": 0.46,
+   "retard_min": 4.9,
+   "token": "93692667467235772542463803330354366518879272201342260578541107756671573002662",
+   "prix_simule": 0.5,
+   "parts": 20.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 03:45 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-14 05:45 UTC",
+   "type": "perdu"
   }
  ]
 }

@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 05:41 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 05:45 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 142 | 129 | 126 | 66 | +45.66 $ | +3.6 % | 16 | +1.3 ¢ | 8 min |
-| primm | 573 | 212 | 498 | 229 | -468.45 $ | -9.4 % | 75 | +3.6 ¢ | 4 min |
+| primm | 573 | 213 | 500 | 229 | -488.45 $ | -9.8 % | 73 | +3.6 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 12 | 5 | -32.41 $ | -27.0 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : -455.20 $ sur 6360 $ engagés (-7.2 %)**
+**Total réalisé : -475.20 $ sur 6380 $ engagés (-7.4 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 05:41 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Houston vs. Colorado: O/U 47.5 | Under | 0.50 | 0.00 | -10.00 $ |
+| primm | Houston vs. Colorado: O/U 45.5 | Under | 0.45 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Grizzlies (-5.5) | Grizzlies | 0.45 | 1.00 | +12.22 $ |
 | BreakTheBank | Spread: Grizzlies (-3.5) | Grizzlies | 0.53 | 1.00 | +8.87 $ |
 | BreakTheBank | Grizzlies vs. Pelicans | Grizzlies | 0.62 | 1.00 | +6.13 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 05:41 UTC** 
 | primm | Spread: Pittsburgh (-7.5) | Pittsburgh | 0.38 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Knicks (-7.5) | Pacers | 0.48 | 1.00 | +10.83 $ |
 | BreakTheBank | Spread: Knicks (-8.5) | Pacers | 0.53 | 1.00 | +8.87 $ |
-| BreakTheBank | Spread: Magic (-8.5) | Bucks | 0.46 | 1.00 | +11.74 $ |
-| BreakTheBank | Bucks vs. Magic | Bucks | 0.21 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
