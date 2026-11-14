@@ -1966,3 +1966,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 18:55 UTC,primm,ACHAT,Spread: Nebraska (-30.5),Nebraska,0.23,0.23,0.0,3.7,43.4783,10.0,,
 2026-11-14 19:30 UTC,BreakTheBank,ACHAT,Game Handicap: GEN (-1.5) vs Bilibili Gaming (+1.5),Gen.G,0.41,0.43,2.0,5.3,23.2558,10.0,,
 2026-11-14 19:30 UTC,BreakTheBank,ACHAT,LoL: Bilibili Gaming vs Gen.G - Game 1 Winner,Bilibili Gaming,0.42,0.43,1.0,3.6,23.2558,10.0,,
+2026-11-14 19:35 UTC,primm,ACHAT,Spread: Nebraska (-24.5),Rutgers,0.47,0.48,1.0,3.1,20.8333,10.0,,
+2026-11-14 19:35 UTC,primm,ACHAT,Nebraska vs. Rutgers: O/U 39.5,Over,0.44,0.44,0.0,0.1,22.7273,10.0,,
+2026-11-14 19:35 UTC,primm,REGLEMENT,Syracuse vs. NC State: O/U 35.5,Over,,0.72,,,13.8889,13.89,3.89,gagné

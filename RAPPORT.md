@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 19:31 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 19:35 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 149 | 156 | 132 | 71 | +99.83 $ | +7.6 % | 17 | +1.3 ¢ | 9 min |
-| primm | 703 | 247 | 554 | 264 | -412.85 $ | -7.5 % | 149 | +3.4 ¢ | 4 min |
+| primm | 705 | 247 | 555 | 265 | -408.96 $ | -7.4 % | 150 | +3.4 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 12 | 5 | -32.41 $ | -27.0 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : -345.44 $ sur 6980 $ engagés (-4.9 %)**
+**Total réalisé : -341.55 $ sur 6990 $ engagés (-4.9 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 19:31 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Syracuse vs. NC State: O/U 35.5 | Over | 0.72 | 1.00 | +3.89 $ |
 | primm | Houston vs. Colorado: O/U 75.5 | Over | 0.32 | 0.00 | -10.00 $ |
 | primm | Spread: Colorado (-10.5) | Houston | 0.67 | 1.00 | +5.01 $ |
 | primm | Spread: Colorado (-3.5) | Houston | 0.41 | 0.00 | -10.00 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 19:31 UTC** 
 | primm | Spread: Houston (-7.5) | Colorado | 0.49 | 1.00 | +10.41 $ |
 | primm | Spread: Houston (-16.5) | Colorado | 0.71 | 1.00 | +4.08 $ |
 | primm | Spread: Houston (-13.5) | Colorado | 0.65 | 1.00 | +5.38 $ |
-| primm | Spread: Houston (-5.5) | Colorado | 0.32 | 1.00 | +21.25 $ |
 
 Journal complet : `data/journal.csv`
