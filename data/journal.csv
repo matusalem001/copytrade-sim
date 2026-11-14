@@ -1789,3 +1789,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 07:30 UTC,BreakTheBank,ACHAT,Games Total: O/U 4.5,Under,0.64,0.65,1.0,9.3,15.3846,10.0,,
 2026-11-14 08:20 UTC,BreakTheBank,ACHAT,Games Total: O/U 3.5,Under,0.27,0.28,1.0,8.2,35.7143,10.0,,
 2026-11-14 08:25 UTC,BreakTheBank,IGNORE,Will Josh Hokit win in Round 3?,No,0.91,0.989,,4.7,,,,prix trop haut
+2026-11-14 08:30 UTC,BreakTheBank,IGNORE,Spread: Thunder (-6.5),Clippers,0.52,,,300.9,,,,vu trop tard
