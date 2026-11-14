@@ -597,6 +597,45 @@
    "parts": 20.8333,
    "montant": 10.0,
    "ouvert_le": "2026-11-14 15:00 UTC"
+  },
+  "primm|38373760340026166625261011701108182658586076837703082548357061916432728705107": {
+   "date": "2026-11-14 15:10 UTC",
+   "trader": "primm",
+   "marche": "Spread: West Virginia (-3.5)",
+   "resultat": "West Virginia",
+   "prix_trader": 0.44,
+   "retard_min": 4.3,
+   "token": "38373760340026166625261011701108182658586076837703082548357061916432728705107",
+   "prix_simule": 0.45,
+   "parts": 22.2222,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 15:10 UTC"
+  },
+  "primm|39113381309957743579766800563321014986696075093029213341594416240587840961560": {
+   "date": "2026-11-14 15:10 UTC",
+   "trader": "primm",
+   "marche": "Spread: West Virginia (-4.5)",
+   "resultat": "West Virginia",
+   "prix_trader": 0.42,
+   "retard_min": 4.3,
+   "token": "39113381309957743579766800563321014986696075093029213341594416240587840961560",
+   "prix_simule": 0.43,
+   "parts": 23.2558,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 15:10 UTC"
+  },
+  "primm|53167253527132997780507190970533444184954450902663004728826204109193451735172": {
+   "date": "2026-11-14 15:10 UTC",
+   "trader": "primm",
+   "marche": "Spread: Georgia Southern (-6.5)",
+   "resultat": "Georgia Southern",
+   "prix_trader": 0.49,
+   "retard_min": 3.3,
+   "token": "53167253527132997780507190970533444184954450902663004728826204109193451735172",
+   "prix_simule": 0.5,
+   "parts": 20.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 15:10 UTC"
   }
  },
  "fermees": [
