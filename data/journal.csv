@@ -2091,3 +2091,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 21:05 UTC,primm,IGNORE,Wisconsin vs. Maryland: O/U 43.5,Over,0.37,,,170.3,,,,vu trop tard
 2026-11-14 21:05 UTC,primm,IGNORE,Nebraska vs. Rutgers: O/U 39.5,Under,0.5,,,162.2,,,,vu trop tard
 2026-11-14 21:05 UTC,primm,REGLEMENT,Spread: Miami (FL) (-14.5),Miami (FL),,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-14 21:10 UTC,primm,IGNORE,Wisconsin vs. Maryland,Maryland,0.25,,,171.4,,,,vu trop tard
+2026-11-14 21:10 UTC,primm,IGNORE,Spread: Nebraska (-16.5),Nebraska,0.56,,,159.5,,,,vu trop tard
+2026-11-14 21:10 UTC,primm,ACHAT,USC vs. Indiana: O/U 49.5,Over,0.58,0.55,-3.0,6.1,18.1818,10.0,,
+2026-11-14 21:10 UTC,primm,ACHAT,Spread: Texas A&M (-1.5),Texas A&M,0.49,0.53,4.0,1.2,18.8679,10.0,,
+2026-11-14 21:10 UTC,primm,ACHAT,Spread: Tennessee (-2.5),Texas A&M,0.62,0.67,5.0,1.2,14.9254,10.0,,
