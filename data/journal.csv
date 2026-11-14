@@ -1969,3 +1969,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 19:35 UTC,primm,ACHAT,Spread: Nebraska (-24.5),Rutgers,0.47,0.48,1.0,3.1,20.8333,10.0,,
 2026-11-14 19:35 UTC,primm,ACHAT,Nebraska vs. Rutgers: O/U 39.5,Over,0.44,0.44,0.0,0.1,22.7273,10.0,,
 2026-11-14 19:35 UTC,primm,REGLEMENT,Syracuse vs. NC State: O/U 35.5,Over,,0.72,,,13.8889,13.89,3.89,gagné
+2026-11-14 19:40 UTC,BreakTheBank,ACHAT,Total Kills Over/Under 27.5 in Game 1?,Over,0.48,0.5,2.0,6.9,20.0,10.0,,

@@ -2170,6 +2170,19 @@
    "parts": 22.7273,
    "montant": 10.0,
    "ouvert_le": "2026-11-14 19:35 UTC"
+  },
+  "BreakTheBank|31252205710215488531584623663210692647425915766892642513214798034330606387680": {
+   "date": "2026-11-14 19:40 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Total Kills Over/Under 27.5 in Game 1?",
+   "resultat": "Over",
+   "prix_trader": 0.48,
+   "retard_min": 6.9,
+   "token": "31252205710215488531584623663210692647425915766892642513214798034330606387680",
+   "prix_simule": 0.5,
+   "parts": 20.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 19:40 UTC"
   }
  },
  "fermees": [
