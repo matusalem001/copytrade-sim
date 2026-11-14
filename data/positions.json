@@ -169,32 +169,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-13 19:25 UTC"
   },
-  "primm|50804260809189801853046864243379872420510224720023455373220631696220556407080": {
-   "date": "2026-11-13 20:25 UTC",
-   "trader": "primm",
-   "marche": "Cincinnati vs. Iowa State: O/U 61.5",
-   "resultat": "Under",
-   "prix_trader": 0.57,
-   "retard_min": 1.0,
-   "token": "50804260809189801853046864243379872420510224720023455373220631696220556407080",
-   "prix_simule": 0.58,
-   "parts": 17.2414,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-13 20:25 UTC"
-  },
-  "primm|69748220377020439925610724451056327803256978755651944634562005668307806694558": {
-   "date": "2026-11-13 20:25 UTC",
-   "trader": "primm",
-   "marche": "Cincinnati vs. Iowa State: O/U 59.5",
-   "resultat": "Under",
-   "prix_trader": 0.55,
-   "retard_min": 1.0,
-   "token": "69748220377020439925610724451056327803256978755651944634562005668307806694558",
-   "prix_simule": 0.55,
-   "parts": 18.1818,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-13 20:25 UTC"
-  },
   "primm|23886359336444475225547589308781815338831450567496883802545402259243465885312": {
    "date": "2026-11-13 20:35 UTC",
    "trader": "primm",
@@ -910,19 +884,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-14 16:30 UTC"
   },
-  "primm|23186266528219059167104972477282411864230158219956684666478266777649900737143": {
-   "date": "2026-11-14 16:35 UTC",
-   "trader": "primm",
-   "marche": "Wisconsin vs. Maryland: O/U 41.5",
-   "resultat": "Over",
-   "prix_trader": 0.48,
-   "retard_min": 4.1,
-   "token": "23186266528219059167104972477282411864230158219956684666478266777649900737143",
-   "prix_simule": 0.49,
-   "parts": 20.4082,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-14 16:35 UTC"
-  },
   "primm|115693427408530792446690502958283872966836558651268873602749720639432848734506": {
    "date": "2026-11-14 16:35 UTC",
    "trader": "primm",
@@ -974,19 +935,6 @@
    "parts": 22.7273,
    "montant": 10.0,
    "ouvert_le": "2026-11-14 16:35 UTC"
-  },
-  "primm|72735418494465559716555434757213930496965631248715797238198164679193995555276": {
-   "date": "2026-11-14 16:50 UTC",
-   "trader": "primm",
-   "marche": "Wisconsin vs. Maryland: O/U 35.5",
-   "resultat": "Over",
-   "prix_trader": 0.66,
-   "retard_min": 3.0,
-   "token": "72735418494465559716555434757213930496965631248715797238198164679193995555276",
-   "prix_simule": 0.67,
-   "parts": 14.9254,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-14 16:50 UTC"
   },
   "primm|78658690363128886649222512128735840352220635827121059065067331436040004560076": {
    "date": "2026-11-14 16:55 UTC",
@@ -2248,6 +2196,19 @@
    "parts": 23.8095,
    "montant": 10.0,
    "ouvert_le": "2026-11-14 20:20 UTC"
+  },
+  "primm|34404728793042849774444696827329976070305137790985377029570632327966504477602": {
+   "date": "2026-11-14 20:30 UTC",
+   "trader": "primm",
+   "marche": "Alabama vs. Vanderbilt: O/U 37.5",
+   "resultat": "Under",
+   "prix_trader": 0.79,
+   "retard_min": 2.0,
+   "token": "34404728793042849774444696827329976070305137790985377029570632327966504477602",
+   "prix_simule": 0.83,
+   "parts": 12.0482,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 20:30 UTC"
   }
  },
  "fermees": [
@@ -14201,6 +14162,74 @@
    "pnl": -10.0,
    "ferme_le": "2026-11-14 20:25 UTC",
    "type": "perdu"
+  },
+  {
+   "date": "2026-11-13 20:25 UTC",
+   "trader": "primm",
+   "marche": "Cincinnati vs. Iowa State: O/U 61.5",
+   "resultat": "Under",
+   "prix_trader": 0.57,
+   "retard_min": 1.0,
+   "token": "50804260809189801853046864243379872420510224720023455373220631696220556407080",
+   "prix_simule": 0.58,
+   "parts": 17.2414,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 20:25 UTC",
+   "sortie": 1.0,
+   "pnl": 7.2414,
+   "ferme_le": "2026-11-14 20:30 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-13 20:25 UTC",
+   "trader": "primm",
+   "marche": "Cincinnati vs. Iowa State: O/U 59.5",
+   "resultat": "Under",
+   "prix_trader": 0.55,
+   "retard_min": 1.0,
+   "token": "69748220377020439925610724451056327803256978755651944634562005668307806694558",
+   "prix_simule": 0.55,
+   "parts": 18.1818,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 20:25 UTC",
+   "sortie": 1.0,
+   "pnl": 8.1818,
+   "ferme_le": "2026-11-14 20:30 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-14 16:35 UTC",
+   "trader": "primm",
+   "marche": "Wisconsin vs. Maryland: O/U 41.5",
+   "resultat": "Over",
+   "prix_trader": 0.48,
+   "retard_min": 4.1,
+   "token": "23186266528219059167104972477282411864230158219956684666478266777649900737143",
+   "prix_simule": 0.49,
+   "parts": 20.4082,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 16:35 UTC",
+   "sortie": 1.0,
+   "pnl": 10.4082,
+   "ferme_le": "2026-11-14 20:30 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-14 16:50 UTC",
+   "trader": "primm",
+   "marche": "Wisconsin vs. Maryland: O/U 35.5",
+   "resultat": "Over",
+   "prix_trader": 0.66,
+   "retard_min": 3.0,
+   "token": "72735418494465559716555434757213930496965631248715797238198164679193995555276",
+   "prix_simule": 0.67,
+   "parts": 14.9254,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 16:50 UTC",
+   "sortie": 1.0,
+   "pnl": 4.9254,
+   "ferme_le": "2026-11-14 20:30 UTC",
+   "type": "gagné"
   }
  ]
 }
