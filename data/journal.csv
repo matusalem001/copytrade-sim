@@ -1871,3 +1871,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 16:50 UTC,primm,ACHAT,Wisconsin vs. Maryland: O/U 35.5,Over,0.66,0.67,1.0,3.0,14.9254,10.0,,
 2026-11-14 16:55 UTC,primm,IGNORE,Spread: Colorado (-4.5),Houston,0.486,,,676.4,,,,vu trop tard
 2026-11-14 16:55 UTC,primm,ACHAT,Spread: Kansas (-2.5),West Virginia,0.58,0.6,2.0,0.5,16.6667,10.0,,
+2026-11-14 17:00 UTC,primm,IGNORE,Spread: Colorado (-16.5),Colorado,0.295,,,658.2,,,,vu trop tard
+2026-11-14 17:00 UTC,primm,ACHAT,Spread: Wisconsin (-6.5),Maryland,0.42,0.42,0.0,4.2,23.8095,10.0,,
+2026-11-14 17:00 UTC,primm,ACHAT,Spread: SMU (-2.5),Wake Forest,0.49,0.51,2.0,2.5,19.6078,10.0,,
+2026-11-14 17:00 UTC,primm,ACHAT,Spread: SMU (-1.5),Wake Forest,0.47,0.48,1.0,0.2,20.8333,10.0,,
