@@ -779,6 +779,19 @@
    "parts": 16.129,
    "montant": 10.0,
    "ouvert_le": "2026-11-14 16:00 UTC"
+  },
+  "primm|13359495055658312435846541561874915466397348345068578638311921867534812461242": {
+   "date": "2026-11-14 16:15 UTC",
+   "trader": "primm",
+   "marche": "Florida Atlantic vs. Tulsa",
+   "resultat": "Florida Atlantic",
+   "prix_trader": 0.32,
+   "retard_min": 0.2,
+   "token": "13359495055658312435846541561874915466397348345068578638311921867534812461242",
+   "prix_simule": 0.32,
+   "parts": 31.25,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 16:15 UTC"
   }
  },
  "fermees": [
