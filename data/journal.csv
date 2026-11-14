@@ -2088,3 +2088,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 21:01 UTC,primm,REGLEMENT,Spread: Nebraska (-30.5),Nebraska,,0.23,,,43.4783,43.48,33.48,gagné
 2026-11-14 21:01 UTC,primm,REGLEMENT,Spread: Nebraska (-24.5),Rutgers,,0.48,,,20.8333,0.0,-10.0,perdu
 2026-11-14 21:01 UTC,primm,REGLEMENT,Nebraska vs. Rutgers: O/U 39.5,Over,,0.44,,,22.7273,0.0,-10.0,perdu
+2026-11-14 21:05 UTC,primm,IGNORE,Wisconsin vs. Maryland: O/U 43.5,Over,0.37,,,170.3,,,,vu trop tard
+2026-11-14 21:05 UTC,primm,IGNORE,Nebraska vs. Rutgers: O/U 39.5,Under,0.5,,,162.2,,,,vu trop tard
+2026-11-14 21:05 UTC,primm,REGLEMENT,Spread: Miami (FL) (-14.5),Miami (FL),,0.46,,,21.7391,0.0,-10.0,perdu
