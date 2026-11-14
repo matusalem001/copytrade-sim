@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 23:05 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 23:10 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 156 | 159 | 133 | 71 | +89.83 $ | +6.8 % | 23 | +1.4 ¢ | 9 min |
-| primm | 783 | 279 | 676 | 355 | +342.69 $ | +5.1 % | 107 | +3.3 ¢ | 4 min |
+| BreakTheBank | 156 | 159 | 134 | 71 | +79.83 $ | +6.0 % | 22 | +1.4 ¢ | 9 min |
+| primm | 784 | 279 | 677 | 356 | +351.56 $ | +5.2 % | 107 | +3.3 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 12 | 5 | -32.41 $ | -27.0 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : +400.10 $ sur 8210 $ engagés (+4.9 %)**
+**Total réalisé : +398.97 $ sur 8230 $ engagés (+4.8 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 23:05 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Florida International vs. Delaware: O/U 39.5 | Over | 0.53 | 1.00 | +8.87 $ |
+| BreakTheBank | Total Kills Over/Under 27.5 in Game 1? | Over | 0.50 | 0.00 | -10.00 $ |
 | BreakTheBank | LoL: Bilibili Gaming vs Gen.G - Game 1 Winner | Bilibili Gaming | 0.43 | 0.00 | -10.00 $ |
 | primm | Spread: Kennesaw State (-14.5) | Kennesaw State | 0.55 | 1.00 | +8.18 $ |
 | primm | Spread: Kennesaw State (-16.5) | Kennesaw State | 0.51 | 1.00 | +9.61 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 23:05 UTC** 
 | primm | Spread: Alabama (-7.5) | Vanderbilt | 0.36 | 0.00 | -10.00 $ |
 | primm | Spread: Alabama (-19.5) | Vanderbilt | 0.59 | 1.00 | +6.95 $ |
 | primm | Spread: Alabama (-13.5) | Vanderbilt | 0.43 | 0.00 | -10.00 $ |
-| primm | Alabama vs. Vanderbilt: O/U 49.5 | Under | 0.55 | 1.00 | +8.18 $ |
-| primm | Spread: Georgia Tech (-6.5) | Georgia Tech | 0.34 | 1.00 | +19.41 $ |
 
 Journal complet : `data/journal.csv`

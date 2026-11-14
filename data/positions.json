@@ -728,19 +728,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-14 19:30 UTC"
   },
-  "BreakTheBank|31252205710215488531584623663210692647425915766892642513214798034330606387680": {
-   "date": "2026-11-14 19:40 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Total Kills Over/Under 27.5 in Game 1?",
-   "resultat": "Over",
-   "prix_trader": 0.48,
-   "retard_min": 6.9,
-   "token": "31252205710215488531584623663210692647425915766892642513214798034330606387680",
-   "prix_simule": 0.5,
-   "parts": 20.0,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-14 19:40 UTC"
-  },
   "BreakTheBank|109210047242694239111296755567823481494033354165492295008302065247871816959352": {
    "date": "2026-11-14 19:50 UTC",
    "trader": "BreakTheBank",
@@ -1089,19 +1076,6 @@
    "token": "75849957505999735683617097201408070010426638553839464557575999127235210110569",
    "prix_simule": 0.45,
    "parts": 22.2222,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-14 21:35 UTC"
-  },
-  "primm|73435975986689158603885144197382750901581125211458941678824691691237943294226": {
-   "date": "2026-11-14 21:35 UTC",
-   "trader": "primm",
-   "marche": "Florida International vs. Delaware: O/U 39.5",
-   "resultat": "Over",
-   "prix_trader": 0.52,
-   "retard_min": 1.7,
-   "token": "73435975986689158603885144197382750901581125211458941678824691691237943294226",
-   "prix_simule": 0.53,
-   "parts": 18.8679,
    "montant": 10.0,
    "ouvert_le": "2026-11-14 21:35 UTC"
   },
@@ -1689,6 +1663,19 @@
    "parts": 20.4082,
    "montant": 10.0,
    "ouvert_le": "2026-11-14 23:05 UTC"
+  },
+  "primm|51088425750466416581715967941256645746210801721212183703993804955668041366455": {
+   "date": "2026-11-14 23:10 UTC",
+   "trader": "primm",
+   "marche": "Spread: LSU (-6.5)",
+   "resultat": "LSU",
+   "prix_trader": 0.45,
+   "retard_min": 5.0,
+   "token": "51088425750466416581715967941256645746210801721212183703993804955668041366455",
+   "prix_simule": 0.46,
+   "parts": 21.7391,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 23:10 UTC"
   }
  },
  "fermees": [
@@ -15648,6 +15635,40 @@
    "pnl": -10.0,
    "ferme_le": "2026-11-14 22:50 UTC",
    "type": "perdu"
+  },
+  {
+   "date": "2026-11-14 19:40 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Total Kills Over/Under 27.5 in Game 1?",
+   "resultat": "Over",
+   "prix_trader": 0.48,
+   "retard_min": 6.9,
+   "token": "31252205710215488531584623663210692647425915766892642513214798034330606387680",
+   "prix_simule": 0.5,
+   "parts": 20.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 19:40 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-14 23:10 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-14 21:35 UTC",
+   "trader": "primm",
+   "marche": "Florida International vs. Delaware: O/U 39.5",
+   "resultat": "Over",
+   "prix_trader": 0.52,
+   "retard_min": 1.7,
+   "token": "73435975986689158603885144197382750901581125211458941678824691691237943294226",
+   "prix_simule": 0.53,
+   "parts": 18.8679,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 21:35 UTC",
+   "sortie": 1.0,
+   "pnl": 8.8679,
+   "ferme_le": "2026-11-14 23:10 UTC",
+   "type": "gagné"
   }
  ]
 }
