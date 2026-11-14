@@ -2005,3 +2005,23 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 20:40 UTC,primm,REGLEMENT,Syracuse vs. NC State,Syracuse,,0.298,,,33.557,33.56,23.56,gagné
 2026-11-14 20:40 UTC,primm,REGLEMENT,Syracuse vs. NC State: O/U 71.5,Over,,0.095,,,105.2632,0.0,-10.0,perdu
 2026-11-14 20:40 UTC,primm,REGLEMENT,Syracuse vs. NC State,NC State,,0.42,,,23.8095,0.0,-10.0,perdu
+2026-11-14 20:45 UTC,primm,IGNORE,Spread: Wisconsin (-2.5),Maryland,0.3,,,146.6,,,,carnet indisponible
+2026-11-14 20:45 UTC,primm,ACHAT,Spread: Kennesaw State (-17.5),Kennesaw State,0.4,0.43,3.0,7.8,23.2558,10.0,,
+2026-11-14 20:45 UTC,primm,ACHAT,Spread: Kennesaw State (-16.5),Kennesaw State,0.49,0.51,2.0,7.8,19.6078,10.0,,
+2026-11-14 20:45 UTC,primm,ACHAT,Spread: Kennesaw State (-14.5),Kennesaw State,0.53,0.55,2.0,7.8,18.1818,10.0,,
+2026-11-14 20:45 UTC,primm,ACHAT,Tennessee vs. Texas A&M,Texas A&M,0.47,0.59,12.0,3.4,16.9492,10.0,,
+2026-11-14 20:45 UTC,primm,ACHAT,Spread: Kansas (-1.5),West Virginia,0.5,0.55,5.0,3.4,18.1818,10.0,,
+2026-11-14 20:45 UTC,primm,IGNORE,Michigan vs. Oregon,Michigan,0.23,0.15,-8.0,2.9,,,,prix a trop chuté (match sans doute joué)
+2026-11-14 20:45 UTC,primm,ACHAT,Spread: West Virginia (-1.5),West Virginia,0.47,0.5,3.0,2.0,20.0,10.0,,
+2026-11-14 20:45 UTC,primm,ACHAT,Spread: Indiana (-9.5),Indiana,0.46,0.5,4.0,1.4,20.0,10.0,,
+2026-11-14 20:46 UTC,primm,REGLEMENT,Spread: Ohio State (-11.5),Northwestern,,0.45,,,22.2222,22.22,12.22,gagné
+2026-11-14 20:46 UTC,primm,REGLEMENT,Spread: Ohio State (-13.5),Northwestern,,0.47,,,21.2766,21.28,11.28,gagné
+2026-11-14 20:46 UTC,primm,REGLEMENT,Northwestern vs. Ohio State: O/U 45.5,Over,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-14 20:46 UTC,primm,REGLEMENT,Spread: Ohio State (-20.5),Northwestern,,0.76,,,13.1579,13.16,3.16,gagné
+2026-11-14 20:46 UTC,primm,REGLEMENT,Spread: Ohio State (-17.5),Northwestern,,0.71,,,14.0845,14.08,4.08,gagné
+2026-11-14 20:46 UTC,primm,REGLEMENT,Spread: Ohio State (-9.5),Northwestern,,0.49,,,20.4082,20.41,10.41,gagné
+2026-11-14 20:46 UTC,primm,REGLEMENT,Spread: Ohio State (-5.5),Northwestern,,0.36,,,27.7778,0.0,-10.0,perdu
+2026-11-14 20:46 UTC,primm,REGLEMENT,Spread: Ohio State (-6.5),Northwestern,,0.38,,,26.3158,0.0,-10.0,perdu
+2026-11-14 20:46 UTC,primm,REGLEMENT,Spread: Ohio State (-4.5),Northwestern,,0.33,,,30.303,0.0,-10.0,perdu
+2026-11-14 20:46 UTC,primm,REGLEMENT,Northwestern vs. Ohio State: O/U 45.5,Under,,0.68,,,14.7059,0.0,-10.0,perdu
+2026-11-14 20:46 UTC,primm,REGLEMENT,Northwestern vs. Ohio State,Northwestern,,0.08,,,125.0,0.0,-10.0,perdu
