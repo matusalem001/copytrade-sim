@@ -1671,3 +1671,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 04:40 UTC,primm,ACHAT,Spread: UCLA (-5.5),UCLA,0.45,0.46,1.0,1.3,21.7391,10.0,,
 2026-11-14 04:40 UTC,primm,ACHAT,Spread: UCLA (-2.5),UCLA,0.7,0.71,1.0,1.3,14.0845,10.0,,
 2026-11-14 04:40 UTC,primm,ACHAT,Spread: UCLA (-3.5),UCLA,0.67,0.67,0.0,1.3,14.9254,10.0,,
+2026-11-14 04:45 UTC,primm,IGNORE,Spread: Florida State (-2.5),Pittsburgh,0.47,,,220.0,,,,vu trop tard
