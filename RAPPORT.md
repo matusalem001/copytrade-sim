@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 06:35 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 06:40 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 142 | 129 | 132 | 71 | +99.83 $ | +7.6 % | 10 | +1.3 ¢ | 8 min |
-| primm | 577 | 225 | 521 | 243 | -463.17 $ | -8.9 % | 56 | +3.6 ¢ | 4 min |
+| primm | 577 | 225 | 522 | 243 | -473.17 $ | -9.1 % | 55 | +3.6 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 12 | 5 | -32.41 $ | -27.0 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : -395.76 $ sur 6650 $ engagés (-6.0 %)**
+**Total réalisé : -405.76 $ sur 6660 $ engagés (-6.1 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 06:35 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Houston vs. Colorado: O/U 57.5 | Under | 0.64 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Thunder (-2.5) | Clippers | 0.40 | 1.00 | +15.00 $ |
 | BreakTheBank | Spread: Clippers (-1.5) | Clippers | 0.31 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Thunder (-6.5) | Clippers | 0.52 | 1.00 | +9.23 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 06:35 UTC** 
 | primm | Spread: UCLA (-10.5) | Illinois | 0.50 | 1.00 | +10.00 $ |
 | primm | Spread: UCLA (-14.5) | Illinois | 0.62 | 1.00 | +6.13 $ |
 | primm | Spread: UCLA (-20.5) | Illinois | 0.61 | 1.00 | +6.39 $ |
-| primm | Illinois vs. UCLA: O/U 57.5 | Under | 0.62 | 1.00 | +6.13 $ |
 
 Journal complet : `data/journal.csv`
