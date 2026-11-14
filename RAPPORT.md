@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 22:30 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 22:35 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 155 | 159 | 132 | 71 | +99.83 $ | +7.6 % | 23 | +1.4 ¢ | 9 min |
-| primm | 762 | 278 | 671 | 350 | +286.00 $ | +4.3 % | 91 | +3.3 ¢ | 4 min |
+| BreakTheBank | 156 | 159 | 132 | 71 | +99.83 $ | +7.6 % | 24 | +1.4 ¢ | 9 min |
+| primm | 762 | 278 | 676 | 355 | +342.69 $ | +5.1 % | 86 | +3.3 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 12 | 5 | -32.41 $ | -27.0 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : +353.42 $ sur 8150 $ engagés (+4.3 %)**
+**Total réalisé : +410.10 $ sur 8200 $ engagés (+5.0 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,11 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 22:30 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Kennesaw State (-14.5) | Kennesaw State | 0.55 | 1.00 | +8.18 $ |
+| primm | Spread: Kennesaw State (-16.5) | Kennesaw State | 0.51 | 1.00 | +9.61 $ |
+| primm | Spread: Kennesaw State (-17.5) | Kennesaw State | 0.43 | 1.00 | +13.26 $ |
+| primm | Spread: Kennesaw State (-13.5) | Kennesaw State | 0.39 | 1.00 | +15.64 $ |
+| primm | Spread: Kennesaw State (-7.5) | Kennesaw State | 0.50 | 1.00 | +10.00 $ |
 | primm | Spread: East Carolina (-13.5) | East Carolina | 0.46 | 0.00 | -10.00 $ |
 | primm | Spread: East Carolina (-14.5) | East Carolina | 0.44 | 0.00 | -10.00 $ |
 | primm | Arkansas State vs. Coastal Carolina: O/U 51.5 | Over | 0.55 | 0.00 | -10.00 $ |
@@ -36,10 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 22:30 UTC** 
 | primm | Alabama vs. Vanderbilt: O/U 49.5 | Under | 0.55 | 1.00 | +8.18 $ |
 | primm | Spread: Georgia Tech (-6.5) | Georgia Tech | 0.34 | 1.00 | +19.41 $ |
 | primm | Spread: Georgia Tech (-4.5) | Georgia Tech | 0.38 | 1.00 | +16.32 $ |
-| primm | Spread: Georgia Tech (-5.5) | Georgia Tech | 0.36 | 1.00 | +17.78 $ |
-| primm | Spread: Georgia Tech (-1.5) | Georgia Tech | 0.50 | 1.00 | +10.00 $ |
-| primm | Spread: Georgia Tech (-3.5) | Georgia Tech | 0.42 | 1.00 | +13.81 $ |
-| primm | Spread: Georgia Tech (-2.5) | Georgia Tech | 0.33 | 1.00 | +20.30 $ |
-| primm | Spread: Clemson (-2.5) | Georgia Tech | 0.42 | 1.00 | +13.81 $ |
 
 Journal complet : `data/journal.csv`
