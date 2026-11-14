@@ -1977,3 +1977,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 19:50 UTC,primm,ACHAT,Syracuse vs. NC State: O/U 55.5,Over,0.6598,0.66,0.0,0.6,15.1515,10.0,,
 2026-11-14 19:55 UTC,primm,REGLEMENT,Syracuse vs. NC State: O/U 47.5,Over,,0.26,,,38.4615,38.46,28.46,gagné
 2026-11-14 19:55 UTC,primm,REGLEMENT,Syracuse vs. NC State: O/U 41.5,Over,,0.44,,,22.7273,22.73,12.73,gagné
+2026-11-14 20:00 UTC,primm,ACHAT,USC vs. Indiana: O/U 51.5,Over,0.51,0.52,1.0,9.8,19.2308,10.0,,
+2026-11-14 20:00 UTC,primm,ACHAT,Syracuse vs. NC State,Syracuse,0.198,0.298,10.0,3.8,33.557,10.0,,
