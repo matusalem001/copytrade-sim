@@ -1983,3 +1983,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 20:09 UTC,primm,IGNORE,Syracuse vs. NC State: O/U 65.5,Over,0.29,0.215,-7.5,8.0,,,,prix a trop chuté (match sans doute joué)
 2026-11-14 20:09 UTC,primm,ACHAT,Syracuse vs. NC State: O/U 71.5,Over,0.14,0.095,-4.5,5.8,105.2632,10.0,,
 2026-11-14 20:09 UTC,primm,IGNORE,Syracuse vs. NC State: O/U 65.5,Over,0.29,0.215,-7.5,5.8,,,,prix a trop chuté (match sans doute joué)
+2026-11-14 20:20 UTC,primm,ACHAT,Syracuse vs. NC State,NC State,0.295,0.42,12.5,0.8,23.8095,10.0,,
+2026-11-14 20:20 UTC,primm,REGLEMENT,Northwestern vs. Ohio State: O/U 39.5,Over,,0.61,,,16.3934,16.39,6.39,gagné
