@@ -2096,3 +2096,28 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 21:10 UTC,primm,ACHAT,USC vs. Indiana: O/U 49.5,Over,0.58,0.55,-3.0,6.1,18.1818,10.0,,
 2026-11-14 21:10 UTC,primm,ACHAT,Spread: Texas A&M (-1.5),Texas A&M,0.49,0.53,4.0,1.2,18.8679,10.0,,
 2026-11-14 21:10 UTC,primm,ACHAT,Spread: Tennessee (-2.5),Texas A&M,0.62,0.67,5.0,1.2,14.9254,10.0,,
+2026-11-14 21:15 UTC,primm,IGNORE,Nebraska vs. Rutgers: O/U 45.5,Under,0.66,,,178.4,,,,vu trop tard
+2026-11-14 21:15 UTC,primm,IGNORE,Spread: Georgia Tech (-2.5),Georgia Tech,0.49,,,176.9,,,,carnet indisponible
+2026-11-14 21:15 UTC,primm,IGNORE,Syracuse vs. NC State: O/U 65.5,Over,0.29,,,73.9,,,,vu trop tard
+2026-11-14 21:15 UTC,primm,REGLEMENT,Spread: Clemson (-17.5),Clemson,,0.42,,,23.8095,0.0,-10.0,perdu
+2026-11-14 21:15 UTC,primm,REGLEMENT,Georgia Tech vs. Clemson,Georgia Tech,,0.19,,,52.6316,52.63,42.63,gagné
+2026-11-14 21:15 UTC,primm,REGLEMENT,Georgia Tech vs. Clemson: O/U 39.5,Under,,0.45,,,22.2222,22.22,12.22,gagné
+2026-11-14 21:15 UTC,primm,REGLEMENT,Georgia Tech vs. Clemson: O/U 49.5,Under,,0.73,,,13.6986,13.7,3.7,gagné
+2026-11-14 21:15 UTC,primm,REGLEMENT,Georgia Tech vs. Clemson: O/U 45.5,Under,,0.64,,,15.625,15.62,5.62,gagné
+2026-11-14 21:15 UTC,primm,REGLEMENT,Spread: Clemson (-13.5),Georgia Tech,,0.55,,,18.1818,18.18,8.18,gagné
+2026-11-14 21:15 UTC,primm,REGLEMENT,Spread: Clemson (-11.5),Georgia Tech,,0.52,,,19.2308,19.23,9.23,gagné
+2026-11-14 21:15 UTC,primm,REGLEMENT,Spread: Clemson (-10.5),Georgia Tech,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-14 21:15 UTC,primm,REGLEMENT,Spread: Clemson (-6.5),Georgia Tech,,0.36,,,27.7778,27.78,17.78,gagné
+2026-11-14 21:15 UTC,primm,REGLEMENT,Spread: Clemson (-7.5),Georgia Tech,,0.43,,,23.2558,23.26,13.26,gagné
+2026-11-14 21:15 UTC,primm,REGLEMENT,Spread: Clemson (-9.5),Georgia Tech,,0.52,,,19.2308,19.23,9.23,gagné
+2026-11-14 21:15 UTC,primm,REGLEMENT,Spread: Clemson (-5.5),Georgia Tech,,0.4,,,25.0,25.0,15.0,gagné
+2026-11-14 21:15 UTC,primm,REGLEMENT,Spread: Clemson (-3.5),Georgia Tech,,0.35,,,28.5714,28.57,18.57,gagné
+2026-11-14 21:15 UTC,primm,REGLEMENT,Spread: Clemson (-4.5),Georgia Tech,,0.37,,,27.027,27.03,17.03,gagné
+2026-11-14 21:15 UTC,primm,REGLEMENT,Spread: Clemson (-1.5),Georgia Tech,,0.4,,,25.0,25.0,15.0,gagné
+2026-11-14 21:15 UTC,primm,REGLEMENT,Spread: Clemson (-2.5),Georgia Tech,,0.42,,,23.8095,23.81,13.81,gagné
+2026-11-14 21:15 UTC,primm,REGLEMENT,Spread: Georgia Tech (-2.5),Georgia Tech,,0.33,,,30.303,30.3,20.3,gagné
+2026-11-14 21:15 UTC,primm,REGLEMENT,Spread: Georgia Tech (-3.5),Georgia Tech,,0.42,,,23.8095,23.81,13.81,gagné
+2026-11-14 21:15 UTC,primm,REGLEMENT,Spread: Georgia Tech (-1.5),Georgia Tech,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-14 21:15 UTC,primm,REGLEMENT,Spread: Georgia Tech (-5.5),Georgia Tech,,0.36,,,27.7778,27.78,17.78,gagné
+2026-11-14 21:15 UTC,primm,REGLEMENT,Spread: Georgia Tech (-4.5),Georgia Tech,,0.38,,,26.3158,26.32,16.32,gagné
+2026-11-14 21:15 UTC,primm,REGLEMENT,Spread: Georgia Tech (-6.5),Georgia Tech,,0.34,,,29.4118,29.41,19.41,gagné
