@@ -1589,3 +1589,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 02:35 UTC,primm,ACHAT,Spread: UCLA (-10.5),Illinois,0.42,0.5,8.0,2.6,20.0,10.0,,
 2026-11-14 02:35 UTC,primm,ACHAT,Spread: UCLA (-17.5),Illinois,0.57,0.69,12.0,2.6,14.4928,10.0,,
 2026-11-14 02:35 UTC,primm,ACHAT,Spread: UCLA (-13.5),Illinois,0.46,0.56,10.0,2.6,17.8571,10.0,,
+2026-11-14 02:40 UTC,BreakTheBank,ACHAT,Spread: Thunder (-5.5),Clippers,0.44,0.48,4.0,8.6,20.8333,10.0,,
+2026-11-14 02:40 UTC,primm,IGNORE,Illinois vs. UCLA: O/U 45.5,Over,0.51,0.44,-7.0,4.9,,,,prix a trop chuté (match sans doute joué)
+2026-11-14 02:40 UTC,primm,IGNORE,Illinois vs. UCLA: O/U 47.5,Over,0.47,0.4,-7.0,4.9,,,,prix a trop chuté (match sans doute joué)

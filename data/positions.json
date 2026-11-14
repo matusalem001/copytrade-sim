@@ -909,6 +909,19 @@
    "parts": 17.8571,
    "montant": 10.0,
    "ouvert_le": "2026-11-14 02:35 UTC"
+  },
+  "BreakTheBank|69544731723918378774424794145119668524111169029812599843909307059090252442608": {
+   "date": "2026-11-14 02:40 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Thunder (-5.5)",
+   "resultat": "Clippers",
+   "prix_trader": 0.44,
+   "retard_min": 8.6,
+   "token": "69544731723918378774424794145119668524111169029812599843909307059090252442608",
+   "prix_simule": 0.48,
+   "parts": 20.8333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 02:40 UTC"
   }
  },
  "fermees": [
