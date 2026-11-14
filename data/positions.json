@@ -766,6 +766,19 @@
    "parts": 20.0,
    "montant": 10.0,
    "ouvert_le": "2026-11-14 15:49 UTC"
+  },
+  "BreakTheBank|48974242814467521111377166073091419940430166730559094118660552642380044929668": {
+   "date": "2026-11-14 16:00 UTC",
+   "trader": "BreakTheBank",
+   "marche": "LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs",
+   "resultat": "Gen.G",
+   "prix_trader": 0.61,
+   "retard_min": 6.9,
+   "token": "48974242814467521111377166073091419940430166730559094118660552642380044929668",
+   "prix_simule": 0.62,
+   "parts": 16.129,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 16:00 UTC"
   }
  },
  "fermees": [
