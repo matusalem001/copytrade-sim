@@ -1742,3 +1742,10 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 06:05 UTC,primm,IGNORE,Spread: Colorado (-16.5),Colorado,0.295,0.189,-10.6,2.6,,,,prix a trop chuté (match sans doute joué)
 2026-11-14 06:10 UTC,primm,IGNORE,Houston vs. Colorado: O/U 47.5,Under,0.51,,,123.6,,,,vu trop tard
 2026-11-14 06:10 UTC,primm,IGNORE,Spread: Colorado (-16.5),Colorado,0.295,0.115,-18.0,7.7,,,,prix a trop chuté (match sans doute joué)
+2026-11-14 06:15 UTC,primm,ACHAT,Spread: Colorado (-3.5),Houston,0.41,0.41,0.0,0.6,24.3902,10.0,,
+2026-11-14 06:15 UTC,BreakTheBank,REGLEMENT,Thunder vs. Clippers,Clippers,,0.32,,,31.25,31.25,21.25,gagné
+2026-11-14 06:15 UTC,BreakTheBank,REGLEMENT,Spread: Thunder (-5.5),Clippers,,0.48,,,20.8333,20.83,10.83,gagné
+2026-11-14 06:15 UTC,BreakTheBank,REGLEMENT,Spread: Thunder (-7.5),Clippers,,0.56,,,17.8571,17.86,7.86,gagné
+2026-11-14 06:15 UTC,BreakTheBank,REGLEMENT,Spread: Thunder (-6.5),Clippers,,0.52,,,19.2308,19.23,9.23,gagné
+2026-11-14 06:15 UTC,BreakTheBank,REGLEMENT,Spread: Clippers (-1.5),Clippers,,0.31,,,32.2581,0.0,-10.0,perdu
+2026-11-14 06:15 UTC,BreakTheBank,REGLEMENT,Spread: Thunder (-2.5),Clippers,,0.4,,,25.0,25.0,15.0,gagné
