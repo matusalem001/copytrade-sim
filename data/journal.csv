@@ -1559,3 +1559,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 00:10 UTC,primm,ACHAT,Spread: Pittsburgh (-6.5),Pittsburgh,0.4,0.38,-2.0,2.6,26.3158,10.0,,
 2026-11-14 00:10 UTC,primm,ACHAT,Spread: Pittsburgh (-3.5),Pittsburgh,0.47,0.45,-2.0,2.6,22.2222,10.0,,
 2026-11-14 00:10 UTC,primm,ACHAT,Florida State vs. Pittsburgh,Pittsburgh,0.58,0.57,-1.0,2.6,17.5439,10.0,,
+2026-11-14 00:40 UTC,primm,ACHAT,Florida State vs. Pittsburgh: O/U 39.5,Over,0.66,0.67,1.0,3.2,14.9254,10.0,,
