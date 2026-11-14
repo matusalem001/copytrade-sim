@@ -1995,3 +1995,13 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 20:30 UTC,primm,REGLEMENT,Wisconsin vs. Maryland: O/U 41.5,Over,,0.49,,,20.4082,20.41,10.41,gagné
 2026-11-14 20:30 UTC,primm,REGLEMENT,Wisconsin vs. Maryland: O/U 35.5,Over,,0.67,,,14.9254,14.93,4.93,gagné
 2026-11-14 20:35 UTC,BreakTheBank,ACHAT,LoL: Bilibili Gaming vs Gen.G - Game 3 Winner,Gen.G,0.57,0.59,2.0,5.5,16.9492,10.0,,
+2026-11-14 20:40 UTC,BreakTheBank,ACHAT,LoL: Bilibili Gaming vs Gen.G - Game 2 Winner,Gen.G,0.58,0.59,1.0,7.9,16.9492,10.0,,
+2026-11-14 20:40 UTC,primm,ACHAT,Spread: Tennessee (-4.5),Texas A&M,0.61,0.63,2.0,4.7,15.873,10.0,,
+2026-11-14 20:40 UTC,primm,ACHAT,Spread: Tennessee (-3.5),Texas A&M,0.59,0.6,1.0,4.7,16.6667,10.0,,
+2026-11-14 20:40 UTC,primm,ACHAT,Spread: Tennessee (-1.5),Texas A&M,0.47,0.49,2.0,4.7,20.4082,10.0,,
+2026-11-14 20:40 UTC,primm,ACHAT,Tennessee vs. Texas A&M: O/U 43.5,Under,0.72,0.73,1.0,3.6,13.6986,10.0,,
+2026-11-14 20:40 UTC,primm,REGLEMENT,Spread: NC State (-4.5),Syracuse,,0.6,,,16.6667,16.67,6.67,gagné
+2026-11-14 20:40 UTC,primm,REGLEMENT,Syracuse vs. NC State: O/U 55.5,Over,,0.66,,,15.1515,15.15,5.15,gagné
+2026-11-14 20:40 UTC,primm,REGLEMENT,Syracuse vs. NC State,Syracuse,,0.298,,,33.557,33.56,23.56,gagné
+2026-11-14 20:40 UTC,primm,REGLEMENT,Syracuse vs. NC State: O/U 71.5,Over,,0.095,,,105.2632,0.0,-10.0,perdu
+2026-11-14 20:40 UTC,primm,REGLEMENT,Syracuse vs. NC State,NC State,,0.42,,,23.8095,0.0,-10.0,perdu
