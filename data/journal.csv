@@ -1740,3 +1740,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 06:05 UTC,primm,IGNORE,Spread: Colorado (-16.5),Colorado,0.295,0.189,-10.6,2.6,,,,prix a trop chuté (match sans doute joué)
 2026-11-14 06:05 UTC,primm,IGNORE,Spread: Colorado (-16.5),Colorado,0.295,0.189,-10.6,2.6,,,,prix a trop chuté (match sans doute joué)
 2026-11-14 06:05 UTC,primm,IGNORE,Spread: Colorado (-16.5),Colorado,0.295,0.189,-10.6,2.6,,,,prix a trop chuté (match sans doute joué)
+2026-11-14 06:10 UTC,primm,IGNORE,Houston vs. Colorado: O/U 47.5,Under,0.51,,,123.6,,,,vu trop tard
+2026-11-14 06:10 UTC,primm,IGNORE,Spread: Colorado (-16.5),Colorado,0.295,0.115,-18.0,7.7,,,,prix a trop chuté (match sans doute joué)
