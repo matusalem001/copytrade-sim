@@ -1839,3 +1839,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 15:30 UTC,primm,ACHAT,Spread: Indiana (-7.5),USC,0.46,0.47,1.0,1.8,21.2766,10.0,,
 2026-11-14 15:30 UTC,primm,ACHAT,Spread: Indiana (-9.5),USC,0.5,0.51,1.0,1.8,19.6078,10.0,,
 2026-11-14 15:30 UTC,primm,ACHAT,Spread: Georgia (-13.5),Missouri,0.41,0.42,1.0,0.8,23.8095,10.0,,
+2026-11-14 15:35 UTC,primm,IGNORE,Houston vs. Colorado: O/U 69.5,Over,0.57,,,562.0,,,,vu trop tard
+2026-11-14 15:35 UTC,primm,IGNORE,Spread: Colorado (-10.5),Houston,0.719,,,552.7,,,,vu trop tard
