@@ -2174,3 +2174,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 22:00 UTC,primm,REGLEMENT,Spread: East Carolina (-14.5),East Carolina,,0.44,,,22.7273,0.0,-10.0,perdu
 2026-11-14 22:00 UTC,primm,REGLEMENT,Spread: East Carolina (-13.5),East Carolina,,0.46,,,21.7391,0.0,-10.0,perdu
 2026-11-14 22:05 UTC,primm,IGNORE,Spread: Georgia (-30.5),Missouri,0.61,,,72.1,,,,vu trop tard
+2026-11-14 22:10 UTC,primm,ACHAT,Spread: Oregon (-13.5),Michigan,0.29,0.3,1.0,2.4,33.3333,10.0,,
+2026-11-14 22:10 UTC,primm,ACHAT,Spread: Georgia Southern (-10.5),Georgia Southern,0.46,0.51,5.0,0.8,19.6078,10.0,,
+2026-11-14 22:10 UTC,primm,ACHAT,Georgia Southern vs. Georgia State,Georgia Southern,0.84,0.85,1.0,0.7,11.7647,10.0,,
+2026-11-14 22:10 UTC,primm,ACHAT,Spread: Georgia Southern (-13.5),Georgia Southern,0.41,0.41,0.0,0.7,24.3902,10.0,,
+2026-11-14 22:10 UTC,primm,ACHAT,Spread: Georgia Southern (-16.5),Georgia Southern,0.32,0.36,4.0,0.7,27.7778,10.0,,
