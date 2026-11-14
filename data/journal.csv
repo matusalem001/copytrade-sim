@@ -1653,3 +1653,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 03:50 UTC,primm,REGLEMENT,Florida State vs. Pittsburgh,Florida State,,0.74,,,13.5135,13.51,3.51,gagné
 2026-11-14 03:55 UTC,BreakTheBank,IGNORE,Spread: Magic (-7.5),Bucks,0.42,,,279.7,,,,vu trop tard
 2026-11-14 03:55 UTC,primm,IGNORE,Louisiana vs. Louisiana-Monroe: O/U 49.5,Under,0.33,,,1382.0,,,,vu trop tard
+2026-11-14 04:00 UTC,BreakTheBank,REGLEMENT,Spread: Grizzlies (-4.5),Grizzlies,,0.47,,,21.2766,21.28,11.28,gagné
+2026-11-14 04:00 UTC,BreakTheBank,REGLEMENT,Grizzlies vs. Pelicans,Grizzlies,,0.62,,,16.129,16.13,6.13,gagné
+2026-11-14 04:00 UTC,BreakTheBank,REGLEMENT,Spread: Grizzlies (-3.5),Grizzlies,,0.53,,,18.8679,18.87,8.87,gagné
+2026-11-14 04:00 UTC,BreakTheBank,REGLEMENT,Spread: Grizzlies (-5.5),Grizzlies,,0.45,,,22.2222,22.22,12.22,gagné
