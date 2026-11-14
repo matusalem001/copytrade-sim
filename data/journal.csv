@@ -1578,3 +1578,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 01:20 UTC,BreakTheBank,IGNORE,Will Serbia win on 2026-11-13?,Yes,0.08,,,347.8,,,,vu trop tard
 2026-11-14 02:15 UTC,primm,ACHAT,Spread: Florida State (-5.5),Pittsburgh,0.57,0.72,15.0,3.4,13.8889,10.0,,
 2026-11-14 02:15 UTC,primm,ACHAT,Illinois vs. UCLA: O/U 57.5,Under,0.62,0.62,0.0,0.9,16.129,10.0,,
+2026-11-14 02:20 UTC,primm,ACHAT,Spread: UCLA (-20.5),Illinois,0.61,0.61,0.0,2.3,16.3934,10.0,,
