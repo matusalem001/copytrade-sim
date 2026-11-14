@@ -1750,3 +1750,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 06:15 UTC,BreakTheBank,REGLEMENT,Spread: Clippers (-1.5),Clippers,,0.31,,,32.2581,0.0,-10.0,perdu
 2026-11-14 06:15 UTC,BreakTheBank,REGLEMENT,Spread: Thunder (-2.5),Clippers,,0.4,,,25.0,25.0,15.0,gagné
 2026-11-14 06:25 UTC,primm,ACHAT,Spread: Colorado (-10.5),Houston,0.6634,0.666,0.3,3.6,15.015,10.0,,
+2026-11-14 06:30 UTC,primm,ACHAT,Houston vs. Colorado: O/U 75.5,Over,0.3,0.32,2.0,2.5,31.25,10.0,,
