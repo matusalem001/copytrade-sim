@@ -558,6 +558,32 @@
    "parts": 21.2766,
    "montant": 10.0,
    "ouvert_le": "2026-11-13 23:45 UTC"
+  },
+  "BreakTheBank|48074696314813262698581624953635964601397006684057307942783818663763718727011": {
+   "date": "2026-11-14 00:00 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Bucks vs. Magic",
+   "resultat": "Bucks",
+   "prix_trader": 0.21,
+   "retard_min": 5.3,
+   "token": "48074696314813262698581624953635964601397006684057307942783818663763718727011",
+   "prix_simule": 0.21,
+   "parts": 47.619,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 00:00 UTC"
+  },
+  "BreakTheBank|81092787916355665592794157366227202570920645256015454537805724390956787205140": {
+   "date": "2026-11-14 00:00 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Magic (-8.5)",
+   "resultat": "Bucks",
+   "prix_trader": 0.45,
+   "retard_min": 1.2,
+   "token": "81092787916355665592794157366227202570920645256015454537805724390956787205140",
+   "prix_simule": 0.46,
+   "parts": 21.7391,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 00:00 UTC"
   }
  },
  "fermees": [
