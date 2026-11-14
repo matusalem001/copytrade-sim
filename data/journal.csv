@@ -1598,3 +1598,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 02:45 UTC,BreakTheBank,ACHAT,Spread: Thunder (-6.5),Clippers,0.51,0.52,1.0,5.7,19.2308,10.0,,
 2026-11-14 02:45 UTC,primm,IGNORE,Florida State vs. Pittsburgh,Florida State,0.71,0.63,-8.0,6.0,,,,prix a trop chuté (match sans doute joué)
 2026-11-14 02:45 UTC,primm,IGNORE,Florida State vs. Pittsburgh,Florida State,0.71,0.63,-8.0,5.5,,,,prix a trop chuté (match sans doute joué)
+2026-11-14 02:50 UTC,BreakTheBank,IGNORE,Will Serbia win on 2026-11-13?,Yes,0.08,,,428.8,,,,vu trop tard
+2026-11-14 02:50 UTC,BreakTheBank,IGNORE,Will Serbia win on 2026-11-13?,Yes,0.08,,,427.4,,,,vu trop tard
+2026-11-14 02:50 UTC,primm,IGNORE,Spread: Louisiana (-6.5),Louisiana-Monroe,0.3,,,1353.5,,,,vu trop tard
+2026-11-14 02:50 UTC,primm,ACHAT,Illinois vs. UCLA: O/U 39.5,Over,0.62,0.63,1.0,3.8,15.873,10.0,,
+2026-11-14 02:50 UTC,primm,ACHAT,Spread: UCLA (-7.5),Illinois,0.41,0.46,5.0,2.8,21.7391,10.0,,
