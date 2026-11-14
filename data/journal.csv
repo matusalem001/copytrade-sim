@@ -1683,3 +1683,10 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 05:25 UTC,primm,ACHAT,Spread: Houston (-2.5),Colorado,0.34,0.61,27.0,5.9,16.3934,10.0,,
 2026-11-14 05:25 UTC,primm,ACHAT,Spread: Houston (-3.5),Colorado,0.41,0.69,28.0,5.9,14.4928,10.0,,
 2026-11-14 05:25 UTC,primm,IGNORE,Illinois vs. UCLA,Illinois,0.035,0.038,,0.8,,,,prix trop bas
+2026-11-14 05:30 UTC,primm,IGNORE,Illinois vs. UCLA,Illinois,0.025,0.027,,3.9,,,,prix trop bas
+2026-11-14 05:30 UTC,primm,IGNORE,Houston vs. Colorado: O/U 69.5,Over,0.7,0.62,-8.0,3.7,,,,prix a trop chuté (match sans doute joué)
+2026-11-14 05:30 UTC,primm,IGNORE,Illinois vs. UCLA,Illinois,0.025,0.027,,3.7,,,,prix trop bas
+2026-11-14 05:30 UTC,primm,IGNORE,Illinois vs. UCLA,Illinois,0.025,0.027,,3.6,,,,prix trop bas
+2026-11-14 05:30 UTC,primm,IGNORE,Houston vs. Colorado: O/U 75.5,Over,0.52,0.42,-10.0,2.4,,,,prix a trop chuté (match sans doute joué)
+2026-11-14 05:30 UTC,primm,IGNORE,Houston vs. Colorado: O/U 75.5,Over,0.5299,0.42,-11.0,2.4,,,,prix a trop chuté (match sans doute joué)
+2026-11-14 05:30 UTC,primm,IGNORE,Houston vs. Colorado: O/U 75.5,Over,0.52,0.42,-10.0,2.2,,,,prix a trop chuté (match sans doute joué)
