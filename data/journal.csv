@@ -2121,3 +2121,15 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 21:15 UTC,primm,REGLEMENT,Spread: Georgia Tech (-5.5),Georgia Tech,,0.36,,,27.7778,27.78,17.78,gagné
 2026-11-14 21:15 UTC,primm,REGLEMENT,Spread: Georgia Tech (-4.5),Georgia Tech,,0.38,,,26.3158,26.32,16.32,gagné
 2026-11-14 21:15 UTC,primm,REGLEMENT,Spread: Georgia Tech (-6.5),Georgia Tech,,0.34,,,29.4118,29.41,19.41,gagné
+2026-11-14 21:20 UTC,primm,IGNORE,Alabama vs. Vanderbilt: O/U 37.5,Under,0.79,,,51.6,,,,carnet indisponible
+2026-11-14 21:20 UTC,primm,REGLEMENT,Alabama vs. Vanderbilt: O/U 49.5,Under,,0.55,,,18.1818,18.18,8.18,gagné
+2026-11-14 21:20 UTC,primm,REGLEMENT,Spread: Alabama (-13.5),Vanderbilt,,0.43,,,23.2558,0.0,-10.0,perdu
+2026-11-14 21:20 UTC,primm,REGLEMENT,Spread: Alabama (-19.5),Vanderbilt,,0.59,,,16.9492,16.95,6.95,gagné
+2026-11-14 21:20 UTC,primm,REGLEMENT,Spread: Alabama (-7.5),Vanderbilt,,0.36,,,27.7778,0.0,-10.0,perdu
+2026-11-14 21:20 UTC,primm,REGLEMENT,Spread: Alabama (-10.5),Vanderbilt,,0.43,,,23.2558,0.0,-10.0,perdu
+2026-11-14 21:20 UTC,primm,REGLEMENT,Spread: Alabama (-9.5),Vanderbilt,,0.39,,,25.641,0.0,-10.0,perdu
+2026-11-14 21:20 UTC,primm,REGLEMENT,Spread: Alabama (-6.5),Vanderbilt,,0.3,,,33.3333,0.0,-10.0,perdu
+2026-11-14 21:20 UTC,primm,REGLEMENT,Spread: Alabama (-11.5),Vanderbilt,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-14 21:20 UTC,primm,REGLEMENT,Spread: Alabama (-17.5),Alabama,,0.53,,,18.8679,0.0,-10.0,perdu
+2026-11-14 21:20 UTC,primm,REGLEMENT,Alabama vs. Vanderbilt: O/U 37.5,Over,,0.6,,,16.6667,0.0,-10.0,perdu
+2026-11-14 21:20 UTC,primm,REGLEMENT,Alabama vs. Vanderbilt: O/U 37.5,Under,,0.83,,,12.0482,12.05,2.05,gagné
