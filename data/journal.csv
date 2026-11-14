@@ -1626,3 +1626,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 03:40 UTC,primm,ACHAT,Spread: Houston (-6.5),Colorado,0.4,0.42,2.0,3.1,23.8095,10.0,,
 2026-11-14 03:40 UTC,primm,ACHAT,Spread: UCLA (-6.5),Illinois,0.28,0.3,2.0,3.0,33.3333,10.0,,
 2026-11-14 03:40 UTC,primm,ACHAT,Illinois vs. UCLA: O/U 39.5,Under,0.74,0.79,5.0,2.9,12.6582,10.0,,
+2026-11-14 03:45 UTC,primm,IGNORE,Spread: Louisiana (-6.5),Louisiana-Monroe,0.3,,,1408.5,,,,vu trop tard
+2026-11-14 03:45 UTC,primm,IGNORE,Spread: Louisiana (-16.5),Louisiana-Monroe,0.26,,,1360.4,,,,vu trop tard
+2026-11-14 03:45 UTC,primm,ACHAT,Houston vs. Colorado: O/U 45.5,Under,0.4,0.45,5.0,4.9,22.2222,10.0,,
+2026-11-14 03:45 UTC,primm,ACHAT,Houston vs. Colorado: O/U 47.5,Under,0.46,0.5,4.0,4.9,20.0,10.0,,
+2026-11-14 03:45 UTC,primm,ACHAT,Houston vs. Colorado: O/U 49.5,Under,0.51,0.56,5.0,4.9,17.8571,10.0,,
