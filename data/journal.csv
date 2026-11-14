@@ -1823,3 +1823,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 14:45 UTC,primm,ACHAT,Spread: Kennesaw State (-7.5),Kennesaw State,0.49,0.5,1.0,4.8,20.0,10.0,,
 2026-11-14 14:45 UTC,primm,ACHAT,Spread: Kennesaw State (-13.5),Kennesaw State,0.37,0.39,2.0,4.8,25.641,10.0,,
 2026-11-14 14:50 UTC,BreakTheBank,IGNORE,Spread: Thunder (-6.5),Clippers,0.52,,,682.3,,,,vu trop tard
+2026-11-14 15:00 UTC,BreakTheBank,IGNORE,Spread: Thunder (-5.5),Clippers,0.48,,,692.4,,,,vu trop tard
+2026-11-14 15:00 UTC,primm,ACHAT,Florida International vs. Delaware: O/U 51.5,Over,0.57,0.58,1.0,1.4,17.2414,10.0,,
+2026-11-14 15:00 UTC,primm,ACHAT,Spread: Delaware (-3.5),Florida International,0.48,0.48,0.0,1.4,20.8333,10.0,,

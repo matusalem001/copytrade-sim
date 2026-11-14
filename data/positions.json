@@ -571,6 +571,32 @@
    "parts": 25.641,
    "montant": 10.0,
    "ouvert_le": "2026-11-14 14:45 UTC"
+  },
+  "primm|42594915119842347619702577090404632830499388604374585960262001647245590843231": {
+   "date": "2026-11-14 15:00 UTC",
+   "trader": "primm",
+   "marche": "Florida International vs. Delaware: O/U 51.5",
+   "resultat": "Over",
+   "prix_trader": 0.57,
+   "retard_min": 1.4,
+   "token": "42594915119842347619702577090404632830499388604374585960262001647245590843231",
+   "prix_simule": 0.58,
+   "parts": 17.2414,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 15:00 UTC"
+  },
+  "primm|78072926685520393147835661835843762317923232625217428887047963466235958325962": {
+   "date": "2026-11-14 15:00 UTC",
+   "trader": "primm",
+   "marche": "Spread: Delaware (-3.5)",
+   "resultat": "Florida International",
+   "prix_trader": 0.48,
+   "retard_min": 1.4,
+   "token": "78072926685520393147835661835843762317923232625217428887047963466235958325962",
+   "prix_simule": 0.48,
+   "parts": 20.8333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 15:00 UTC"
   }
  },
  "fermees": [
