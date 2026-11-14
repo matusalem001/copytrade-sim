@@ -2025,3 +2025,39 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 20:46 UTC,primm,REGLEMENT,Spread: Ohio State (-4.5),Northwestern,,0.33,,,30.303,0.0,-10.0,perdu
 2026-11-14 20:46 UTC,primm,REGLEMENT,Northwestern vs. Ohio State: O/U 45.5,Under,,0.68,,,14.7059,0.0,-10.0,perdu
 2026-11-14 20:46 UTC,primm,REGLEMENT,Northwestern vs. Ohio State,Northwestern,,0.08,,,125.0,0.0,-10.0,perdu
+2026-11-14 20:50 UTC,primm,IGNORE,Syracuse vs. NC State: O/U 35.5,Over,0.62,,,153.0,,,,vu trop tard
+2026-11-14 20:50 UTC,primm,ACHAT,Michigan vs. Oregon: O/U 43.5,Over,0.58,0.59,1.0,3.4,16.9492,10.0,,
+2026-11-14 20:50 UTC,primm,ACHAT,Michigan vs. Oregon: O/U 45.5,Over,0.48,0.51,3.0,3.2,19.6078,10.0,,
+2026-11-14 20:50 UTC,primm,REGLEMENT,Wake Forest vs. SMU: O/U 59.5,Under,,0.49,,,20.4082,20.41,10.41,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Northwestern vs. Ohio State: O/U 47.5,Over,,0.45,,,22.2222,0.0,-10.0,perdu
+2026-11-14 20:50 UTC,primm,REGLEMENT,Spread: Wisconsin (-5.5),Maryland,,0.41,,,24.3902,24.39,14.39,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Spread: Wisconsin (-7.5),Maryland,,0.49,,,20.4082,20.41,10.41,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Spread: Wisconsin (-4.5),Maryland,,0.4,,,25.0,25.0,15.0,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Wisconsin vs. Maryland: O/U 43.5,Over,,0.44,,,22.7273,22.73,12.73,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Spread: Wisconsin (-6.5),Maryland,,0.42,,,23.8095,23.81,13.81,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Spread: SMU (-2.5),Wake Forest,,0.51,,,19.6078,19.61,9.61,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Spread: SMU (-1.5),Wake Forest,,0.48,,,20.8333,20.83,10.83,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Wake Forest vs. SMU,Wake Forest,,0.45,,,22.2222,22.22,12.22,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Wisconsin vs. Maryland,Maryland,,0.25,,,40.0,40.0,30.0,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Spread: Wisconsin (-10.5),Maryland,,0.55,,,18.1818,18.18,8.18,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Spread: Wake Forest (-1.5),Wake Forest,,0.62,,,16.129,16.13,6.13,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Spread: Wisconsin (-13.5),Maryland,,0.47,,,21.2766,21.28,11.28,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Wake Forest vs. SMU: O/U 71.5,Under,,0.69,,,14.4928,14.49,4.49,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Wake Forest vs. SMU: O/U 65.5,Under,,0.55,,,18.1818,18.18,8.18,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Spread: Ohio State (-14.5),Northwestern,,0.62,,,16.129,16.13,6.13,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Spread: Ohio State (-10.5),Northwestern,,0.52,,,19.2308,19.23,9.23,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Spread: Ohio State (-7.5),Northwestern,,0.45,,,22.2222,0.0,-10.0,perdu
+2026-11-14 20:50 UTC,primm,REGLEMENT,James Madison vs. UConn,UConn,,0.31,,,32.2581,32.26,22.26,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Spread: Wake Forest (-5.5),Wake Forest,,0.66,,,15.1515,15.15,5.15,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Spread: Wake Forest (-4.5),Wake Forest,,0.69,,,14.4928,14.49,4.49,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Spread: Wake Forest (-7.5),Wake Forest,,0.57,,,17.5439,17.54,7.54,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Spread: Wake Forest (-13.5),Wake Forest,,0.46,,,21.7391,21.74,11.74,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Spread: Wake Forest (-10.5),Wake Forest,,0.55,,,18.1818,18.18,8.18,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Wake Forest vs. SMU: O/U 61.5,Under,,0.43,,,23.2558,23.26,13.26,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Spread: Wake Forest (-14.5),Wake Forest,,0.56,,,17.8571,17.86,7.86,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Spread: Wake Forest (-17.5),Wake Forest,,0.49,,,20.4082,20.41,10.41,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Spread: Wake Forest (-20.5),Wake Forest,,0.42,,,23.8095,23.81,13.81,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Spread: Wake Forest (-16.5),Wake Forest,,0.52,,,19.2308,19.23,9.23,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Spread: Ohio State (-14.5),Ohio State,,0.49,,,20.4082,0.0,-10.0,perdu
+2026-11-14 20:50 UTC,primm,REGLEMENT,Spread: Wisconsin (-3.5),Maryland,,0.4,,,25.0,25.0,15.0,gagné
+2026-11-14 20:50 UTC,primm,REGLEMENT,Spread: Wisconsin (-2.5),Maryland,,0.3,,,33.3333,33.33,23.33,gagné
