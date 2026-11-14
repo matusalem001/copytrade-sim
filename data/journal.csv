@@ -1676,3 +1676,10 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 05:10 UTC,primm,IGNORE,Florida State vs. Pittsburgh,Florida State,0.7,,,124.5,,,,vu trop tard
 2026-11-14 05:10 UTC,primm,ACHAT,Spread: UCLA (-4.5),Illinois,0.25,0.27,2.0,0.2,37.037,10.0,,
 2026-11-14 05:15 UTC,primm,IGNORE,Spread: Pittsburgh (-2.5),Pittsburgh,0.28,,,189.7,,,,vu trop tard
+2026-11-14 05:25 UTC,primm,IGNORE,Houston vs. Colorado: O/U 69.5,Under,0.45,0.3,-15.0,5.9,,,,prix a trop chuté (match sans doute joué)
+2026-11-14 05:25 UTC,primm,ACHAT,Spread: Houston (-1.5),Colorado,0.3,0.58,28.0,5.9,17.2414,10.0,,
+2026-11-14 05:25 UTC,primm,ACHAT,Houston vs. Colorado,Colorado,0.26,0.51,25.0,5.9,19.6078,10.0,,
+2026-11-14 05:25 UTC,primm,ACHAT,Spread: Houston (-4.5),Colorado,0.44,0.71,27.0,5.9,14.0845,10.0,,
+2026-11-14 05:25 UTC,primm,ACHAT,Spread: Houston (-2.5),Colorado,0.34,0.61,27.0,5.9,16.3934,10.0,,
+2026-11-14 05:25 UTC,primm,ACHAT,Spread: Houston (-3.5),Colorado,0.41,0.69,28.0,5.9,14.4928,10.0,,
+2026-11-14 05:25 UTC,primm,IGNORE,Illinois vs. UCLA,Illinois,0.035,0.038,,0.8,,,,prix trop bas
