@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 22:45 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 22:50 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 156 | 159 | 132 | 71 | +99.83 $ | +7.6 % | 24 | +1.4 ¢ | 9 min |
-| primm | 768 | 278 | 676 | 355 | +342.69 $ | +5.1 % | 92 | +3.3 ¢ | 4 min |
+| BreakTheBank | 156 | 159 | 133 | 71 | +89.83 $ | +6.8 % | 23 | +1.4 ¢ | 9 min |
+| primm | 772 | 279 | 676 | 355 | +342.69 $ | +5.1 % | 96 | +3.3 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 12 | 5 | -32.41 $ | -27.0 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : +410.10 $ sur 8200 $ engagés (+5.0 %)**
+**Total réalisé : +400.10 $ sur 8210 $ engagés (+4.9 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 22:45 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | LoL: Bilibili Gaming vs Gen.G - Game 1 Winner | Bilibili Gaming | 0.43 | 0.00 | -10.00 $ |
 | primm | Spread: Kennesaw State (-14.5) | Kennesaw State | 0.55 | 1.00 | +8.18 $ |
 | primm | Spread: Kennesaw State (-16.5) | Kennesaw State | 0.51 | 1.00 | +9.61 $ |
 | primm | Spread: Kennesaw State (-17.5) | Kennesaw State | 0.43 | 1.00 | +13.26 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-14 22:45 UTC** 
 | primm | Spread: Alabama (-13.5) | Vanderbilt | 0.43 | 0.00 | -10.00 $ |
 | primm | Alabama vs. Vanderbilt: O/U 49.5 | Under | 0.55 | 1.00 | +8.18 $ |
 | primm | Spread: Georgia Tech (-6.5) | Georgia Tech | 0.34 | 1.00 | +19.41 $ |
-| primm | Spread: Georgia Tech (-4.5) | Georgia Tech | 0.38 | 1.00 | +16.32 $ |
 
 Journal complet : `data/journal.csv`

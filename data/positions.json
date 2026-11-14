@@ -728,19 +728,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-14 19:30 UTC"
   },
-  "BreakTheBank|114327819279418864132873617241212978640507552479014150599746788815851538352960": {
-   "date": "2026-11-14 19:30 UTC",
-   "trader": "BreakTheBank",
-   "marche": "LoL: Bilibili Gaming vs Gen.G - Game 1 Winner",
-   "resultat": "Bilibili Gaming",
-   "prix_trader": 0.42,
-   "retard_min": 3.6,
-   "token": "114327819279418864132873617241212978640507552479014150599746788815851538352960",
-   "prix_simule": 0.43,
-   "parts": 23.2558,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-14 19:30 UTC"
-  },
   "BreakTheBank|31252205710215488531584623663210692647425915766892642513214798034330606387680": {
    "date": "2026-11-14 19:40 UTC",
    "trader": "BreakTheBank",
@@ -1507,6 +1494,58 @@
    "parts": 18.1818,
    "montant": 10.0,
    "ouvert_le": "2026-11-14 22:45 UTC"
+  },
+  "primm|70219017375913309910934137755133924999616821247825229009667481320828871618408": {
+   "date": "2026-11-14 22:50 UTC",
+   "trader": "primm",
+   "marche": "Spread: Texas State (-6.5)",
+   "resultat": "Fresno State",
+   "prix_trader": 0.32,
+   "retard_min": 2.9,
+   "token": "70219017375913309910934137755133924999616821247825229009667481320828871618408",
+   "prix_simule": 0.33,
+   "parts": 30.303,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 22:50 UTC"
+  },
+  "primm|88643687628100902013682480247154012786528536198614189187927217631512586770099": {
+   "date": "2026-11-14 22:50 UTC",
+   "trader": "primm",
+   "marche": "Arizona State vs. UCF: O/U 37.5",
+   "resultat": "Over",
+   "prix_trader": 0.6,
+   "retard_min": 1.0,
+   "token": "88643687628100902013682480247154012786528536198614189187927217631512586770099",
+   "prix_simule": 0.61,
+   "parts": 16.3934,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 22:50 UTC"
+  },
+  "primm|38363985470741143081782234252586797906766052500119242796661751654904219092400": {
+   "date": "2026-11-14 22:50 UTC",
+   "trader": "primm",
+   "marche": "Spread: Auburn (-16.5)",
+   "resultat": "Mississippi State",
+   "prix_trader": 0.46,
+   "retard_min": 0.2,
+   "token": "38363985470741143081782234252586797906766052500119242796661751654904219092400",
+   "prix_simule": 0.58,
+   "parts": 17.2414,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 22:50 UTC"
+  },
+  "primm|87355583295466543741374198657559133846492717475962822912153319746435787755584": {
+   "date": "2026-11-14 22:50 UTC",
+   "trader": "primm",
+   "marche": "Spread: Auburn (-17.5)",
+   "resultat": "Mississippi State",
+   "prix_trader": 0.51,
+   "retard_min": 0.2,
+   "token": "87355583295466543741374198657559133846492717475962822912153319746435787755584",
+   "prix_simule": 0.7,
+   "parts": 14.2857,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 22:50 UTC"
   }
  },
  "fermees": [
@@ -15449,6 +15488,23 @@
    "pnl": 8.1818,
    "ferme_le": "2026-11-14 22:35 UTC",
    "type": "gagné"
+  },
+  {
+   "date": "2026-11-14 19:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "LoL: Bilibili Gaming vs Gen.G - Game 1 Winner",
+   "resultat": "Bilibili Gaming",
+   "prix_trader": 0.42,
+   "retard_min": 3.6,
+   "token": "114327819279418864132873617241212978640507552479014150599746788815851538352960",
+   "prix_simule": 0.43,
+   "parts": 23.2558,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 19:30 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-14 22:50 UTC",
+   "type": "perdu"
   }
  ]
 }

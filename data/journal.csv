@@ -2194,3 +2194,9 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 22:45 UTC,primm,ACHAT,Appalachian State vs. Marshall: O/U 55.5,Over,0.46,0.47,1.0,1.9,21.2766,10.0,,
 2026-11-14 22:45 UTC,primm,ACHAT,Spread: Appalachian State (-1.5),Appalachian State,0.47,0.47,0.0,1.7,21.2766,10.0,,
 2026-11-14 22:45 UTC,primm,ACHAT,Spread: Marshall (-2.5),Appalachian State,0.54,0.55,1.0,1.7,18.1818,10.0,,
+2026-11-14 22:50 UTC,primm,IGNORE,USC vs. Indiana,Indiana,0.69,0.61,-8.0,3.1,,,,prix a trop chuté (match sans doute joué)
+2026-11-14 22:50 UTC,primm,ACHAT,Spread: Texas State (-6.5),Fresno State,0.32,0.33,1.0,2.9,30.303,10.0,,
+2026-11-14 22:50 UTC,primm,ACHAT,Arizona State vs. UCF: O/U 37.5,Over,0.6,0.61,1.0,1.0,16.3934,10.0,,
+2026-11-14 22:50 UTC,primm,ACHAT,Spread: Auburn (-16.5),Mississippi State,0.46,0.58,12.0,0.2,17.2414,10.0,,
+2026-11-14 22:50 UTC,primm,ACHAT,Spread: Auburn (-17.5),Mississippi State,0.51,0.7,19.0,0.2,14.2857,10.0,,
+2026-11-14 22:50 UTC,BreakTheBank,REGLEMENT,LoL: Bilibili Gaming vs Gen.G - Game 1 Winner,Bilibili Gaming,,0.43,,,23.2558,0.0,-10.0,perdu
