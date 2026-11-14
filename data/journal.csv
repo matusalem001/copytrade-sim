@@ -1888,3 +1888,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 17:15 UTC,primm,ACHAT,Wake Forest vs. SMU: O/U 71.5,Under,0.7,0.69,-1.0,3.8,14.4928,10.0,,
 2026-11-14 17:15 UTC,primm,ACHAT,Wake Forest vs. SMU: O/U 65.5,Under,0.56,0.55,-1.0,3.8,18.1818,10.0,,
 2026-11-14 17:15 UTC,primm,IGNORE,Spread: Miami (FL) (-16.5),Miami (FL),0.46,0.41,-5.0,2.3,,,,prix a trop chuté (match sans doute joué)
+2026-11-14 17:20 UTC,primm,IGNORE,Houston vs. Colorado: O/U 75.5,Under,0.67,,,701.8,,,,vu trop tard
