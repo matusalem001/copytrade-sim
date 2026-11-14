@@ -1575,3 +1575,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 01:15 UTC,primm,IGNORE,Spread: Toledo (-24.5),UMass,0.51,,,2752.2,,,,vu trop tard
 2026-11-14 01:15 UTC,primm,IGNORE,Spread: Buffalo (-3.5),Ball State,0.3,,,2750.0,,,,vu trop tard
 2026-11-14 01:15 UTC,primm,IGNORE,Memphis vs. South Florida: O/U 51.5,Under,0.38,,,1376.7,,,,vu trop tard
+2026-11-14 01:20 UTC,BreakTheBank,IGNORE,Will Serbia win on 2026-11-13?,Yes,0.08,,,347.8,,,,vu trop tard
