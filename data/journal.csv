@@ -2259,3 +2259,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 23:45 UTC,primm,IGNORE,Spread: Texas A&M (-1.5),Texas A&M,0.47,,,109.3,,,,vu trop tard
 2026-11-14 23:45 UTC,primm,ACHAT,Spread: Kentucky (-10.5),Florida,0.6,0.6,0.0,3.4,16.6667,10.0,,
 2026-11-14 23:50 UTC,primm,ACHAT,Spread: Boise State (-16.5),Boise State,0.56,0.64,8.0,3.0,15.625,10.0,,
+2026-11-14 23:55 UTC,primm,ACHAT,Spread: Boise State (-20.5),Oregon State,0.48,0.55,7.0,5.6,18.1818,10.0,,
+2026-11-14 23:55 UTC,primm,ACHAT,Spread: Boise State (-21.5),Oregon State,0.53,0.57,4.0,4.7,17.5439,10.0,,
+2026-11-14 23:55 UTC,primm,ACHAT,Arizona State vs. UCF: O/U 43.5,Over,0.52,0.54,2.0,0.8,18.5185,10.0,,
