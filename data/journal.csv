@@ -2161,3 +2161,11 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 21:50 UTC,primm,ACHAT,Spread: Oregon (-7.5),Michigan,0.36,0.37,1.0,4.6,27.027,10.0,,
 2026-11-14 21:50 UTC,primm,ACHAT,Spread: Oregon (-10.5),Michigan,0.47,0.47,0.0,3.9,21.2766,10.0,,
 2026-11-14 21:50 UTC,primm,ACHAT,Spread: Oregon (-6.5),Michigan,0.29,0.28,-1.0,3.8,35.7143,10.0,,
+2026-11-14 21:55 UTC,primm,IGNORE,Alabama vs. Vanderbilt: O/U 37.5,Over,0.59,,,125.5,,,,vu trop tard
+2026-11-14 21:55 UTC,primm,ACHAT,Spread: Indiana (-16.5),Indiana,0.38,0.33,-5.0,5.7,30.303,10.0,,
+2026-11-14 21:55 UTC,primm,IGNORE,Spread: Texas A&M (-2.5),Texas A&M,0.47,0.4,-7.0,3.2,,,,prix a trop chuté (match sans doute joué)
+2026-11-14 21:55 UTC,primm,IGNORE,Spread: Texas A&M (-2.5),Texas A&M,0.48,0.4,-8.0,2.9,,,,prix a trop chuté (match sans doute joué)
+2026-11-14 21:55 UTC,primm,IGNORE,Spread: Texas A&M (-2.5),Texas A&M,0.48,0.4,-8.0,1.6,,,,prix a trop chuté (match sans doute joué)
+2026-11-14 21:55 UTC,primm,ACHAT,Spread: Auburn (-13.5),Auburn,0.38,0.53,15.0,0.8,18.8679,10.0,,
+2026-11-14 21:55 UTC,primm,IGNORE,Spread: Texas A&M (-2.5),Texas A&M,0.46,0.4,-6.0,0.8,,,,prix a trop chuté (match sans doute joué)
+2026-11-14 21:55 UTC,primm,ACHAT,Spread: Texas A&M (-3.5),Texas A&M,0.41,0.37,-4.0,0.8,27.027,10.0,,
