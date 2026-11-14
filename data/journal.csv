@@ -1868,3 +1868,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 16:35 UTC,primm,ACHAT,Spread: Wisconsin (-4.5),Maryland,0.38,0.4,2.0,4.0,25.0,10.0,,
 2026-11-14 16:35 UTC,primm,ACHAT,Wisconsin vs. Maryland: O/U 43.5,Over,0.43,0.44,1.0,4.0,22.7273,10.0,,
 2026-11-14 16:35 UTC,primm,ACHAT,Cincinnati vs. Iowa State: O/U 53.5,Under,0.37,0.4,3.0,3.3,25.0,10.0,,
+2026-11-14 16:50 UTC,primm,ACHAT,Wisconsin vs. Maryland: O/U 35.5,Over,0.66,0.67,1.0,3.0,14.9254,10.0,,
