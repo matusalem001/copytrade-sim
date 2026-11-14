@@ -1975,3 +1975,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 19:50 UTC,primm,ACHAT,Spread: Alabama (-17.5),Alabama,0.52,0.53,1.0,0.8,18.8679,10.0,,
 2026-11-14 19:50 UTC,primm,ACHAT,Alabama vs. Vanderbilt: O/U 37.5,Over,0.59,0.6,1.0,0.7,16.6667,10.0,,
 2026-11-14 19:50 UTC,primm,ACHAT,Syracuse vs. NC State: O/U 55.5,Over,0.6598,0.66,0.0,0.6,15.1515,10.0,,
+2026-11-14 19:55 UTC,primm,REGLEMENT,Syracuse vs. NC State: O/U 47.5,Over,,0.26,,,38.4615,38.46,28.46,gagné
+2026-11-14 19:55 UTC,primm,REGLEMENT,Syracuse vs. NC State: O/U 41.5,Over,,0.44,,,22.7273,22.73,12.73,gagné

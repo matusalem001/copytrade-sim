@@ -1872,32 +1872,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-14 18:05 UTC"
   },
-  "primm|102994386030903534065187374214895011693721271781653660421897110823977936966545": {
-   "date": "2026-11-14 18:10 UTC",
-   "trader": "primm",
-   "marche": "Syracuse vs. NC State: O/U 47.5",
-   "resultat": "Over",
-   "prix_trader": 0.27,
-   "retard_min": 3.9,
-   "token": "102994386030903534065187374214895011693721271781653660421897110823977936966545",
-   "prix_simule": 0.26,
-   "parts": 38.4615,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-14 18:10 UTC"
-  },
-  "primm|55190229838737062462567241534608840895207407519186180931666081939152303179091": {
-   "date": "2026-11-14 18:10 UTC",
-   "trader": "primm",
-   "marche": "Syracuse vs. NC State: O/U 41.5",
-   "resultat": "Over",
-   "prix_trader": 0.44,
-   "retard_min": 3.8,
-   "token": "55190229838737062462567241534608840895207407519186180931666081939152303179091",
-   "prix_simule": 0.44,
-   "parts": 22.7273,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-14 18:10 UTC"
-  },
   "primm|50333591658834993556160014382470100342444012263019298481377379814268563202300": {
    "date": "2026-11-14 18:10 UTC",
    "trader": "primm",
@@ -14132,6 +14106,40 @@
    "sortie": 1.0,
    "pnl": 3.8889,
    "ferme_le": "2026-11-14 19:35 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-14 18:10 UTC",
+   "trader": "primm",
+   "marche": "Syracuse vs. NC State: O/U 47.5",
+   "resultat": "Over",
+   "prix_trader": 0.27,
+   "retard_min": 3.9,
+   "token": "102994386030903534065187374214895011693721271781653660421897110823977936966545",
+   "prix_simule": 0.26,
+   "parts": 38.4615,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 18:10 UTC",
+   "sortie": 1.0,
+   "pnl": 28.4615,
+   "ferme_le": "2026-11-14 19:55 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-14 18:10 UTC",
+   "trader": "primm",
+   "marche": "Syracuse vs. NC State: O/U 41.5",
+   "resultat": "Over",
+   "prix_trader": 0.44,
+   "retard_min": 3.8,
+   "token": "55190229838737062462567241534608840895207407519186180931666081939152303179091",
+   "prix_simule": 0.44,
+   "parts": 22.7273,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 18:10 UTC",
+   "sortie": 1.0,
+   "pnl": 12.7273,
+   "ferme_le": "2026-11-14 19:55 UTC",
    "type": "gagné"
   }
  ]
