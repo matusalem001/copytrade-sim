@@ -1880,3 +1880,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 17:05 UTC,primm,ACHAT,Wisconsin vs. Maryland,Maryland,0.26,0.25,-1.0,0.4,40.0,10.0,,
 2026-11-14 17:05 UTC,primm,ACHAT,Spread: Wisconsin (-10.5),Maryland,0.56,0.55,-1.0,0.4,18.1818,10.0,,
 2026-11-14 17:05 UTC,primm,ACHAT,Kansas vs. West Virginia,West Virginia,0.54,0.55,1.0,0.4,18.1818,10.0,,
+2026-11-14 17:10 UTC,primm,ACHAT,Spread: West Virginia (-2.5),West Virginia,0.49,0.5,1.0,4.9,20.0,10.0,,
+2026-11-14 17:10 UTC,primm,ACHAT,Spread: Wake Forest (-1.5),Wake Forest,0.51,0.62,11.0,3.1,16.129,10.0,,
+2026-11-14 17:10 UTC,primm,ACHAT,Spread: Wisconsin (-13.5),Maryland,0.51,0.47,-4.0,1.9,21.2766,10.0,,
