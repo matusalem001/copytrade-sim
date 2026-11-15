@@ -3283,3 +3283,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 22:15 UTC,primm,ACHAT,Spread: Raiders (-3.5),Raiders,0.31,0.33,2.0,8.8,30.303,10.0,,
 2026-11-15 22:15 UTC,primm,ACHAT,Spread: Raiders (-4.5),Raiders,0.29,0.31,2.0,8.8,32.2581,10.0,,
 2026-11-15 22:15 UTC,primm,IGNORE,Spread: Rams (-2.5),Cardinals,0.31,0.25,-6.0,6.2,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 22:20 UTC,primm,IGNORE,Bills vs. Jets: O/U 46.5,Under,0.51,,,113.5,,,,vu trop tard
+2026-11-15 22:20 UTC,primm,ACHAT,Rams vs. Cardinals: O/U 32.5,Over,0.59,0.62,3.0,4.8,16.129,10.0,,
