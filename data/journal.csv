@@ -3288,3 +3288,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 22:25 UTC,BreakTheBank,ACHAT,Spread: Seahawks (-2.5),Seahawks,0.46,0.47,1.0,2.6,21.2766,10.0,,
 2026-11-15 22:25 UTC,primm,ACHAT,Seahawks vs. Raiders: O/U 28.5,Under,0.139,0.14,0.1,3.7,71.4286,10.0,,
 2026-11-15 22:25 UTC,primm,ACHAT,Spread: 49ers (-2.5),Cowboys,0.41,0.42,1.0,1.5,23.8095,10.0,,
+2026-11-15 22:30 UTC,BreakTheBank,ACHAT,Seahawks vs. Raiders,Seahawks,0.53,0.55,2.0,6.1,18.1818,10.0,,
+2026-11-15 22:30 UTC,primm,ACHAT,Rams vs. Cardinals: O/U 38.5,Over,0.44,0.65,21.0,4.4,15.3846,10.0,,

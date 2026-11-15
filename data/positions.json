@@ -623,6 +623,32 @@
    "parts": 23.8095,
    "montant": 10.0,
    "ouvert_le": "2026-11-15 22:25 UTC"
+  },
+  "BreakTheBank|1339463723260226502438923715546767332463073367564908774776926562714272325194": {
+   "date": "2026-11-15 22:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Seahawks vs. Raiders",
+   "resultat": "Seahawks",
+   "prix_trader": 0.53,
+   "retard_min": 6.1,
+   "token": "1339463723260226502438923715546767332463073367564908774776926562714272325194",
+   "prix_simule": 0.55,
+   "parts": 18.1818,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 22:30 UTC"
+  },
+  "primm|84956134810418605852553577041811006484584338395991622159350019293097686309719": {
+   "date": "2026-11-15 22:30 UTC",
+   "trader": "primm",
+   "marche": "Rams vs. Cardinals: O/U 38.5",
+   "resultat": "Over",
+   "prix_trader": 0.44,
+   "retard_min": 4.4,
+   "token": "84956134810418605852553577041811006484584338395991622159350019293097686309719",
+   "prix_simule": 0.65,
+   "parts": 15.3846,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 22:30 UTC"
   }
  },
  "fermees": [
