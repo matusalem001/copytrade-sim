@@ -2576,3 +2576,9 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 03:15 UTC,primm,ACHAT,Spread: UTSA (-4.5),North Texas,0.47,0.47,0.0,4.9,21.2766,10.0,,
 2026-11-15 03:15 UTC,primm,ACHAT,North Texas vs. UTSA: O/U 67.5,Under,0.47,0.51,4.0,4.8,19.6078,10.0,,
 2026-11-15 03:20 UTC,primm,IGNORE,Spread: Florida (-6.5),Kentucky,0.47,,,70.2,,,,vu trop tard
+2026-11-15 03:25 UTC,primm,ACHAT,Wyoming vs. UTEP: O/U 41.5,Under,0.58,0.62,4.0,5.6,16.129,10.0,,
+2026-11-15 03:25 UTC,primm,IGNORE,Spread: Louisville (-1.5),North Carolina,0.37,0.01,-36.0,5.5,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 03:25 UTC,primm,IGNORE,Spread: Louisville (-1.5),North Carolina,0.36,0.01,-35.0,5.4,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 03:25 UTC,primm,IGNORE,Spread: Louisville (-1.5),North Carolina,0.3786,0.01,-36.9,5.4,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 03:25 UTC,primm,ACHAT,North Texas vs. UTSA: O/U 73.5,Under,0.72,0.81,9.0,3.0,12.3457,10.0,,
+2026-11-15 03:25 UTC,primm,ACHAT,Utah vs. Arizona: O/U 57.5,Over,0.47,0.48,1.0,0.3,20.8333,10.0,,
