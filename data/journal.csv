@@ -3001,3 +3001,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 16:00 UTC,primm,IGNORE,Utah vs. Arizona,Arizona,0.44,,,535.4,,,,vu trop tard
 2026-11-15 16:05 UTC,BreakTheBank,IGNORE,"UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",Ciryl Gane,0.67,,,649.8,,,,vu trop tard
 2026-11-15 16:10 UTC,primm,ACHAT,Rams vs. Cardinals: O/U 38.5,Under,0.5,0.5,0.0,4.7,20.0,10.0,,
+2026-11-15 16:15 UTC,BreakTheBank,IGNORE,"UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",Ciryl Gane,0.68,,,659.1,,,,vu trop tard
+2026-11-15 16:15 UTC,BreakTheBank,ACHAT,Spread: Jaguars (-9.5),Titans,0.45,0.46,1.0,4.9,21.7391,10.0,,
