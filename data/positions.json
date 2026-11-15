@@ -740,6 +740,45 @@
    "parts": 14.9254,
    "montant": 10.0,
    "ouvert_le": "2026-11-15 16:45 UTC"
+  },
+  "BreakTheBank|42721610244564296788563374470106740150496523849326524601607248004218643729977": {
+   "date": "2026-11-15 16:55 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Packers (-4.5)",
+   "resultat": "Vikings",
+   "prix_trader": 0.6,
+   "retard_min": 6.6,
+   "token": "42721610244564296788563374470106740150496523849326524601607248004218643729977",
+   "prix_simule": 0.61,
+   "parts": 16.3934,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 16:55 UTC"
+  },
+  "BreakTheBank|28667218843691669017086048311908085542804543648984135990176868056044534078144": {
+   "date": "2026-11-15 16:55 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Rams (-10.5)",
+   "resultat": "Rams",
+   "prix_trader": 0.47,
+   "retard_min": 5.9,
+   "token": "28667218843691669017086048311908085542804543648984135990176868056044534078144",
+   "prix_simule": 0.48,
+   "parts": 20.8333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 16:55 UTC"
+  },
+  "BreakTheBank|110131593576275004236591805383837292207187321039007496006723163139690620139180": {
+   "date": "2026-11-15 16:55 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Colts (-4.5)",
+   "resultat": "Colts",
+   "prix_trader": 0.5,
+   "retard_min": 3.7,
+   "token": "110131593576275004236591805383837292207187321039007496006723163139690620139180",
+   "prix_simule": 0.51,
+   "parts": 19.6078,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 16:55 UTC"
   }
  },
  "fermees": [
