@@ -2890,3 +2890,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 12:40 UTC,juice-fruit,ACHAT,"ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Rafael Jodar",Rafael Jodar,0.29,0.3,1.0,4.3,33.3333,10.0,,
 2026-11-15 13:50 UTC,BreakTheBank,VENTE,Will San Antonio Spurs win the 2027 NBA Finals?,Yes,0.24,0.22,,3.7,45.4545,10.0,-0.0,
 2026-11-15 13:55 UTC,BreakTheBank,IGNORE,"UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",Ciryl Gane,0.67,,,522.4,,,,vu trop tard
+2026-11-15 14:10 UTC,BreakTheBank,ACHAT,Patriots vs. Lions,Lions,0.58,0.59,1.0,8.7,16.9492,10.0,,

@@ -129,6 +129,19 @@
    "parts": 33.3333,
    "montant": 10.0,
    "ouvert_le": "2026-11-15 12:40 UTC"
+  },
+  "BreakTheBank|81257186747832054157920523116773359776964241594169856122985483596324692888690": {
+   "date": "2026-11-15 14:10 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Patriots vs. Lions",
+   "resultat": "Lions",
+   "prix_trader": 0.58,
+   "retard_min": 8.7,
+   "token": "81257186747832054157920523116773359776964241594169856122985483596324692888690",
+   "prix_simule": 0.59,
+   "parts": 16.9492,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 14:10 UTC"
   }
  },
  "fermees": [
