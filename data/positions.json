@@ -129,6 +129,19 @@
    "parts": 27.7778,
    "montant": 10.0,
    "ouvert_le": "2026-11-15 03:10 UTC"
+  },
+  "juice-fruit|81774142923285127435442518708438741727685454174555521035836032024831099817823": {
+   "date": "2026-11-15 12:40 UTC",
+   "trader": "juice-fruit",
+   "marche": "ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Rafael Jodar",
+   "resultat": "Rafael Jodar",
+   "prix_trader": 0.29,
+   "retard_min": 4.3,
+   "token": "81774142923285127435442518708438741727685454174555521035836032024831099817823",
+   "prix_simule": 0.3,
+   "parts": 33.3333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 12:40 UTC"
   }
  },
  "fermees": [
