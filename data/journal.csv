@@ -2654,3 +2654,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 04:01 UTC,primm,REGLEMENT,Stanford vs. Virginia Tech: O/U 47.5,Over,,0.6,,,16.6667,16.67,6.67,gagné
 2026-11-15 04:01 UTC,primm,REGLEMENT,Spread: Iowa (-21.5),Purdue,,0.47,,,21.2766,21.28,11.28,gagné
 2026-11-15 04:01 UTC,primm,REGLEMENT,Purdue vs. Iowa: O/U 47.5,Over,,0.66,,,15.1515,0.0,-10.0,perdu
+2026-11-15 04:05 UTC,BreakTheBank,IGNORE,"UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card)",Kevin Holland,0.39,,,58.1,,,,carnet indisponible
+2026-11-15 04:05 UTC,primm,IGNORE,Spread: Louisville (-3.5),North Carolina,0.43,,,102.7,,,,vu trop tard
+2026-11-15 04:05 UTC,primm,REGLEMENT,Stanford vs. Virginia Tech: O/U 53.5,Over,,0.55,,,18.1818,18.18,8.18,gagné
