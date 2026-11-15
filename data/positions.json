@@ -1598,6 +1598,19 @@
    "parts": 16.3934,
    "montant": 10.0,
    "ouvert_le": "2026-11-15 03:50 UTC"
+  },
+  "primm|105527619971264634901796948677710170245342270083071145103774746902115839347951": {
+   "date": "2026-11-15 03:55 UTC",
+   "trader": "primm",
+   "marche": "Colorado State vs. Washington State: O/U 57.5",
+   "resultat": "Over",
+   "prix_trader": 0.57,
+   "retard_min": 1.2,
+   "token": "105527619971264634901796948677710170245342270083071145103774746902115839347951",
+   "prix_simule": 0.66,
+   "parts": 15.1515,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 03:55 UTC"
   }
  },
  "fermees": [
