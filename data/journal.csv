@@ -2633,3 +2633,24 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 03:52 UTC,primm,IGNORE,Spread: Texas Tech (-3.5),Oklahoma State,0.59,,,65.2,,,,vu trop tard
 2026-11-15 03:55 UTC,primm,IGNORE,Spread: Wyoming (-7.5),UTEP,0.51,0.38,-13.0,6.2,,,,prix a trop chuté (match sans doute joué)
 2026-11-15 03:55 UTC,primm,ACHAT,Colorado State vs. Washington State: O/U 57.5,Over,0.57,0.66,9.0,1.2,15.1515,10.0,,
+2026-11-15 04:00 UTC,primm,ACHAT,Spread: Washington State (-9.5),Colorado State,0.42,0.42,0.0,3.1,23.8095,10.0,,
+2026-11-15 04:00 UTC,primm,ACHAT,Spread: Washington State (-10.5),Colorado State,0.45,0.44,-1.0,3.1,22.7273,10.0,,
+2026-11-15 04:00 UTC,primm,ACHAT,Spread: Washington State (-7.5),Colorado State,0.3844,0.4,1.6,3.1,25.0,10.0,,
+2026-11-15 04:00 UTC,primm,ACHAT,Spread: Washington State (-13.5),Colorado State,0.52,0.51,-1.0,3.1,19.6078,10.0,,
+2026-11-15 04:00 UTC,primm,ACHAT,Spread: Washington State (-6.5),Colorado State,0.33,0.33,0.0,3.1,30.303,10.0,,
+2026-11-15 04:00 UTC,primm,ACHAT,Spread: Washington State (-14.5),Colorado State,0.55,0.54,-1.0,3.1,18.5185,10.0,,
+2026-11-15 04:00 UTC,primm,ACHAT,Spread: Texas Tech (-5.5),Oklahoma State,0.59,0.59,0.0,0.9,16.9492,10.0,,
+2026-11-15 04:00 UTC,primm,ACHAT,Spread: San Diego State (-1.5),Utah State,0.52,0.52,0.0,0.9,19.2308,10.0,,
+2026-11-15 04:00 UTC,primm,ACHAT,Utah State vs. San Diego State: O/U 39.5,Over,0.45,0.46,1.0,0.9,21.7391,10.0,,
+2026-11-15 04:00 UTC,primm,ACHAT,Spread: Texas Tech (-3.5),Oklahoma State,0.53,0.54,1.0,0.9,18.5185,10.0,,
+2026-11-15 04:00 UTC,primm,ACHAT,Utah State vs. San Diego State,Utah State,0.5,0.5,0.0,0.9,20.0,10.0,,
+2026-11-15 04:00 UTC,primm,ACHAT,Utah State vs. San Diego State: O/U 43.5,Over,0.32,0.32,0.0,0.4,31.25,10.0,,
+2026-11-15 04:00 UTC,primm,REGLEMENT,Spread: Iowa (-16.5),Purdue,,0.47,,,21.2766,0.0,-10.0,perdu
+2026-11-15 04:00 UTC,primm,REGLEMENT,Spread: Iowa (-20.5),Purdue,,0.59,,,16.9492,0.0,-10.0,perdu
+2026-11-15 04:00 UTC,primm,REGLEMENT,Spread: Iowa (-11.5),Purdue,,0.38,,,26.3158,0.0,-10.0,perdu
+2026-11-15 04:01 UTC,primm,REGLEMENT,Spread: Iowa (-17.5),Purdue,,0.49,,,20.4082,0.0,-10.0,perdu
+2026-11-15 04:01 UTC,primm,REGLEMENT,Spread: Iowa (-23.5),Purdue,,0.63,,,15.873,15.87,5.87,gagné
+2026-11-15 04:01 UTC,primm,REGLEMENT,Spread: Iowa (-24.5),Purdue,,0.57,,,17.5439,17.54,7.54,gagné
+2026-11-15 04:01 UTC,primm,REGLEMENT,Stanford vs. Virginia Tech: O/U 47.5,Over,,0.6,,,16.6667,16.67,6.67,gagné
+2026-11-15 04:01 UTC,primm,REGLEMENT,Spread: Iowa (-21.5),Purdue,,0.47,,,21.2766,21.28,11.28,gagné
+2026-11-15 04:01 UTC,primm,REGLEMENT,Purdue vs. Iowa: O/U 47.5,Over,,0.66,,,15.1515,0.0,-10.0,perdu
