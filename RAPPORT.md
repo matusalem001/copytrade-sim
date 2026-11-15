@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 21:31 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 21:35 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 197 | 186 | 172 | 98 | +187.18 $ | +10.9 % | 25 | +1.3 ¢ | 8 min |
-| primm | 1127 | 433 | 1091 | 575 | +647.46 $ | +5.9 % | 36 | +3.2 ¢ | 4 min |
+| BreakTheBank | 197 | 186 | 177 | 101 | +189.75 $ | +10.7 % | 20 | +1.3 ¢ | 8 min |
+| primm | 1128 | 434 | 1093 | 575 | +627.46 $ | +5.7 % | 35 | +3.2 ¢ | 4 min |
 | juice-fruit | 16 | 2 | 16 | 7 | -43.42 $ | -27.1 % | 0 | -0.9 ¢ | 5 min |
 
-**Total réalisé : +791.22 $ sur 12790 $ engagés (+6.2 %)**
+**Total réalisé : +773.79 $ sur 12860 $ engagés (+6.0 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,13 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 21:31 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Jaguars (-10.5) | Titans | 0.59 | 0.00 | -10.00 $ |
+| primm | Spread: Jaguars (-9.5) | Titans | 0.53 | 0.00 | -10.00 $ |
+| BreakTheBank | Spread: Chiefs (-2.5) | Chiefs | 0.59 | 1.00 | +6.95 $ |
+| BreakTheBank | Spread: Jaguars (-10.5) | Titans | 0.50 | 0.00 | -10.00 $ |
+| BreakTheBank | Spread: Jaguars (-9.5) | Titans | 0.46 | 0.00 | -10.00 $ |
+| BreakTheBank | Panthers vs. Saints | Panthers | 0.50 | 1.00 | +10.00 $ |
+| BreakTheBank | Chiefs vs. Falcons | Chiefs | 0.64 | 1.00 | +5.62 $ |
 | primm | Panthers vs. Saints | Saints | 0.68 | 0.00 | -10.00 $ |
 | primm | Spread: Saints (-3.5) | Saints | 0.33 | 0.00 | -10.00 $ |
 | primm | Spread: Panthers (-1.5) | Saints | 0.44 | 0.00 | -10.00 $ |
@@ -34,12 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 21:31 UTC** 
 | BreakTheBank | Spread: Jaguars (-8.5) | Titans | 0.45 | 0.00 | -10.00 $ |
 | BreakTheBank | Jaguars vs. Titans | Titans | 0.18 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Chiefs (-1.5) | Chiefs | 0.61 | 1.00 | +6.39 $ |
-| BreakTheBank | Spread: Falcons (-1.5) | Chiefs | 0.67 | 1.00 | +4.93 $ |
-| primm | Panthers vs. Saints: O/U 48.5 | Over | 0.51 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Chiefs (-3.5) | Chiefs | 0.48 | 1.00 | +10.83 $ |
-| primm | Panthers vs. Saints: O/U 50.5 | Over | 0.45 | 0.00 | -10.00 $ |
-| primm | Chiefs vs. Falcons: O/U 48.5 | Over | 0.46 | 0.00 | -10.00 $ |
-| primm | Spread: Bills (-20.5) | Jets | 0.83 | 1.00 | +2.05 $ |
-| primm | Spread: Bills (-7.5) | Bills | 0.53 | 1.00 | +8.87 $ |
 
 Journal complet : `data/journal.csv`

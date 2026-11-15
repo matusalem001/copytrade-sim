@@ -3239,3 +3239,12 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 21:30 UTC,primm,REGLEMENT,Spread: Panthers (-1.5),Saints,,0.44,,,22.7273,0.0,-10.0,perdu
 2026-11-15 21:30 UTC,primm,REGLEMENT,Spread: Saints (-3.5),Saints,,0.33,,,30.303,0.0,-10.0,perdu
 2026-11-15 21:30 UTC,primm,REGLEMENT,Panthers vs. Saints,Saints,,0.68,,,14.7059,0.0,-10.0,perdu
+2026-11-15 21:35 UTC,primm,IGNORE,Spread: Bills (-5.5),Jets,0.37,,,116.5,,,,vu trop tard
+2026-11-15 21:35 UTC,primm,ACHAT,Spread: 49ers (-5.5),49ers,0.46,0.44,-2.0,8.0,22.7273,10.0,,
+2026-11-15 21:35 UTC,BreakTheBank,REGLEMENT,Chiefs vs. Falcons,Chiefs,,0.64,,,15.625,15.62,5.62,gagné
+2026-11-15 21:35 UTC,BreakTheBank,REGLEMENT,Panthers vs. Saints,Panthers,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-15 21:35 UTC,BreakTheBank,REGLEMENT,Spread: Jaguars (-9.5),Titans,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-15 21:35 UTC,BreakTheBank,REGLEMENT,Spread: Jaguars (-10.5),Titans,,0.5,,,20.0,0.0,-10.0,perdu
+2026-11-15 21:35 UTC,BreakTheBank,REGLEMENT,Spread: Chiefs (-2.5),Chiefs,,0.59,,,16.9492,16.95,6.95,gagné
+2026-11-15 21:35 UTC,primm,REGLEMENT,Spread: Jaguars (-9.5),Titans,,0.53,,,18.8679,0.0,-10.0,perdu
+2026-11-15 21:35 UTC,primm,REGLEMENT,Spread: Jaguars (-10.5),Titans,,0.59,,,16.9492,0.0,-10.0,perdu
