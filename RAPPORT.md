@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 21:05 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 21:10 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 197 | 186 | 162 | 90 | +133.31 $ | +8.2 % | 35 | +1.3 ¢ | 8 min |
-| primm | 1117 | 431 | 1037 | 542 | +516.49 $ | +5.0 % | 80 | +3.2 ¢ | 4 min |
+| primm | 1117 | 431 | 1039 | 543 | +518.71 $ | +5.0 % | 78 | +3.2 ¢ | 4 min |
 | juice-fruit | 16 | 2 | 15 | 6 | -45.47 $ | -30.3 % | 1 | -0.9 ¢ | 5 min |
 
-**Total réalisé : +604.33 $ sur 12140 $ engagés (+5.0 %)**
+**Total réalisé : +606.55 $ sur 12160 $ engagés (+5.0 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 21:05 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Bills vs. Jets: O/U 40.5 | Over | 0.45 | 1.00 | +12.22 $ |
+| primm | Bills vs. Jets: O/U 40.5 | Under | 0.48 | 0.00 | -10.00 $ |
 | primm | Jaguars vs. Titans: O/U 48.5 | Over | 0.53 | 1.00 | +8.87 $ |
 | primm | Jaguars vs. Titans: O/U 46.5 | Over | 0.68 | 1.00 | +4.71 $ |
 | primm | Vikings vs. Packers: O/U 36.5 | Under | 0.59 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 21:05 UTC** 
 | primm | Spread: Lions (-13.5) | Lions | 0.39 | 1.00 | +15.64 $ |
 | primm | Spread: Lions (-10.5) | Lions | 0.47 | 1.00 | +11.28 $ |
 | primm | Spread: Lions (-9.5) | Lions | 0.50 | 1.00 | +10.00 $ |
-| primm | Patriots vs. Lions | Lions | 0.80 | 1.00 | +2.50 $ |
-| primm | Spread: Lions (-6.5) | Lions | 0.59 | 1.00 | +6.95 $ |
 
 Journal complet : `data/journal.csv`
