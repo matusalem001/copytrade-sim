@@ -13,19 +13,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-07 21:10 UTC"
   },
-  "BreakTheBank|60726126951539130594457745308006473154344457472431098929350080992899330708790": {
-   "date": "2026-11-10 00:30 UTC",
-   "trader": "BreakTheBank",
-   "marche": "UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",
-   "resultat": "Ciryl Gane",
-   "prix_trader": 0.65,
-   "retard_min": 2.8,
-   "token": "60726126951539130594457745308006473154344457472431098929350080992899330708790",
-   "prix_simule": 0.66,
-   "parts": 15.1515,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-10 00:30 UTC"
-  },
   "BreakTheBank|15005653350202922348701786607519856020257461135905285631675545513297078700601": {
    "date": "2026-11-10 20:45 UTC",
    "trader": "BreakTheBank",
@@ -64,32 +51,6 @@
    "parts": 17.2414,
    "montant": 10.0,
    "ouvert_le": "2026-11-12 02:40 UTC"
-  },
-  "BreakTheBank|83846891809496080184219864993065693718654356284039926330807045695260473369880": {
-   "date": "2026-11-13 09:00 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Will Ciryl Gane win in Round 2?",
-   "resultat": "No",
-   "prix_trader": 0.81,
-   "retard_min": 5.5,
-   "token": "83846891809496080184219864993065693718654356284039926330807045695260473369880",
-   "prix_simule": 0.93,
-   "parts": 10.7527,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-13 09:00 UTC"
-  },
-  "BreakTheBank|91702330346946548622675210116459489728256362045133972362648212561233748753861": {
-   "date": "2026-11-13 16:10 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Will Ciryl Gane win in Round 3?",
-   "resultat": "No",
-   "prix_trader": 0.83,
-   "retard_min": 4.5,
-   "token": "91702330346946548622675210116459489728256362045133972362648212561233748753861",
-   "prix_simule": 0.94,
-   "parts": 10.6383,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-13 16:10 UTC"
   },
   "primm|21228224869865921146748024615287769591507792249465656834593383982696452905713": {
    "date": "2026-11-13 19:15 UTC",
@@ -1234,6 +1195,19 @@
    "parts": 22.7273,
    "montant": 10.0,
    "ouvert_le": "2026-11-15 06:05 UTC"
+  },
+  "primm|114623071198155002464677365956908989839445748650959125814186944349884346916082": {
+   "date": "2026-11-15 06:15 UTC",
+   "trader": "primm",
+   "marche": "Spread: Hawai'i (-4.5)",
+   "resultat": "Hawaii",
+   "prix_trader": 0.28,
+   "retard_min": 5.9,
+   "token": "114623071198155002464677365956908989839445748650959125814186944349884346916082",
+   "prix_simule": 0.27,
+   "parts": 37.037,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 06:15 UTC"
   }
  },
  "fermees": [
@@ -19663,6 +19637,57 @@
    "sortie": 1.0,
    "pnl": 1.3636,
    "ferme_le": "2026-11-15 05:55 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-10 00:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",
+   "resultat": "Ciryl Gane",
+   "prix_trader": 0.65,
+   "retard_min": 2.8,
+   "token": "60726126951539130594457745308006473154344457472431098929350080992899330708790",
+   "prix_simule": 0.66,
+   "parts": 15.1515,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-10 00:30 UTC",
+   "sortie": 1.0,
+   "pnl": 5.1515,
+   "ferme_le": "2026-11-15 06:15 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-13 09:00 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Ciryl Gane win in Round 2?",
+   "resultat": "No",
+   "prix_trader": 0.81,
+   "retard_min": 5.5,
+   "token": "83846891809496080184219864993065693718654356284039926330807045695260473369880",
+   "prix_simule": 0.93,
+   "parts": 10.7527,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 09:00 UTC",
+   "sortie": 1.0,
+   "pnl": 0.7527,
+   "ferme_le": "2026-11-15 06:15 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-13 16:10 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Ciryl Gane win in Round 3?",
+   "resultat": "No",
+   "prix_trader": 0.83,
+   "retard_min": 4.5,
+   "token": "91702330346946548622675210116459489728256362045133972362648212561233748753861",
+   "prix_simule": 0.94,
+   "parts": 10.6383,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 16:10 UTC",
+   "sortie": 1.0,
+   "pnl": 0.6383,
+   "ferme_le": "2026-11-15 06:15 UTC",
    "type": "gagné"
   }
  ]
