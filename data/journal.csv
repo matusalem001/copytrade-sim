@@ -2271,3 +2271,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 00:01 UTC,primm,REGLEMENT,Georgia Southern vs. Georgia State,Georgia Southern,,0.85,,,11.7647,11.76,1.76,gagné
 2026-11-15 00:01 UTC,primm,REGLEMENT,Spread: Georgia Southern (-13.5),Georgia Southern,,0.41,,,24.3902,24.39,14.39,gagné
 2026-11-15 00:01 UTC,primm,REGLEMENT,Spread: Georgia Southern (-16.5),Georgia Southern,,0.36,,,27.7778,27.78,17.78,gagné
+2026-11-15 00:10 UTC,primm,ACHAT,Texas vs. LSU: O/U 47.5,Under,0.48,0.5,2.0,4.4,20.0,10.0,,
+2026-11-15 00:10 UTC,primm,REGLEMENT,USC vs. Indiana: O/U 39.5,Over,,0.74,,,13.5135,13.51,3.51,gagné

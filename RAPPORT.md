@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 00:05 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 00:10 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 157 | 159 | 134 | 71 | +79.83 $ | +6.0 % | 23 | +1.4 ¢ | 9 min |
-| primm | 813 | 283 | 700 | 368 | +375.00 $ | +5.4 % | 113 | +3.3 ¢ | 4 min |
+| primm | 814 | 283 | 701 | 369 | +378.51 $ | +5.4 % | 113 | +3.3 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 12 | 5 | -32.41 $ | -27.0 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : +422.41 $ sur 8460 $ engagés (+5.0 %)**
+**Total réalisé : +425.92 $ sur 8470 $ engagés (+5.0 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 00:05 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | USC vs. Indiana: O/U 39.5 | Over | 0.74 | 1.00 | +3.51 $ |
 | primm | Spread: Georgia Southern (-16.5) | Georgia Southern | 0.36 | 1.00 | +17.78 $ |
 | primm | Spread: Georgia Southern (-13.5) | Georgia Southern | 0.41 | 1.00 | +14.39 $ |
 | primm | Georgia Southern vs. Georgia State | Georgia Southern | 0.85 | 1.00 | +1.76 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 00:05 UTC** 
 | primm | Florida International vs. Delaware: O/U 45.5 | Over | 0.33 | 0.00 | -10.00 $ |
 | primm | Florida International vs. Delaware: O/U 51.5 | Over | 0.58 | 0.00 | -10.00 $ |
 | primm | Florida International vs. Delaware: O/U 39.5 | Over | 0.53 | 1.00 | +8.87 $ |
-| BreakTheBank | Total Kills Over/Under 27.5 in Game 1? | Over | 0.50 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
