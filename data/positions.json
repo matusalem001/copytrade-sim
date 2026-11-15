@@ -805,6 +805,19 @@
    "parts": 16.3934,
    "montant": 10.0,
    "ouvert_le": "2026-11-15 17:20 UTC"
+  },
+  "BreakTheBank|56621689502653117678758796474957203815382992357820684212353759684481601728915": {
+   "date": "2026-11-15 17:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Jaguars (-10.5)",
+   "resultat": "Titans",
+   "prix_trader": 0.49,
+   "retard_min": 8.5,
+   "token": "56621689502653117678758796474957203815382992357820684212353759684481601728915",
+   "prix_simule": 0.5,
+   "parts": 20.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 17:30 UTC"
   }
  },
  "fermees": [
