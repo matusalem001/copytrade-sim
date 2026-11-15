@@ -2484,3 +2484,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 02:01 UTC,primm,ACHAT,Stanford vs. Virginia Tech: O/U 65.5,Over,0.3,0.53,23.0,1.2,18.8679,10.0,,
 2026-11-15 02:01 UTC,primm,ACHAT,Spread: LSU (-5.5),LSU,0.55,0.56,1.0,0.7,17.8571,10.0,,
 2026-11-15 02:05 UTC,primm,IGNORE,Spread: New Mexico (-21.5),New Mexico,0.52,0.28,-24.0,8.8,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 02:10 UTC,primm,ACHAT,Spread: Florida (-6.5),Kentucky,0.47,0.5,3.0,2.7,20.0,10.0,,
