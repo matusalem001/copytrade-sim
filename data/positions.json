@@ -792,6 +792,19 @@
    "parts": 20.4082,
    "montant": 10.0,
    "ouvert_le": "2026-11-15 17:00 UTC"
+  },
+  "BreakTheBank|95178365244767634878526245292574022610428523403388491970251078387718759559696": {
+   "date": "2026-11-15 17:20 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Chiefs (-1.5)",
+   "resultat": "Chiefs",
+   "prix_trader": 0.6,
+   "retard_min": 7.9,
+   "token": "95178365244767634878526245292574022610428523403388491970251078387718759559696",
+   "prix_simule": 0.61,
+   "parts": 16.3934,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 17:20 UTC"
   }
  },
  "fermees": [
