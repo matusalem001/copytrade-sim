@@ -246,6 +246,32 @@
    "parts": 16.9492,
    "montant": 10.0,
    "ouvert_le": "2026-11-15 14:30 UTC"
+  },
+  "BreakTheBank|17184141407576861502562385153812083736919937266928768236176396841080675993050": {
+   "date": "2026-11-15 14:35 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Chiefs vs. Falcons",
+   "resultat": "Chiefs",
+   "prix_trader": 0.63,
+   "retard_min": 7.3,
+   "token": "17184141407576861502562385153812083736919937266928768236176396841080675993050",
+   "prix_simule": 0.64,
+   "parts": 15.625,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 14:35 UTC"
+  },
+  "BreakTheBank|47446842303718527029443341349194378753598380685525344602906075248281464204985": {
+   "date": "2026-11-15 14:35 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Chiefs (-3.5)",
+   "resultat": "Chiefs",
+   "prix_trader": 0.47,
+   "retard_min": 7.1,
+   "token": "47446842303718527029443341349194378753598380685525344602906075248281464204985",
+   "prix_simule": 0.48,
+   "parts": 20.8333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 14:35 UTC"
   }
  },
  "fermees": [
