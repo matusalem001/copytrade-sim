@@ -3070,3 +3070,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 18:30 UTC,primm,ACHAT,Spread: Bills (-10.5),Jets,0.48,0.48,0.0,0.2,20.8333,10.0,,
 2026-11-15 18:30 UTC,primm,ACHAT,Spread: Bills (-14.5),Jets,0.6,0.6,0.0,0.2,16.6667,10.0,,
 2026-11-15 18:30 UTC,primm,ACHAT,Spread: Bills (-16.5),Jets,0.64,0.64,0.0,0.3,15.625,10.0,,
+2026-11-15 18:35 UTC,primm,IGNORE,Spread: Lions (-6.5),Lions,0.55,,,219.4,,,,vu trop tard
+2026-11-15 18:35 UTC,primm,ACHAT,Spread: Vikings (-7.5),Vikings,0.34,0.38,4.0,3.1,26.3158,10.0,,
+2026-11-15 18:35 UTC,primm,ACHAT,Spread: Vikings (-6.5),Vikings,0.42,0.46,4.0,1.2,21.7391,10.0,,
