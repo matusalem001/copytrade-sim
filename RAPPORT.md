@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 23:40 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 23:45 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 200 | 186 | 181 | 102 | +164.46 $ | +9.1 % | 19 | +1.3 ¢ | 8 min |
-| primm | 1150 | 537 | 1111 | 579 | +513.13 $ | +4.6 % | 39 | +3.2 ¢ | 4 min |
+| BreakTheBank | 201 | 186 | 181 | 102 | +164.46 $ | +9.1 % | 20 | +1.3 ¢ | 8 min |
+| primm | 1150 | 537 | 1113 | 580 | +508.52 $ | +4.6 % | 37 | +3.2 ¢ | 4 min |
 | juice-fruit | 17 | 2 | 16 | 7 | -43.42 $ | -27.1 % | 1 | -0.7 ¢ | 5 min |
 
-**Total réalisé : +634.17 $ sur 13080 $ engagés (+4.8 %)**
+**Total réalisé : +629.56 $ sur 13100 $ engagés (+4.8 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 23:40 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Rams vs. Cardinals: O/U 38.5 | Over | 0.65 | 1.00 | +5.38 $ |
+| primm | Rams vs. Cardinals: O/U 38.5 | Under | 0.50 | 0.00 | -10.00 $ |
 | primm | Rams vs. Cardinals: O/U 32.5 | Over | 0.62 | 1.00 | +6.13 $ |
 | primm | Seahawks vs. Raiders: O/U 28.5 | Under | 0.14 | 0.00 | -10.00 $ |
 | primm | Texans vs. Browns | Texans | 0.60 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 23:40 UTC** 
 | primm | Spread: Colts (-6.5) | Colts | 0.45 | 0.00 | -10.00 $ |
 | primm | Spread: Colts (-7.5) | Colts | 0.39 | 0.00 | -10.00 $ |
 | primm | Spread: Jaguars (-10.5) | Titans | 0.59 | 0.00 | -10.00 $ |
-| primm | Spread: Jaguars (-9.5) | Titans | 0.53 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Chiefs (-2.5) | Chiefs | 0.59 | 1.00 | +6.95 $ |
 
 Journal complet : `data/journal.csv`

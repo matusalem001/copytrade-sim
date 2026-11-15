@@ -3399,3 +3399,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 23:35 UTC,primm,IGNORE,49ers vs. Cowboys: O/U 64.5,Under,0.46,0.25,-21.0,8.0,,,,prix a trop chuté (match sans doute joué)
 2026-11-15 23:40 UTC,primm,ACHAT,49ers vs. Cowboys: O/U 58.5,Under,0.14,0.14,0.0,2.4,71.4286,10.0,,
 2026-11-15 23:40 UTC,primm,ACHAT,49ers vs. Cowboys: O/U 64.5,Under,0.38,0.39,1.0,2.4,25.641,10.0,,
+2026-11-15 23:45 UTC,BreakTheBank,ACHAT,Spread: Bengals (-3.5),Steelers,0.48,0.49,1.0,2.8,20.4082,10.0,,
+2026-11-15 23:45 UTC,primm,REGLEMENT,Rams vs. Cardinals: O/U 38.5,Under,,0.5,,,20.0,0.0,-10.0,perdu
+2026-11-15 23:45 UTC,primm,REGLEMENT,Rams vs. Cardinals: O/U 38.5,Over,,0.65,,,15.3846,15.38,5.38,gagné
