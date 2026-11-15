@@ -727,6 +727,19 @@
    "parts": 19.6078,
    "montant": 10.0,
    "ouvert_le": "2026-11-15 16:40 UTC"
+  },
+  "BreakTheBank|58392566406225501485031672502819752677972216312107782709185245655743862655046": {
+   "date": "2026-11-15 16:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Falcons (-1.5)",
+   "resultat": "Chiefs",
+   "prix_trader": 0.65,
+   "retard_min": 3.6,
+   "token": "58392566406225501485031672502819752677972216312107782709185245655743862655046",
+   "prix_simule": 0.67,
+   "parts": 14.9254,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 16:45 UTC"
   }
  },
  "fermees": [
