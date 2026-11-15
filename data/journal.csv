@@ -3402,3 +3402,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 23:45 UTC,BreakTheBank,ACHAT,Spread: Bengals (-3.5),Steelers,0.48,0.49,1.0,2.8,20.4082,10.0,,
 2026-11-15 23:45 UTC,primm,REGLEMENT,Rams vs. Cardinals: O/U 38.5,Under,,0.5,,,20.0,0.0,-10.0,perdu
 2026-11-15 23:45 UTC,primm,REGLEMENT,Rams vs. Cardinals: O/U 38.5,Over,,0.65,,,15.3846,15.38,5.38,gagné
+2026-11-15 23:50 UTC,primm,IGNORE,Spread: Rams (-2.5),Cardinals,0.31,,,101.1,,,,vu trop tard
