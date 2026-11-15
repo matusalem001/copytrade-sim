@@ -129,19 +129,6 @@
    "parts": 27.7778,
    "montant": 10.0,
    "ouvert_le": "2026-11-15 03:10 UTC"
-  },
-  "juice-fruit|48971782899106464843359903951649609708725302495762724685134347412981646590381": {
-   "date": "2026-11-15 09:10 UTC",
-   "trader": "juice-fruit",
-   "marche": "Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs",
-   "resultat": "Spirit",
-   "prix_trader": 0.41,
-   "retard_min": 5.0,
-   "token": "48971782899106464843359903951649609708725302495762724685134347412981646590381",
-   "prix_simule": 0.41,
-   "parts": 24.3902,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-15 09:10 UTC"
   }
  },
  "fermees": [
@@ -20068,6 +20055,23 @@
    "pnl": 2.5,
    "ferme_le": "2026-11-15 07:50 UTC",
    "type": "gagné"
+  },
+  {
+   "date": "2026-11-15 09:10 UTC",
+   "trader": "juice-fruit",
+   "marche": "Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs",
+   "resultat": "Spirit",
+   "prix_trader": 0.41,
+   "retard_min": 5.0,
+   "token": "48971782899106464843359903951649609708725302495762724685134347412981646590381",
+   "prix_simule": 0.41,
+   "parts": 24.3902,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 09:10 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-15 11:20 UTC",
+   "type": "perdu"
   }
  ]
 }
