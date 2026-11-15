@@ -1741,6 +1741,45 @@
    "parts": 20.8333,
    "montant": 10.0,
    "ouvert_le": "2026-11-15 03:25 UTC"
+  },
+  "primm|71087637180818093518113999717335188876920665793111873030749327886272969958097": {
+   "date": "2026-11-15 03:30 UTC",
+   "trader": "primm",
+   "marche": "Spread: Texas Tech (-6.5)",
+   "resultat": "Oklahoma State",
+   "prix_trader": 0.35,
+   "retard_min": 5.4,
+   "token": "71087637180818093518113999717335188876920665793111873030749327886272969958097",
+   "prix_simule": 0.32,
+   "parts": 31.25,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 03:30 UTC"
+  },
+  "primm|92401167062232210291618156531387939911563608685500292919078090123443457020422": {
+   "date": "2026-11-15 03:30 UTC",
+   "trader": "primm",
+   "marche": "Spread: Texas Tech (-7.5)",
+   "resultat": "Oklahoma State",
+   "prix_trader": 0.41,
+   "retard_min": 5.4,
+   "token": "92401167062232210291618156531387939911563608685500292919078090123443457020422",
+   "prix_simule": 0.37,
+   "parts": 27.027,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 03:30 UTC"
+  },
+  "primm|13099140631521309866266684309116212676649648569518836695264639054928210031074": {
+   "date": "2026-11-15 03:30 UTC",
+   "trader": "primm",
+   "marche": "Colorado State vs. Washington State: O/U 63.5",
+   "resultat": "Over",
+   "prix_trader": 0.51,
+   "retard_min": 5.3,
+   "token": "13099140631521309866266684309116212676649648569518836695264639054928210031074",
+   "prix_simule": 0.51,
+   "parts": 19.6078,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 03:30 UTC"
   }
  },
  "fermees": [

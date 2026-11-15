@@ -2582,3 +2582,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 03:25 UTC,primm,IGNORE,Spread: Louisville (-1.5),North Carolina,0.3786,0.01,-36.9,5.4,,,,prix a trop chuté (match sans doute joué)
 2026-11-15 03:25 UTC,primm,ACHAT,North Texas vs. UTSA: O/U 73.5,Under,0.72,0.81,9.0,3.0,12.3457,10.0,,
 2026-11-15 03:25 UTC,primm,ACHAT,Utah vs. Arizona: O/U 57.5,Over,0.47,0.48,1.0,0.3,20.8333,10.0,,
+2026-11-15 03:30 UTC,primm,ACHAT,Spread: Texas Tech (-6.5),Oklahoma State,0.35,0.32,-3.0,5.4,31.25,10.0,,
+2026-11-15 03:30 UTC,primm,ACHAT,Spread: Texas Tech (-7.5),Oklahoma State,0.41,0.37,-4.0,5.4,27.027,10.0,,
+2026-11-15 03:30 UTC,primm,ACHAT,Colorado State vs. Washington State: O/U 63.5,Over,0.51,0.51,0.0,5.3,19.6078,10.0,,
