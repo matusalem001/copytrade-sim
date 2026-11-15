@@ -2573,3 +2573,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 03:10 UTC,BreakTheBank,ACHAT,"UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card)",Kevin Holland,0.39,0.36,-3.0,3.7,27.7778,10.0,,
 2026-11-15 03:10 UTC,primm,ACHAT,Spread: LSU (-4.5),LSU,0.53,0.75,22.0,5.4,13.3333,10.0,,
 2026-11-15 03:10 UTC,primm,REGLEMENT,Spread: Boise State (-21.5),Oregon State,,0.57,,,17.5439,17.54,7.54,gagné
+2026-11-15 03:15 UTC,primm,ACHAT,Spread: UTSA (-4.5),North Texas,0.47,0.47,0.0,4.9,21.2766,10.0,,
+2026-11-15 03:15 UTC,primm,ACHAT,North Texas vs. UTSA: O/U 67.5,Under,0.47,0.51,4.0,4.8,19.6078,10.0,,
