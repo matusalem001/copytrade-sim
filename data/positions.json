@@ -129,32 +129,6 @@
    "parts": 27.7778,
    "montant": 10.0,
    "ouvert_le": "2026-11-15 03:10 UTC"
-  },
-  "primm|21636062315434017348187081146037287358337895725197461126780567208918896907062": {
-   "date": "2026-11-15 04:31 UTC",
-   "trader": "primm",
-   "marche": "North Dakota State vs. Hawai'i: O/U 39.5",
-   "resultat": "Under",
-   "prix_trader": 0.67,
-   "retard_min": 1.5,
-   "token": "21636062315434017348187081146037287358337895725197461126780567208918896907062",
-   "prix_simule": 0.7,
-   "parts": 14.2857,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-15 04:31 UTC"
-  },
-  "primm|96337021620709260706543796057145605565528012446583373013254607336072430457962": {
-   "date": "2026-11-15 04:35 UTC",
-   "trader": "primm",
-   "marche": "North Dakota State vs. Hawai'i",
-   "resultat": "North Dakota State",
-   "prix_trader": 0.71,
-   "retard_min": 2.2,
-   "token": "96337021620709260706543796057145605565528012446583373013254607336072430457962",
-   "prix_simule": 0.8,
-   "parts": 12.5,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-15 04:35 UTC"
   }
  },
  "fermees": [
@@ -20047,6 +20021,40 @@
    "pnl": -10.0,
    "ferme_le": "2026-11-15 07:45 UTC",
    "type": "perdu"
+  },
+  {
+   "date": "2026-11-15 04:31 UTC",
+   "trader": "primm",
+   "marche": "North Dakota State vs. Hawai'i: O/U 39.5",
+   "resultat": "Under",
+   "prix_trader": 0.67,
+   "retard_min": 1.5,
+   "token": "21636062315434017348187081146037287358337895725197461126780567208918896907062",
+   "prix_simule": 0.7,
+   "parts": 14.2857,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 04:31 UTC",
+   "sortie": 1.0,
+   "pnl": 4.2857,
+   "ferme_le": "2026-11-15 07:50 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-15 04:35 UTC",
+   "trader": "primm",
+   "marche": "North Dakota State vs. Hawai'i",
+   "resultat": "North Dakota State",
+   "prix_trader": 0.71,
+   "retard_min": 2.2,
+   "token": "96337021620709260706543796057145605565528012446583373013254607336072430457962",
+   "prix_simule": 0.8,
+   "parts": 12.5,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 04:35 UTC",
+   "sortie": 1.0,
+   "pnl": 2.5,
+   "ferme_le": "2026-11-15 07:50 UTC",
+   "type": "gagné"
   }
  ]
 }

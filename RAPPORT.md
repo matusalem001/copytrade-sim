@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 07:45 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 07:50 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 162 | 165 | 156 | 86 | +112.55 $ | +7.2 % | 6 | +1.3 ¢ | 9 min |
-| primm | 1008 | 365 | 1002 | 522 | +491.41 $ | +4.9 % | 6 | +3.2 ¢ | 4 min |
+| primm | 1008 | 365 | 1004 | 524 | +498.20 $ | +5.0 % | 4 | +3.2 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 12 | 5 | -32.41 $ | -27.0 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : +571.55 $ sur 11700 $ engagés (+4.9 %)**
+**Total réalisé : +578.34 $ sur 11720 $ engagés (+4.9 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 07:45 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | North Dakota State vs. Hawai'i | North Dakota State | 0.80 | 1.00 | +2.50 $ |
+| primm | North Dakota State vs. Hawai'i: O/U 39.5 | Under | 0.70 | 1.00 | +4.29 $ |
 | primm | Spread: Hawai'i (-4.5) | Hawaii | 0.27 | 0.00 | -10.00 $ |
 | primm | Spread: North Dakota State (-1.5) | Hawaii | 0.44 | 0.00 | -10.00 $ |
 | primm | Spread: North Dakota State (-2.5) | Hawaii | 0.47 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 07:45 UTC** 
 | primm | Spread: Arizona (-3.5) | Utah | 0.65 | 1.00 | +5.38 $ |
 | primm | Utah vs. Arizona: O/U 69.5 | Over | 0.45 | 1.00 | +12.22 $ |
 | primm | Utah vs. Arizona: O/U 63.5 | Over | 0.42 | 1.00 | +13.81 $ |
-| primm | Spread: Washington State (-7.5) | Colorado State | 0.40 | 0.00 | -10.00 $ |
-| primm | Spread: Washington State (-14.5) | Colorado State | 0.54 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
