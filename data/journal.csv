@@ -2630,3 +2630,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 03:50 UTC,primm,REGLEMENT,Spread: Louisville (-5.5),North Carolina,,0.48,,,20.8333,20.83,10.83,gagné
 2026-11-15 03:50 UTC,primm,REGLEMENT,Louisville vs. North Carolina,North Carolina,,0.27,,,37.037,0.0,-10.0,perdu
 2026-11-15 03:50 UTC,primm,REGLEMENT,Spread: Louisville (-6.5),North Carolina,,0.55,,,18.1818,18.18,8.18,gagné
+2026-11-15 03:52 UTC,primm,IGNORE,Spread: Texas Tech (-3.5),Oklahoma State,0.59,,,65.2,,,,vu trop tard

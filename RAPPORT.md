@@ -1,11 +1,11 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 03:50 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 03:53 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 162 | 164 | 151 | 82 | +110.14 $ | +7.3 % | 11 | +1.3 ¢ | 9 min |
-| primm | 943 | 354 | 831 | 429 | +271.71 $ | +3.3 % | 112 | +3.3 ¢ | 4 min |
+| primm | 943 | 355 | 831 | 429 | +271.71 $ | +3.3 % | 112 | +3.3 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 12 | 5 | -32.41 $ | -27.0 % | 0 | -1.3 ¢ | 5 min |
 
 **Total réalisé : +349.43 $ sur 9940 $ engagés (+3.5 %)**
