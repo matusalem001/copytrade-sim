@@ -2347,3 +2347,19 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 00:45 UTC,primm,REGLEMENT,Spread: Texas State (-9.5),Fresno State,,0.46,,,21.7391,21.74,11.74,gagné
 2026-11-15 00:50 UTC,primm,ACHAT,Baylor vs. BYU: O/U 53.5,Under,0.55,0.63,8.0,4.2,15.873,10.0,,
 2026-11-15 00:50 UTC,primm,ACHAT,Baylor vs. BYU: O/U 53.5,Over,0.39,0.38,-1.0,4.1,26.3158,10.0,,
+2026-11-15 00:55 UTC,primm,IGNORE,Louisville vs. North Carolina,North Carolina,0.31,0.25,-6.0,7.4,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 00:55 UTC,primm,IGNORE,Spread: Louisville (-6.5),North Carolina,0.55,0.47,-8.0,7.4,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 00:55 UTC,primm,IGNORE,Texas vs. LSU,LSU,0.62,0.55,-7.0,4.4,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 00:55 UTC,primm,ACHAT,Spread: LSU (-7.5),LSU,0.38,0.42,4.0,4.4,23.8095,10.0,,
+2026-11-15 00:55 UTC,primm,IGNORE,Texas vs. LSU,LSU,0.62,0.55,-7.0,4.0,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 00:55 UTC,primm,IGNORE,Louisville vs. North Carolina,North Carolina,0.31,0.25,-6.0,3.6,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 00:55 UTC,primm,ACHAT,Baylor vs. BYU: O/U 47.5,Under,0.5,0.51,1.0,3.5,19.6078,10.0,,
+2026-11-15 00:55 UTC,primm,IGNORE,Texas vs. LSU,LSU,0.63,0.55,-8.0,3.4,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 00:55 UTC,primm,ACHAT,Spread: Louisville (-7.5),North Carolina,0.57,0.52,-5.0,2.5,19.2308,10.0,,
+2026-11-15 00:55 UTC,primm,IGNORE,Spread: Louisville (-5.5),North Carolina,0.48,0.42,-6.0,2.5,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 00:55 UTC,primm,ACHAT,Spread: Louisville (-2.5),North Carolina,0.36,0.31,-5.0,2.5,32.2581,10.0,,
+2026-11-15 00:55 UTC,primm,IGNORE,Spread: Louisville (-6.5),North Carolina,0.52,0.47,-5.0,2.5,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 00:55 UTC,primm,ACHAT,Texas vs. LSU,LSU,0.59,0.55,-4.0,2.0,18.1818,10.0,,
+2026-11-15 00:55 UTC,primm,ACHAT,Spread: Texas (-1.5),LSU,0.62,0.72,10.0,2.0,13.8889,10.0,,
+2026-11-15 00:55 UTC,primm,ACHAT,Spread: Kentucky (-6.5),Florida,0.54,0.55,1.0,0.7,18.1818,10.0,,
+2026-11-15 00:55 UTC,primm,ACHAT,Spread: Iowa (-24.5),Purdue,0.5698,0.57,0.0,0.1,17.5439,10.0,,
