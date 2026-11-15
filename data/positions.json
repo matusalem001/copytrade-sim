@@ -117,19 +117,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-15 03:10 UTC"
   },
-  "juice-fruit|81774142923285127435442518708438741727685454174555521035836032024831099817823": {
-   "date": "2026-11-15 12:40 UTC",
-   "trader": "juice-fruit",
-   "marche": "ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Rafael Jodar",
-   "resultat": "Rafael Jodar",
-   "prix_trader": 0.29,
-   "retard_min": 4.3,
-   "token": "81774142923285127435442518708438741727685454174555521035836032024831099817823",
-   "prix_simule": 0.3,
-   "parts": 33.3333,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-15 12:40 UTC"
-  },
   "BreakTheBank|81257186747832054157920523116773359776964241594169856122985483596324692888690": {
    "date": "2026-11-15 14:10 UTC",
    "trader": "BreakTheBank",
@@ -584,6 +571,45 @@
    "parts": 14.0845,
    "montant": 10.0,
    "ouvert_le": "2026-11-15 15:15 UTC"
+  },
+  "primm|55797876453514533289827581042178962732253572878799251929298422210642595743616": {
+   "date": "2026-11-15 15:30 UTC",
+   "trader": "primm",
+   "marche": "49ers vs. Cowboys",
+   "resultat": "49ers",
+   "prix_trader": 0.65,
+   "retard_min": 1.8,
+   "token": "55797876453514533289827581042178962732253572878799251929298422210642595743616",
+   "prix_simule": 0.65,
+   "parts": 15.3846,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 15:30 UTC"
+  },
+  "primm|43761263108768715002973025355321663281957003189804717836377892717399213759024": {
+   "date": "2026-11-15 15:30 UTC",
+   "trader": "primm",
+   "marche": "Spread: 49ers (-4.5)",
+   "resultat": "49ers",
+   "prix_trader": 0.48,
+   "retard_min": 1.8,
+   "token": "43761263108768715002973025355321663281957003189804717836377892717399213759024",
+   "prix_simule": 0.48,
+   "parts": 20.8333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 15:30 UTC"
+  },
+  "primm|85416591621445506235231526983138681500017458223801778619525916446369002841792": {
+   "date": "2026-11-15 15:30 UTC",
+   "trader": "primm",
+   "marche": "Spread: 49ers (-3.5)",
+   "resultat": "49ers",
+   "prix_trader": 0.51,
+   "retard_min": 1.8,
+   "token": "85416591621445506235231526983138681500017458223801778619525916446369002841792",
+   "prix_simule": 0.51,
+   "parts": 19.6078,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 15:30 UTC"
   }
  },
  "fermees": [
@@ -20544,6 +20570,23 @@
    "pnl": -0.0,
    "ferme_le": "2026-11-15 13:50 UTC",
    "type": "revente"
+  },
+  {
+   "date": "2026-11-15 12:40 UTC",
+   "trader": "juice-fruit",
+   "marche": "ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Rafael Jodar",
+   "resultat": "Rafael Jodar",
+   "prix_trader": 0.29,
+   "retard_min": 4.3,
+   "token": "81774142923285127435442518708438741727685454174555521035836032024831099817823",
+   "prix_simule": 0.3,
+   "parts": 33.3333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 12:40 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-15 15:30 UTC",
+   "type": "perdu"
   }
  ]
 }

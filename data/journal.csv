@@ -2979,3 +2979,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 15:15 UTC,primm,IGNORE,Patriots vs. Lions: O/U 58.5,Over,0.4,,,21.1,,,,vu trop tard
 2026-11-15 15:15 UTC,primm,ACHAT,Patriots vs. Lions: O/U 52.5,Over,0.33,0.37,4.0,4.3,27.027,10.0,,
 2026-11-15 15:15 UTC,primm,ACHAT,Rams vs. Cardinals: O/U 44.5,Under,0.7,0.71,1.0,1.7,14.0845,10.0,,
+2026-11-15 15:30 UTC,primm,ACHAT,49ers vs. Cowboys,49ers,0.65,0.65,0.0,1.8,15.3846,10.0,,
+2026-11-15 15:30 UTC,primm,ACHAT,Spread: 49ers (-4.5),49ers,0.48,0.48,0.0,1.8,20.8333,10.0,,
+2026-11-15 15:30 UTC,primm,ACHAT,Spread: 49ers (-3.5),49ers,0.51,0.51,0.0,1.8,19.6078,10.0,,
+2026-11-15 15:30 UTC,juice-fruit,REGLEMENT,"ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Rafael Jodar",Rafael Jodar,,0.3,,,33.3333,0.0,-10.0,perdu
