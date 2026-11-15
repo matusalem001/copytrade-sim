@@ -3279,3 +3279,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 22:00 UTC,primm,IGNORE,Bills vs. Jets: O/U 46.5,Under,0.5,,,93.9,,,,vu trop tard
 2026-11-15 22:00 UTC,primm,IGNORE,Spread: Texans (-3.5),Texans,0.69,,,74.6,,,,vu trop tard
 2026-11-15 22:00 UTC,primm,ACHAT,Spread: Seahawks (-1.5),Raiders,0.48,0.49,1.0,2.4,20.4082,10.0,,
+2026-11-15 22:05 UTC,primm,IGNORE,Spread: Vikings (-14.5),Vikings,0.418,,,156.0,,,,vu trop tard
