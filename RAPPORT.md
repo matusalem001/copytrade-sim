@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 20:25 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 20:31 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 192 | 186 | 160 | 89 | +134.08 $ | +8.4 % | 32 | +1.3 ¢ | 9 min |
-| primm | 1112 | 430 | 1030 | 539 | +530.69 $ | +5.2 % | 82 | +3.2 ¢ | 4 min |
+| primm | 1113 | 430 | 1031 | 539 | +520.69 $ | +5.1 % | 82 | +3.2 ¢ | 4 min |
 | juice-fruit | 16 | 2 | 15 | 6 | -45.47 $ | -30.3 % | 1 | -0.9 ¢ | 5 min |
 
-**Total réalisé : +619.30 $ sur 12050 $ engagés (+5.1 %)**
+**Total réalisé : +609.30 $ sur 12060 $ engagés (+5.1 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 20:25 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Dolphins vs. Colts: O/U 36.5 | Under | 0.54 | 0.00 | -10.00 $ |
 | primm | Spread: Lions (-17.5) | Patriots | 0.33 | 0.00 | -10.00 $ |
 | primm | Spread: Lions (-20.5) | Patriots | 0.44 | 0.00 | -10.00 $ |
 | primm | Spread: Lions (-14.5) | Patriots | 0.37 | 0.00 | -10.00 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 20:25 UTC** 
 | primm | Patriots vs. Lions: O/U 50.5 | Under | 0.46 | 1.00 | +11.74 $ |
 | primm | Spread: Lions (-7.5) | Lions | 0.54 | 1.00 | +8.52 $ |
 | primm | Patriots vs. Lions: O/U 64.5 | Over | 0.21 | 0.00 | -10.00 $ |
-| primm | Spread: Lions (-3.5) | Lions | 0.77 | 1.00 | +2.99 $ |
 
 Journal complet : `data/journal.csv`
