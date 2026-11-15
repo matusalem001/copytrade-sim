@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 07:40 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 07:45 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 162 | 165 | 156 | 86 | +112.55 $ | +7.2 % | 6 | +1.3 ¢ | 9 min |
-| primm | 1008 | 365 | 992 | 519 | +535.49 $ | +5.4 % | 16 | +3.2 ¢ | 4 min |
+| primm | 1008 | 365 | 1002 | 522 | +491.41 $ | +4.9 % | 6 | +3.2 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 12 | 5 | -32.41 $ | -27.0 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : +615.63 $ sur 11600 $ engagés (+5.3 %)**
+**Total réalisé : +571.55 $ sur 11700 $ engagés (+4.9 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,16 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 07:40 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Hawai'i (-4.5) | Hawaii | 0.27 | 0.00 | -10.00 $ |
+| primm | Spread: North Dakota State (-1.5) | Hawaii | 0.44 | 0.00 | -10.00 $ |
+| primm | Spread: North Dakota State (-2.5) | Hawaii | 0.47 | 0.00 | -10.00 $ |
+| primm | Spread: North Dakota State (-7.5) | Hawaii | 0.49 | 0.00 | -10.00 $ |
+| primm | North Dakota State vs. Hawai'i | Hawaii | 0.20 | 0.00 | -10.00 $ |
+| primm | Spread: North Dakota State (-10.5) | Hawaii | 0.57 | 1.00 | +7.54 $ |
+| primm | Spread: North Dakota State (-8.5) | Hawaii | 0.48 | 1.00 | +10.83 $ |
+| primm | North Dakota State vs. Hawai'i: O/U 35.5 | Under | 0.57 | 1.00 | +7.54 $ |
+| primm | Spread: North Dakota State (-14.5) | North Dakota State | 0.45 | 0.00 | -10.00 $ |
+| primm | Spread: North Dakota State (-6.5) | Hawaii | 0.49 | 0.00 | -10.00 $ |
 | primm | Utah vs. Arizona | Arizona | 0.41 | 0.00 | -10.00 $ |
 | primm | Spread: Utah (-4.5) | Arizona | 0.73 | 1.00 | +3.70 $ |
 | primm | Spread: Utah (-6.5) | Arizona | 0.59 | 1.00 | +6.95 $ |
@@ -31,15 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 07:40 UTC** 
 | primm | Utah vs. Arizona: O/U 63.5 | Over | 0.42 | 1.00 | +13.81 $ |
 | primm | Spread: Washington State (-7.5) | Colorado State | 0.40 | 0.00 | -10.00 $ |
 | primm | Spread: Washington State (-14.5) | Colorado State | 0.54 | 0.00 | -10.00 $ |
-| primm | Spread: Washington State (-6.5) | Colorado State | 0.33 | 0.00 | -10.00 $ |
-| primm | Spread: Washington State (-13.5) | Colorado State | 0.51 | 0.00 | -10.00 $ |
-| primm | Spread: Washington State (-10.5) | Colorado State | 0.44 | 0.00 | -10.00 $ |
-| primm | Spread: Washington State (-9.5) | Colorado State | 0.42 | 0.00 | -10.00 $ |
-| primm | Utah vs. Arizona: O/U 55.5 | Over | 0.61 | 1.00 | +6.39 $ |
-| primm | Utah vs. Arizona: O/U 57.5 | Over | 0.48 | 1.00 | +10.83 $ |
-| primm | Colorado State vs. Washington State: O/U 75.5 | Over | 0.33 | 1.00 | +20.30 $ |
-| primm | Wyoming vs. UTEP: O/U 47.5 | Over | 0.45 | 0.00 | -10.00 $ |
-| primm | Spread: Wyoming (-7.5) | UTEP | 0.30 | 0.00 | -10.00 $ |
-| primm | Wyoming vs. UTEP: O/U 45.5 | Over | 0.49 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
