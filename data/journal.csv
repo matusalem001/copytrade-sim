@@ -2899,3 +2899,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 14:20 UTC,primm,ACHAT,Spread: Colts (-9.5),Colts,0.34,0.35,1.0,4.5,28.5714,10.0,,
 2026-11-15 14:25 UTC,primm,IGNORE,Colorado State vs. Washington State: O/U 65.5,Over,0.58,,,571.9,,,,vu trop tard
 2026-11-15 14:25 UTC,primm,IGNORE,Spread: Wyoming (-13.5),UTEP,0.44,,,520.7,,,,vu trop tard
+2026-11-15 14:30 UTC,BreakTheBank,ACHAT,Spread: Lions (-1.5),Lions,0.55,0.55,0.0,5.1,18.1818,10.0,,
+2026-11-15 14:30 UTC,BreakTheBank,ACHAT,Spread: Patriots (-1.5),Lions,0.6,0.61,1.0,4.8,16.3934,10.0,,
+2026-11-15 14:30 UTC,primm,ACHAT,Panthers vs. Saints: O/U 50.5,Over,0.45,0.45,0.0,1.5,22.2222,10.0,,
+2026-11-15 14:30 UTC,juice-fruit,ACHAT,Patriots vs. Lions,Lions,0.59,0.59,0.0,2.5,16.9492,10.0,,
