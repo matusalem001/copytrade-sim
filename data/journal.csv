@@ -2808,3 +2808,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 06:25 UTC,primm,REGLEMENT,Spread: San Diego State (-2.5),Utah State,,0.44,,,22.7273,0.0,-10.0,perdu
 2026-11-15 06:25 UTC,primm,REGLEMENT,Spread: San Diego State (-3.5),Utah State,,0.58,,,17.2414,0.0,-10.0,perdu
 2026-11-15 06:25 UTC,primm,REGLEMENT,Spread: Utah State (-1.5),Utah State,,0.38,,,26.3158,0.0,-10.0,perdu
+2026-11-15 06:30 UTC,primm,REGLEMENT,Colorado State vs. Washington State: O/U 63.5,Over,,0.51,,,19.6078,19.61,9.61,gagné
+2026-11-15 06:30 UTC,primm,REGLEMENT,Utah State vs. San Diego State: O/U 43.5,Over,,0.32,,,31.25,0.0,-10.0,perdu

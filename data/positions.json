@@ -338,19 +338,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-15 03:30 UTC"
   },
-  "primm|13099140631521309866266684309116212676649648569518836695264639054928210031074": {
-   "date": "2026-11-15 03:30 UTC",
-   "trader": "primm",
-   "marche": "Colorado State vs. Washington State: O/U 63.5",
-   "resultat": "Over",
-   "prix_trader": 0.51,
-   "retard_min": 5.3,
-   "token": "13099140631521309866266684309116212676649648569518836695264639054928210031074",
-   "prix_simule": 0.51,
-   "parts": 19.6078,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-15 03:30 UTC"
-  },
   "primm|115533994991196894539276359523142419108513775368605238998829749895887750005957": {
    "date": "2026-11-15 03:40 UTC",
    "trader": "primm",
@@ -595,19 +582,6 @@
    "token": "27931088618499107011160916464807350749479406101220946575237882138398440566972",
    "prix_simule": 0.54,
    "parts": 18.5185,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-15 04:00 UTC"
-  },
-  "primm|107029115345863370368769748855947630697601525014650939181368839477568232763411": {
-   "date": "2026-11-15 04:00 UTC",
-   "trader": "primm",
-   "marche": "Utah State vs. San Diego State: O/U 43.5",
-   "resultat": "Over",
-   "prix_trader": 0.32,
-   "retard_min": 0.4,
-   "token": "107029115345863370368769748855947630697601525014650939181368839477568232763411",
-   "prix_simule": 0.32,
-   "parts": 31.25,
    "montant": 10.0,
    "ouvert_le": "2026-11-15 04:00 UTC"
   },
@@ -19758,6 +19732,40 @@
    "sortie": 0.0,
    "pnl": -10.0,
    "ferme_le": "2026-11-15 06:25 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-15 03:30 UTC",
+   "trader": "primm",
+   "marche": "Colorado State vs. Washington State: O/U 63.5",
+   "resultat": "Over",
+   "prix_trader": 0.51,
+   "retard_min": 5.3,
+   "token": "13099140631521309866266684309116212676649648569518836695264639054928210031074",
+   "prix_simule": 0.51,
+   "parts": 19.6078,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 03:30 UTC",
+   "sortie": 1.0,
+   "pnl": 9.6078,
+   "ferme_le": "2026-11-15 06:30 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-15 04:00 UTC",
+   "trader": "primm",
+   "marche": "Utah State vs. San Diego State: O/U 43.5",
+   "resultat": "Over",
+   "prix_trader": 0.32,
+   "retard_min": 0.4,
+   "token": "107029115345863370368769748855947630697601525014650939181368839477568232763411",
+   "prix_simule": 0.32,
+   "parts": 31.25,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 04:00 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-15 06:30 UTC",
    "type": "perdu"
   }
  ]
