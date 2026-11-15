@@ -2575,3 +2575,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 03:10 UTC,primm,REGLEMENT,Spread: Boise State (-21.5),Oregon State,,0.57,,,17.5439,17.54,7.54,gagné
 2026-11-15 03:15 UTC,primm,ACHAT,Spread: UTSA (-4.5),North Texas,0.47,0.47,0.0,4.9,21.2766,10.0,,
 2026-11-15 03:15 UTC,primm,ACHAT,North Texas vs. UTSA: O/U 67.5,Under,0.47,0.51,4.0,4.8,19.6078,10.0,,
+2026-11-15 03:20 UTC,primm,IGNORE,Spread: Florida (-6.5),Kentucky,0.47,,,70.2,,,,vu trop tard
