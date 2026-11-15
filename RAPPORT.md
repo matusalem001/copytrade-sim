@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 02:10 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 02:15 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 161 | 164 | 147 | 78 | +78.13 $ | +5.3 % | 14 | +1.4 ¢ | 9 min |
-| primm | 895 | 338 | 755 | 386 | +192.70 $ | +2.6 % | 140 | +3.3 ¢ | 4 min |
+| primm | 896 | 339 | 775 | 394 | +154.45 $ | +2.0 % | 121 | +3.3 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 12 | 5 | -32.41 $ | -27.0 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : +238.41 $ sur 9140 $ engagés (+2.6 %)**
+**Total réalisé : +200.16 $ sur 9340 $ engagés (+2.1 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,30 +16,30 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 02:10 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Michigan State (-1.5) | Michigan State | 0.57 | 0.00 | -10.00 $ |
+| primm | Washington vs. Michigan State: O/U 43.5 | Over | 0.62 | 0.00 | -10.00 $ |
+| primm | Washington vs. Michigan State: O/U 41.5 | Over | 0.66 | 0.00 | -10.00 $ |
+| primm | Washington vs. Michigan State: O/U 45.5 | Over | 0.67 | 0.00 | -10.00 $ |
+| primm | Spread: Washington (-5.5) | Michigan State | 0.62 | 0.00 | -10.00 $ |
+| primm | Spread: Washington (-4.5) | Michigan State | 0.61 | 0.00 | -10.00 $ |
+| primm | Oregon State vs. Boise State: O/U 61.5 | Under | 0.35 | 0.00 | -10.00 $ |
+| primm | Oregon State vs. Boise State: O/U 63.5 | Under | 0.49 | 0.00 | -10.00 $ |
+| primm | Washington vs. Michigan State: O/U 47.5 | Over | 0.50 | 0.00 | -10.00 $ |
+| primm | Spread: Arizona State (-2.5) | Arizona State | 0.49 | 1.00 | +10.41 $ |
+| primm | Spread: UCF (-1.5) | Arizona State | 0.57 | 1.00 | +7.54 $ |
+| primm | Spread: UCF (-2.5) | Arizona State | 0.59 | 1.00 | +6.95 $ |
+| primm | Spread: Arizona State (-5.5) | Arizona State | 0.37 | 1.00 | +17.03 $ |
+| primm | Arizona State vs. UCF | Arizona State | 0.55 | 1.00 | +8.18 $ |
+| primm | Spread: Arizona State (-4.5) | Arizona State | 0.39 | 1.00 | +15.64 $ |
+| primm | Spread: Arizona State (-1.5) | Arizona State | 0.51 | 1.00 | +9.61 $ |
+| primm | Spread: Michigan State (-4.5) | Michigan State | 0.46 | 0.00 | -10.00 $ |
+| primm | Arizona State vs. UCF: O/U 37.5 | Over | 0.61 | 1.00 | +6.39 $ |
+| primm | Spread: Washington (-2.5) | Michigan State | 0.45 | 0.00 | -10.00 $ |
+| primm | Spread: Washington (-1.5) | Michigan State | 0.43 | 0.00 | -10.00 $ |
 | primm | Spread: Louisiana Tech (-17.5) | Louisiana Tech | 0.50 | 1.00 | +10.00 $ |
 | primm | Spread: Louisiana Tech (-18.5) | Louisiana Tech | 0.47 | 1.00 | +11.28 $ |
 | BreakTheBank | Total Kills Over/Under 27.5 in Game 4? | Over | 0.49 | 1.00 | +10.41 $ |
 | BreakTheBank | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Gen.G | 0.59 | 0.00 | -10.00 $ |
 | BreakTheBank | Game Handicap: GEN (-1.5) vs Bilibili Gaming (+1.5) | Gen.G | 0.43 | 0.00 | -10.00 $ |
-| BreakTheBank | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Bilibili Gaming | 0.45 | 1.00 | +12.22 $ |
-| BreakTheBank | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 0.62 | 0.00 | -10.00 $ |
-| BreakTheBank | Games Total: O/U 3.5 | Under | 0.28 | 0.00 | -10.00 $ |
-| BreakTheBank | Games Total: O/U 4.5 | Under | 0.65 | 1.00 | +5.38 $ |
-| BreakTheBank | Game Handicap: BLG (-1.5) vs Gen.G (+1.5) | Bilibili Gaming | 0.47 | 1.00 | +11.28 $ |
-| BreakTheBank | Total Kills Over/Under 24.5 in Game 4? | Over | 0.70 | 1.00 | +4.29 $ |
-| BreakTheBank | Total Kills Over/Under 24.5 in Game 3? | Over | 0.72 | 1.00 | +3.89 $ |
-| BreakTheBank | LoL: Bilibili Gaming vs Gen.G - Game 3 Winner | Gen.G | 0.59 | 0.00 | -10.00 $ |
-| primm | Spread: Auburn (-14.5) | Mississippi State | 0.32 | 0.00 | -10.00 $ |
-| primm | Spread: Auburn (-20.5) | Mississippi State | 0.53 | 0.00 | -10.00 $ |
-| primm | Spread: Rice (-6.5) | Tulane | 0.31 | 1.00 | +22.26 $ |
-| primm | Spread: Rice (-7.5) | Tulane | 0.36 | 1.00 | +17.78 $ |
-| primm | Auburn vs. Mississippi State: O/U 65.5 | Under | 0.75 | 1.00 | +3.33 $ |
-| primm | Spread: Auburn (-17.5) | Mississippi State | 0.70 | 0.00 | -10.00 $ |
-| primm | Spread: Auburn (-16.5) | Mississippi State | 0.58 | 0.00 | -10.00 $ |
-| primm | Spread: Auburn (-13.5) | Auburn | 0.53 | 1.00 | +8.87 $ |
-| primm | Auburn vs. Mississippi State | Auburn | 0.57 | 1.00 | +7.54 $ |
-| primm | Spread: Auburn (-3.5) | Auburn | 0.45 | 1.00 | +12.22 $ |
-| primm | Auburn vs. Mississippi State: O/U 51.5 | Over | 0.50 | 0.00 | -10.00 $ |
-| primm | Spread: Auburn (-4.5) | Auburn | 0.43 | 1.00 | +13.26 $ |
 
 Journal complet : `data/journal.csv`
