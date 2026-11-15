@@ -2914,3 +2914,44 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 14:45 UTC,BreakTheBank,ACHAT,Panthers vs. Saints,Panthers,0.49,0.5,1.0,3.6,20.0,10.0,,
 2026-11-15 14:50 UTC,BreakTheBank,IGNORE,"UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",Ciryl Gane,0.67,,,578.9,,,,vu trop tard
 2026-11-15 14:55 UTC,BreakTheBank,IGNORE,"UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",Ciryl Gane,0.68,,,579.0,,,,vu trop tard
+2026-11-15 15:00 UTC,BreakTheBank,IGNORE,"UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",Ciryl Gane,0.68,,,584.6,,,,vu trop tard
+2026-11-15 15:00 UTC,BreakTheBank,ACHAT,Vikings vs. Packers,Vikings,0.43,0.44,1.0,2.4,22.7273,10.0,,
+2026-11-15 15:00 UTC,primm,ACHAT,Spread: Lions (-3.5),Lions,0.47,0.77,30.0,9.6,12.987,10.0,,
+2026-11-15 15:00 UTC,primm,IGNORE,Patriots vs. Lions: O/U 52.5,Over,0.57,0.49,-8.0,8.8,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:00 UTC,primm,IGNORE,Patriots vs. Lions: O/U 50.5,Over,0.64,0.59,-5.0,8.0,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:00 UTC,primm,ACHAT,Patriots vs. Lions: O/U 64.5,Over,0.25,0.21,-4.0,8.0,47.619,10.0,,
+2026-11-15 15:00 UTC,primm,IGNORE,Patriots vs. Lions: O/U 58.5,Over,0.4,0.35,-5.0,8.0,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:00 UTC,primm,IGNORE,Patriots vs. Lions: O/U 50.5,Over,0.65,0.59,-6.0,8.0,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:00 UTC,primm,IGNORE,Patriots vs. Lions: O/U 50.5,Over,0.65,0.59,-6.0,7.9,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:00 UTC,primm,IGNORE,Patriots vs. Lions: O/U 50.5,Over,0.65,0.59,-6.0,7.9,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:00 UTC,primm,IGNORE,Patriots vs. Lions: O/U 50.5,Over,0.65,0.59,-6.0,7.9,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:00 UTC,primm,IGNORE,Patriots vs. Lions: O/U 50.5,Over,0.65,0.59,-6.0,7.9,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:00 UTC,primm,IGNORE,Patriots vs. Lions: O/U 50.5,Over,0.65,0.59,-6.0,7.9,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:00 UTC,primm,IGNORE,Patriots vs. Lions: O/U 50.5,Over,0.65,0.59,-6.0,7.8,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:00 UTC,primm,IGNORE,Patriots vs. Lions: O/U 50.5,Over,0.65,0.59,-6.0,7.8,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:00 UTC,primm,IGNORE,Patriots vs. Lions: O/U 50.5,Over,0.65,0.59,-6.0,7.8,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:00 UTC,primm,IGNORE,Patriots vs. Lions: O/U 50.5,Over,0.65,0.59,-6.0,7.8,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:01 UTC,primm,IGNORE,Patriots vs. Lions: O/U 50.5,Over,0.65,0.59,-6.0,7.8,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:01 UTC,primm,IGNORE,Patriots vs. Lions: O/U 50.5,Over,0.65,0.59,-6.0,7.8,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:01 UTC,primm,IGNORE,Patriots vs. Lions: O/U 50.5,Over,0.65,0.59,-6.0,7.7,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:01 UTC,primm,IGNORE,Patriots vs. Lions: O/U 50.5,Over,0.65,0.59,-6.0,7.7,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:01 UTC,primm,IGNORE,Patriots vs. Lions: O/U 50.5,Over,0.65,0.59,-6.0,7.7,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:01 UTC,primm,IGNORE,Patriots vs. Lions: O/U 50.5,Over,0.65,0.59,-6.0,7.7,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:01 UTC,primm,IGNORE,Patriots vs. Lions: O/U 52.5,Over,0.59,0.49,-10.0,7.6,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:01 UTC,primm,IGNORE,Patriots vs. Lions: O/U 58.5,Over,0.4,0.35,-5.0,7.6,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:01 UTC,primm,IGNORE,Patriots vs. Lions: O/U 58.5,Over,0.4,0.35,-5.0,7.1,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:01 UTC,primm,IGNORE,Patriots vs. Lions: O/U 58.5,Over,0.4,0.35,-5.0,6.6,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:01 UTC,primm,ACHAT,Spread: Lions (-7.5),Lions,0.49,0.54,5.0,5.3,18.5185,10.0,,
+2026-11-15 15:01 UTC,primm,ACHAT,Patriots vs. Lions: O/U 50.5,Under,0.3981,0.46,6.2,5.3,21.7391,10.0,,
+2026-11-15 15:01 UTC,primm,ACHAT,Patriots vs. Lions: O/U 52.5,Under,0.4798,0.54,6.0,5.3,18.5185,10.0,,
+2026-11-15 15:01 UTC,primm,ACHAT,Patriots vs. Lions: O/U 58.5,Under,0.65,0.7,5.0,5.3,14.2857,10.0,,
+2026-11-15 15:01 UTC,primm,ACHAT,Spread: Lions (-14.5),Lions,0.3394,0.42,8.1,5.3,23.8095,10.0,,
+2026-11-15 15:01 UTC,primm,ACHAT,Patriots vs. Lions: O/U 48.5,Under,0.33,0.46,13.0,5.3,21.7391,10.0,,
+2026-11-15 15:01 UTC,primm,ACHAT,Spread: Lions (-5.5),Lions,0.49,0.63,14.0,5.3,15.873,10.0,,
+2026-11-15 15:01 UTC,primm,ACHAT,Spread: Lions (-6.5),Lions,0.53,0.59,6.0,5.3,16.9492,10.0,,
+2026-11-15 15:01 UTC,primm,ACHAT,Patriots vs. Lions,Lions,0.76,0.8,4.0,5.3,12.5,10.0,,
+2026-11-15 15:01 UTC,primm,ACHAT,Spread: Lions (-9.5),Lions,0.46,0.5,4.0,5.0,20.0,10.0,,
+2026-11-15 15:01 UTC,primm,ACHAT,Spread: Lions (-10.5),Lions,0.43,0.47,4.0,4.9,21.2766,10.0,,
+2026-11-15 15:01 UTC,primm,ACHAT,Spread: Lions (-13.5),Lions,0.36,0.39,3.0,4.9,25.641,10.0,,
+2026-11-15 15:01 UTC,primm,ACHAT,Spread: Lions (-16.5),Lions,0.31,0.31,0.0,4.6,32.2581,10.0,,
+2026-11-15 15:01 UTC,primm,ACHAT,Spread: Lions (-10.5),Patriots,0.53,0.57,4.0,0.3,17.5439,10.0,,
