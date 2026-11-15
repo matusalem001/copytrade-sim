@@ -2859,3 +2859,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 07:20 UTC,primm,REGLEMENT,Spread: Washington State (-13.5),Colorado State,,0.51,,,19.6078,0.0,-10.0,perdu
 2026-11-15 07:20 UTC,primm,REGLEMENT,Spread: Washington State (-6.5),Colorado State,,0.33,,,30.303,0.0,-10.0,perdu
 2026-11-15 07:20 UTC,primm,REGLEMENT,Spread: Washington State (-14.5),Colorado State,,0.54,,,18.5185,0.0,-10.0,perdu
+2026-11-15 07:25 UTC,primm,REGLEMENT,Spread: Washington State (-7.5),Colorado State,,0.4,,,25.0,0.0,-10.0,perdu
+2026-11-15 07:25 UTC,primm,REGLEMENT,Utah vs. Arizona: O/U 63.5,Over,,0.42,,,23.8095,23.81,13.81,gagné
+2026-11-15 07:25 UTC,primm,REGLEMENT,Utah vs. Arizona: O/U 69.5,Over,,0.45,,,22.2222,22.22,12.22,gagné
