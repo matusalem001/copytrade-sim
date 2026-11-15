@@ -52,19 +52,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-12 00:00 UTC"
   },
-  "BreakTheBank|23208862140288254610121187571883191387693350915948952229094473665636902270938": {
-   "date": "2026-11-12 01:20 UTC",
-   "trader": "BreakTheBank",
-   "marche": "UFC 334: Amanda Nunes vs. Kayla Harrison (Women's Bantamweight, Main Card)",
-   "resultat": "Kayla Harrison",
-   "prix_trader": 0.62,
-   "retard_min": 9.0,
-   "token": "23208862140288254610121187571883191387693350915948952229094473665636902270938",
-   "prix_simule": 0.63,
-   "parts": 15.873,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-12 01:20 UTC"
-  },
   "BreakTheBank|86238856930269158297633894715344370305155758731248529282208377802102469059377": {
    "date": "2026-11-12 02:40 UTC",
    "trader": "BreakTheBank",
@@ -1312,6 +1299,32 @@
    "parts": 28.5714,
    "montant": 10.0,
    "ouvert_le": "2026-11-15 05:05 UTC"
+  },
+  "primm|58124693749130218641458036495259286793079078758844314594388538185903044421366": {
+   "date": "2026-11-15 05:20 UTC",
+   "trader": "primm",
+   "marche": "Spread: North Dakota State (-8.5)",
+   "resultat": "Hawaii",
+   "prix_trader": 0.48,
+   "retard_min": 5.1,
+   "token": "58124693749130218641458036495259286793079078758844314594388538185903044421366",
+   "prix_simule": 0.48,
+   "parts": 20.8333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 05:20 UTC"
+  },
+  "primm|113929124807843068639112350914904806191102078025902098736928424937390209123435": {
+   "date": "2026-11-15 05:20 UTC",
+   "trader": "primm",
+   "marche": "Spread: North Dakota State (-10.5)",
+   "resultat": "Hawaii",
+   "prix_trader": 0.52,
+   "retard_min": 1.7,
+   "token": "113929124807843068639112350914904806191102078025902098736928424937390209123435",
+   "prix_simule": 0.57,
+   "parts": 17.5439,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 05:20 UTC"
   }
  },
  "fermees": [
@@ -19435,6 +19448,23 @@
    "sortie": 1.0,
    "pnl": 27.037,
    "ferme_le": "2026-11-15 04:45 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-12 01:20 UTC",
+   "trader": "BreakTheBank",
+   "marche": "UFC 334: Amanda Nunes vs. Kayla Harrison (Women's Bantamweight, Main Card)",
+   "resultat": "Kayla Harrison",
+   "prix_trader": 0.62,
+   "retard_min": 9.0,
+   "token": "23208862140288254610121187571883191387693350915948952229094473665636902270938",
+   "prix_simule": 0.63,
+   "parts": 15.873,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-12 01:20 UTC",
+   "sortie": 1.0,
+   "pnl": 5.873,
+   "ferme_le": "2026-11-15 05:20 UTC",
    "type": "gagné"
   }
  ]

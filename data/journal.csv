@@ -2760,3 +2760,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 05:05 UTC,primm,ACHAT,Spread: Texas Tech (-14.5),Texas Tech,0.44,0.44,0.0,2.5,22.7273,10.0,,
 2026-11-15 05:05 UTC,primm,ACHAT,Spread: Texas Tech (-16.5),Texas Tech,0.34,0.35,1.0,2.5,28.5714,10.0,,
 2026-11-15 05:15 UTC,primm,IGNORE,North Texas vs. UTSA: O/U 43.5,Over,0.63,0.56,-7.0,3.0,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 05:20 UTC,primm,ACHAT,Spread: North Dakota State (-8.5),Hawaii,0.48,0.48,0.0,5.1,20.8333,10.0,,
+2026-11-15 05:20 UTC,primm,ACHAT,Spread: North Dakota State (-10.5),Hawaii,0.52,0.57,5.0,1.7,17.5439,10.0,,
+2026-11-15 05:20 UTC,BreakTheBank,REGLEMENT,"UFC 334: Amanda Nunes vs. Kayla Harrison (Women's Bantamweight, Main Card)",Kayla Harrison,,0.63,,,15.873,15.87,5.87,gagné
