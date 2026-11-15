@@ -507,19 +507,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-14 19:30 UTC"
   },
-  "BreakTheBank|109210047242694239111296755567823481494033354165492295008302065247871816959352": {
-   "date": "2026-11-14 19:50 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Total Kills Over/Under 27.5 in Game 2?",
-   "resultat": "Over",
-   "prix_trader": 0.46,
-   "retard_min": 1.8,
-   "token": "109210047242694239111296755567823481494033354165492295008302065247871816959352",
-   "prix_simule": 0.48,
-   "parts": 20.8333,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-14 19:50 UTC"
-  },
   "BreakTheBank|32638308034813705091356217367248336719479631204939473971476873766917452625430": {
    "date": "2026-11-14 20:35 UTC",
    "trader": "BreakTheBank",
@@ -1507,6 +1494,32 @@
    "parts": 21.7391,
    "montant": 10.0,
    "ouvert_le": "2026-11-15 00:35 UTC"
+  },
+  "primm|86803828801768886127813979980708068735353752070411746270440028181757418135139": {
+   "date": "2026-11-15 00:40 UTC",
+   "trader": "primm",
+   "marche": "Spread: BYU (-17.5)",
+   "resultat": "BYU",
+   "prix_trader": 0.5,
+   "retard_min": 7.4,
+   "token": "86803828801768886127813979980708068735353752070411746270440028181757418135139",
+   "prix_simule": 0.62,
+   "parts": 16.129,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 00:40 UTC"
+  },
+  "primm|9921773050551102536674221823609192525798951322094003228870453849376218935246": {
+   "date": "2026-11-15 00:40 UTC",
+   "trader": "primm",
+   "marche": "Spread: Iowa (-23.5)",
+   "resultat": "Purdue",
+   "prix_trader": 0.61,
+   "retard_min": 0.6,
+   "token": "9921773050551102536674221823609192525798951322094003228870453849376218935246",
+   "prix_simule": 0.63,
+   "parts": 15.873,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 00:40 UTC"
   }
  },
  "fermees": [
@@ -16553,6 +16566,23 @@
    "sortie": 1.0,
    "pnl": 7.8571,
    "ferme_le": "2026-11-15 00:35 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-14 19:50 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Total Kills Over/Under 27.5 in Game 2?",
+   "resultat": "Over",
+   "prix_trader": 0.46,
+   "retard_min": 1.8,
+   "token": "109210047242694239111296755567823481494033354165492295008302065247871816959352",
+   "prix_simule": 0.48,
+   "parts": 20.8333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 19:50 UTC",
+   "sortie": 1.0,
+   "pnl": 10.8333,
+   "ferme_le": "2026-11-15 00:40 UTC",
    "type": "gagné"
   }
  ]
