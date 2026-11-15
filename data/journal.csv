@@ -2811,3 +2811,10 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 06:30 UTC,primm,REGLEMENT,Colorado State vs. Washington State: O/U 63.5,Over,,0.51,,,19.6078,19.61,9.61,gagné
 2026-11-15 06:30 UTC,primm,REGLEMENT,Utah State vs. San Diego State: O/U 43.5,Over,,0.32,,,31.25,0.0,-10.0,perdu
 2026-11-15 06:35 UTC,primm,REGLEMENT,Colorado State vs. Washington State: O/U 65.5,Over,,0.53,,,18.8679,18.87,8.87,gagné
+2026-11-15 06:40 UTC,primm,REGLEMENT,Texas Tech vs. Oklahoma State,Oklahoma State,,0.57,,,17.5439,0.0,-10.0,perdu
+2026-11-15 06:40 UTC,primm,REGLEMENT,Texas Tech vs. Oklahoma State: O/U 73.5,Over,,0.69,,,14.4928,14.49,4.49,gagné
+2026-11-15 06:40 UTC,primm,REGLEMENT,Spread: Oklahoma State (-1.5),Oklahoma State,,0.55,,,18.1818,0.0,-10.0,perdu
+2026-11-15 06:40 UTC,primm,REGLEMENT,Spread: Texas Tech (-2.5),Oklahoma State,,0.62,,,16.129,0.0,-10.0,perdu
+2026-11-15 06:40 UTC,primm,REGLEMENT,Spread: Texas Tech (-3.5),Oklahoma State,,0.54,,,18.5185,0.0,-10.0,perdu
+2026-11-15 06:40 UTC,primm,REGLEMENT,Spread: Texas Tech (-4.5),Oklahoma State,,0.54,,,18.5185,0.0,-10.0,perdu
+2026-11-15 06:40 UTC,primm,REGLEMENT,Texas Tech vs. Oklahoma State: O/U 73.5,Under,,0.16,,,62.5,0.0,-10.0,perdu
