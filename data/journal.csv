@@ -2405,3 +2405,19 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 01:20 UTC,primm,IGNORE,Louisville vs. North Carolina,North Carolina,0.31,,,28.7,,,,vu trop tard
 2026-11-15 01:20 UTC,BreakTheBank,REGLEMENT,Total Kills Over/Under 24.5 in Game 4?,Over,,0.7,,,14.2857,14.29,4.29,gagné
 2026-11-15 01:20 UTC,BreakTheBank,REGLEMENT,Game Handicap: BLG (-1.5) vs Gen.G (+1.5),Bilibili Gaming,,0.47,,,21.2766,21.28,11.28,gagné
+2026-11-15 01:25 UTC,primm,ACHAT,Spread: LSU (-2.5),Texas,0.43,0.44,1.0,8.5,22.7273,10.0,,
+2026-11-15 01:25 UTC,primm,ACHAT,Spread: LSU (-3.5),Texas,0.5,0.51,1.0,8.5,19.6078,10.0,,
+2026-11-15 01:25 UTC,primm,ACHAT,Spread: New Mexico (-23.5),UNLV,0.54,0.62,8.0,8.2,16.129,10.0,,
+2026-11-15 01:25 UTC,primm,ACHAT,Spread: LSU (-6.5),Texas,0.57,0.61,4.0,8.1,16.3934,10.0,,
+2026-11-15 01:25 UTC,primm,ACHAT,South Carolina vs. Arkansas: O/U 39.5,Over,0.51,0.49,-2.0,6.6,20.4082,10.0,,
+2026-11-15 01:25 UTC,primm,ACHAT,Spread: New Mexico (-16.5),UNLV,0.3147,0.35,3.5,4.8,28.5714,10.0,,
+2026-11-15 01:25 UTC,primm,ACHAT,UNLV vs. New Mexico: O/U 45.5,Under,0.62,0.83,21.0,1.9,12.0482,10.0,,
+2026-11-15 01:25 UTC,primm,ACHAT,Spread: New Mexico (-27.5),UNLV,0.64,0.71,7.0,1.9,14.0845,10.0,,
+2026-11-15 01:25 UTC,primm,ACHAT,Spread: UTSA (-1.5),North Texas,0.59,0.61,2.0,1.1,16.3934,10.0,,
+2026-11-15 01:25 UTC,BreakTheBank,REGLEMENT,Games Total: O/U 4.5,Under,,0.65,,,15.3846,15.38,5.38,gagné
+2026-11-15 01:25 UTC,BreakTheBank,REGLEMENT,Games Total: O/U 3.5,Under,,0.28,,,35.7143,0.0,-10.0,perdu
+2026-11-15 01:25 UTC,BreakTheBank,REGLEMENT,LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs,Gen.G,,0.62,,,16.129,0.0,-10.0,perdu
+2026-11-15 01:25 UTC,BreakTheBank,REGLEMENT,LoL: Bilibili Gaming vs Gen.G - Game 4 Winner,Bilibili Gaming,,0.45,,,22.2222,22.22,12.22,gagné
+2026-11-15 01:25 UTC,BreakTheBank,REGLEMENT,Game Handicap: GEN (-1.5) vs Bilibili Gaming (+1.5),Gen.G,,0.43,,,23.2558,0.0,-10.0,perdu
+2026-11-15 01:25 UTC,BreakTheBank,REGLEMENT,LoL: Bilibili Gaming vs Gen.G - Game 2 Winner,Gen.G,,0.59,,,16.9492,0.0,-10.0,perdu
+2026-11-15 01:25 UTC,BreakTheBank,REGLEMENT,Total Kills Over/Under 27.5 in Game 4?,Over,,0.49,,,20.4082,20.41,10.41,gagné
