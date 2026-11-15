@@ -2570,3 +2570,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 03:01 UTC,primm,REGLEMENT,Florida vs. Kentucky: O/U 37.5,Over,,0.43,,,23.2558,0.0,-10.0,perdu
 2026-11-15 03:01 UTC,primm,REGLEMENT,Florida vs. Kentucky: O/U 43.5,Over,,0.48,,,20.8333,0.0,-10.0,perdu
 2026-11-15 03:01 UTC,primm,REGLEMENT,Spread: Florida (-6.5),Kentucky,,0.5,,,20.0,0.0,-10.0,perdu
+2026-11-15 03:10 UTC,BreakTheBank,ACHAT,"UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card)",Kevin Holland,0.39,0.36,-3.0,3.7,27.7778,10.0,,
+2026-11-15 03:10 UTC,primm,ACHAT,Spread: LSU (-4.5),LSU,0.53,0.75,22.0,5.4,13.3333,10.0,,
+2026-11-15 03:10 UTC,primm,REGLEMENT,Spread: Boise State (-21.5),Oregon State,,0.57,,,17.5439,17.54,7.54,gagné
