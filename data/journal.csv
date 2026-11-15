@@ -3273,3 +3273,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 21:45 UTC,primm,ACHAT,Spread: Raiders (-1.5),Raiders,0.34,0.37,3.0,1.5,27.027,10.0,,
 2026-11-15 21:50 UTC,primm,ACHAT,Seahawks vs. Raiders,Raiders,0.37,0.43,6.0,4.8,23.2558,10.0,,
 2026-11-15 21:50 UTC,primm,ACHAT,Spread: Seahawks (-2.5),Raiders,0.47,0.49,2.0,4.1,20.4082,10.0,,
+2026-11-15 21:55 UTC,primm,IGNORE,Texans vs. Browns: O/U 50.5,Over,0.52,,,100.4,,,,vu trop tard
+2026-11-15 21:55 UTC,primm,ACHAT,Spread: Rams (-9.5),Rams,0.33,0.36,3.0,2.4,27.7778,10.0,,
+2026-11-15 21:55 UTC,juice-fruit,ACHAT,Rams vs. Cardinals,Rams,0.71,0.74,3.0,2.3,13.5135,10.0,,
