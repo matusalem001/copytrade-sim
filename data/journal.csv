@@ -2378,3 +2378,17 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 01:00 UTC,primm,ACHAT,Spread: New Mexico (-17.5),UNLV,0.36,0.34,-2.0,2.1,29.4118,10.0,,
 2026-11-15 01:00 UTC,primm,ACHAT,UNLV vs. New Mexico: O/U 45.5,Over,0.52,0.53,1.0,1.5,18.8679,10.0,,
 2026-11-15 01:01 UTC,BreakTheBank,REGLEMENT,Total Kills Over/Under 24.5 in Game 1?,Over,,0.66,,,15.1515,0.0,-10.0,perdu
+2026-11-15 01:05 UTC,primm,IGNORE,Spread: Auburn (-20.5),Mississippi State,0.51,,,105.9,,,,carnet indisponible
+2026-11-15 01:05 UTC,primm,IGNORE,Spread: Auburn (-17.5),Mississippi State,0.39,,,106.1,,,,carnet indisponible
+2026-11-15 01:05 UTC,primm,REGLEMENT,Spread: Auburn (-4.5),Auburn,,0.43,,,23.2558,23.26,13.26,gagné
+2026-11-15 01:05 UTC,primm,REGLEMENT,Auburn vs. Mississippi State: O/U 51.5,Over,,0.5,,,20.0,0.0,-10.0,perdu
+2026-11-15 01:05 UTC,primm,REGLEMENT,Spread: Auburn (-3.5),Auburn,,0.45,,,22.2222,22.22,12.22,gagné
+2026-11-15 01:05 UTC,primm,REGLEMENT,Auburn vs. Mississippi State,Auburn,,0.57,,,17.5439,17.54,7.54,gagné
+2026-11-15 01:05 UTC,primm,REGLEMENT,Spread: Auburn (-13.5),Auburn,,0.53,,,18.8679,18.87,8.87,gagné
+2026-11-15 01:05 UTC,primm,REGLEMENT,Spread: Auburn (-16.5),Mississippi State,,0.58,,,17.2414,0.0,-10.0,perdu
+2026-11-15 01:05 UTC,primm,REGLEMENT,Spread: Auburn (-17.5),Mississippi State,,0.7,,,14.2857,0.0,-10.0,perdu
+2026-11-15 01:05 UTC,primm,REGLEMENT,Auburn vs. Mississippi State: O/U 65.5,Under,,0.75,,,13.3333,13.33,3.33,gagné
+2026-11-15 01:06 UTC,primm,REGLEMENT,Spread: Rice (-7.5),Tulane,,0.36,,,27.7778,27.78,17.78,gagné
+2026-11-15 01:06 UTC,primm,REGLEMENT,Spread: Rice (-6.5),Tulane,,0.31,,,32.2581,32.26,22.26,gagné
+2026-11-15 01:06 UTC,primm,REGLEMENT,Spread: Auburn (-20.5),Mississippi State,,0.53,,,18.8679,0.0,-10.0,perdu
+2026-11-15 01:06 UTC,primm,REGLEMENT,Spread: Auburn (-14.5),Mississippi State,,0.32,,,31.25,0.0,-10.0,perdu
