@@ -779,6 +779,19 @@
    "parts": 19.6078,
    "montant": 10.0,
    "ouvert_le": "2026-11-15 16:55 UTC"
+  },
+  "BreakTheBank|45892339222454852871040758652477528036183521682304209496283057804924085118272": {
+   "date": "2026-11-15 17:00 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Packers (-2.5)",
+   "resultat": "Vikings",
+   "prix_trader": 0.48,
+   "retard_min": 7.2,
+   "token": "45892339222454852871040758652477528036183521682304209496283057804924085118272",
+   "prix_simule": 0.49,
+   "parts": 20.4082,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 17:00 UTC"
   }
  },
  "fermees": [
