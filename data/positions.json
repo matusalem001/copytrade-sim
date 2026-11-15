@@ -1183,32 +1183,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-15 19:20 UTC"
   },
-  "primm|39130951066881518559996159590881934406045690490711139679314424250565860098676": {
-   "date": "2026-11-15 19:20 UTC",
-   "trader": "primm",
-   "marche": "Jaguars vs. Titans: O/U 46.5",
-   "resultat": "Over",
-   "prix_trader": 0.6,
-   "retard_min": 4.3,
-   "token": "39130951066881518559996159590881934406045690490711139679314424250565860098676",
-   "prix_simule": 0.68,
-   "parts": 14.7059,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-15 19:20 UTC"
-  },
-  "primm|1172348332441068426142770876245436437199468854420501498852643912971897125145": {
-   "date": "2026-11-15 19:20 UTC",
-   "trader": "primm",
-   "marche": "Jaguars vs. Titans: O/U 48.5",
-   "resultat": "Over",
-   "prix_trader": 0.52,
-   "retard_min": 4.3,
-   "token": "1172348332441068426142770876245436437199468854420501498852643912971897125145",
-   "prix_simule": 0.53,
-   "parts": 18.8679,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-15 19:20 UTC"
-  },
   "primm|95777542311583645653356299295038387611299405073547473077042320979071714537730": {
    "date": "2026-11-15 19:25 UTC",
    "trader": "primm",
@@ -22139,6 +22113,40 @@
    "pnl": -10.0,
    "ferme_le": "2026-11-15 21:01 UTC",
    "type": "perdu"
+  },
+  {
+   "date": "2026-11-15 19:20 UTC",
+   "trader": "primm",
+   "marche": "Jaguars vs. Titans: O/U 46.5",
+   "resultat": "Over",
+   "prix_trader": 0.6,
+   "retard_min": 4.3,
+   "token": "39130951066881518559996159590881934406045690490711139679314424250565860098676",
+   "prix_simule": 0.68,
+   "parts": 14.7059,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 19:20 UTC",
+   "sortie": 1.0,
+   "pnl": 4.7059,
+   "ferme_le": "2026-11-15 21:05 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-15 19:20 UTC",
+   "trader": "primm",
+   "marche": "Jaguars vs. Titans: O/U 48.5",
+   "resultat": "Over",
+   "prix_trader": 0.52,
+   "retard_min": 4.3,
+   "token": "1172348332441068426142770876245436437199468854420501498852643912971897125145",
+   "prix_simule": 0.53,
+   "parts": 18.8679,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 19:20 UTC",
+   "sortie": 1.0,
+   "pnl": 8.8679,
+   "ferme_le": "2026-11-15 21:05 UTC",
+   "type": "gagné"
   }
  ]
 }
