@@ -3097,3 +3097,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 18:50 UTC,primm,IGNORE,Patriots vs. Lions: O/U 50.5,Over,0.45,,,204.8,,,,vu trop tard
 2026-11-15 18:55 UTC,primm,ACHAT,Texans vs. Browns: O/U 50.5,Under,0.6,0.59,-1.0,4.2,16.9492,10.0,,
 2026-11-15 18:55 UTC,primm,ACHAT,Spread: Vikings (-10.5),Vikings,0.35,0.36,1.0,1.6,27.7778,10.0,,
+2026-11-15 19:00 UTC,BreakTheBank,ACHAT,Spread: 49ers (-4.5),Cowboys,0.53,0.54,1.0,6.7,18.5185,10.0,,
+2026-11-15 19:00 UTC,primm,IGNORE,Spread: Lions (-17.5),Patriots,0.48,,,193.8,,,,vu trop tard
+2026-11-15 19:00 UTC,primm,ACHAT,Spread: Vikings (-13.5),Vikings,0.28,0.34,6.0,5.5,29.4118,10.0,,
+2026-11-15 19:00 UTC,primm,ACHAT,Bills vs. Jets: O/U 46.5,Under,0.49,0.56,7.0,4.0,17.8571,10.0,,
