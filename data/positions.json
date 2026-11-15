@@ -429,19 +429,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-15 05:01 UTC"
   },
-  "primm|6059872215050526394837228879909665553591022300981533248888399194367889632611": {
-   "date": "2026-11-15 05:05 UTC",
-   "trader": "primm",
-   "marche": "Colorado State vs. Washington State: O/U 75.5",
-   "resultat": "Over",
-   "prix_trader": 0.29,
-   "retard_min": 3.5,
-   "token": "6059872215050526394837228879909665553591022300981533248888399194367889632611",
-   "prix_simule": 0.33,
-   "parts": 30.303,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-15 05:05 UTC"
-  },
   "primm|58124693749130218641458036495259286793079078758844314594388538185903044421366": {
    "date": "2026-11-15 05:20 UTC",
    "trader": "primm",
@@ -19919,6 +19906,23 @@
    "pnl": -10.0,
    "ferme_le": "2026-11-15 06:55 UTC",
    "type": "perdu"
+  },
+  {
+   "date": "2026-11-15 05:05 UTC",
+   "trader": "primm",
+   "marche": "Colorado State vs. Washington State: O/U 75.5",
+   "resultat": "Over",
+   "prix_trader": 0.29,
+   "retard_min": 3.5,
+   "token": "6059872215050526394837228879909665553591022300981533248888399194367889632611",
+   "prix_simule": 0.33,
+   "parts": 30.303,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 05:05 UTC",
+   "sortie": 1.0,
+   "pnl": 20.303,
+   "ferme_le": "2026-11-15 07:01 UTC",
+   "type": "gagné"
   }
  ]
 }
