@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 07:05 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 07:10 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 162 | 165 | 156 | 86 | +112.55 $ | +7.2 % | 6 | +1.3 ¢ | 9 min |
-| primm | 1008 | 365 | 971 | 506 | +511.54 $ | +5.3 % | 37 | +3.2 ¢ | 4 min |
+| primm | 1008 | 365 | 973 | 508 | +528.77 $ | +5.4 % | 35 | +3.2 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 12 | 5 | -32.41 $ | -27.0 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : +591.68 $ sur 11390 $ engagés (+5.2 %)**
+**Total réalisé : +608.91 $ sur 11410 $ engagés (+5.3 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 07:05 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Utah vs. Arizona: O/U 55.5 | Over | 0.61 | 1.00 | +6.39 $ |
+| primm | Utah vs. Arizona: O/U 57.5 | Over | 0.48 | 1.00 | +10.83 $ |
 | primm | Colorado State vs. Washington State: O/U 75.5 | Over | 0.33 | 1.00 | +20.30 $ |
 | primm | Wyoming vs. UTEP: O/U 47.5 | Over | 0.45 | 0.00 | -10.00 $ |
 | primm | Spread: Wyoming (-7.5) | UTEP | 0.30 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 07:05 UTC** 
 | primm | Wyoming vs. UTEP: O/U 43.5 | Under | 0.60 | 1.00 | +6.67 $ |
 | primm | Spread: Texas Tech (-16.5) | Texas Tech | 0.35 | 1.00 | +18.57 $ |
 | primm | Spread: Texas Tech (-14.5) | Texas Tech | 0.44 | 1.00 | +12.73 $ |
-| primm | Colorado State vs. Washington State: O/U 69.5 | Over | 0.42 | 1.00 | +13.81 $ |
-| primm | Spread: Oklahoma State (-2.5) | Oklahoma State | 0.31 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

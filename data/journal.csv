@@ -2852,3 +2852,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 06:55 UTC,primm,REGLEMENT,Spread: Wyoming (-7.5),UTEP,,0.3,,,33.3333,0.0,-10.0,perdu
 2026-11-15 06:55 UTC,primm,REGLEMENT,Wyoming vs. UTEP: O/U 47.5,Over,,0.45,,,22.2222,0.0,-10.0,perdu
 2026-11-15 07:01 UTC,primm,REGLEMENT,Colorado State vs. Washington State: O/U 75.5,Over,,0.33,,,30.303,30.3,20.3,gagné
+2026-11-15 07:10 UTC,primm,REGLEMENT,Utah vs. Arizona: O/U 57.5,Over,,0.48,,,20.8333,20.83,10.83,gagné
+2026-11-15 07:10 UTC,primm,REGLEMENT,Utah vs. Arizona: O/U 55.5,Over,,0.61,,,16.3934,16.39,6.39,gagné
