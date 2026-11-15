@@ -1,18 +1,5 @@
 {
  "ouvertes": {
-  "BreakTheBank|47942880964158617614279118228047750547985543191564455484169740327839925876869": {
-   "date": "2026-11-07 21:10 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Will San Antonio Spurs win the 2027 NBA Finals?",
-   "resultat": "Yes",
-   "prix_trader": 0.21,
-   "retard_min": 2.1,
-   "token": "47942880964158617614279118228047750547985543191564455484169740327839925876869",
-   "prix_simule": 0.22,
-   "parts": 45.4545,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-07 21:10 UTC"
-  },
   "BreakTheBank|15005653350202922348701786607519856020257461135905285631675545513297078700601": {
    "date": "2026-11-10 20:45 UTC",
    "trader": "BreakTheBank",
@@ -20085,6 +20072,23 @@
    "pnl": -10.0,
    "ferme_le": "2026-11-15 11:20 UTC",
    "type": "perdu"
+  },
+  {
+   "date": "2026-11-07 21:10 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will San Antonio Spurs win the 2027 NBA Finals?",
+   "resultat": "Yes",
+   "prix_trader": 0.21,
+   "retard_min": 2.1,
+   "token": "47942880964158617614279118228047750547985543191564455484169740327839925876869",
+   "prix_simule": 0.22,
+   "parts": 45.4545,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-07 21:10 UTC",
+   "sortie": 0.22,
+   "pnl": -0.0,
+   "ferme_le": "2026-11-15 13:50 UTC",
+   "type": "revente"
   }
  ]
 }
