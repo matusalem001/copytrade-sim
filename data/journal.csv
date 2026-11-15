@@ -2766,3 +2766,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 05:25 UTC,primm,ACHAT,North Dakota State vs. Hawai'i,Hawaii,0.18,0.2,2.0,3.9,50.0,10.0,,
 2026-11-15 05:25 UTC,primm,ACHAT,Spread: North Dakota State (-7.5),Hawaii,0.49,0.49,0.0,3.9,20.4082,10.0,,
 2026-11-15 05:40 UTC,primm,ACHAT,Spread: Wyoming (-13.5),UTEP,0.28,0.28,0.0,0.2,35.7143,10.0,,
+2026-11-15 05:45 UTC,primm,ACHAT,Spread: Wyoming (-10.5),UTEP,0.35,0.36,1.0,3.0,27.7778,10.0,,
+2026-11-15 05:45 UTC,primm,ACHAT,Wyoming vs. UTEP: O/U 45.5,Over,0.49,0.49,0.0,3.0,20.4082,10.0,,
