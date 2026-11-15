@@ -1533,6 +1533,32 @@
    "parts": 14.7059,
    "montant": 10.0,
    "ouvert_le": "2026-11-15 20:45 UTC"
+  },
+  "BreakTheBank|96183687246271817122349015358564812440473292001657961527459232361139620757187": {
+   "date": "2026-11-15 20:55 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Hornets vs. Clippers",
+   "resultat": "Clippers",
+   "prix_trader": 0.51,
+   "retard_min": 7.0,
+   "token": "96183687246271817122349015358564812440473292001657961527459232361139620757187",
+   "prix_simule": 0.52,
+   "parts": 19.2308,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 20:55 UTC"
+  },
+  "BreakTheBank|54886145343113429744816062514804713441902783250178872965023186341451433162400": {
+   "date": "2026-11-15 20:55 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Clippers (-1.5)",
+   "resultat": "Clippers",
+   "prix_trader": 0.4797,
+   "retard_min": 6.4,
+   "token": "54886145343113429744816062514804713441902783250178872965023186341451433162400",
+   "prix_simule": 0.49,
+   "parts": 20.4082,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 20:55 UTC"
   }
  },
  "fermees": [
