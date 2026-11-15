@@ -2262,3 +2262,12 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-14 23:55 UTC,primm,ACHAT,Spread: Boise State (-20.5),Oregon State,0.48,0.55,7.0,5.6,18.1818,10.0,,
 2026-11-14 23:55 UTC,primm,ACHAT,Spread: Boise State (-21.5),Oregon State,0.53,0.57,4.0,4.7,17.5439,10.0,,
 2026-11-14 23:55 UTC,primm,ACHAT,Arizona State vs. UCF: O/U 43.5,Over,0.52,0.54,2.0,0.8,18.5185,10.0,,
+2026-11-15 00:00 UTC,primm,ACHAT,Oregon State vs. Boise State: O/U 73.5,Under,0.51,0.47,-4.0,4.1,21.2766,10.0,,
+2026-11-15 00:00 UTC,primm,REGLEMENT,Spread: Georgia Southern (-7.5),Georgia Southern,,0.43,,,23.2558,23.26,13.26,gagné
+2026-11-15 00:01 UTC,primm,REGLEMENT,Spread: Georgia Southern (-6.5),Georgia Southern,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-15 00:01 UTC,primm,REGLEMENT,California vs. Virginia: O/U 45.5,Under,,0.47,,,21.2766,21.28,11.28,gagné
+2026-11-15 00:01 UTC,primm,REGLEMENT,New Mexico State vs. Missouri State: O/U 45.5,Over,,0.45,,,22.2222,22.22,12.22,gagné
+2026-11-15 00:01 UTC,primm,REGLEMENT,Spread: Georgia Southern (-10.5),Georgia Southern,,0.51,,,19.6078,19.61,9.61,gagné
+2026-11-15 00:01 UTC,primm,REGLEMENT,Georgia Southern vs. Georgia State,Georgia Southern,,0.85,,,11.7647,11.76,1.76,gagné
+2026-11-15 00:01 UTC,primm,REGLEMENT,Spread: Georgia Southern (-13.5),Georgia Southern,,0.41,,,24.3902,24.39,14.39,gagné
+2026-11-15 00:01 UTC,primm,REGLEMENT,Spread: Georgia Southern (-16.5),Georgia Southern,,0.36,,,27.7778,27.78,17.78,gagné
