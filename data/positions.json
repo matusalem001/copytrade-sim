@@ -844,6 +844,19 @@
    "parts": 19.2308,
    "montant": 10.0,
    "ouvert_le": "2026-11-15 17:40 UTC"
+  },
+  "BreakTheBank|104981697222588179358676967354904547696734505344556944928859742586403753101560": {
+   "date": "2026-11-15 17:50 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Dolphins vs. Colts",
+   "resultat": "Colts",
+   "prix_trader": 0.67,
+   "retard_min": 2.4,
+   "token": "104981697222588179358676967354904547696734505344556944928859742586403753101560",
+   "prix_simule": 0.68,
+   "parts": 14.7059,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 17:50 UTC"
   }
  },
  "fermees": [
