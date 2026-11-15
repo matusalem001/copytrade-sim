@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 02:15 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 02:20 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 161 | 164 | 147 | 78 | +78.13 $ | +5.3 % | 14 | +1.4 ¢ | 9 min |
-| primm | 896 | 339 | 775 | 394 | +154.45 $ | +2.0 % | 121 | +3.3 ¢ | 4 min |
+| primm | 896 | 339 | 778 | 394 | +124.45 $ | +1.6 % | 118 | +3.3 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 12 | 5 | -32.41 $ | -27.0 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : +200.16 $ sur 9340 $ engagés (+2.1 %)**
+**Total réalisé : +170.16 $ sur 9370 $ engagés (+1.8 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,9 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 02:15 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Arizona State vs. UCF: O/U 43.5 | Over | 0.54 | 0.00 | -10.00 $ |
+| primm | Spread: Washington (-3.5) | Michigan State | 0.57 | 0.00 | -10.00 $ |
+| primm | Washington vs. Michigan State | Michigan State | 0.63 | 0.00 | -10.00 $ |
 | primm | Spread: Michigan State (-1.5) | Michigan State | 0.57 | 0.00 | -10.00 $ |
 | primm | Washington vs. Michigan State: O/U 43.5 | Over | 0.62 | 0.00 | -10.00 $ |
 | primm | Washington vs. Michigan State: O/U 41.5 | Over | 0.66 | 0.00 | -10.00 $ |
@@ -38,8 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 02:15 UTC** 
 | primm | Spread: Washington (-1.5) | Michigan State | 0.43 | 0.00 | -10.00 $ |
 | primm | Spread: Louisiana Tech (-17.5) | Louisiana Tech | 0.50 | 1.00 | +10.00 $ |
 | primm | Spread: Louisiana Tech (-18.5) | Louisiana Tech | 0.47 | 1.00 | +11.28 $ |
-| BreakTheBank | Total Kills Over/Under 27.5 in Game 4? | Over | 0.49 | 1.00 | +10.41 $ |
-| BreakTheBank | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Gen.G | 0.59 | 0.00 | -10.00 $ |
-| BreakTheBank | Game Handicap: GEN (-1.5) vs Bilibili Gaming (+1.5) | Gen.G | 0.43 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

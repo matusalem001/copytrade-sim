@@ -416,19 +416,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-14 22:45 UTC"
   },
-  "primm|29994716920928041337178893388180898836670102492384915891755022880413326158998": {
-   "date": "2026-11-14 22:55 UTC",
-   "trader": "primm",
-   "marche": "Washington vs. Michigan State",
-   "resultat": "Michigan State",
-   "prix_trader": 0.57,
-   "retard_min": 1.3,
-   "token": "29994716920928041337178893388180898836670102492384915891755022880413326158998",
-   "prix_simule": 0.63,
-   "parts": 15.873,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-14 22:55 UTC"
-  },
   "primm|50513815702438867551207732429829615349896095253833275209821704968928079899678": {
    "date": "2026-11-14 23:01 UTC",
    "trader": "primm",
@@ -530,19 +517,6 @@
    "token": "75594346284613903175648045053417705631452715391645549131143496628474006489415",
    "prix_simule": 0.47,
    "parts": 21.2766,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-14 23:20 UTC"
-  },
-  "primm|110841798968640349436265478973562092575509020438630299890004868285279221954188": {
-   "date": "2026-11-14 23:20 UTC",
-   "trader": "primm",
-   "marche": "Spread: Washington (-3.5)",
-   "resultat": "Michigan State",
-   "prix_trader": 0.56,
-   "retard_min": 2.3,
-   "token": "110841798968640349436265478973562092575509020438630299890004868285279221954188",
-   "prix_simule": 0.57,
-   "parts": 17.5439,
    "montant": 10.0,
    "ouvert_le": "2026-11-14 23:20 UTC"
   },
@@ -673,19 +647,6 @@
    "token": "13769133399932617996779099386822096797946513088390395535614111816425937514328",
    "prix_simule": 0.57,
    "parts": 17.5439,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-14 23:55 UTC"
-  },
-  "primm|67371896269128808905248523442301550341102673567763392359933116783075548465528": {
-   "date": "2026-11-14 23:55 UTC",
-   "trader": "primm",
-   "marche": "Arizona State vs. UCF: O/U 43.5",
-   "resultat": "Over",
-   "prix_trader": 0.52,
-   "retard_min": 0.8,
-   "token": "67371896269128808905248523442301550341102673567763392359933116783075548465528",
-   "prix_simule": 0.54,
-   "parts": 18.5185,
    "montant": 10.0,
    "ouvert_le": "2026-11-14 23:55 UTC"
   },
@@ -17633,6 +17594,57 @@
    "sortie": 0.0,
    "pnl": -10.0,
    "ferme_le": "2026-11-15 02:15 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-14 22:55 UTC",
+   "trader": "primm",
+   "marche": "Washington vs. Michigan State",
+   "resultat": "Michigan State",
+   "prix_trader": 0.57,
+   "retard_min": 1.3,
+   "token": "29994716920928041337178893388180898836670102492384915891755022880413326158998",
+   "prix_simule": 0.63,
+   "parts": 15.873,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 22:55 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-15 02:20 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-14 23:20 UTC",
+   "trader": "primm",
+   "marche": "Spread: Washington (-3.5)",
+   "resultat": "Michigan State",
+   "prix_trader": 0.56,
+   "retard_min": 2.3,
+   "token": "110841798968640349436265478973562092575509020438630299890004868285279221954188",
+   "prix_simule": 0.57,
+   "parts": 17.5439,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 23:20 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-15 02:20 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-14 23:55 UTC",
+   "trader": "primm",
+   "marche": "Arizona State vs. UCF: O/U 43.5",
+   "resultat": "Over",
+   "prix_trader": 0.52,
+   "retard_min": 0.8,
+   "token": "67371896269128808905248523442301550341102673567763392359933116783075548465528",
+   "prix_simule": 0.54,
+   "parts": 18.5185,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 23:55 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-15 02:20 UTC",
    "type": "perdu"
   }
  ]
