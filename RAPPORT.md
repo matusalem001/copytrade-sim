@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 05:45 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 05:50 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 162 | 165 | 153 | 83 | +106.01 $ | +6.9 % | 9 | +1.3 ¢ | 9 min |
-| primm | 1000 | 361 | 902 | 476 | +561.53 $ | +6.2 % | 98 | +3.2 ¢ | 4 min |
+| primm | 1000 | 361 | 904 | 477 | +557.66 $ | +6.2 % | 96 | +3.2 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 12 | 5 | -32.41 $ | -27.0 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : +635.13 $ sur 10670 $ engagés (+6.0 %)**
+**Total réalisé : +631.26 $ sur 10690 $ engagés (+5.9 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 05:45 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | North Texas vs. UTSA: O/U 49.5 | Over | 0.62 | 1.00 | +6.13 $ |
+| primm | North Texas vs. UTSA: O/U 49.5 | Under | 0.40 | 0.00 | -10.00 $ |
 | BreakTheBank | UFC 334: Amanda Nunes vs. Kayla Harrison (Women's Bantamweight, Main Card) | Kayla Harrison | 0.63 | 1.00 | +5.87 $ |
 | primm | Texas vs. LSU | Texas | 0.27 | 1.00 | +27.04 $ |
 | primm | Spread: LSU (-4.5) | LSU | 0.75 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 05:45 UTC** 
 | primm | South Carolina vs. Arkansas | South Carolina | 0.65 | 0.00 | -10.00 $ |
 | primm | Spread: Texas (-1.5) | Texas | 0.50 | 0.00 | -10.00 $ |
 | primm | Spread: South Carolina (-2.5) | Arkansas | 0.35 | 1.00 | +18.57 $ |
-| primm | Spread: South Carolina (-3.5) | Arkansas | 0.42 | 1.00 | +13.81 $ |
-| primm | Spread: South Carolina (-7.5) | Arkansas | 0.56 | 1.00 | +7.86 $ |
 
 Journal complet : `data/journal.csv`

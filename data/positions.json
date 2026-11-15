@@ -897,32 +897,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-15 04:15 UTC"
   },
-  "primm|28839738772923085623258825831395561071166224311189244112221065993459353336153": {
-   "date": "2026-11-15 04:15 UTC",
-   "trader": "primm",
-   "marche": "North Texas vs. UTSA: O/U 49.5",
-   "resultat": "Under",
-   "prix_trader": 0.29,
-   "retard_min": 2.3,
-   "token": "28839738772923085623258825831395561071166224311189244112221065993459353336153",
-   "prix_simule": 0.4,
-   "parts": 25.0,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-15 04:15 UTC"
-  },
-  "primm|37538374966683657774684156798715998124822225032388455704583966688931036278682": {
-   "date": "2026-11-15 04:15 UTC",
-   "trader": "primm",
-   "marche": "North Texas vs. UTSA: O/U 49.5",
-   "resultat": "Over",
-   "prix_trader": 0.65,
-   "retard_min": 2.2,
-   "token": "37538374966683657774684156798715998124822225032388455704583966688931036278682",
-   "prix_simule": 0.62,
-   "parts": 16.129,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-15 04:15 UTC"
-  },
   "primm|36639151841871556488099204441836246861729469888880514810249767624266209922095": {
    "date": "2026-11-15 04:15 UTC",
    "trader": "primm",
@@ -19530,6 +19504,40 @@
    "sortie": 1.0,
    "pnl": 5.873,
    "ferme_le": "2026-11-15 05:20 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-15 04:15 UTC",
+   "trader": "primm",
+   "marche": "North Texas vs. UTSA: O/U 49.5",
+   "resultat": "Under",
+   "prix_trader": 0.29,
+   "retard_min": 2.3,
+   "token": "28839738772923085623258825831395561071166224311189244112221065993459353336153",
+   "prix_simule": 0.4,
+   "parts": 25.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 04:15 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-15 05:50 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-15 04:15 UTC",
+   "trader": "primm",
+   "marche": "North Texas vs. UTSA: O/U 49.5",
+   "resultat": "Over",
+   "prix_trader": 0.65,
+   "retard_min": 2.2,
+   "token": "37538374966683657774684156798715998124822225032388455704583966688931036278682",
+   "prix_simule": 0.62,
+   "parts": 16.129,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 04:15 UTC",
+   "sortie": 1.0,
+   "pnl": 6.129,
+   "ferme_le": "2026-11-15 05:50 UTC",
    "type": "gagné"
   }
  ]
