@@ -2395,3 +2395,10 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 01:10 UTC,primm,ACHAT,Stanford vs. Virginia Tech: O/U 41.5,Over,0.69,0.86,17.0,3.8,11.6279,10.0,,
 2026-11-15 01:10 UTC,primm,ACHAT,Spread: New Mexico (-20.5),UNLV,0.42,0.45,3.0,2.9,22.2222,10.0,,
 2026-11-15 01:10 UTC,primm,ACHAT,Minnesota vs. Penn State: O/U 47.5,Under,0.52,0.52,0.0,2.8,19.2308,10.0,,
+2026-11-15 01:15 UTC,primm,ACHAT,Florida vs. Kentucky: O/U 37.5,Over,0.4,0.43,3.0,4.5,23.2558,10.0,,
+2026-11-15 01:15 UTC,primm,ACHAT,Spread: New Mexico (-24.5),UNLV,0.57,0.56,-1.0,4.2,17.8571,10.0,,
+2026-11-15 01:15 UTC,primm,ACHAT,Stanford vs. Virginia Tech,Virginia Tech,0.73,0.77,4.0,3.9,12.987,10.0,,
+2026-11-15 01:15 UTC,primm,ACHAT,Stanford vs. Virginia Tech: O/U 53.5,Over,0.58,0.55,-3.0,2.7,18.1818,10.0,,
+2026-11-15 01:15 UTC,primm,ACHAT,Minnesota vs. Penn State: O/U 45.5,Under,0.55,0.59,4.0,0.8,16.9492,10.0,,
+2026-11-15 01:15 UTC,BreakTheBank,REGLEMENT,LoL: Bilibili Gaming vs Gen.G - Game 3 Winner,Gen.G,,0.59,,,16.9492,0.0,-10.0,perdu
+2026-11-15 01:15 UTC,BreakTheBank,REGLEMENT,Total Kills Over/Under 24.5 in Game 3?,Over,,0.72,,,13.8889,13.89,3.89,gagné

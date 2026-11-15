@@ -455,19 +455,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-14 19:30 UTC"
   },
-  "BreakTheBank|32638308034813705091356217367248336719479631204939473971476873766917452625430": {
-   "date": "2026-11-14 20:35 UTC",
-   "trader": "BreakTheBank",
-   "marche": "LoL: Bilibili Gaming vs Gen.G - Game 3 Winner",
-   "resultat": "Gen.G",
-   "prix_trader": 0.57,
-   "retard_min": 5.5,
-   "token": "32638308034813705091356217367248336719479631204939473971476873766917452625430",
-   "prix_simule": 0.59,
-   "parts": 16.9492,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-14 20:35 UTC"
-  },
   "BreakTheBank|111295117298499903437272990573412053874738283976987580967764358619921644365334": {
    "date": "2026-11-14 20:40 UTC",
    "trader": "BreakTheBank",
@@ -480,19 +467,6 @@
    "parts": 16.9492,
    "montant": 10.0,
    "ouvert_le": "2026-11-14 20:40 UTC"
-  },
-  "BreakTheBank|91322891933619026654633052461425753844570922472627076707940669708557840555223": {
-   "date": "2026-11-14 22:00 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Total Kills Over/Under 24.5 in Game 3?",
-   "resultat": "Over",
-   "prix_trader": 0.66,
-   "retard_min": 6.8,
-   "token": "91322891933619026654633052461425753844570922472627076707940669708557840555223",
-   "prix_simule": 0.72,
-   "parts": 13.8889,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-14 22:00 UTC"
   },
   "BreakTheBank|20908904873479774680808176794778657350737734878479528817857590639348359466859": {
    "date": "2026-11-14 22:15 UTC",
@@ -1650,6 +1624,71 @@
    "parts": 19.2308,
    "montant": 10.0,
    "ouvert_le": "2026-11-15 01:10 UTC"
+  },
+  "primm|7532176268983637312126282896666618140203301432218978615894430312520860501962": {
+   "date": "2026-11-15 01:15 UTC",
+   "trader": "primm",
+   "marche": "Florida vs. Kentucky: O/U 37.5",
+   "resultat": "Over",
+   "prix_trader": 0.4,
+   "retard_min": 4.5,
+   "token": "7532176268983637312126282896666618140203301432218978615894430312520860501962",
+   "prix_simule": 0.43,
+   "parts": 23.2558,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 01:15 UTC"
+  },
+  "primm|37162540614944262747872147331699648762374800418410928869927574361062540932592": {
+   "date": "2026-11-15 01:15 UTC",
+   "trader": "primm",
+   "marche": "Spread: New Mexico (-24.5)",
+   "resultat": "UNLV",
+   "prix_trader": 0.57,
+   "retard_min": 4.2,
+   "token": "37162540614944262747872147331699648762374800418410928869927574361062540932592",
+   "prix_simule": 0.56,
+   "parts": 17.8571,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 01:15 UTC"
+  },
+  "primm|962641213434202398107305179698799544321024624184725365881171717862513866126": {
+   "date": "2026-11-15 01:15 UTC",
+   "trader": "primm",
+   "marche": "Stanford vs. Virginia Tech",
+   "resultat": "Virginia Tech",
+   "prix_trader": 0.73,
+   "retard_min": 3.9,
+   "token": "962641213434202398107305179698799544321024624184725365881171717862513866126",
+   "prix_simule": 0.77,
+   "parts": 12.987,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 01:15 UTC"
+  },
+  "primm|70680408172021622920154903200246538114324153538390608853024694789046081450934": {
+   "date": "2026-11-15 01:15 UTC",
+   "trader": "primm",
+   "marche": "Stanford vs. Virginia Tech: O/U 53.5",
+   "resultat": "Over",
+   "prix_trader": 0.58,
+   "retard_min": 2.7,
+   "token": "70680408172021622920154903200246538114324153538390608853024694789046081450934",
+   "prix_simule": 0.55,
+   "parts": 18.1818,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 01:15 UTC"
+  },
+  "primm|97136818731348311097205250964912704267572924470925685498261469347533843742791": {
+   "date": "2026-11-15 01:15 UTC",
+   "trader": "primm",
+   "marche": "Minnesota vs. Penn State: O/U 45.5",
+   "resultat": "Under",
+   "prix_trader": 0.55,
+   "retard_min": 0.8,
+   "token": "97136818731348311097205250964912704267572924470925685498261469347533843742791",
+   "prix_simule": 0.59,
+   "parts": 16.9492,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 01:15 UTC"
   }
  },
  "fermees": [
@@ -16969,6 +17008,40 @@
    "pnl": -10.0,
    "ferme_le": "2026-11-15 01:06 UTC",
    "type": "perdu"
+  },
+  {
+   "date": "2026-11-14 20:35 UTC",
+   "trader": "BreakTheBank",
+   "marche": "LoL: Bilibili Gaming vs Gen.G - Game 3 Winner",
+   "resultat": "Gen.G",
+   "prix_trader": 0.57,
+   "retard_min": 5.5,
+   "token": "32638308034813705091356217367248336719479631204939473971476873766917452625430",
+   "prix_simule": 0.59,
+   "parts": 16.9492,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 20:35 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-15 01:15 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-14 22:00 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Total Kills Over/Under 24.5 in Game 3?",
+   "resultat": "Over",
+   "prix_trader": 0.66,
+   "retard_min": 6.8,
+   "token": "91322891933619026654633052461425753844570922472627076707940669708557840555223",
+   "prix_simule": 0.72,
+   "parts": 13.8889,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 22:00 UTC",
+   "sortie": 1.0,
+   "pnl": 3.8889,
+   "ferme_le": "2026-11-15 01:15 UTC",
+   "type": "gagné"
   }
  ]
 }
