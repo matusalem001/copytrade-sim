@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 00:55 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 01:01 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 161 | 159 | 135 | 72 | +90.66 $ | +6.7 % | 26 | +1.4 ¢ | 9 min |
-| primm | 841 | 301 | 741 | 377 | +136.16 $ | +1.8 % | 100 | +3.2 ¢ | 4 min |
+| BreakTheBank | 161 | 159 | 136 | 72 | +80.66 $ | +5.9 % | 25 | +1.4 ¢ | 9 min |
+| primm | 852 | 304 | 741 | 377 | +136.16 $ | +1.8 % | 111 | +3.2 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 12 | 5 | -32.41 $ | -27.0 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : +194.41 $ sur 8880 $ engagés (+2.2 %)**
+**Total réalisé : +184.41 $ sur 8890 $ engagés (+2.1 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 00:55 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Total Kills Over/Under 24.5 in Game 1? | Over | 0.66 | 0.00 | -10.00 $ |
 | primm | Spread: Texas State (-9.5) | Fresno State | 0.46 | 1.00 | +11.74 $ |
 | primm | Spread: Texas State (-6.5) | Fresno State | 0.33 | 1.00 | +20.30 $ |
 | BreakTheBank | Total Kills Over/Under 27.5 in Game 2? | Over | 0.48 | 1.00 | +10.83 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 00:55 UTC** 
 | primm | Michigan vs. Oregon: O/U 43.5 | Over | 0.59 | 0.00 | -10.00 $ |
 | primm | Spread: Kansas (-1.5) | West Virginia | 0.55 | 0.00 | -10.00 $ |
 | primm | Spread: West Virginia (-2.5) | West Virginia | 0.50 | 0.00 | -10.00 $ |
-| primm | Spread: Georgia (-13.5) | Missouri | 0.42 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
