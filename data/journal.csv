@@ -2988,3 +2988,9 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 15:45 UTC,primm,ACHAT,Spread: Lions (-13.5),Patriots,0.37,0.33,-4.0,4.4,30.303,10.0,,
 2026-11-15 15:45 UTC,primm,ACHAT,Patriots vs. Lions: O/U 40.5,Over,0.62,0.61,-1.0,4.1,16.3934,10.0,,
 2026-11-15 15:45 UTC,primm,ACHAT,Spread: Lions (-14.5),Patriots,0.37,0.37,0.0,1.3,27.027,10.0,,
+2026-11-15 15:50 UTC,primm,IGNORE,Spread: Lions (-20.5),Patriots,0.59,0.44,-15.0,3.5,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:50 UTC,primm,IGNORE,Spread: Lions (-17.5),Patriots,0.48,0.33,-15.0,3.5,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:50 UTC,primm,IGNORE,Spread: Lions (-17.5),Patriots,0.48,0.33,-15.0,3.4,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:50 UTC,primm,IGNORE,Spread: Lions (-17.5),Patriots,0.48,0.33,-15.0,3.3,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:50 UTC,primm,IGNORE,Spread: Lions (-17.5),Patriots,0.48,0.33,-15.0,3.3,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:50 UTC,primm,IGNORE,Spread: Lions (-17.5),Patriots,0.48,0.33,-15.0,3.3,,,,prix a trop chuté (match sans doute joué)
