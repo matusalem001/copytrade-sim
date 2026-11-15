@@ -2335,3 +2335,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 00:30 UTC,primm,REGLEMENT,USC vs. Indiana: O/U 45.5,Over,,0.52,,,19.2308,0.0,-10.0,perdu
 2026-11-15 00:30 UTC,primm,REGLEMENT,Spread: Indiana (-16.5),Indiana,,0.33,,,30.303,0.0,-10.0,perdu
 2026-11-15 00:30 UTC,primm,REGLEMENT,Spread: Indiana (-10.5),USC,,0.82,,,12.1951,0.0,-10.0,perdu
+2026-11-15 00:35 UTC,BreakTheBank,ACHAT,Spread: Grizzlies (-3.5),Grizzlies,0.53,0.54,1.0,2.9,18.5185,10.0,,
+2026-11-15 00:35 UTC,BreakTheBank,ACHAT,Spread: Grizzlies (-5.5),Grizzlies,0.45,0.46,1.0,2.8,21.7391,10.0,,
+2026-11-15 00:35 UTC,primm,IGNORE,Spread: Air Force (-13.5),Air Force,0.59,0.52,-7.0,12.0,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 00:35 UTC,primm,REGLEMENT,Auburn vs. Mississippi State: O/U 49.5,Over,,0.56,,,17.8571,17.86,7.86,gagné
