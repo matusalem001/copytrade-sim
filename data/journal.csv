@@ -2440,3 +2440,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 01:45 UTC,primm,ACHAT,South Carolina vs. Arkansas,South Carolina,0.61,0.65,4.0,0.6,15.3846,10.0,,
 2026-11-15 01:45 UTC,primm,ACHAT,Spread: South Carolina (-3.5),South Carolina,0.47,0.64,17.0,0.6,15.625,10.0,,
 2026-11-15 01:45 UTC,primm,ACHAT,Spread: South Carolina (-5.5),South Carolina,0.4089,0.52,11.1,0.6,19.2308,10.0,,
+2026-11-15 01:50 UTC,BreakTheBank,IGNORE,Games Total: O/U 4.5,Under,0.52,,,192.2,,,,vu trop tard
+2026-11-15 01:50 UTC,BreakTheBank,IGNORE,Games Total: O/U 4.5,Under,0.51,,,188.0,,,,vu trop tard
+2026-11-15 01:50 UTC,primm,REGLEMENT,Spread: Louisiana Tech (-18.5),Louisiana Tech,,0.47,,,21.2766,21.28,11.28,gagné
+2026-11-15 01:50 UTC,primm,REGLEMENT,Spread: Louisiana Tech (-17.5),Louisiana Tech,,0.5,,,20.0,20.0,10.0,gagné
