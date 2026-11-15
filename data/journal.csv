@@ -2759,3 +2759,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 05:05 UTC,primm,ACHAT,Texas Tech vs. Oklahoma State: O/U 73.5,Under,0.16,0.16,0.0,2.5,62.5,10.0,,
 2026-11-15 05:05 UTC,primm,ACHAT,Spread: Texas Tech (-14.5),Texas Tech,0.44,0.44,0.0,2.5,22.7273,10.0,,
 2026-11-15 05:05 UTC,primm,ACHAT,Spread: Texas Tech (-16.5),Texas Tech,0.34,0.35,1.0,2.5,28.5714,10.0,,
+2026-11-15 05:15 UTC,primm,IGNORE,North Texas vs. UTSA: O/U 43.5,Over,0.63,0.56,-7.0,3.0,,,,prix a trop chuté (match sans doute joué)
