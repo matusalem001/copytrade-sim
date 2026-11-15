@@ -2893,3 +2893,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 14:10 UTC,BreakTheBank,ACHAT,Patriots vs. Lions,Lions,0.58,0.59,1.0,8.7,16.9492,10.0,,
 2026-11-15 14:15 UTC,BreakTheBank,IGNORE,"UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",Ciryl Gane,0.67,,,548.8,,,,vu trop tard
 2026-11-15 14:15 UTC,BreakTheBank,IGNORE,"UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",Ciryl Gane,0.67,,,541.9,,,,vu trop tard
+2026-11-15 14:20 UTC,primm,ACHAT,Spread: Colts (-7.5),Colts,0.38,0.39,1.0,4.8,25.641,10.0,,
+2026-11-15 14:20 UTC,primm,ACHAT,Spread: Colts (-6.5),Colts,0.44,0.45,1.0,4.8,22.2222,10.0,,
+2026-11-15 14:20 UTC,primm,ACHAT,Spread: Colts (-5.5),Colts,0.47,0.48,1.0,4.8,20.8333,10.0,,
+2026-11-15 14:20 UTC,primm,ACHAT,Spread: Colts (-9.5),Colts,0.34,0.35,1.0,4.5,28.5714,10.0,,
