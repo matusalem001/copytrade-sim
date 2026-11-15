@@ -3395,3 +3395,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 23:25 UTC,primm,ACHAT,Spread: 49ers (-9.5),49ers,0.3697,0.34,-3.0,5.3,29.4118,10.0,,
 2026-11-15 23:25 UTC,primm,ACHAT,49ers vs. Cowboys: O/U 64.5,Over,0.55,0.57,2.0,5.3,17.5439,10.0,,
 2026-11-15 23:25 UTC,primm,REGLEMENT,Rams vs. Cardinals: O/U 32.5,Over,,0.62,,,16.129,16.13,6.13,gagné
+2026-11-15 23:30 UTC,primm,IGNORE,49ers vs. Cowboys: O/U 64.5,Under,0.46,0.24,-22.0,3.5,,,,prix a trop chuté (match sans doute joué)
