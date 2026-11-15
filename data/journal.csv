@@ -2985,3 +2985,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 15:30 UTC,juice-fruit,REGLEMENT,"ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Rafael Jodar",Rafael Jodar,,0.3,,,33.3333,0.0,-10.0,perdu
 2026-11-15 15:35 UTC,primm,IGNORE,Utah vs. Arizona: O/U 69.5,Over,0.51,,,540.7,,,,vu trop tard
 2026-11-15 15:40 UTC,primm,IGNORE,Utah vs. Arizona,Arizona,0.43,,,514.3,,,,vu trop tard
+2026-11-15 15:45 UTC,primm,ACHAT,Spread: Lions (-13.5),Patriots,0.37,0.33,-4.0,4.4,30.303,10.0,,
+2026-11-15 15:45 UTC,primm,ACHAT,Patriots vs. Lions: O/U 40.5,Over,0.62,0.61,-1.0,4.1,16.3934,10.0,,
+2026-11-15 15:45 UTC,primm,ACHAT,Spread: Lions (-14.5),Patriots,0.37,0.37,0.0,1.3,27.027,10.0,,
