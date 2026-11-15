@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 04:10 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 04:16 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 162 | 165 | 151 | 82 | +110.14 $ | +7.3 % | 11 | +1.3 ¢ | 9 min |
-| primm | 959 | 358 | 858 | 445 | +340.83 $ | +4.0 % | 101 | +3.3 ¢ | 4 min |
+| primm | 966 | 358 | 860 | 447 | +357.68 $ | +4.2 % | 106 | +3.2 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 12 | 5 | -32.41 $ | -27.0 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : +418.56 $ sur 10210 $ engagés (+4.1 %)**
+**Total réalisé : +435.41 $ sur 10230 $ engagés (+4.3 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 04:10 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Stanford vs. Virginia Tech: O/U 61.5 | Over | 0.51 | 1.00 | +9.61 $ |
+| primm | Stanford vs. Virginia Tech: O/U 59.5 | Over | 0.58 | 1.00 | +7.24 $ |
 | primm | UNLV vs. New Mexico | New Mexico | 0.28 | 0.00 | -10.00 $ |
 | primm | Spread: New Mexico (-10.5) | UNLV | 0.32 | 1.00 | +21.25 $ |
 | primm | UNLV vs. New Mexico: O/U 47.5 | Over | 0.53 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 04:10 UTC** 
 | primm | Stanford vs. Virginia Tech: O/U 47.5 | Over | 0.60 | 1.00 | +6.67 $ |
 | primm | Spread: Iowa (-24.5) | Purdue | 0.57 | 1.00 | +7.54 $ |
 | primm | Spread: Iowa (-23.5) | Purdue | 0.63 | 1.00 | +5.87 $ |
-| primm | Spread: Iowa (-17.5) | Purdue | 0.49 | 0.00 | -10.00 $ |
-| primm | Spread: Iowa (-11.5) | Purdue | 0.38 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
