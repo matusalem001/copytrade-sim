@@ -3296,3 +3296,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 22:55 UTC,primm,IGNORE,Spread: Bills (-20.5),Jets,0.79,,,149.7,,,,vu trop tard
 2026-11-15 22:55 UTC,primm,ACHAT,Rams vs. Cardinals: O/U 46.5,Under,0.61,0.57,-4.0,2.9,17.5439,10.0,,
 2026-11-15 23:05 UTC,primm,IGNORE,Spread: Texans (-3.5),Texans,0.69,,,139.0,,,,vu trop tard
+2026-11-15 23:15 UTC,primm,REGLEMENT,Seahawks vs. Raiders: O/U 28.5,Under,,0.14,,,71.4286,0.0,-10.0,perdu
