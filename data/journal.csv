@@ -3145,3 +3145,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 20:31 UTC,primm,ACHAT,Spread: Bills (-20.5),Jets,0.79,0.83,4.0,5.4,12.0482,10.0,,
 2026-11-15 20:31 UTC,primm,REGLEMENT,Dolphins vs. Colts: O/U 36.5,Under,,0.54,,,18.5185,0.0,-10.0,perdu
 2026-11-15 20:35 UTC,primm,ACHAT,Texans vs. Browns,Texans,0.59,0.6,1.0,0.3,16.6667,10.0,,
+2026-11-15 20:40 UTC,BreakTheBank,ACHAT,Spread: 49ers (-1.5),Cowboys,0.38,0.39,1.0,6.1,25.641,10.0,,
+2026-11-15 20:40 UTC,primm,ACHAT,Vikings vs. Packers: O/U 44.5,Under,0.59,0.62,3.0,2.7,16.129,10.0,,
+2026-11-15 20:40 UTC,primm,ACHAT,Spread: Saints (-3.5),Saints,0.29,0.33,4.0,0.8,30.303,10.0,,
