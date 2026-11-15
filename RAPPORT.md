@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 04:31 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 04:35 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 162 | 165 | 152 | 82 | +100.14 $ | +6.6 % | 10 | +1.3 ¢ | 9 min |
-| primm | 975 | 358 | 873 | 457 | +435.14 $ | +5.0 % | 102 | +3.3 ¢ | 4 min |
+| primm | 976 | 359 | 874 | 458 | +445.55 $ | +5.1 % | 102 | +3.3 ¢ | 4 min |
 | juice-fruit | 12 | 2 | 12 | 5 | -32.41 $ | -27.0 % | 0 | -1.3 ¢ | 5 min |
 
-**Total réalisé : +502.87 $ sur 10370 $ engagés (+4.8 %)**
+**Total réalisé : +513.27 $ sur 10380 $ engagés (+4.9 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 04:31 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | South Carolina vs. Arkansas: O/U 39.5 | Over | 0.49 | 1.00 | +10.41 $ |
 | primm | Spread: Stanford (-13.5) | Stanford | 0.55 | 1.00 | +8.18 $ |
 | primm | Spread: Stanford (-16.5) | Stanford | 0.54 | 1.00 | +8.52 $ |
 | primm | Spread: Stanford (-10.5) | Stanford | 0.31 | 1.00 | +22.26 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 04:31 UTC** 
 | primm | UNLV vs. New Mexico: O/U 39.5 | Over | 0.59 | 0.00 | -10.00 $ |
 | primm | Spread: New Mexico (-27.5) | UNLV | 0.71 | 1.00 | +4.08 $ |
 | primm | UNLV vs. New Mexico: O/U 45.5 | Under | 0.83 | 1.00 | +2.05 $ |
-| primm | Spread: New Mexico (-16.5) | UNLV | 0.35 | 1.00 | +18.57 $ |
 
 Journal complet : `data/journal.csv`
