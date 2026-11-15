@@ -1325,6 +1325,32 @@
    "parts": 17.5439,
    "montant": 10.0,
    "ouvert_le": "2026-11-15 05:20 UTC"
+  },
+  "primm|73268121510976747181670610686533517510444812887039043883804756681857448497482": {
+   "date": "2026-11-15 05:25 UTC",
+   "trader": "primm",
+   "marche": "North Dakota State vs. Hawai'i",
+   "resultat": "Hawaii",
+   "prix_trader": 0.18,
+   "retard_min": 3.9,
+   "token": "73268121510976747181670610686533517510444812887039043883804756681857448497482",
+   "prix_simule": 0.2,
+   "parts": 50.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 05:25 UTC"
+  },
+  "primm|33446909695035642730786682937111847759931503543302263780121454991993208114612": {
+   "date": "2026-11-15 05:25 UTC",
+   "trader": "primm",
+   "marche": "Spread: North Dakota State (-7.5)",
+   "resultat": "Hawaii",
+   "prix_trader": 0.49,
+   "retard_min": 3.9,
+   "token": "33446909695035642730786682937111847759931503543302263780121454991993208114612",
+   "prix_simule": 0.49,
+   "parts": 20.4082,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 05:25 UTC"
   }
  },
  "fermees": [
