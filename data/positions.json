@@ -676,19 +676,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-14 22:45 UTC"
   },
-  "primm|70219017375913309910934137755133924999616821247825229009667481320828871618408": {
-   "date": "2026-11-14 22:50 UTC",
-   "trader": "primm",
-   "marche": "Spread: Texas State (-6.5)",
-   "resultat": "Fresno State",
-   "prix_trader": 0.32,
-   "retard_min": 2.9,
-   "token": "70219017375913309910934137755133924999616821247825229009667481320828871618408",
-   "prix_simule": 0.33,
-   "parts": 30.303,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-14 22:50 UTC"
-  },
   "primm|88643687628100902013682480247154012786528536198614189187927217631512586770099": {
    "date": "2026-11-14 22:50 UTC",
    "trader": "primm",
@@ -777,19 +764,6 @@
    "token": "60501626604635373840719369744970584673030625128766622276697027793864712261850",
    "prix_simule": 0.31,
    "parts": 32.2581,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-14 23:01 UTC"
-  },
-  "primm|67057457110964851000795048858292034483480248992869172775349756529674827342305": {
-   "date": "2026-11-14 23:01 UTC",
-   "trader": "primm",
-   "marche": "Spread: Texas State (-9.5)",
-   "resultat": "Fresno State",
-   "prix_trader": 0.45,
-   "retard_min": 2.3,
-   "token": "67057457110964851000795048858292034483480248992869172775349756529674827342305",
-   "prix_simule": 0.46,
-   "parts": 21.7391,
    "montant": 10.0,
    "ouvert_le": "2026-11-14 23:01 UTC"
   },
@@ -1520,6 +1494,19 @@
    "parts": 15.873,
    "montant": 10.0,
    "ouvert_le": "2026-11-15 00:40 UTC"
+  },
+  "BreakTheBank|3579412489280864955800901839533298087003308036595630976581663622607856824818": {
+   "date": "2026-11-15 00:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Nets vs. Grizzlies",
+   "resultat": "Grizzlies",
+   "prix_trader": 0.63,
+   "retard_min": 5.7,
+   "token": "3579412489280864955800901839533298087003308036595630976581663622607856824818",
+   "prix_simule": 0.64,
+   "parts": 15.625,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 00:45 UTC"
   }
  },
  "fermees": [
@@ -16583,6 +16570,40 @@
    "sortie": 1.0,
    "pnl": 10.8333,
    "ferme_le": "2026-11-15 00:40 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-14 22:50 UTC",
+   "trader": "primm",
+   "marche": "Spread: Texas State (-6.5)",
+   "resultat": "Fresno State",
+   "prix_trader": 0.32,
+   "retard_min": 2.9,
+   "token": "70219017375913309910934137755133924999616821247825229009667481320828871618408",
+   "prix_simule": 0.33,
+   "parts": 30.303,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 22:50 UTC",
+   "sortie": 1.0,
+   "pnl": 20.303,
+   "ferme_le": "2026-11-15 00:45 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-14 23:01 UTC",
+   "trader": "primm",
+   "marche": "Spread: Texas State (-9.5)",
+   "resultat": "Fresno State",
+   "prix_trader": 0.45,
+   "retard_min": 2.3,
+   "token": "67057457110964851000795048858292034483480248992869172775349756529674827342305",
+   "prix_simule": 0.46,
+   "parts": 21.7391,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 23:01 UTC",
+   "sortie": 1.0,
+   "pnl": 11.7391,
+   "ferme_le": "2026-11-15 00:45 UTC",
    "type": "gagné"
   }
  ]
