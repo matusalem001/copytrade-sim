@@ -3292,3 +3292,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 22:30 UTC,primm,ACHAT,Rams vs. Cardinals: O/U 38.5,Over,0.44,0.65,21.0,4.4,15.3846,10.0,,
 2026-11-15 22:35 UTC,BreakTheBank,ACHAT,Spread: Rams (-16.5),Rams,0.53,0.54,1.0,1.9,18.5185,10.0,,
 2026-11-15 22:50 UTC,primm,IGNORE,Seahawks vs. Raiders: O/U 34.5,Under,0.48,0.18,-30.0,8.3,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 22:55 UTC,primm,IGNORE,Spread: Colts (-10.5),Colts,0.35,,,160.4,,,,vu trop tard
+2026-11-15 22:55 UTC,primm,IGNORE,Spread: Bills (-20.5),Jets,0.79,,,149.7,,,,vu trop tard
+2026-11-15 22:55 UTC,primm,ACHAT,Rams vs. Cardinals: O/U 46.5,Under,0.61,0.57,-4.0,2.9,17.5439,10.0,,
