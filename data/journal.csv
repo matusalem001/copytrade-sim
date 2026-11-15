@@ -2614,3 +2614,19 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 03:45 UTC,primm,REGLEMENT,Baylor vs. BYU: O/U 47.5,Under,,0.51,,,19.6078,19.61,9.61,gagné
 2026-11-15 03:45 UTC,primm,REGLEMENT,Spread: Louisville (-4.5),North Carolina,,0.51,,,19.6078,19.61,9.61,gagné
 2026-11-15 03:45 UTC,primm,REGLEMENT,Stanford vs. Virginia Tech: O/U 41.5,Over,,0.86,,,11.6279,11.63,1.63,gagné
+2026-11-15 03:50 UTC,primm,ACHAT,Utah vs. Arizona: O/U 55.5,Over,0.61,0.61,0.0,1.7,16.3934,10.0,,
+2026-11-15 03:50 UTC,primm,REGLEMENT,Spread: Penn State (-14.5),Penn State,,0.42,,,23.8095,23.81,13.81,gagné
+2026-11-15 03:50 UTC,primm,REGLEMENT,Spread: BYU (-7.5),BYU,,0.53,,,18.8679,18.87,8.87,gagné
+2026-11-15 03:50 UTC,primm,REGLEMENT,Spread: BYU (-14.5),BYU,,0.46,,,21.7391,21.74,11.74,gagné
+2026-11-15 03:50 UTC,primm,REGLEMENT,Louisville vs. North Carolina: O/U 59.5,Under,,0.6,,,16.6667,16.67,6.67,gagné
+2026-11-15 03:50 UTC,primm,REGLEMENT,San Jose State vs. Air Force: O/U 51.5,Under,,0.59,,,16.9492,16.95,6.95,gagné
+2026-11-15 03:50 UTC,BreakTheBank,REGLEMENT,Spread: Grizzlies (-1.5),Grizzlies,,0.62,,,16.129,16.13,6.13,gagné
+2026-11-15 03:50 UTC,primm,REGLEMENT,Spread: Louisville (-3.5),North Carolina,,0.6,,,16.6667,16.67,6.67,gagné
+2026-11-15 03:50 UTC,BreakTheBank,REGLEMENT,Spread: Grizzlies (-3.5),Grizzlies,,0.54,,,18.5185,18.52,8.52,gagné
+2026-11-15 03:50 UTC,BreakTheBank,REGLEMENT,Spread: Grizzlies (-5.5),Grizzlies,,0.46,,,21.7391,21.74,11.74,gagné
+2026-11-15 03:50 UTC,BreakTheBank,REGLEMENT,Nets vs. Grizzlies,Grizzlies,,0.64,,,15.625,15.62,5.62,gagné
+2026-11-15 03:50 UTC,primm,REGLEMENT,Spread: Louisville (-7.5),North Carolina,,0.52,,,19.2308,19.23,9.23,gagné
+2026-11-15 03:50 UTC,primm,REGLEMENT,Spread: Louisville (-2.5),North Carolina,,0.31,,,32.2581,32.26,22.26,gagné
+2026-11-15 03:50 UTC,primm,REGLEMENT,Spread: Louisville (-5.5),North Carolina,,0.48,,,20.8333,20.83,10.83,gagné
+2026-11-15 03:50 UTC,primm,REGLEMENT,Louisville vs. North Carolina,North Carolina,,0.27,,,37.037,0.0,-10.0,perdu
+2026-11-15 03:50 UTC,primm,REGLEMENT,Spread: Louisville (-6.5),North Carolina,,0.55,,,18.1818,18.18,8.18,gagné
