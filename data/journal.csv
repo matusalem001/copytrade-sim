@@ -3081,3 +3081,14 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 18:40 UTC,primm,ACHAT,Spread: Bills (-5.5),Jets,0.34,0.34,0.0,0.2,29.4118,10.0,,
 2026-11-15 18:40 UTC,primm,ACHAT,Spread: Bills (-9.5),Jets,0.49,0.49,0.0,0.2,20.4082,10.0,,
 2026-11-15 18:40 UTC,primm,ACHAT,Spread: Bills (-7.5),Jets,0.44,0.44,0.0,0.2,22.7273,10.0,,
+2026-11-15 18:45 UTC,primm,IGNORE,Patriots vs. Lions: O/U 48.5,Under,0.38,,,227.4,,,,vu trop tard
+2026-11-15 18:45 UTC,primm,IGNORE,Patriots vs. Lions: O/U 48.5,Over,0.25,,,178.6,,,,vu trop tard
+2026-11-15 18:45 UTC,primm,IGNORE,Spread: Lions (-17.5),Patriots,0.48,,,178.4,,,,vu trop tard
+2026-11-15 18:45 UTC,primm,IGNORE,Spread: Lions (-17.5),Patriots,0.48,,,178.4,,,,vu trop tard
+2026-11-15 18:45 UTC,primm,ACHAT,Bills vs. Jets: O/U 48.5,Under,0.53,0.59,6.0,4.2,16.9492,10.0,,
+2026-11-15 18:45 UTC,primm,ACHAT,Spread: Colts (-10.5),Colts,0.43,0.4,-3.0,2.2,25.0,10.0,,
+2026-11-15 18:45 UTC,primm,ACHAT,Dolphins vs. Colts,Colts,0.79,0.78,-1.0,2.2,12.8205,10.0,,
+2026-11-15 18:45 UTC,primm,ACHAT,Spread: Chiefs (-7.5),Chiefs,0.55,0.65,10.0,1.1,15.3846,10.0,,
+2026-11-15 18:45 UTC,primm,ACHAT,Spread: Colts (-14.5),Colts,0.32,0.29,-3.0,0.8,34.4828,10.0,,
+2026-11-15 18:45 UTC,primm,ACHAT,Spread: Colts (-13.5),Colts,0.36,0.36,0.0,0.8,27.7778,10.0,,
+2026-11-15 18:45 UTC,primm,ACHAT,Spread: Colts (-16.5),Colts,0.28,0.27,-1.0,0.8,37.037,10.0,,
