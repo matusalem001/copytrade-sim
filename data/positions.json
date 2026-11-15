@@ -481,19 +481,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-14 22:15 UTC"
   },
-  "BreakTheBank|96670466961461654048513922140685352259879716088041948372094278484353543160756": {
-   "date": "2026-11-14 22:35 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Total Kills Over/Under 24.5 in Game 4?",
-   "resultat": "Over",
-   "prix_trader": 0.67,
-   "retard_min": 8.7,
-   "token": "96670466961461654048513922140685352259879716088041948372094278484353543160756",
-   "prix_simule": 0.7,
-   "parts": 14.2857,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-14 22:35 UTC"
-  },
   "primm|633643454323774393321095374853041392035266673479168362320818963544701277459": {
    "date": "2026-11-14 22:45 UTC",
    "trader": "primm",
@@ -688,19 +675,6 @@
    "parts": 21.7391,
    "montant": 10.0,
    "ouvert_le": "2026-11-14 23:10 UTC"
-  },
-  "BreakTheBank|12684960650146587017220103122008013559077766727761885547576124644130295644769": {
-   "date": "2026-11-14 23:15 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Game Handicap: BLG (-1.5) vs Gen.G (+1.5)",
-   "resultat": "Bilibili Gaming",
-   "prix_trader": 0.46,
-   "retard_min": 5.7,
-   "token": "12684960650146587017220103122008013559077766727761885547576124644130295644769",
-   "prix_simule": 0.47,
-   "parts": 21.2766,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-14 23:15 UTC"
   },
   "primm|14996568066166928948392383941122741886619408270496856454752339272813108195480": {
    "date": "2026-11-14 23:15 UTC",
@@ -17041,6 +17015,40 @@
    "sortie": 1.0,
    "pnl": 3.8889,
    "ferme_le": "2026-11-15 01:15 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-14 22:35 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Total Kills Over/Under 24.5 in Game 4?",
+   "resultat": "Over",
+   "prix_trader": 0.67,
+   "retard_min": 8.7,
+   "token": "96670466961461654048513922140685352259879716088041948372094278484353543160756",
+   "prix_simule": 0.7,
+   "parts": 14.2857,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 22:35 UTC",
+   "sortie": 1.0,
+   "pnl": 4.2857,
+   "ferme_le": "2026-11-15 01:20 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-14 23:15 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Game Handicap: BLG (-1.5) vs Gen.G (+1.5)",
+   "resultat": "Bilibili Gaming",
+   "prix_trader": 0.46,
+   "retard_min": 5.7,
+   "token": "12684960650146587017220103122008013559077766727761885547576124644130295644769",
+   "prix_simule": 0.47,
+   "parts": 21.2766,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-14 23:15 UTC",
+   "sortie": 1.0,
+   "pnl": 11.2766,
+   "ferme_le": "2026-11-15 01:20 UTC",
    "type": "gagné"
   }
  ]

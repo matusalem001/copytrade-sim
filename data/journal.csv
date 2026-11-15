@@ -2402,3 +2402,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 01:15 UTC,primm,ACHAT,Minnesota vs. Penn State: O/U 45.5,Under,0.55,0.59,4.0,0.8,16.9492,10.0,,
 2026-11-15 01:15 UTC,BreakTheBank,REGLEMENT,LoL: Bilibili Gaming vs Gen.G - Game 3 Winner,Gen.G,,0.59,,,16.9492,0.0,-10.0,perdu
 2026-11-15 01:15 UTC,BreakTheBank,REGLEMENT,Total Kills Over/Under 24.5 in Game 3?,Over,,0.72,,,13.8889,13.89,3.89,gagné
+2026-11-15 01:20 UTC,primm,IGNORE,Louisville vs. North Carolina,North Carolina,0.31,,,28.7,,,,vu trop tard
+2026-11-15 01:20 UTC,BreakTheBank,REGLEMENT,Total Kills Over/Under 24.5 in Game 4?,Over,,0.7,,,14.2857,14.29,4.29,gagné
+2026-11-15 01:20 UTC,BreakTheBank,REGLEMENT,Game Handicap: BLG (-1.5) vs Gen.G (+1.5),Bilibili Gaming,,0.47,,,21.2766,21.28,11.28,gagné
