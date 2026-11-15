@@ -3124,3 +3124,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 19:25 UTC,primm,ACHAT,Spread: Vikings (-17.5),Vikings,0.385,0.509,12.4,1.7,19.6464,10.0,,
 2026-11-15 19:30 UTC,primm,ACHAT,Spread: Texans (-9.5),Browns,0.51,0.53,2.0,4.2,18.8679,10.0,,
 2026-11-15 19:30 UTC,primm,ACHAT,Bills vs. Jets,Bills,0.85,0.88,3.0,4.0,11.3636,10.0,,
+2026-11-15 19:40 UTC,primm,ACHAT,Spread: Vikings (-16.5),Vikings,0.35,0.36,1.0,7.0,27.7778,10.0,,
+2026-11-15 19:40 UTC,primm,ACHAT,Spread: Bills (-6.5),Jets,0.37,0.39,2.0,4.2,25.641,10.0,,
+2026-11-15 19:40 UTC,primm,ACHAT,Chiefs vs. Falcons: O/U 40.5,Over,0.45,0.45,0.0,4.1,22.2222,10.0,,
+2026-11-15 19:40 UTC,primm,ACHAT,Spread: Bills (-4.5),Jets,0.33,0.33,0.0,2.0,30.303,10.0,,
+2026-11-15 19:40 UTC,primm,ACHAT,Bills vs. Jets: O/U 40.5,Over,0.45,0.45,0.0,2.0,22.2222,10.0,,
