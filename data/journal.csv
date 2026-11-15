@@ -2994,3 +2994,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 15:50 UTC,primm,IGNORE,Spread: Lions (-17.5),Patriots,0.48,0.33,-15.0,3.3,,,,prix a trop chuté (match sans doute joué)
 2026-11-15 15:50 UTC,primm,IGNORE,Spread: Lions (-17.5),Patriots,0.48,0.33,-15.0,3.3,,,,prix a trop chuté (match sans doute joué)
 2026-11-15 15:50 UTC,primm,IGNORE,Spread: Lions (-17.5),Patriots,0.48,0.33,-15.0,3.3,,,,prix a trop chuté (match sans doute joué)
+2026-11-15 15:55 UTC,BreakTheBank,IGNORE,"UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",Ciryl Gane,0.67,,,641.5,,,,vu trop tard
+2026-11-15 15:55 UTC,primm,ACHAT,Spread: Lions (-20.5),Patriots,0.43,0.44,1.0,5.4,22.7273,10.0,,
+2026-11-15 15:55 UTC,primm,ACHAT,Spread: Lions (-17.5),Patriots,0.33,0.33,0.0,2.7,30.303,10.0,,
