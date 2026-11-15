@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 20:45 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 20:50 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 193 | 186 | 160 | 89 | +134.08 $ | +8.4 % | 33 | +1.3 ¢ | 9 min |
-| primm | 1117 | 430 | 1031 | 539 | +520.69 $ | +5.1 % | 86 | +3.2 ¢ | 4 min |
+| BreakTheBank | 193 | 186 | 162 | 90 | +133.31 $ | +8.2 % | 31 | +1.3 ¢ | 9 min |
+| primm | 1117 | 431 | 1031 | 539 | +520.69 $ | +5.1 % | 86 | +3.2 ¢ | 4 min |
 | juice-fruit | 16 | 2 | 15 | 6 | -45.47 $ | -30.3 % | 1 | -0.9 ¢ | 5 min |
 
-**Total réalisé : +609.30 $ sur 12060 $ engagés (+5.1 %)**
+**Total réalisé : +608.53 $ sur 12080 $ engagés (+5.0 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 20:45 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Spread: 76ers (-7.5) | Pacers | 0.52 | 1.00 | +9.23 $ |
+| BreakTheBank | Pacers vs. 76ers | Pacers | 0.29 | 0.00 | -10.00 $ |
 | primm | Dolphins vs. Colts: O/U 36.5 | Under | 0.54 | 0.00 | -10.00 $ |
 | primm | Spread: Lions (-17.5) | Patriots | 0.33 | 0.00 | -10.00 $ |
 | primm | Spread: Lions (-20.5) | Patriots | 0.44 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-15 20:45 UTC** 
 | primm | Patriots vs. Lions: O/U 58.5 | Under | 0.70 | 1.00 | +4.29 $ |
 | primm | Patriots vs. Lions: O/U 52.5 | Under | 0.54 | 1.00 | +8.52 $ |
 | primm | Patriots vs. Lions: O/U 50.5 | Under | 0.46 | 1.00 | +11.74 $ |
-| primm | Spread: Lions (-7.5) | Lions | 0.54 | 1.00 | +8.52 $ |
-| primm | Patriots vs. Lions: O/U 64.5 | Over | 0.21 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
