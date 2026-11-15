@@ -2862,3 +2862,14 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 07:25 UTC,primm,REGLEMENT,Spread: Washington State (-7.5),Colorado State,,0.4,,,25.0,0.0,-10.0,perdu
 2026-11-15 07:25 UTC,primm,REGLEMENT,Utah vs. Arizona: O/U 63.5,Over,,0.42,,,23.8095,23.81,13.81,gagné
 2026-11-15 07:25 UTC,primm,REGLEMENT,Utah vs. Arizona: O/U 69.5,Over,,0.45,,,22.2222,22.22,12.22,gagné
+2026-11-15 07:40 UTC,primm,REGLEMENT,Spread: Arizona (-3.5),Utah,,0.65,,,15.3846,15.38,5.38,gagné
+2026-11-15 07:40 UTC,primm,REGLEMENT,Spread: Arizona (-2.5),Utah,,0.56,,,17.8571,17.86,7.86,gagné
+2026-11-15 07:40 UTC,primm,REGLEMENT,Spread: Arizona (-1.5),Utah,,0.54,,,18.5185,18.52,8.52,gagné
+2026-11-15 07:40 UTC,primm,REGLEMENT,Utah vs. Arizona,Utah,,0.55,,,18.1818,18.18,8.18,gagné
+2026-11-15 07:40 UTC,primm,REGLEMENT,Spread: Arizona (-4.5),Utah,,0.59,,,16.9492,16.95,6.95,gagné
+2026-11-15 07:40 UTC,primm,REGLEMENT,Spread: Utah (-1.5),Arizona,,0.7,,,14.2857,14.29,4.29,gagné
+2026-11-15 07:40 UTC,primm,REGLEMENT,Spread: Utah (-1.5),Utah,,0.5,,,20.0,0.0,-10.0,perdu
+2026-11-15 07:40 UTC,primm,REGLEMENT,Spread: Utah (-3.5),Arizona,,0.53,,,18.8679,18.87,8.87,gagné
+2026-11-15 07:40 UTC,primm,REGLEMENT,Spread: Utah (-6.5),Arizona,,0.59,,,16.9492,16.95,6.95,gagné
+2026-11-15 07:40 UTC,primm,REGLEMENT,Spread: Utah (-4.5),Arizona,,0.73,,,13.6986,13.7,3.7,gagné
+2026-11-15 07:40 UTC,primm,REGLEMENT,Utah vs. Arizona,Arizona,,0.41,,,24.3902,0.0,-10.0,perdu
