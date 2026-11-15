@@ -2745,3 +2745,9 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 04:45 UTC,primm,REGLEMENT,Texas vs. LSU: O/U 45.5,Over,,0.57,,,17.5439,0.0,-10.0,perdu
 2026-11-15 04:45 UTC,primm,REGLEMENT,Spread: LSU (-4.5),LSU,,0.75,,,13.3333,0.0,-10.0,perdu
 2026-11-15 04:45 UTC,primm,REGLEMENT,Texas vs. LSU,Texas,,0.27,,,37.037,37.04,27.04,gagné
+2026-11-15 04:50 UTC,primm,ACHAT,North Texas vs. UTSA,UTSA,0.87,0.88,1.0,7.7,11.3636,10.0,,
+2026-11-15 04:50 UTC,primm,ACHAT,Colorado State vs. Washington State: O/U 69.5,Over,0.43,0.42,-1.0,5.2,23.8095,10.0,,
+2026-11-15 04:50 UTC,primm,ACHAT,Spread: Utah (-1.5),Utah,0.48,0.5,2.0,1.2,20.0,10.0,,
+2026-11-15 04:50 UTC,primm,ACHAT,Spread: Wyoming (-14.5),UTEP,0.26,0.26,0.0,0.3,38.4615,10.0,,
+2026-11-15 04:50 UTC,primm,ACHAT,Spread: Wyoming (-17.5),UTEP,0.33,0.33,0.0,0.3,30.303,10.0,,
+2026-11-15 04:50 UTC,primm,ACHAT,Spread: Wyoming (-16.5),UTEP,0.3,0.31,1.0,0.3,32.2581,10.0,,
