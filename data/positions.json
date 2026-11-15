@@ -272,6 +272,19 @@
    "parts": 20.8333,
    "montant": 10.0,
    "ouvert_le": "2026-11-15 14:35 UTC"
+  },
+  "BreakTheBank|41163898161344611341988286692067405361100871465847952474325065262470480977228": {
+   "date": "2026-11-15 14:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Panthers vs. Saints",
+   "resultat": "Panthers",
+   "prix_trader": 0.49,
+   "retard_min": 3.6,
+   "token": "41163898161344611341988286692067405361100871465847952474325065262470480977228",
+   "prix_simule": 0.5,
+   "parts": 20.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-15 14:45 UTC"
   }
  },
  "fermees": [
