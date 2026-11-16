@@ -39,19 +39,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-12 02:40 UTC"
   },
-  "primm|103137745221403065653242643859243596024094200698586628528001680769201033113838": {
-   "date": "2026-11-13 19:15 UTC",
-   "trader": "primm",
-   "marche": "Steelers vs. Bengals: O/U 50.5",
-   "resultat": "Over",
-   "prix_trader": 0.47,
-   "retard_min": 0.5,
-   "token": "103137745221403065653242643859243596024094200698586628528001680769201033113838",
-   "prix_simule": 0.48,
-   "parts": 20.8333,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-13 19:15 UTC"
-  },
   "BreakTheBank|29815869211305214820512624086256093110321649176445970071728385740566078938876": {
    "date": "2026-11-13 20:40 UTC",
    "trader": "BreakTheBank",
@@ -23680,6 +23667,23 @@
    "pnl": -10.0,
    "ferme_le": "2026-11-16 04:25 UTC",
    "type": "perdu"
+  },
+  {
+   "date": "2026-11-13 19:15 UTC",
+   "trader": "primm",
+   "marche": "Steelers vs. Bengals: O/U 50.5",
+   "resultat": "Over",
+   "prix_trader": 0.47,
+   "retard_min": 0.5,
+   "token": "103137745221403065653242643859243596024094200698586628528001680769201033113838",
+   "prix_simule": 0.48,
+   "parts": 20.8333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-13 19:15 UTC",
+   "sortie": 1.0,
+   "pnl": 10.8333,
+   "ferme_le": "2026-11-16 04:30 UTC",
+   "type": "gagné"
   }
  ]
 }
