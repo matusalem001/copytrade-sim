@@ -3523,3 +3523,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-16 03:05 UTC,primm,IGNORE,49ers vs. Cowboys: O/U 64.5,Under,0.38,,,207.3,,,,vu trop tard
 2026-11-16 03:20 UTC,primm,IGNORE,49ers vs. Cowboys,49ers,0.8,,,240.4,,,,vu trop tard
 2026-11-16 04:15 UTC,primm,REGLEMENT,Steelers vs. Bengals: O/U 46.5,Over,,0.47,,,21.2766,21.28,11.28,gagné
+2026-11-16 04:20 UTC,BreakTheBank,REGLEMENT,Steelers vs. Bengals: O/U 48.5,Under,,0.47,,,21.2766,0.0,-10.0,perdu
+2026-11-16 04:20 UTC,primm,REGLEMENT,Steelers vs. Bengals: O/U 48.5,Under,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-16 04:20 UTC,primm,REGLEMENT,Steelers vs. Bengals: O/U 46.5,Under,,0.41,,,24.3902,0.0,-10.0,perdu
+2026-11-16 04:20 UTC,primm,REGLEMENT,Steelers vs. Bengals: O/U 48.5,Over,,0.46,,,21.7391,21.74,11.74,gagné
+2026-11-16 04:20 UTC,primm,REGLEMENT,Steelers vs. Bengals: O/U 42.5,Under,,0.31,,,32.2581,0.0,-10.0,perdu
