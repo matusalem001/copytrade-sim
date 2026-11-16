@@ -3521,3 +3521,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-16 03:00 UTC,primm,IGNORE,Spread: 49ers (-6.5),49ers,0.5527,,,220.9,,,,vu trop tard
 2026-11-16 03:00 UTC,primm,IGNORE,Spread: 49ers (-21.5),Cowboys,0.8,,,187.2,,,,vu trop tard
 2026-11-16 03:05 UTC,primm,IGNORE,49ers vs. Cowboys: O/U 64.5,Under,0.38,,,207.3,,,,vu trop tard
+2026-11-16 03:20 UTC,primm,IGNORE,49ers vs. Cowboys,49ers,0.8,,,240.4,,,,vu trop tard
