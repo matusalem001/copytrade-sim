@@ -3516,3 +3516,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-16 02:40 UTC,primm,IGNORE,Spread: 49ers (-10.5),49ers,0.42,,,200.4,,,,vu trop tard
 2026-11-16 02:40 UTC,primm,IGNORE,Spread: 49ers (-10.5),49ers,0.38,,,200.3,,,,vu trop tard
 2026-11-16 02:40 UTC,primm,IGNORE,Spread: 49ers (-21.5),Cowboys,0.8,,,166.7,,,,vu trop tard
+2026-11-16 02:55 UTC,primm,ACHAT,Steelers vs. Bengals: O/U 50.5,Under,0.48,0.49,1.0,1.6,20.4082,10.0,,
