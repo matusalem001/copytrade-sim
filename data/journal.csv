@@ -3406,3 +3406,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-15 23:55 UTC,primm,ACHAT,Spread: 49ers (-13.5),Cowboys,0.37,0.41,4.0,3.4,24.3902,10.0,,
 2026-11-15 23:55 UTC,primm,ACHAT,Spread: 49ers (-20.5),Cowboys,0.779,0.796,1.7,2.5,12.5628,10.0,,
 2026-11-15 23:55 UTC,primm,ACHAT,Spread: 49ers (-21.5),Cowboys,0.8,0.829,2.9,1.7,12.0627,10.0,,
+2026-11-16 00:05 UTC,BreakTheBank,REGLEMENT,Spread: Lakers (-2.5),Suns,,0.47,,,21.2766,0.0,-10.0,perdu
