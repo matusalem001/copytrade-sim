@@ -3493,3 +3493,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-16 01:50 UTC,primm,IGNORE,49ers vs. Cowboys,49ers,0.8,,,150.4,,,,vu trop tard
 2026-11-16 01:50 UTC,primm,IGNORE,Spread: 49ers (-7.5),49ers,0.4968,,,150.4,,,,vu trop tard
 2026-11-16 02:00 UTC,primm,ACHAT,Spread: Bengals (-7.5),Steelers,0.45,0.4,-5.0,4.4,25.0,10.0,,
+2026-11-16 02:10 UTC,primm,IGNORE,Spread: Bengals (-13.5),Steelers,0.59,0.46,-13.0,8.8,,,,prix a trop chuté (match sans doute joué)
+2026-11-16 02:10 UTC,primm,ACHAT,Steelers vs. Bengals,Steelers,0.15,0.1,-5.0,8.6,100.0,10.0,,
+2026-11-16 02:10 UTC,primm,IGNORE,Spread: Bengals (-13.5),Steelers,0.52,0.46,-6.0,7.7,,,,prix a trop chuté (match sans doute joué)
+2026-11-16 02:10 UTC,primm,IGNORE,Spread: Bengals (-16.5),Steelers,0.61,0.55,-6.0,2.0,,,,prix a trop chuté (match sans doute joué)
+2026-11-16 02:10 UTC,primm,ACHAT,Spread: Bengals (-13.5),Steelers,0.45,0.46,1.0,0.2,21.7391,10.0,,
