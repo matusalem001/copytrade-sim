@@ -3576,3 +3576,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-16 21:55 UTC,BreakTheBank,IGNORE,Spread: Bengals (-4.5),Steelers,0.51,,,1236.3,,,,vu trop tard
 2026-11-16 21:55 UTC,BreakTheBank,ACHAT,Will Anthropic's valuation hit (HIGH) $2.0T by December 31?,No,0.72,0.73,1.0,5.7,13.6986,10.0,,
 2026-11-16 22:20 UTC,BreakTheBank,ACHAT,Will Anthropic’s market cap be between 1.2T and 1.5T at market close on IPO day by December 31 2027?,Yes,0.455,0.465,1.0,8.2,21.5054,10.0,,
+2026-11-16 22:25 UTC,BreakTheBank,IGNORE,Will Anthropic's market cap be between $2.0T and $2.25T at market close on IPO day?,No,0.963,,,186.5,,,,vu trop tard
