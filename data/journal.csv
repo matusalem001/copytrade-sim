@@ -3480,3 +3480,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-16 01:30 UTC,primm,ACHAT,Spread: Bengals (-2.5),Steelers,0.37,0.32,-5.0,7.8,31.25,10.0,,
 2026-11-16 01:30 UTC,primm,ACHAT,Steelers vs. Bengals: O/U 48.5,Under,0.47,0.46,-1.0,6.9,21.7391,10.0,,
 2026-11-16 01:30 UTC,primm,ACHAT,Steelers vs. Bengals: O/U 46.5,Under,0.38,0.41,3.0,2.1,24.3902,10.0,,
+2026-11-16 01:35 UTC,primm,IGNORE,49ers vs. Cowboys,49ers,0.82,,,135.4,,,,vu trop tard
+2026-11-16 01:35 UTC,primm,IGNORE,Spread: 49ers (-13.5),Cowboys,0.36,,,103.3,,,,vu trop tard
