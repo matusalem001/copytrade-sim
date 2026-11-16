@@ -3436,3 +3436,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-16 00:20 UTC,primm,REGLEMENT,Spread: Raiders (-4.5),Raiders,,0.31,,,32.2581,0.0,-10.0,perdu
 2026-11-16 00:20 UTC,primm,REGLEMENT,49ers vs. Cowboys: O/U 58.5,Under,,0.14,,,71.4286,0.0,-10.0,perdu
 2026-11-16 00:25 UTC,primm,REGLEMENT,Spread: Raiders (-3.5),Raiders,,0.33,,,30.303,0.0,-10.0,perdu
+2026-11-16 00:30 UTC,BreakTheBank,ACHAT,Steelers vs. Bengals,Steelers,0.34,0.35,1.0,4.0,28.5714,10.0,,
+2026-11-16 00:30 UTC,primm,ACHAT,Spread: 49ers (-7.5),Cowboys,0.36,0.47,11.0,2.8,21.2766,10.0,,
