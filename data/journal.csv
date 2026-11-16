@@ -3448,3 +3448,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-16 00:50 UTC,BreakTheBank,IGNORE,Hornets vs. Clippers,Clippers,0.51,,,208.1,,,,vu trop tard
 2026-11-16 00:50 UTC,BreakTheBank,ACHAT,Spread: Bengals (-5.5),Steelers,0.53,0.54,1.0,3.8,18.5185,10.0,,
 2026-11-16 00:55 UTC,BreakTheBank,IGNORE,Spread: Rams (-16.5),Rams,0.53,,,141.9,,,,vu trop tard
+2026-11-16 01:00 UTC,BreakTheBank,ACHAT,Spread: Bengals (-2.5),Steelers,0.38,0.39,1.0,6.3,25.641,10.0,,
