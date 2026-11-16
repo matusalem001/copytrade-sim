@@ -428,6 +428,19 @@
    "parts": 19.2308,
    "montant": 10.0,
    "ouvert_le": "2026-11-16 00:45 UTC"
+  },
+  "BreakTheBank|97596710932122380710817306134876764003186712072480982697815851711496274478615": {
+   "date": "2026-11-16 00:50 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Bengals (-5.5)",
+   "resultat": "Steelers",
+   "prix_trader": 0.53,
+   "retard_min": 3.8,
+   "token": "97596710932122380710817306134876764003186712072480982697815851711496274478615",
+   "prix_simule": 0.54,
+   "parts": 18.5185,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-16 00:50 UTC"
   }
  },
  "fermees": [
