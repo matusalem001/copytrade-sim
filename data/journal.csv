@@ -3509,3 +3509,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-16 02:22 UTC,primm,IGNORE,Spread: 49ers (-16.5),49ers,0.23,,,182.2,,,,vu trop tard
 2026-11-16 02:22 UTC,primm,IGNORE,Spread: 49ers (-21.5),Cowboys,0.8,,,148.4,,,,vu trop tard
 2026-11-16 02:25 UTC,primm,IGNORE,Spread: 49ers (-16.5),49ers,0.23,,,185.3,,,,vu trop tard
+2026-11-16 02:30 UTC,primm,ACHAT,Spread: Bengals (-20.5),Steelers,0.63,0.62,-1.0,1.0,16.129,10.0,,
