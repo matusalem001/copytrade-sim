@@ -3474,3 +3474,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-16 01:05 UTC,primm,REGLEMENT,Spread: 49ers (-7.5),Cowboys,,0.47,,,21.2766,21.28,11.28,gagné
 2026-11-16 01:10 UTC,BreakTheBank,ACHAT,Spread: Bengals (-1.5),Steelers,0.36,0.37,1.0,3.1,27.027,10.0,,
 2026-11-16 01:11 UTC,primm,REGLEMENT,Spread: 49ers (-2.5),49ers,,0.61,,,16.3934,16.39,6.39,gagné
+2026-11-16 01:15 UTC,BreakTheBank,ACHAT,Steelers vs. Bengals: O/U 48.5,Under,0.46,0.47,1.0,4.0,21.2766,10.0,,
+2026-11-16 01:15 UTC,BreakTheBank,ACHAT,Steelers vs. Bengals: O/U 50.5,Under,0.53,0.54,1.0,3.4,18.5185,10.0,,

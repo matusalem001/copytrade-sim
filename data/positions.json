@@ -155,6 +155,32 @@
    "parts": 27.027,
    "montant": 10.0,
    "ouvert_le": "2026-11-16 01:10 UTC"
+  },
+  "BreakTheBank|17084455295554731632938210997455770880940799239069067255830636205579280956714": {
+   "date": "2026-11-16 01:15 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Steelers vs. Bengals: O/U 48.5",
+   "resultat": "Under",
+   "prix_trader": 0.46,
+   "retard_min": 4.0,
+   "token": "17084455295554731632938210997455770880940799239069067255830636205579280956714",
+   "prix_simule": 0.47,
+   "parts": 21.2766,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-16 01:15 UTC"
+  },
+  "BreakTheBank|54296197374944001064516085963189227264304416827260897052823015310169731064303": {
+   "date": "2026-11-16 01:15 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Steelers vs. Bengals: O/U 50.5",
+   "resultat": "Under",
+   "prix_trader": 0.53,
+   "retard_min": 3.4,
+   "token": "54296197374944001064516085963189227264304416827260897052823015310169731064303",
+   "prix_simule": 0.54,
+   "parts": 18.5185,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-16 01:15 UTC"
   }
  },
  "fermees": [
