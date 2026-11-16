@@ -3551,8 +3551,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-16 04:45 UTC,primm,REGLEMENT,Spread: Bengals (-20.5),Steelers,,0.62,,,16.129,16.13,6.13,gagné
 2026-11-16 04:45 UTC,primm,REGLEMENT,Spread: Bengals (-16.5),Steelers,,0.59,,,16.9492,0.0,-10.0,perdu
 2026-11-16 04:50 UTC,primm,REGLEMENT,Spread: Bengals (-6.5),Steelers,,0.52,,,19.2308,0.0,-10.0,perdu
-2026-11-16 19:25 UTC,BreakTheBank,ACHAT,Will Anthropic's market cap be between $1.5T and $1.75T at market close on IPO day?,No,0.805,0.811,0.6,7.2,12.3305,10.0,,
-2026-11-16 19:25 UTC,BreakTheBank,ACHAT,Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day?,No,0.895,0.897,0.2,6.5,11.1483,10.0,,
-2026-11-16 19:25 UTC,BreakTheBank,IGNORE,Will Anthropic's market cap be between $2.0T and $2.25T at market close on IPO day?,No,0.963,0.972,,6.4,,,,prix trop haut
-2026-11-16 19:25 UTC,BreakTheBank,IGNORE,Will Anthropic's market cap be between $2.0T and $2.25T at market close on IPO day?,No,0.963,0.972,,6.1,,,,prix trop haut
-2026-11-16 19:30 UTC,BreakTheBank,IGNORE,Spread: Bengals (-4.5),Steelers,0.51,,,1094.5,,,,vu trop tard
+2026-11-16 19:31 UTC,BreakTheBank,ACHAT,Will Anthropic's market cap be between $1.5T and $1.75T at market close on IPO day?,No,0.805,0.811,0.6,13.9,12.3305,10.0,,
+2026-11-16 19:31 UTC,BreakTheBank,ACHAT,Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day?,No,0.895,0.897,0.2,13.2,11.1483,10.0,,
+2026-11-16 19:31 UTC,BreakTheBank,IGNORE,Will Anthropic's market cap be between $2.0T and $2.25T at market close on IPO day?,No,0.963,0.972,,13.1,,,,prix trop haut
+2026-11-16 19:31 UTC,BreakTheBank,IGNORE,Will Anthropic's market cap be between $2.0T and $2.25T at market close on IPO day?,No,0.963,0.972,,12.8,,,,prix trop haut
