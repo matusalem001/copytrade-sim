@@ -3425,3 +3425,13 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-16 00:15 UTC,primm,REGLEMENT,Seahawks vs. Raiders: O/U 40.5,Under,,0.36,,,27.7778,27.78,17.78,gagné
 2026-11-16 00:15 UTC,BreakTheBank,REGLEMENT,Spread: Seahawks (-2.5),Seahawks,,0.47,,,21.2766,21.28,11.28,gagné
 2026-11-16 00:15 UTC,BreakTheBank,REGLEMENT,Seahawks vs. Raiders,Seahawks,,0.55,,,18.1818,18.18,8.18,gagné
+2026-11-16 00:20 UTC,BreakTheBank,IGNORE,Seahawks vs. Raiders,Seahawks,0.54,,,115.5,,,,vu trop tard
+2026-11-16 00:20 UTC,primm,REGLEMENT,49ers vs. Cowboys: O/U 56.5,Over,,0.48,,,20.8333,20.83,10.83,gagné
+2026-11-16 00:20 UTC,primm,REGLEMENT,Seahawks vs. Raiders: O/U 42.5,Under,,0.45,,,22.2222,22.22,12.22,gagné
+2026-11-16 00:20 UTC,primm,REGLEMENT,Spread: Raiders (-2.5),Raiders,,0.34,,,29.4118,0.0,-10.0,perdu
+2026-11-16 00:20 UTC,primm,REGLEMENT,Spread: Raiders (-1.5),Raiders,,0.37,,,27.027,0.0,-10.0,perdu
+2026-11-16 00:20 UTC,primm,REGLEMENT,Seahawks vs. Raiders,Raiders,,0.43,,,23.2558,0.0,-10.0,perdu
+2026-11-16 00:20 UTC,primm,REGLEMENT,Spread: Seahawks (-2.5),Raiders,,0.49,,,20.4082,0.0,-10.0,perdu
+2026-11-16 00:20 UTC,primm,REGLEMENT,Spread: Seahawks (-1.5),Raiders,,0.49,,,20.4082,0.0,-10.0,perdu
+2026-11-16 00:20 UTC,primm,REGLEMENT,Spread: Raiders (-4.5),Raiders,,0.31,,,32.2581,0.0,-10.0,perdu
+2026-11-16 00:20 UTC,primm,REGLEMENT,49ers vs. Cowboys: O/U 58.5,Under,,0.14,,,71.4286,0.0,-10.0,perdu
