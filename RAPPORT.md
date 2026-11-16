@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-16 00:20 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-16 00:25 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 201 | 187 | 189 | 108 | +202.91 $ | +10.7 % | 12 | +1.3 ¢ | 8 min |
-| primm | 1153 | 538 | 1132 | 592 | +555.58 $ | +4.9 % | 21 | +3.2 ¢ | 4 min |
+| primm | 1153 | 538 | 1133 | 592 | +545.58 $ | +4.8 % | 20 | +3.2 ¢ | 4 min |
 | juice-fruit | 17 | 2 | 17 | 8 | -39.90 $ | -23.5 % | 0 | -0.7 ¢ | 5 min |
 
-**Total réalisé : +718.59 $ sur 13380 $ engagés (+5.4 %)**
+**Total réalisé : +708.59 $ sur 13390 $ engagés (+5.3 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-16 00:20 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Raiders (-3.5) | Raiders | 0.33 | 0.00 | -10.00 $ |
 | primm | 49ers vs. Cowboys: O/U 58.5 | Under | 0.14 | 0.00 | -10.00 $ |
 | primm | Spread: Raiders (-4.5) | Raiders | 0.31 | 0.00 | -10.00 $ |
 | primm | Spread: Seahawks (-1.5) | Raiders | 0.49 | 0.00 | -10.00 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-16 00:20 UTC** 
 | primm | Spread: Rams (-6.5) | Rams | 0.60 | 1.00 | +6.67 $ |
 | primm | Spread: Rams (-5.5) | Rams | 0.62 | 1.00 | +6.13 $ |
 | BreakTheBank | Lakers vs. Suns | Suns | 0.40 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Rams (-10.5) | Rams | 0.48 | 1.00 | +10.83 $ |
 
 Journal complet : `data/journal.csv`
