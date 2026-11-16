@@ -155,6 +155,19 @@
    "parts": 21.5054,
    "montant": 10.0,
    "ouvert_le": "2026-11-16 22:20 UTC"
+  },
+  "BreakTheBank|44495740580463962905128458312144800920101511513336768890578763672351454153453": {
+   "date": "2026-11-16 22:55 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Anthropic's valuation hit (LOW) $800B by December 31?",
+   "resultat": "Yes",
+   "prix_trader": 0.077,
+   "retard_min": 5.5,
+   "token": "44495740580463962905128458312144800920101511513336768890578763672351454153453",
+   "prix_simule": 0.085,
+   "parts": 117.6471,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-16 22:55 UTC"
   }
  },
  "fermees": [
