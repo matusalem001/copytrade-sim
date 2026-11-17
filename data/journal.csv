@@ -3761,3 +3761,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-17 23:30 UTC,primm,ACHAT,Ball State vs. Ohio: O/U 49.5,Under,0.48,0.49,1.0,4.5,20.4082,10.0,,
 2026-11-17 23:30 UTC,primm,ACHAT,Ball State vs. Ohio: O/U 51.5,Under,0.54,0.55,1.0,4.5,18.1818,10.0,,
 2026-11-17 23:30 UTC,primm,ACHAT,Spread: Ohio (-7.5),Ball State,0.43,0.44,1.0,4.5,22.7273,10.0,,
+2026-11-17 23:35 UTC,primm,IGNORE,Chargers vs. Ravens,Chargers,0.45,,,1281.0,,,,vu trop tard
+2026-11-17 23:35 UTC,primm,ACHAT,Spread: Western Michigan (-30.5),Eastern Michigan,0.52,0.73,21.0,0.6,13.6986,10.0,,
+2026-11-17 23:35 UTC,primm,ACHAT,Eastern Michigan vs. Western Michigan: O/U 53.5,Over,0.39,0.54,15.0,0.6,18.5185,10.0,,
+2026-11-17 23:35 UTC,primm,ACHAT,Eastern Michigan vs. Western Michigan,Eastern Michigan,0.023,0.058,3.5,0.5,172.4138,10.0,,
