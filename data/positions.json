@@ -259,6 +259,32 @@
    "parts": 21.7391,
    "montant": 10.0,
    "ouvert_le": "2026-11-17 23:05 UTC"
+  },
+  "primm|31299954699560746249869753412602763235633960491076835761561461597189664144393": {
+   "date": "2026-11-17 23:10 UTC",
+   "trader": "primm",
+   "marche": "Spread: Western Michigan (-27.5)",
+   "resultat": "Western Michigan",
+   "prix_trader": 0.4,
+   "retard_min": 6.0,
+   "token": "31299954699560746249869753412602763235633960491076835761561461597189664144393",
+   "prix_simule": 0.46,
+   "parts": 21.7391,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-17 23:10 UTC"
+  },
+  "primm|65838882386281718376174487193933754737448737854724715450743421972890943077189": {
+   "date": "2026-11-17 23:10 UTC",
+   "trader": "primm",
+   "marche": "Spread: Western Michigan (-24.5)",
+   "resultat": "Eastern Michigan",
+   "prix_trader": 0.48,
+   "retard_min": 4.2,
+   "token": "65838882386281718376174487193933754737448737854724715450743421972890943077189",
+   "prix_simule": 0.53,
+   "parts": 18.8679,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-17 23:10 UTC"
   }
  },
  "fermees": [
