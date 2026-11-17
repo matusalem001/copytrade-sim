@@ -194,6 +194,32 @@
    "parts": 30.303,
    "montant": 10.0,
    "ouvert_le": "2026-11-17 00:05 UTC"
+  },
+  "BreakTheBank|461676663140292560973600574317482218061537544353304125822262553208254196703": {
+   "date": "2026-11-17 00:10 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Rockets (-1.5)",
+   "resultat": "Heat",
+   "prix_trader": 0.5,
+   "retard_min": 5.3,
+   "token": "461676663140292560973600574317482218061537544353304125822262553208254196703",
+   "prix_simule": 0.51,
+   "parts": 19.6078,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-17 00:10 UTC"
+  },
+  "BreakTheBank|45803321524478814912852429075447663411200616753617801266336335612908123713812": {
+   "date": "2026-11-17 00:10 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Grizzlies (-3.5)",
+   "resultat": "Grizzlies",
+   "prix_trader": 0.51,
+   "retard_min": 2.8,
+   "token": "45803321524478814912852429075447663411200616753617801266336335612908123713812",
+   "prix_simule": 0.52,
+   "parts": 19.2308,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-17 00:10 UTC"
   }
  },
  "fermees": [

@@ -3583,3 +3583,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-16 22:55 UTC,BreakTheBank,ACHAT,Will Anthropic's valuation hit (LOW) $800B by December 31?,Yes,0.077,0.085,0.8,5.5,117.6471,10.0,,
 2026-11-17 00:05 UTC,BreakTheBank,ACHAT,Grizzlies vs. Wizards,Grizzlies,0.61,0.61,0.0,5.7,16.3934,10.0,,
 2026-11-17 00:05 UTC,BreakTheBank,ACHAT,76ers vs. Nets,Nets,0.32,0.33,1.0,4.9,30.303,10.0,,
+2026-11-17 00:10 UTC,BreakTheBank,IGNORE,Steelers vs. Bengals,Steelers,0.33,,,1372.6,,,,vu trop tard
+2026-11-17 00:10 UTC,BreakTheBank,IGNORE,Steelers vs. Bengals,Steelers,0.33,,,1371.7,,,,vu trop tard
+2026-11-17 00:10 UTC,BreakTheBank,IGNORE,Spread: Bengals (-2.5),Steelers,0.38,,,1370.9,,,,vu trop tard
+2026-11-17 00:10 UTC,BreakTheBank,ACHAT,Spread: Rockets (-1.5),Heat,0.5,0.51,1.0,5.3,19.6078,10.0,,
+2026-11-17 00:10 UTC,BreakTheBank,ACHAT,Spread: Grizzlies (-3.5),Grizzlies,0.51,0.52,1.0,2.8,19.2308,10.0,,
