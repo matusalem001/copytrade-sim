@@ -3746,3 +3746,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-17 23:15 UTC,primm,ACHAT,Spread: Western Michigan (-31.5),Western Michigan,0.33,0.33,-0.0,4.8,30.303,10.0,,
 2026-11-17 23:15 UTC,primm,ACHAT,Eastern Michigan vs. Western Michigan: O/U 47.5,Over,0.58,0.57,-1.0,3.5,17.5439,10.0,,
 2026-11-17 23:15 UTC,primm,ACHAT,Spread: Western Michigan (-30.5),Western Michigan,0.37,0.33,-4.0,3.1,30.303,10.0,,
+2026-11-17 23:20 UTC,BreakTheBank,IGNORE,Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day?,No,0.915,,,714.1,,,,vu trop tard
+2026-11-17 23:20 UTC,primm,IGNORE,Chargers vs. Ravens: O/U 50.5,Over,0.23,,,1282.0,,,,vu trop tard
+2026-11-17 23:20 UTC,primm,IGNORE,Chargers vs. Ravens,Chargers,0.43,,,1267.3,,,,vu trop tard
+2026-11-17 23:20 UTC,primm,IGNORE,Chargers vs. Ravens,Ravens,0.3,,,1220.2,,,,vu trop tard
+2026-11-17 23:20 UTC,primm,ACHAT,Spread: Western Michigan (-27.5),Eastern Michigan,0.55,0.54,-1.0,1.6,18.5185,10.0,,

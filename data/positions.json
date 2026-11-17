@@ -337,6 +337,19 @@
    "parts": 30.303,
    "montant": 10.0,
    "ouvert_le": "2026-11-17 23:15 UTC"
+  },
+  "primm|26346305476425162404713982697836397077406986079129154669649464670484838698862": {
+   "date": "2026-11-17 23:20 UTC",
+   "trader": "primm",
+   "marche": "Spread: Western Michigan (-27.5)",
+   "resultat": "Eastern Michigan",
+   "prix_trader": 0.55,
+   "retard_min": 1.6,
+   "token": "26346305476425162404713982697836397077406986079129154669649464670484838698862",
+   "prix_simule": 0.54,
+   "parts": 18.5185,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-17 23:20 UTC"
   }
  },
  "fermees": [
