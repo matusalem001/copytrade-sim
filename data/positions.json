@@ -233,6 +233,19 @@
    "parts": 28.5714,
    "montant": 10.0,
    "ouvert_le": "2026-11-17 00:45 UTC"
+  },
+  "BreakTheBank|93986505847215228951324290848203911775644145891061284182849603646645841094137": {
+   "date": "2026-11-17 01:00 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Warriors vs. Pelicans",
+   "resultat": "Pelicans",
+   "prix_trader": 0.39,
+   "retard_min": 2.4,
+   "token": "93986505847215228951324290848203911775644145891061284182849603646645841094137",
+   "prix_simule": 0.4,
+   "parts": 25.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-17 01:00 UTC"
   }
  },
  "fermees": [
