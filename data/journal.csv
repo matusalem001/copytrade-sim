@@ -3598,3 +3598,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-17 00:45 UTC,primm,ACHAT,Spread: Ravens (-1.5),Chargers,0.35,0.35,0.0,0.6,28.5714,10.0,,
 2026-11-17 01:00 UTC,BreakTheBank,ACHAT,Warriors vs. Pelicans,Pelicans,0.39,0.4,1.0,2.4,25.0,10.0,,
 2026-11-17 01:05 UTC,BreakTheBank,ACHAT,Chargers vs. Ravens,Ravens,0.67,0.68,1.0,6.4,14.7059,10.0,,
+2026-11-17 01:10 UTC,BreakTheBank,ACHAT,Chargers vs. Ravens: O/U 36.5,Under,0.4,0.41,1.0,6.8,24.3902,10.0,,

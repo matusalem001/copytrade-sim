@@ -259,6 +259,19 @@
    "parts": 14.7059,
    "montant": 10.0,
    "ouvert_le": "2026-11-17 01:05 UTC"
+  },
+  "BreakTheBank|27189941607474908806450116159810218048662099729897356202938480105991029095117": {
+   "date": "2026-11-17 01:10 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Chargers vs. Ravens: O/U 36.5",
+   "resultat": "Under",
+   "prix_trader": 0.4,
+   "retard_min": 6.8,
+   "token": "27189941607474908806450116159810218048662099729897356202938480105991029095117",
+   "prix_simule": 0.41,
+   "parts": 24.3902,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-17 01:10 UTC"
   }
  },
  "fermees": [
