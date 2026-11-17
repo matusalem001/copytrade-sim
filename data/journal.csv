@@ -3704,3 +3704,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-17 15:20 UTC,BreakTheBank,IGNORE,Will Anthropic's market cap be between $2.25T and $2.5T at market close on IPO day?,No,0.986,0.991,,3.8,,,,prix trop haut
 2026-11-17 15:30 UTC,BreakTheBank,IGNORE,Will Anthropic's market cap be between $2.0T and $2.25T at market close on IPO day?,No,0.963,,,115.1,,,,vu trop tard
 2026-11-17 17:15 UTC,BreakTheBank,IGNORE,Will Anthropic's market cap be between $2.25T and $2.5T at market close on IPO day?,No,0.987,,,224.4,,,,vu trop tard
+2026-11-17 17:20 UTC,BreakTheBank,IGNORE,Chargers vs. Ravens,Ravens,0.67,,,979.4,,,,vu trop tard
+2026-11-17 17:20 UTC,BreakTheBank,IGNORE,Will Anthropic's market cap be between $2.25T and $2.5T at market close on IPO day?,No,0.986,,,123.8,,,,vu trop tard
