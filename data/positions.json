@@ -493,6 +493,19 @@
    "parts": 172.4138,
    "montant": 10.0,
    "ouvert_le": "2026-11-17 23:35 UTC"
+  },
+  "BreakTheBank|86533836911494131738246882463770783751859076854846021400530920940728762618051": {
+   "date": "2026-11-17 23:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Spurs (-9.5)",
+   "resultat": "Spurs",
+   "prix_trader": 0.5,
+   "retard_min": 1.6,
+   "token": "86533836911494131738246882463770783751859076854846021400530920940728762618051",
+   "prix_simule": 0.51,
+   "parts": 19.6078,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-17 23:45 UTC"
   }
  },
  "fermees": [
