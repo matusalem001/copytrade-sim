@@ -3687,3 +3687,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-17 04:45 UTC,primm,REGLEMENT,Spread: Chargers (-5.5),Ravens,,0.46,,,21.7391,21.74,11.74,gagné
 2026-11-17 04:45 UTC,primm,REGLEMENT,Spread: Chargers (-4.5),Ravens,,0.44,,,22.7273,22.73,12.73,gagné
 2026-11-17 05:45 UTC,BreakTheBank,IGNORE,Will Anthropic's market cap be between $2.0T and $2.25T at market close on IPO day?,No,0.973,0.974,,6.8,,,,prix trop haut
+2026-11-17 08:10 UTC,BreakTheBank,IGNORE,Will Anthropic's valuation hit (HIGH) $5.0T by December 31?,No,0.979,0.982,,4.7,,,,prix trop haut
