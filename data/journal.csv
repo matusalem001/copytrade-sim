@@ -3641,3 +3641,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-17 02:45 UTC,primm,IGNORE,Spread: Bengals (-14.5),Steelers,0.43,,,1457.4,,,,vu trop tard
 2026-11-17 02:45 UTC,primm,IGNORE,Spread: Bengals (-14.5),Steelers,0.29,,,1431.6,,,,vu trop tard
 2026-11-17 02:45 UTC,BreakTheBank,REGLEMENT,Spread: Grizzlies (-3.5),Grizzlies,,0.52,,,19.2308,19.23,9.23,gagné
+2026-11-17 02:49 UTC,BreakTheBank,REGLEMENT,Grizzlies vs. Wizards,Grizzlies,,0.61,,,16.3934,16.39,6.39,gagné
