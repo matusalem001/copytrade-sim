@@ -3581,3 +3581,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-16 22:30 UTC,BreakTheBank,IGNORE,Steelers vs. Bengals: O/U 48.5,Under,0.46,,,1271.0,,,,vu trop tard
 2026-11-16 22:35 UTC,BreakTheBank,IGNORE,Spread: Bengals (-2.5),Steelers,0.38,,,1275.6,,,,vu trop tard
 2026-11-16 22:55 UTC,BreakTheBank,ACHAT,Will Anthropic's valuation hit (LOW) $800B by December 31?,Yes,0.077,0.085,0.8,5.5,117.6471,10.0,,
+2026-11-17 00:05 UTC,BreakTheBank,ACHAT,Grizzlies vs. Wizards,Grizzlies,0.61,0.61,0.0,5.7,16.3934,10.0,,
+2026-11-17 00:05 UTC,BreakTheBank,ACHAT,76ers vs. Nets,Nets,0.32,0.33,1.0,4.9,30.303,10.0,,

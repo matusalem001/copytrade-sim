@@ -168,6 +168,32 @@
    "parts": 117.6471,
    "montant": 10.0,
    "ouvert_le": "2026-11-16 22:55 UTC"
+  },
+  "BreakTheBank|32927701278383427357502459079784861837231865300342929904506037918746745523160": {
+   "date": "2026-11-17 00:05 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Grizzlies vs. Wizards",
+   "resultat": "Grizzlies",
+   "prix_trader": 0.61,
+   "retard_min": 5.7,
+   "token": "32927701278383427357502459079784861837231865300342929904506037918746745523160",
+   "prix_simule": 0.61,
+   "parts": 16.3934,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-17 00:05 UTC"
+  },
+  "BreakTheBank|76866122087014895739000373272867588136382664797554453339251187029847711922505": {
+   "date": "2026-11-17 00:05 UTC",
+   "trader": "BreakTheBank",
+   "marche": "76ers vs. Nets",
+   "resultat": "Nets",
+   "prix_trader": 0.32,
+   "retard_min": 4.9,
+   "token": "76866122087014895739000373272867588136382664797554453339251187029847711922505",
+   "prix_simule": 0.33,
+   "parts": 30.303,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-17 00:05 UTC"
   }
  },
  "fermees": [
