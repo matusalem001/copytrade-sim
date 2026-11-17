@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-17 03:25 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-17 03:30 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 225 | 226 | 206 | 111 | +88.14 $ | +4.3 % | 19 | +1.2 ¢ | 9 min |
+| BreakTheBank | 225 | 226 | 207 | 111 | +78.14 $ | +3.8 % | 18 | +1.2 ¢ | 9 min |
 | primm | 1198 | 581 | 1174 | 607 | +414.47 $ | +3.5 % | 24 | +3.2 ¢ | 4 min |
 | juice-fruit | 17 | 2 | 17 | 8 | -39.90 $ | -23.5 % | 0 | -0.7 ¢ | 5 min |
 
-**Total réalisé : +462.71 $ sur 13970 $ engagés (+3.3 %)**
+**Total réalisé : +452.71 $ sur 13980 $ engagés (+3.2 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-17 03:25 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | 76ers vs. Nets | Nets | 0.33 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Rockets (-1.5) | Heat | 0.51 | 1.00 | +9.61 $ |
 | BreakTheBank | Grizzlies vs. Wizards | Grizzlies | 0.61 | 1.00 | +6.39 $ |
 | BreakTheBank | Spread: Grizzlies (-3.5) | Grizzlies | 0.52 | 1.00 | +9.23 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-17 03:25 UTC** 
 | BreakTheBank | Steelers vs. Bengals | Steelers | 0.35 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Bengals (-3.5) | Steelers | 0.49 | 0.00 | -10.00 $ |
 | primm | Steelers vs. Bengals: O/U 50.5 | Over | 0.48 | 1.00 | +10.83 $ |
-| primm | Steelers vs. Bengals: O/U 50.5 | Under | 0.49 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
