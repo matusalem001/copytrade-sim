@@ -285,6 +285,58 @@
    "parts": 18.8679,
    "montant": 10.0,
    "ouvert_le": "2026-11-17 23:10 UTC"
+  },
+  "BreakTheBank|97609341783524196800556488767910275487599223021534869250218490501911529555583": {
+   "date": "2026-11-17 23:15 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Knicks vs. Raptors",
+   "resultat": "Raptors",
+   "prix_trader": 0.44,
+   "retard_min": 5.7,
+   "token": "97609341783524196800556488767910275487599223021534869250218490501911529555583",
+   "prix_simule": 0.45,
+   "parts": 22.2222,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-17 23:15 UTC"
+  },
+  "primm|23965304890554415682025539642211451354307699295080706326676088773264564209779": {
+   "date": "2026-11-17 23:15 UTC",
+   "trader": "primm",
+   "marche": "Spread: Western Michigan (-31.5)",
+   "resultat": "Western Michigan",
+   "prix_trader": 0.33,
+   "retard_min": 4.8,
+   "token": "23965304890554415682025539642211451354307699295080706326676088773264564209779",
+   "prix_simule": 0.33,
+   "parts": 30.303,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-17 23:15 UTC"
+  },
+  "primm|90585718261245583071643715588483630719992465479974010785024964925587951526866": {
+   "date": "2026-11-17 23:15 UTC",
+   "trader": "primm",
+   "marche": "Eastern Michigan vs. Western Michigan: O/U 47.5",
+   "resultat": "Over",
+   "prix_trader": 0.58,
+   "retard_min": 3.5,
+   "token": "90585718261245583071643715588483630719992465479974010785024964925587951526866",
+   "prix_simule": 0.57,
+   "parts": 17.5439,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-17 23:15 UTC"
+  },
+  "primm|14914447172734576866505053051488050845976860072321460824863920310350343004407": {
+   "date": "2026-11-17 23:15 UTC",
+   "trader": "primm",
+   "marche": "Spread: Western Michigan (-30.5)",
+   "resultat": "Western Michigan",
+   "prix_trader": 0.37,
+   "retard_min": 3.1,
+   "token": "14914447172734576866505053051488050845976860072321460824863920310350343004407",
+   "prix_simule": 0.33,
+   "parts": 30.303,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-17 23:15 UTC"
   }
  },
  "fermees": [
