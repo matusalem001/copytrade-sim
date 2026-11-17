@@ -3732,3 +3732,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-17 22:05 UTC,primm,ACHAT,Spread: Western Michigan (-20.5),Western Michigan,0.41,0.42,1.0,0.2,23.8095,10.0,,
 2026-11-17 22:10 UTC,primm,IGNORE,Chargers vs. Ravens: O/U 44.5,Over,0.38,,,1214.1,,,,vu trop tard
 2026-11-17 22:10 UTC,primm,IGNORE,Chargers vs. Ravens,Chargers,0.57,,,1083.3,,,,vu trop tard
+2026-11-17 22:15 UTC,primm,IGNORE,Chargers vs. Ravens: O/U 50.5,Over,0.23,,,1217.0,,,,vu trop tard
