@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-17 18:15 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-17 18:20 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 225 | 249 | 212 | 112 | +53.14 $ | +2.5 % | 13 | +1.2 ¢ | 9 min |
+| BreakTheBank | 225 | 249 | 213 | 113 | +53.41 $ | +2.5 % | 12 | +1.2 ¢ | 9 min |
 | primm | 1201 | 583 | 1201 | 618 | +372.02 $ | +3.1 % | 0 | +3.2 ¢ | 4 min |
 | juice-fruit | 17 | 2 | 17 | 8 | -39.90 $ | -23.5 % | 0 | -0.7 ¢ | 5 min |
 
-**Total réalisé : +385.26 $ sur 14300 $ engagés (+2.7 %)**
+**Total réalisé : +385.53 $ sur 14310 $ engagés (+2.7 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-17 18:15 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day? | No | 0.90 | 0.92 | +0.27 $ |
 | primm | Spread: Chargers (-4.5) | Ravens | 0.44 | 1.00 | +12.73 $ |
 | primm | Spread: Chargers (-5.5) | Ravens | 0.46 | 1.00 | +11.74 $ |
 | primm | Spread: Chargers (-6.5) | Ravens | 0.53 | 1.00 | +8.87 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-17 18:15 UTC** 
 | primm | Spread: Ravens (-2.5) | Chargers | 0.50 | 1.00 | +10.00 $ |
 | primm | Chargers vs. Ravens | Chargers | 0.42 | 1.00 | +13.81 $ |
 | BreakTheBank | Chargers vs. Ravens | Ravens | 0.68 | 0.00 | -10.00 $ |
-| primm | Spread: Ravens (-1.5) | Chargers | 0.35 | 1.00 | +18.57 $ |
 
 Journal complet : `data/journal.csv`
