@@ -246,6 +246,19 @@
    "parts": 30.303,
    "montant": 10.0,
    "ouvert_le": "2026-11-17 22:55 UTC"
+  },
+  "BreakTheBank|69170209545113438206010352044269455074238528610857276316120570536713676228390": {
+   "date": "2026-11-17 23:05 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Knicks (-1.5)",
+   "resultat": "Raptors",
+   "prix_trader": 0.45,
+   "retard_min": 4.3,
+   "token": "69170209545113438206010352044269455074238528610857276316120570536713676228390",
+   "prix_simule": 0.46,
+   "parts": 21.7391,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-17 23:05 UTC"
   }
  },
  "fermees": [
