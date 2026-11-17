@@ -3769,3 +3769,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-17 23:40 UTC,primm,IGNORE,Chargers vs. Ravens: O/U 44.5,Under,0.42,,,1221.4,,,,vu trop tard
 2026-11-17 23:45 UTC,BreakTheBank,ACHAT,Spread: Spurs (-9.5),Spurs,0.5,0.51,1.0,1.6,19.6078,10.0,,
 2026-11-17 23:45 UTC,primm,IGNORE,Spread: Chargers (-7.5),Chargers,0.31,,,1277.7,,,,vu trop tard
+2026-11-17 23:55 UTC,primm,IGNORE,Spread: Chargers (-2.5),Ravens,0.21,,,1214.4,,,,vu trop tard
