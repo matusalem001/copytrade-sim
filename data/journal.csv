@@ -3646,3 +3646,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-17 03:10 UTC,primm,IGNORE,Spread: Chargers (-1.5),Ravens,0.32,0.26,-6.0,8.6,,,,prix a trop chuté (match sans doute joué)
 2026-11-17 03:15 UTC,BreakTheBank,REGLEMENT,Spread: Rockets (-1.5),Heat,,0.51,,,19.6078,19.61,9.61,gagné
 2026-11-17 03:30 UTC,BreakTheBank,REGLEMENT,76ers vs. Nets,Nets,,0.33,,,30.303,0.0,-10.0,perdu
+2026-11-17 03:35 UTC,BreakTheBank,IGNORE,Spread: Bengals (-4.5),Steelers,0.51,,,1575.4,,,,vu trop tard
