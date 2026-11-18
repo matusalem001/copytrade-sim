@@ -3824,3 +3824,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-18 01:50 UTC,primm,ACHAT,Miami (OH) vs. Kent State: O/U 45.5,Over,0.24,0.23,-1.0,3.2,43.4783,10.0,,
 2026-11-18 01:50 UTC,primm,ACHAT,Spread: Western Michigan (-7.5),Eastern Michigan,0.365,0.479,11.4,2.0,20.8768,10.0,,
 2026-11-18 01:50 UTC,primm,ACHAT,Spread: Western Michigan (-9.5),Eastern Michigan,0.45,0.549,9.9,0.6,18.2149,10.0,,
+2026-11-18 01:57 UTC,primm,ACHAT,Spread: Western Michigan (-6.5),Eastern Michigan,0.19,0.23,4.0,5.4,43.4783,10.0,,
+2026-11-18 01:57 UTC,primm,ACHAT,Spread: Western Michigan (-5.5),Eastern Michigan,0.182,0.209,2.7,0.5,47.8469,10.0,,
+2026-11-18 01:57 UTC,primm,REGLEMENT,Eastern Michigan vs. Western Michigan: O/U 53.5,Over,,0.54,,,18.5185,18.52,8.52,gagné

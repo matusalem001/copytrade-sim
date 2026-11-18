@@ -442,19 +442,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-17 23:35 UTC"
   },
-  "primm|38760467150284191965329348888875933163912123835659572890668032889534206892588": {
-   "date": "2026-11-17 23:35 UTC",
-   "trader": "primm",
-   "marche": "Eastern Michigan vs. Western Michigan: O/U 53.5",
-   "resultat": "Over",
-   "prix_trader": 0.39,
-   "retard_min": 0.6,
-   "token": "38760467150284191965329348888875933163912123835659572890668032889534206892588",
-   "prix_simule": 0.54,
-   "parts": 18.5185,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-17 23:35 UTC"
-  },
   "primm|85198255736773584598729862040540749833605700840496042715518501915325197951272": {
    "date": "2026-11-17 23:35 UTC",
    "trader": "primm",
@@ -1026,6 +1013,32 @@
    "parts": 18.2149,
    "montant": 10.0,
    "ouvert_le": "2026-11-18 01:50 UTC"
+  },
+  "primm|16933632916565101588232854770694627088086882693988014760532678446525717649439": {
+   "date": "2026-11-18 01:57 UTC",
+   "trader": "primm",
+   "marche": "Spread: Western Michigan (-6.5)",
+   "resultat": "Eastern Michigan",
+   "prix_trader": 0.19,
+   "retard_min": 5.4,
+   "token": "16933632916565101588232854770694627088086882693988014760532678446525717649439",
+   "prix_simule": 0.23,
+   "parts": 43.4783,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 01:57 UTC"
+  },
+  "primm|13172070692669431516283160730514480209557513105248553195504469852494405410960": {
+   "date": "2026-11-18 01:57 UTC",
+   "trader": "primm",
+   "marche": "Spread: Western Michigan (-5.5)",
+   "resultat": "Eastern Michigan",
+   "prix_trader": 0.182,
+   "retard_min": 0.5,
+   "token": "13172070692669431516283160730514480209557513105248553195504469852494405410960",
+   "prix_simule": 0.209,
+   "parts": 47.8469,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 01:57 UTC"
   }
  },
  "fermees": [
@@ -25405,6 +25418,23 @@
    "sortie": 1.0,
    "pnl": 3.3333,
    "ferme_le": "2026-11-18 01:40 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-17 23:35 UTC",
+   "trader": "primm",
+   "marche": "Eastern Michigan vs. Western Michigan: O/U 53.5",
+   "resultat": "Over",
+   "prix_trader": 0.39,
+   "retard_min": 0.6,
+   "token": "38760467150284191965329348888875933163912123835659572890668032889534206892588",
+   "prix_simule": 0.54,
+   "parts": 18.5185,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-17 23:35 UTC",
+   "sortie": 1.0,
+   "pnl": 8.5185,
+   "ferme_le": "2026-11-18 01:57 UTC",
    "type": "gagné"
   }
  ]

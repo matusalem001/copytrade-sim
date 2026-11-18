@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-18 01:55 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-18 01:57 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 233 | 269 | 213 | 113 | +53.41 $ | +2.5 % | 20 | +1.2 ¢ | 8 min |
-| primm | 1263 | 607 | 1204 | 621 | +390.76 $ | +3.2 % | 59 | +3.2 ¢ | 4 min |
+| primm | 1265 | 607 | 1205 | 622 | +399.28 $ | +3.3 % | 60 | +3.2 ¢ | 4 min |
 | juice-fruit | 17 | 2 | 17 | 8 | -39.90 $ | -23.5 % | 0 | -0.7 ¢ | 5 min |
 
-**Total réalisé : +404.26 $ sur 14340 $ engagés (+2.8 %)**
+**Total réalisé : +412.78 $ sur 14350 $ engagés (+2.9 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-18 01:55 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Eastern Michigan vs. Western Michigan: O/U 53.5 | Over | 0.54 | 1.00 | +8.52 $ |
 | primm | Eastern Michigan vs. Western Michigan: O/U 45.5 | Over | 0.75 | 1.00 | +3.33 $ |
 | primm | Eastern Michigan vs. Western Michigan: O/U 49.5 | Over | 0.56 | 1.00 | +7.86 $ |
 | primm | Eastern Michigan vs. Western Michigan: O/U 47.5 | Over | 0.57 | 1.00 | +7.54 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-18 01:55 UTC** 
 | primm | Spread: Chargers (-4.5) | Chargers | 0.52 | 0.00 | -10.00 $ |
 | primm | Spread: Chargers (-1.5) | Chargers | 0.63 | 1.00 | +5.87 $ |
 | primm | Spread: Chargers (-3.5) | Chargers | 0.44 | 0.00 | -10.00 $ |
-| primm | Spread: Chargers (-2.5) | Chargers | 0.52 | 1.00 | +9.23 $ |
 
 Journal complet : `data/journal.csv`
