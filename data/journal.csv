@@ -3982,3 +3982,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-18 23:05 UTC,primm,ACHAT,Akron vs. UMass: O/U 45.5,Under,0.45,0.46,1.0,0.5,21.7391,10.0,,
 2026-11-18 23:05 UTC,primm,ACHAT,Spread: UMass (-1.5),Akron,0.43,0.44,1.0,0.5,22.7273,10.0,,
 2026-11-18 23:10 UTC,primm,ACHAT,Akron vs. UMass: O/U 47.5,Under,0.51,0.53,2.0,4.9,18.8679,10.0,,
+2026-11-18 23:15 UTC,BreakTheBank,ACHAT,Spread: Cavaliers (-3.5),Grizzlies,0.45,0.46,1.0,6.2,21.7391,10.0,,
+2026-11-18 23:15 UTC,BreakTheBank,ACHAT,Spread: Cavaliers (-2.5),Grizzlies,0.42,0.43,1.0,5.4,23.2558,10.0,,
+2026-11-18 23:15 UTC,BreakTheBank,ACHAT,Spread: Rockets (-7.5),Pacers,0.46,0.47,1.0,5.2,21.2766,10.0,,
+2026-11-18 23:15 UTC,primm,IGNORE,Miami (OH) vs. Kent State: O/U 35.5,Over,0.66,,,1310.8,,,,vu trop tard
+2026-11-18 23:15 UTC,primm,IGNORE,Spread: Miami (OH) (-13.5),Kent State,0.26,,,1276.2,,,,vu trop tard
