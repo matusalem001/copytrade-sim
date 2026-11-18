@@ -701,6 +701,45 @@
    "parts": 40.0,
    "montant": 10.0,
    "ouvert_le": "2026-11-18 00:25 UTC"
+  },
+  "BreakTheBank|104234016368468568876598466316743486022273957130700075572939435900259756703699": {
+   "date": "2026-11-18 00:35 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Clippers (-6.5)",
+   "resultat": "Clippers",
+   "prix_trader": 0.48,
+   "retard_min": 3.4,
+   "token": "104234016368468568876598466316743486022273957130700075572939435900259756703699",
+   "prix_simule": 0.49,
+   "parts": 20.4082,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 00:35 UTC"
+  },
+  "primm|45279964911680385941392135988545883561281084888874144342402433744251671920971": {
+   "date": "2026-11-18 00:35 UTC",
+   "trader": "primm",
+   "marche": "Eastern Michigan vs. Western Michigan: O/U 59.5",
+   "resultat": "Over",
+   "prix_trader": 0.2715,
+   "retard_min": 4.2,
+   "token": "45279964911680385941392135988545883561281084888874144342402433744251671920971",
+   "prix_simule": 0.41,
+   "parts": 24.3902,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 00:35 UTC"
+  },
+  "primm|113622240625049362984387631123790805189908131179729777962882876946217168358450": {
+   "date": "2026-11-18 00:35 UTC",
+   "trader": "primm",
+   "marche": "Ball State vs. Ohio: O/U 49.5",
+   "resultat": "Over",
+   "prix_trader": 0.49,
+   "retard_min": 3.2,
+   "token": "113622240625049362984387631123790805189908131179729777962882876946217168358450",
+   "prix_simule": 0.5,
+   "parts": 20.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 00:35 UTC"
   }
  },
  "fermees": [
