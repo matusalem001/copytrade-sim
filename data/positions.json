@@ -350,6 +350,32 @@
    "parts": 18.5185,
    "montant": 10.0,
    "ouvert_le": "2026-11-18 23:30 UTC"
+  },
+  "BreakTheBank|93432758062083211154264827839462883021148012069095039463589705197242736684482": {
+   "date": "2026-11-18 23:35 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Cavaliers (-4.5)",
+   "resultat": "Grizzlies",
+   "prix_trader": 0.49,
+   "retard_min": 6.6,
+   "token": "93432758062083211154264827839462883021148012069095039463589705197242736684482",
+   "prix_simule": 0.5,
+   "parts": 20.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 23:35 UTC"
+  },
+  "BreakTheBank|35087282901493982976683808834800982225952931254506037132434270471140472939362": {
+   "date": "2026-11-18 23:35 UTC",
+   "trader": "BreakTheBank",
+   "marche": "76ers vs. Magic",
+   "resultat": "Magic",
+   "prix_trader": 0.6,
+   "retard_min": 4.5,
+   "token": "35087282901493982976683808834800982225952931254506037132434270471140472939362",
+   "prix_simule": 0.63,
+   "parts": 15.873,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 23:35 UTC"
   }
  },
  "fermees": [
