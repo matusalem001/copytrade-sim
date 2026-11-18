@@ -156,19 +156,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-16 22:55 UTC"
   },
-  "BreakTheBank|111030185854903910568126066514174411910740770807048437147185220211223819009365": {
-   "date": "2026-11-18 02:15 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Spread: Clippers (-5.5)",
-   "resultat": "Clippers",
-   "prix_trader": 0.52,
-   "retard_min": 2.0,
-   "token": "111030185854903910568126066514174411910740770807048437147185220211223819009365",
-   "prix_simule": 0.53,
-   "parts": 18.8679,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-18 02:15 UTC"
-  },
   "BreakTheBank|60270849897520800420235497397645552116945189919509938637151630741661458403730": {
    "date": "2026-11-18 02:20 UTC",
    "trader": "BreakTheBank",
@@ -246,19 +233,6 @@
    "parts": 20.8333,
    "montant": 10.0,
    "ouvert_le": "2026-11-18 02:20 UTC"
-  },
-  "BreakTheBank|43715431010383252220711218882019868336103082283901068865823600154713013317043": {
-   "date": "2026-11-18 03:30 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Jazz vs. Clippers",
-   "resultat": "Clippers",
-   "prix_trader": 0.67,
-   "retard_min": 4.4,
-   "token": "43715431010383252220711218882019868336103082283901068865823600154713013317043",
-   "prix_simule": 0.68,
-   "parts": 14.7059,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-18 03:30 UTC"
   }
  },
  "fermees": [
@@ -25947,6 +25921,40 @@
    "sortie": 0.0,
    "pnl": -10.0,
    "ferme_le": "2026-11-18 06:05 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-18 02:15 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Clippers (-5.5)",
+   "resultat": "Clippers",
+   "prix_trader": 0.52,
+   "retard_min": 2.0,
+   "token": "111030185854903910568126066514174411910740770807048437147185220211223819009365",
+   "prix_simule": 0.53,
+   "parts": 18.8679,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 02:15 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-18 06:10 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-18 03:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Jazz vs. Clippers",
+   "resultat": "Clippers",
+   "prix_trader": 0.67,
+   "retard_min": 4.4,
+   "token": "43715431010383252220711218882019868336103082283901068865823600154713013317043",
+   "prix_simule": 0.68,
+   "parts": 14.7059,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 03:30 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-18 06:10 UTC",
    "type": "perdu"
   }
  ]
