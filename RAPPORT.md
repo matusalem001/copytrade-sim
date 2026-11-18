@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-18 03:20 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-18 03:25 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 240 | 269 | 215 | 113 | +33.41 $ | +1.6 % | 25 | +1.2 ¢ | 8 min |
-| primm | 1273 | 621 | 1249 | 640 | +368.72 $ | +3.0 % | 24 | +3.2 ¢ | 4 min |
+| BreakTheBank | 240 | 270 | 215 | 113 | +33.41 $ | +1.6 % | 25 | +1.2 ¢ | 8 min |
+| primm | 1273 | 621 | 1251 | 642 | +385.38 $ | +3.1 % | 22 | +3.2 ¢ | 4 min |
 | juice-fruit | 17 | 2 | 17 | 8 | -39.90 $ | -23.5 % | 0 | -0.7 ¢ | 5 min |
 
-**Total réalisé : +362.22 $ sur 14810 $ engagés (+2.4 %)**
+**Total réalisé : +378.89 $ sur 14830 $ engagés (+2.6 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-18 03:20 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Ball State vs. Ohio: O/U 51.5 | Over | 0.60 | 1.00 | +6.67 $ |
+| primm | Ball State vs. Ohio: O/U 49.5 | Over | 0.50 | 1.00 | +10.00 $ |
 | primm | Ball State vs. Ohio: O/U 53.5 | Over | 0.60 | 1.00 | +6.67 $ |
 | primm | Ball State vs. Ohio: O/U 51.5 | Under | 0.55 | 0.00 | -10.00 $ |
 | primm | Ball State vs. Ohio: O/U 49.5 | Under | 0.49 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-18 03:20 UTC** 
 | primm | Spread: Western Michigan (-6.5) | Eastern Michigan | 0.23 | 0.00 | -10.00 $ |
 | primm | Spread: Western Michigan (-9.5) | Eastern Michigan | 0.55 | 1.00 | +8.21 $ |
 | primm | Spread: Western Michigan (-7.5) | Eastern Michigan | 0.48 | 1.00 | +10.88 $ |
-| primm | Spread: Western Michigan (-11.5) | Eastern Michigan | 0.28 | 1.00 | +26.10 $ |
-| primm | Spread: Western Michigan (-10.5) | Eastern Michigan | 0.25 | 1.00 | +30.00 $ |
 
 Journal complet : `data/journal.csv`
