@@ -987,6 +987,45 @@
    "parts": 16.3934,
    "montant": 10.0,
    "ouvert_le": "2026-11-18 01:45 UTC"
+  },
+  "primm|80391687356207007222692593992099154864013094628451003648301275118345219291404": {
+   "date": "2026-11-18 01:50 UTC",
+   "trader": "primm",
+   "marche": "Miami (OH) vs. Kent State: O/U 45.5",
+   "resultat": "Over",
+   "prix_trader": 0.24,
+   "retard_min": 3.2,
+   "token": "80391687356207007222692593992099154864013094628451003648301275118345219291404",
+   "prix_simule": 0.23,
+   "parts": 43.4783,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 01:50 UTC"
+  },
+  "primm|23861029685436945870120246906215920405050907466933532684912768517726661104000": {
+   "date": "2026-11-18 01:50 UTC",
+   "trader": "primm",
+   "marche": "Spread: Western Michigan (-7.5)",
+   "resultat": "Eastern Michigan",
+   "prix_trader": 0.365,
+   "retard_min": 2.0,
+   "token": "23861029685436945870120246906215920405050907466933532684912768517726661104000",
+   "prix_simule": 0.479,
+   "parts": 20.8768,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 01:50 UTC"
+  },
+  "primm|106918528788593394739370246910306617212576248798720237824413417828248588605113": {
+   "date": "2026-11-18 01:50 UTC",
+   "trader": "primm",
+   "marche": "Spread: Western Michigan (-9.5)",
+   "resultat": "Eastern Michigan",
+   "prix_trader": 0.45,
+   "retard_min": 0.6,
+   "token": "106918528788593394739370246910306617212576248798720237824413417828248588605113",
+   "prix_simule": 0.549,
+   "parts": 18.2149,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 01:50 UTC"
   }
  },
  "fermees": [
