@@ -337,6 +337,19 @@
    "parts": 18.1818,
    "montant": 10.0,
    "ouvert_le": "2026-11-18 23:20 UTC"
+  },
+  "BreakTheBank|50157361330353181967714952531323878877201406792111462491545090120777796565443": {
+   "date": "2026-11-18 23:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Cavaliers (-5.5)",
+   "resultat": "Grizzlies",
+   "prix_trader": 0.53,
+   "retard_min": 7.2,
+   "token": "50157361330353181967714952531323878877201406792111462491545090120777796565443",
+   "prix_simule": 0.54,
+   "parts": 18.5185,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 23:30 UTC"
   }
  },
  "fermees": [
