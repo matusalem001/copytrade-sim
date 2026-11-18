@@ -156,19 +156,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-16 22:55 UTC"
   },
-  "BreakTheBank|69170209545113438206010352044269455074238528610857276316120570536713676228390": {
-   "date": "2026-11-17 23:05 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Spread: Knicks (-1.5)",
-   "resultat": "Raptors",
-   "prix_trader": 0.45,
-   "retard_min": 4.3,
-   "token": "69170209545113438206010352044269455074238528610857276316120570536713676228390",
-   "prix_simule": 0.46,
-   "parts": 21.7391,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-17 23:05 UTC"
-  },
   "BreakTheBank|97609341783524196800556488767910275487599223021534869250218490501911529555583": {
    "date": "2026-11-17 23:15 UTC",
    "trader": "BreakTheBank",
@@ -530,19 +517,6 @@
    "token": "65000734142363976554094273186691318841832734148643997965755327533645137241878",
    "prix_simule": 0.31,
    "parts": 32.2581,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-18 01:25 UTC"
-  },
-  "primm|26159401365970825990023997379838348952310405128176811960445468699722856493151": {
-   "date": "2026-11-18 01:25 UTC",
-   "trader": "primm",
-   "marche": "Miami (OH) vs. Kent State: O/U 35.5",
-   "resultat": "Over",
-   "prix_trader": 0.66,
-   "retard_min": 7.4,
-   "token": "26159401365970825990023997379838348952310405128176811960445468699722856493151",
-   "prix_simule": 0.66,
-   "parts": 15.1515,
    "montant": 10.0,
    "ouvert_le": "2026-11-18 01:25 UTC"
   },
@@ -25790,6 +25764,40 @@
    "sortie": 0.0,
    "pnl": -10.0,
    "ferme_le": "2026-11-18 03:10 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-17 23:05 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Knicks (-1.5)",
+   "resultat": "Raptors",
+   "prix_trader": 0.45,
+   "retard_min": 4.3,
+   "token": "69170209545113438206010352044269455074238528610857276316120570536713676228390",
+   "prix_simule": 0.46,
+   "parts": 21.7391,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-17 23:05 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-18 03:15 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-18 01:25 UTC",
+   "trader": "primm",
+   "marche": "Miami (OH) vs. Kent State: O/U 35.5",
+   "resultat": "Over",
+   "prix_trader": 0.66,
+   "retard_min": 7.4,
+   "token": "26159401365970825990023997379838348952310405128176811960445468699722856493151",
+   "prix_simule": 0.66,
+   "parts": 15.1515,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 01:25 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-18 03:15 UTC",
    "type": "perdu"
   }
  ]
