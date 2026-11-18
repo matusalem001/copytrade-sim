@@ -3786,3 +3786,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-18 00:15 UTC,primm,ACHAT,Spread: Western Michigan (-20.5),Eastern Michigan,0.51,0.55,4.0,2.3,18.1818,10.0,,
 2026-11-18 00:15 UTC,primm,ACHAT,Spread: Ohio (-13.5),Ball State,0.51,0.53,2.0,1.8,18.8679,10.0,,
 2026-11-18 00:15 UTC,primm,ACHAT,Spread: Western Michigan (-14.5),Eastern Michigan,0.34,0.34,0.0,1.1,29.4118,10.0,,
+2026-11-18 00:20 UTC,primm,IGNORE,Chargers vs. Ravens,Chargers,0.64,,,1214.4,,,,vu trop tard
