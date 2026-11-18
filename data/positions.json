@@ -168,6 +168,19 @@
    "parts": 10.989,
    "montant": 10.0,
    "ouvert_le": "2026-11-18 08:30 UTC"
+  },
+  "BreakTheBank|54949287641954727970495527675829776321290963944233443017122215153125602528873": {
+   "date": "2026-11-18 14:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will New York Knicks win the 2027 NBA Finals?",
+   "resultat": "No",
+   "prix_trader": 0.91,
+   "retard_min": 6.8,
+   "token": "54949287641954727970495527675829776321290963944233443017122215153125602528873",
+   "prix_simule": 0.92,
+   "parts": 10.8696,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 14:30 UTC"
   }
  },
  "fermees": [
