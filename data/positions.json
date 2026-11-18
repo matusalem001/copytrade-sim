@@ -156,32 +156,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-16 22:55 UTC"
   },
-  "BreakTheBank|64842019665952092482219992582926986830615726922751832624809616900117467595501": {
-   "date": "2026-11-17 23:30 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Spread: Clippers (-7.5)",
-   "resultat": "Clippers",
-   "prix_trader": 0.45,
-   "retard_min": 4.9,
-   "token": "64842019665952092482219992582926986830615726922751832624809616900117467595501",
-   "prix_simule": 0.46,
-   "parts": 21.7391,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-17 23:30 UTC"
-  },
-  "BreakTheBank|104234016368468568876598466316743486022273957130700075572939435900259756703699": {
-   "date": "2026-11-18 00:35 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Spread: Clippers (-6.5)",
-   "resultat": "Clippers",
-   "prix_trader": 0.48,
-   "retard_min": 3.4,
-   "token": "104234016368468568876598466316743486022273957130700075572939435900259756703699",
-   "prix_simule": 0.49,
-   "parts": 20.4082,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-18 00:35 UTC"
-  },
   "BreakTheBank|111030185854903910568126066514174411910740770807048437147185220211223819009365": {
    "date": "2026-11-18 02:15 UTC",
    "trader": "BreakTheBank",
@@ -25939,6 +25913,40 @@
    "sortie": 0.0,
    "pnl": -10.0,
    "ferme_le": "2026-11-18 03:55 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-17 23:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Clippers (-7.5)",
+   "resultat": "Clippers",
+   "prix_trader": 0.45,
+   "retard_min": 4.9,
+   "token": "64842019665952092482219992582926986830615726922751832624809616900117467595501",
+   "prix_simule": 0.46,
+   "parts": 21.7391,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-17 23:30 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-18 06:05 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-18 00:35 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Clippers (-6.5)",
+   "resultat": "Clippers",
+   "prix_trader": 0.48,
+   "retard_min": 3.4,
+   "token": "104234016368468568876598466316743486022273957130700075572939435900259756703699",
+   "prix_simule": 0.49,
+   "parts": 20.4082,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 00:35 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-18 06:05 UTC",
    "type": "perdu"
   }
  ]
