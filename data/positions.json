@@ -156,19 +156,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-16 22:55 UTC"
   },
-  "primm|32254574780160462895451218035251828475821918381891878023289007228712931232098": {
-   "date": "2026-11-17 22:05 UTC",
-   "trader": "primm",
-   "marche": "Spread: Western Michigan (-17.5)",
-   "resultat": "Western Michigan",
-   "prix_trader": 0.45,
-   "retard_min": 0.3,
-   "token": "32254574780160462895451218035251828475821918381891878023289007228712931232098",
-   "prix_simule": 0.47,
-   "parts": 21.2766,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-17 22:05 UTC"
-  },
   "BreakTheBank|69170209545113438206010352044269455074238528610857276316120570536713676228390": {
    "date": "2026-11-17 23:05 UTC",
    "trader": "BreakTheBank",
@@ -844,6 +831,19 @@
    "parts": 20.8333,
    "montant": 10.0,
    "ouvert_le": "2026-11-18 02:20 UTC"
+  },
+  "primm|75220428406612062220686796042304406790217796828908622420788693766175150242374": {
+   "date": "2026-11-18 02:50 UTC",
+   "trader": "primm",
+   "marche": "Spread: Ohio (-4.5)",
+   "resultat": "Ball State",
+   "prix_trader": 0.26,
+   "retard_min": 1.1,
+   "token": "75220428406612062220686796042304406790217796828908622420788693766175150242374",
+   "prix_simule": 0.27,
+   "parts": 37.037,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 02:50 UTC"
   }
  },
  "fermees": [
@@ -25716,6 +25716,23 @@
    "sortie": 0.0,
    "pnl": -10.0,
    "ferme_le": "2026-11-18 02:45 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-17 22:05 UTC",
+   "trader": "primm",
+   "marche": "Spread: Western Michigan (-17.5)",
+   "resultat": "Western Michigan",
+   "prix_trader": 0.45,
+   "retard_min": 0.3,
+   "token": "32254574780160462895451218035251828475821918381891878023289007228712931232098",
+   "prix_simule": 0.47,
+   "parts": 21.2766,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-17 22:05 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-18 02:50 UTC",
    "type": "perdu"
   }
  ]

@@ -3874,3 +3874,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-6.5),Eastern Michigan,,0.23,,,43.4783,0.0,-10.0,perdu
 2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-5.5),Eastern Michigan,,0.209,,,47.8469,0.0,-10.0,perdu
 2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-9.5),Western Michigan,,0.247,,,40.4858,0.0,-10.0,perdu
+2026-11-18 02:50 UTC,primm,ACHAT,Spread: Ohio (-4.5),Ball State,0.26,0.27,1.0,1.1,37.037,10.0,,
+2026-11-18 02:50 UTC,primm,REGLEMENT,Spread: Western Michigan (-17.5),Western Michigan,,0.47,,,21.2766,0.0,-10.0,perdu
