@@ -3947,3 +3947,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-18 08:30 UTC,BreakTheBank,ACHAT,Will Anthropic’s market cap be 1.8T or greater at market close on IPO day by December 31 2027?,No,0.89,0.91,2.0,5.5,10.989,10.0,,
 2026-11-18 08:35 UTC,BreakTheBank,IGNORE,Hornets vs. Lakers,Hornets,0.27,,,286.9,,,,vu trop tard
 2026-11-18 08:35 UTC,BreakTheBank,IGNORE,Spread: Lakers (-6.5),Hornets,0.48,,,279.4,,,,vu trop tard
+2026-11-18 08:40 UTC,BreakTheBank,IGNORE,Spread: Lakers (-7.5),Hornets,0.52,,,286.0,,,,vu trop tard
