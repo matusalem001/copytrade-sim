@@ -3799,3 +3799,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-18 00:40 UTC,primm,ACHAT,Ball State vs. Ohio: O/U 47.5,Over,0.56,0.54,-2.0,6.5,18.5185,10.0,,
 2026-11-18 00:40 UTC,primm,ACHAT,Miami (OH) vs. Kent State: O/U 49.5,Over,0.57,0.59,2.0,2.7,16.9492,10.0,,
 2026-11-18 00:45 UTC,BreakTheBank,ACHAT,Spread: Timberwolves (-5.5),Timberwolves,0.45,0.46,1.0,5.0,21.7391,10.0,,
+2026-11-18 01:00 UTC,primm,ACHAT,Spread: Miami (OH) (-13.5),Kent State,0.3,0.45,15.0,6.8,22.2222,10.0,,
+2026-11-18 01:00 UTC,primm,ACHAT,Spread: Miami (OH) (-20.5),Kent State,0.52,0.69,17.0,6.8,14.4928,10.0,,
