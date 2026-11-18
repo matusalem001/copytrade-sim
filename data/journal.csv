@@ -3848,3 +3848,29 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-18 02:20 UTC,BreakTheBank,ACHAT,Hornets vs. Lakers,Hornets,0.27,0.28,1.0,3.4,35.7143,10.0,,
 2026-11-18 02:20 UTC,BreakTheBank,ACHAT,Spread: Lakers (-6.5),Hornets,0.47,0.48,1.0,3.4,20.8333,10.0,,
 2026-11-18 02:20 UTC,primm,IGNORE,Spread: Western Michigan (-3.5),Eastern Michigan,0.28,,,21.0,,,,vu trop tard
+2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-13.5),Western Michigan,,0.61,,,16.3934,0.0,-10.0,perdu
+2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-14.5),Western Michigan,,0.55,,,18.1818,0.0,-10.0,perdu
+2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-21.5),Western Michigan,,0.37,,,27.027,0.0,-10.0,perdu
+2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-16.5),Western Michigan,,0.52,,,19.2308,0.0,-10.0,perdu
+2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-20.5),Western Michigan,,0.42,,,23.8095,0.0,-10.0,perdu
+2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-24.5),Western Michigan,,0.33,,,30.303,0.0,-10.0,perdu
+2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-27.5),Western Michigan,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-24.5),Eastern Michigan,,0.53,,,18.8679,18.87,8.87,gagné
+2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-31.5),Western Michigan,,0.33,,,30.303,0.0,-10.0,perdu
+2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-30.5),Western Michigan,,0.33,,,30.303,0.0,-10.0,perdu
+2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-27.5),Eastern Michigan,,0.54,,,18.5185,18.52,8.52,gagné
+2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-30.5),Eastern Michigan,,0.73,,,13.6986,13.7,3.7,gagné
+2026-11-18 02:45 UTC,primm,REGLEMENT,Eastern Michigan vs. Western Michigan,Eastern Michigan,,0.058,,,172.4138,0.0,-10.0,perdu
+2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-21.5),Eastern Michigan,,0.56,,,17.8571,17.86,7.86,gagné
+2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-20.5),Eastern Michigan,,0.55,,,18.1818,18.18,8.18,gagné
+2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-14.5),Eastern Michigan,,0.34,,,29.4118,29.41,19.41,gagné
+2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-17.5),Eastern Michigan,,0.25,,,40.0,40.0,30.0,gagné
+2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-13.5),Eastern Michigan,,0.309,,,32.3625,32.36,22.36,gagné
+2026-11-18 02:45 UTC,primm,REGLEMENT,Eastern Michigan vs. Western Michigan: O/U 65.5,Under,,0.66,,,15.1515,15.15,5.15,gagné
+2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-10.5),Eastern Michigan,,0.25,,,40.0,40.0,30.0,gagné
+2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-11.5),Eastern Michigan,,0.277,,,36.1011,36.1,26.1,gagné
+2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-7.5),Eastern Michigan,,0.479,,,20.8768,20.88,10.88,gagné
+2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-9.5),Eastern Michigan,,0.549,,,18.2149,18.21,8.21,gagné
+2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-6.5),Eastern Michigan,,0.23,,,43.4783,0.0,-10.0,perdu
+2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-5.5),Eastern Michigan,,0.209,,,47.8469,0.0,-10.0,perdu
+2026-11-18 02:45 UTC,primm,REGLEMENT,Spread: Western Michigan (-9.5),Western Michigan,,0.247,,,40.4858,0.0,-10.0,perdu
