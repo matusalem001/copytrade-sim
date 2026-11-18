@@ -3955,3 +3955,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-18 14:30 UTC,BreakTheBank,ACHAT,Will New York Knicks win the 2027 NBA Finals?,No,0.91,0.92,1.0,6.8,10.8696,10.0,,
 2026-11-18 14:45 UTC,BreakTheBank,IGNORE,Spread: Lakers (-6.5),Hornets,0.48,,,648.7,,,,vu trop tard
 2026-11-18 16:25 UTC,BreakTheBank,IGNORE,Spread: Lakers (-6.5),Hornets,0.48,,,745.4,,,,vu trop tard
+2026-11-18 17:05 UTC,BreakTheBank,IGNORE,Spread: Lakers (-7.5),Hornets,0.52,,,790.9,,,,vu trop tard
