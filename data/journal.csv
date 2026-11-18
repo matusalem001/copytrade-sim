@@ -3943,3 +3943,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-18 07:25 UTC,BreakTheBank,REGLEMENT,Spread: Lakers (-9.5),Hornets,,0.59,,,16.9492,16.95,6.95,gagné
 2026-11-18 07:25 UTC,BreakTheBank,REGLEMENT,Hornets vs. Lakers,Hornets,,0.28,,,35.7143,0.0,-10.0,perdu
 2026-11-18 07:25 UTC,BreakTheBank,REGLEMENT,Spread: Lakers (-6.5),Hornets,,0.48,,,20.8333,20.83,10.83,gagné
+2026-11-18 07:50 UTC,BreakTheBank,IGNORE,Spread: Lakers (-6.5),Hornets,0.48,,,243.1,,,,vu trop tard
