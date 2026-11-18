@@ -3944,3 +3944,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-18 07:25 UTC,BreakTheBank,REGLEMENT,Hornets vs. Lakers,Hornets,,0.28,,,35.7143,0.0,-10.0,perdu
 2026-11-18 07:25 UTC,BreakTheBank,REGLEMENT,Spread: Lakers (-6.5),Hornets,,0.48,,,20.8333,20.83,10.83,gagné
 2026-11-18 07:50 UTC,BreakTheBank,IGNORE,Spread: Lakers (-6.5),Hornets,0.48,,,243.1,,,,vu trop tard
+2026-11-18 08:30 UTC,BreakTheBank,ACHAT,Will Anthropic’s market cap be 1.8T or greater at market close on IPO day by December 31 2027?,No,0.89,0.91,2.0,5.5,10.989,10.0,,
