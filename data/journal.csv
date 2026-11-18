@@ -3936,3 +3936,10 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-18 06:05 UTC,BreakTheBank,REGLEMENT,Spread: Clippers (-6.5),Clippers,,0.49,,,20.4082,0.0,-10.0,perdu
 2026-11-18 06:10 UTC,BreakTheBank,REGLEMENT,Spread: Clippers (-5.5),Clippers,,0.53,,,18.8679,0.0,-10.0,perdu
 2026-11-18 06:10 UTC,BreakTheBank,REGLEMENT,Jazz vs. Clippers,Clippers,,0.68,,,14.7059,0.0,-10.0,perdu
+2026-11-18 07:25 UTC,BreakTheBank,IGNORE,Will Anthropic's valuation hit (HIGH) $5.0T by December 31?,No,0.979,0.982,,8.0,,,,prix trop haut
+2026-11-18 07:25 UTC,BreakTheBank,REGLEMENT,Spread: Lakers (-4.5),Hornets,,0.41,,,24.3902,24.39,14.39,gagné
+2026-11-18 07:25 UTC,BreakTheBank,REGLEMENT,Spread: Lakers (-8.5),Hornets,,0.57,,,17.5439,17.54,7.54,gagné
+2026-11-18 07:25 UTC,BreakTheBank,REGLEMENT,Spread: Lakers (-7.5),Hornets,,0.53,,,18.8679,18.87,8.87,gagné
+2026-11-18 07:25 UTC,BreakTheBank,REGLEMENT,Spread: Lakers (-9.5),Hornets,,0.59,,,16.9492,16.95,6.95,gagné
+2026-11-18 07:25 UTC,BreakTheBank,REGLEMENT,Hornets vs. Lakers,Hornets,,0.28,,,35.7143,0.0,-10.0,perdu
+2026-11-18 07:25 UTC,BreakTheBank,REGLEMENT,Spread: Lakers (-6.5),Hornets,,0.48,,,20.8333,20.83,10.83,gagné
