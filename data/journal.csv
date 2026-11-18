@@ -3882,3 +3882,16 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-18 03:00 UTC,primm,IGNORE,Spread: Western Michigan (-13.5),Eastern Michigan,0.308,,,77.1,,,,vu trop tard
 2026-11-18 03:00 UTC,primm,IGNORE,Spread: Western Michigan (-10.5),Eastern Michigan,0.495,,,72.6,,,,vu trop tard
 2026-11-18 03:05 UTC,primm,IGNORE,Spread: Western Michigan (-17.5),Eastern Michigan,0.65,,,81.5,,,,vu trop tard
+2026-11-18 03:10 UTC,primm,IGNORE,Spread: Western Michigan (-20.5),Eastern Michigan,0.6,,,95.9,,,,vu trop tard
+2026-11-18 03:10 UTC,primm,ACHAT,Ball State vs. Ohio,Ohio,0.74,0.77,3.0,4.3,12.987,10.0,,
+2026-11-18 03:10 UTC,primm,REGLEMENT,Ball State vs. Ohio: O/U 47.5,Under,,0.44,,,22.7273,0.0,-10.0,perdu
+2026-11-18 03:10 UTC,primm,REGLEMENT,Miami (OH) vs. Kent State: O/U 41.5,Over,,0.74,,,13.5135,0.0,-10.0,perdu
+2026-11-18 03:10 UTC,primm,REGLEMENT,Ball State vs. Ohio: O/U 47.5,Over,,0.54,,,18.5185,18.52,8.52,gagné
+2026-11-18 03:10 UTC,primm,REGLEMENT,Miami (OH) vs. Kent State: O/U 49.5,Over,,0.59,,,16.9492,0.0,-10.0,perdu
+2026-11-18 03:10 UTC,primm,REGLEMENT,Spread: Miami (OH) (-13.5),Kent State,,0.45,,,22.2222,0.0,-10.0,perdu
+2026-11-18 03:10 UTC,primm,REGLEMENT,Spread: Miami (OH) (-20.5),Kent State,,0.69,,,14.4928,14.49,4.49,gagné
+2026-11-18 03:10 UTC,primm,REGLEMENT,Spread: Miami (OH) (-10.5),Kent State,,0.37,,,27.027,0.0,-10.0,perdu
+2026-11-18 03:10 UTC,primm,REGLEMENT,Miami (OH) vs. Kent State: O/U 45.5,Over,,0.23,,,43.4783,0.0,-10.0,perdu
+2026-11-18 03:10 UTC,primm,REGLEMENT,Spread: Miami (OH) (-16.5),Kent State,,0.41,,,24.3902,0.0,-10.0,perdu
+2026-11-18 03:10 UTC,primm,REGLEMENT,Spread: Miami (OH) (-17.5),Kent State,,0.62,,,16.129,16.13,6.13,gagné
+2026-11-18 03:10 UTC,primm,REGLEMENT,Spread: Miami (OH) (-14.5),Kent State,,0.22,,,45.4545,0.0,-10.0,perdu
