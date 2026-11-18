@@ -3898,3 +3898,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-18 03:15 UTC,primm,IGNORE,Spread: Western Michigan (-7.5),Eastern Michigan,0.765,,,75.7,,,,vu trop tard
 2026-11-18 03:15 UTC,BreakTheBank,REGLEMENT,Spread: Knicks (-1.5),Raptors,,0.46,,,21.7391,0.0,-10.0,perdu
 2026-11-18 03:15 UTC,primm,REGLEMENT,Miami (OH) vs. Kent State: O/U 35.5,Over,,0.66,,,15.1515,0.0,-10.0,perdu
+2026-11-18 03:20 UTC,BreakTheBank,REGLEMENT,Knicks vs. Raptors,Raptors,,0.45,,,22.2222,0.0,-10.0,perdu
+2026-11-18 03:20 UTC,primm,REGLEMENT,Ball State vs. Ohio: O/U 49.5,Under,,0.49,,,20.4082,0.0,-10.0,perdu
+2026-11-18 03:20 UTC,primm,REGLEMENT,Ball State vs. Ohio: O/U 51.5,Under,,0.55,,,18.1818,0.0,-10.0,perdu
+2026-11-18 03:20 UTC,primm,REGLEMENT,Ball State vs. Ohio: O/U 53.5,Over,,0.6,,,16.6667,16.67,6.67,gagné
