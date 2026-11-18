@@ -3801,3 +3801,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-18 00:45 UTC,BreakTheBank,ACHAT,Spread: Timberwolves (-5.5),Timberwolves,0.45,0.46,1.0,5.0,21.7391,10.0,,
 2026-11-18 01:00 UTC,primm,ACHAT,Spread: Miami (OH) (-13.5),Kent State,0.3,0.45,15.0,6.8,22.2222,10.0,,
 2026-11-18 01:00 UTC,primm,ACHAT,Spread: Miami (OH) (-20.5),Kent State,0.52,0.69,17.0,6.8,14.4928,10.0,,
+2026-11-18 01:05 UTC,BreakTheBank,ACHAT,Pistons vs. Spurs,Spurs,0.79,0.79,0.0,5.8,12.6582,10.0,,
+2026-11-18 01:05 UTC,primm,ACHAT,Spread: Miami (OH) (-10.5),Kent State,0.38,0.37,-1.0,5.3,27.027,10.0,,
+2026-11-18 01:05 UTC,primm,ACHAT,Ball State vs. Ohio: O/U 51.5,Over,0.6,0.6,0.0,2.8,16.6667,10.0,,
