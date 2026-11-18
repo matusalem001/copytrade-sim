@@ -312,19 +312,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-17 23:15 UTC"
   },
-  "primm|90585718261245583071643715588483630719992465479974010785024964925587951526866": {
-   "date": "2026-11-17 23:15 UTC",
-   "trader": "primm",
-   "marche": "Eastern Michigan vs. Western Michigan: O/U 47.5",
-   "resultat": "Over",
-   "prix_trader": 0.58,
-   "retard_min": 3.5,
-   "token": "90585718261245583071643715588483630719992465479974010785024964925587951526866",
-   "prix_simule": 0.57,
-   "parts": 17.5439,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-17 23:15 UTC"
-  },
   "primm|14914447172734576866505053051488050845976860072321460824863920310350343004407": {
    "date": "2026-11-17 23:15 UTC",
    "trader": "primm",
@@ -350,19 +337,6 @@
    "parts": 18.5185,
    "montant": 10.0,
    "ouvert_le": "2026-11-17 23:20 UTC"
-  },
-  "primm|63039065552073273731967506372437490404588109685968491607058254079825965175368": {
-   "date": "2026-11-17 23:25 UTC",
-   "trader": "primm",
-   "marche": "Eastern Michigan vs. Western Michigan: O/U 49.5",
-   "resultat": "Over",
-   "prix_trader": 0.49,
-   "retard_min": 4.1,
-   "token": "63039065552073273731967506372437490404588109685968491607058254079825965175368",
-   "prix_simule": 0.56,
-   "parts": 17.8571,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-17 23:25 UTC"
   },
   "BreakTheBank|64842019665952092482219992582926986830615726922751832624809616900117467595501": {
    "date": "2026-11-17 23:30 UTC",
@@ -676,19 +650,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-18 00:25 UTC"
   },
-  "primm|50902118135585400621766095260680256221011858739083586739053070933744534596403": {
-   "date": "2026-11-18 00:25 UTC",
-   "trader": "primm",
-   "marche": "Eastern Michigan vs. Western Michigan: O/U 45.5",
-   "resultat": "Over",
-   "prix_trader": 0.58,
-   "retard_min": 6.8,
-   "token": "50902118135585400621766095260680256221011858739083586739053070933744534596403",
-   "prix_simule": 0.75,
-   "parts": 13.3333,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-18 00:25 UTC"
-  },
   "primm|65174211710220973840043378626004420460350282121979994132715995974528498074462": {
    "date": "2026-11-18 00:25 UTC",
    "trader": "primm",
@@ -948,6 +909,71 @@
    "parts": 15.1515,
    "montant": 10.0,
    "ouvert_le": "2026-11-18 01:25 UTC"
+  },
+  "primm|99145541594035188184519105548992780003750551770911064631447949788249472154900": {
+   "date": "2026-11-18 01:40 UTC",
+   "trader": "primm",
+   "marche": "Spread: Western Michigan (-13.5)",
+   "resultat": "Eastern Michigan",
+   "prix_trader": 0.297,
+   "retard_min": 9.2,
+   "token": "99145541594035188184519105548992780003750551770911064631447949788249472154900",
+   "prix_simule": 0.309,
+   "parts": 32.3625,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 01:40 UTC"
+  },
+  "primm|62966777069996724718828928139387446176392577555339481345476998470108187215179": {
+   "date": "2026-11-18 01:40 UTC",
+   "trader": "primm",
+   "marche": "Eastern Michigan vs. Western Michigan: O/U 65.5",
+   "resultat": "Under",
+   "prix_trader": 0.59,
+   "retard_min": 8.6,
+   "token": "62966777069996724718828928139387446176392577555339481345476998470108187215179",
+   "prix_simule": 0.66,
+   "parts": 15.1515,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 01:40 UTC"
+  },
+  "primm|96496286168436746181737703475864691098168897129089671072275159354561110379160": {
+   "date": "2026-11-18 01:40 UTC",
+   "trader": "primm",
+   "marche": "Spread: Ohio (-1.5)",
+   "resultat": "Ball State",
+   "prix_trader": 0.5,
+   "retard_min": 3.6,
+   "token": "96496286168436746181737703475864691098168897129089671072275159354561110379160",
+   "prix_simule": 0.5,
+   "parts": 20.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 01:40 UTC"
+  },
+  "primm|49295589129467164296073569616518083909356164966844679533700425283252732654763": {
+   "date": "2026-11-18 01:40 UTC",
+   "trader": "primm",
+   "marche": "Spread: Western Michigan (-10.5)",
+   "resultat": "Eastern Michigan",
+   "prix_trader": 0.24,
+   "retard_min": 0.7,
+   "token": "49295589129467164296073569616518083909356164966844679533700425283252732654763",
+   "prix_simule": 0.25,
+   "parts": 40.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 01:40 UTC"
+  },
+  "primm|113004120129898637510180030320229843355148424157649301547801755176453162924565": {
+   "date": "2026-11-18 01:40 UTC",
+   "trader": "primm",
+   "marche": "Spread: Western Michigan (-11.5)",
+   "resultat": "Eastern Michigan",
+   "prix_trader": 0.275,
+   "retard_min": 0.3,
+   "token": "113004120129898637510180030320229843355148424157649301547801755176453162924565",
+   "prix_simule": 0.277,
+   "parts": 36.1011,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 01:40 UTC"
   }
  },
  "fermees": [
@@ -25277,6 +25303,57 @@
    "pnl": 0.2676,
    "ferme_le": "2026-11-17 18:20 UTC",
    "type": "revente"
+  },
+  {
+   "date": "2026-11-17 23:15 UTC",
+   "trader": "primm",
+   "marche": "Eastern Michigan vs. Western Michigan: O/U 47.5",
+   "resultat": "Over",
+   "prix_trader": 0.58,
+   "retard_min": 3.5,
+   "token": "90585718261245583071643715588483630719992465479974010785024964925587951526866",
+   "prix_simule": 0.57,
+   "parts": 17.5439,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-17 23:15 UTC",
+   "sortie": 1.0,
+   "pnl": 7.5439,
+   "ferme_le": "2026-11-18 01:40 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-17 23:25 UTC",
+   "trader": "primm",
+   "marche": "Eastern Michigan vs. Western Michigan: O/U 49.5",
+   "resultat": "Over",
+   "prix_trader": 0.49,
+   "retard_min": 4.1,
+   "token": "63039065552073273731967506372437490404588109685968491607058254079825965175368",
+   "prix_simule": 0.56,
+   "parts": 17.8571,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-17 23:25 UTC",
+   "sortie": 1.0,
+   "pnl": 7.8571,
+   "ferme_le": "2026-11-18 01:40 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-18 00:25 UTC",
+   "trader": "primm",
+   "marche": "Eastern Michigan vs. Western Michigan: O/U 45.5",
+   "resultat": "Over",
+   "prix_trader": 0.58,
+   "retard_min": 6.8,
+   "token": "50902118135585400621766095260680256221011858739083586739053070933744534596403",
+   "prix_simule": 0.75,
+   "parts": 13.3333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 00:25 UTC",
+   "sortie": 1.0,
+   "pnl": 3.3333,
+   "ferme_le": "2026-11-18 01:40 UTC",
+   "type": "gagné"
   }
  ]
 }

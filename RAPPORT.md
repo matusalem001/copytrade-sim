@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-18 01:35 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-18 01:40 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 233 | 269 | 213 | 113 | +53.41 $ | +2.5 % | 20 | +1.2 ¢ | 8 min |
-| primm | 1254 | 607 | 1201 | 618 | +372.02 $ | +3.1 % | 53 | +3.2 ¢ | 4 min |
+| primm | 1259 | 607 | 1204 | 621 | +390.76 $ | +3.2 % | 55 | +3.1 ¢ | 4 min |
 | juice-fruit | 17 | 2 | 17 | 8 | -39.90 $ | -23.5 % | 0 | -0.7 ¢ | 5 min |
 
-**Total réalisé : +385.53 $ sur 14310 $ engagés (+2.7 %)**
+**Total réalisé : +404.26 $ sur 14340 $ engagés (+2.8 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,9 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-18 01:35 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Eastern Michigan vs. Western Michigan: O/U 45.5 | Over | 0.75 | 1.00 | +3.33 $ |
+| primm | Eastern Michigan vs. Western Michigan: O/U 49.5 | Over | 0.56 | 1.00 | +7.86 $ |
+| primm | Eastern Michigan vs. Western Michigan: O/U 47.5 | Over | 0.57 | 1.00 | +7.54 $ |
 | BreakTheBank | Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day? | No | 0.90 | 0.92 | +0.27 $ |
 | primm | Spread: Chargers (-4.5) | Ravens | 0.44 | 1.00 | +12.73 $ |
 | primm | Spread: Chargers (-5.5) | Ravens | 0.46 | 1.00 | +11.74 $ |
@@ -38,8 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-18 01:35 UTC** 
 | primm | Spread: Chargers (-1.5) | Chargers | 0.63 | 1.00 | +5.87 $ |
 | primm | Spread: Chargers (-3.5) | Chargers | 0.44 | 0.00 | -10.00 $ |
 | primm | Spread: Chargers (-2.5) | Chargers | 0.52 | 1.00 | +9.23 $ |
-| primm | Spread: Ravens (-2.5) | Chargers | 0.50 | 1.00 | +10.00 $ |
-| primm | Chargers vs. Ravens | Chargers | 0.42 | 1.00 | +13.81 $ |
-| BreakTheBank | Chargers vs. Ravens | Ravens | 0.68 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

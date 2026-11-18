@@ -3812,3 +3812,11 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-18 01:15 UTC,primm,ACHAT,Ball State vs. Ohio: O/U 59.5,Over,0.41,0.47,6.0,2.6,21.2766,10.0,,
 2026-11-18 01:25 UTC,primm,ACHAT,Ball State vs. Ohio: O/U 65.5,Over,0.27,0.31,4.0,7.7,32.2581,10.0,,
 2026-11-18 01:25 UTC,primm,ACHAT,Miami (OH) vs. Kent State: O/U 35.5,Over,0.66,0.66,0.0,7.4,15.1515,10.0,,
+2026-11-18 01:40 UTC,primm,ACHAT,Spread: Western Michigan (-13.5),Eastern Michigan,0.297,0.309,1.2,9.2,32.3625,10.0,,
+2026-11-18 01:40 UTC,primm,ACHAT,Eastern Michigan vs. Western Michigan: O/U 65.5,Under,0.59,0.66,7.0,8.6,15.1515,10.0,,
+2026-11-18 01:40 UTC,primm,ACHAT,Spread: Ohio (-1.5),Ball State,0.5,0.5,0.0,3.6,20.0,10.0,,
+2026-11-18 01:40 UTC,primm,ACHAT,Spread: Western Michigan (-10.5),Eastern Michigan,0.24,0.25,1.0,0.7,40.0,10.0,,
+2026-11-18 01:40 UTC,primm,ACHAT,Spread: Western Michigan (-11.5),Eastern Michigan,0.275,0.277,0.2,0.3,36.1011,10.0,,
+2026-11-18 01:40 UTC,primm,REGLEMENT,Eastern Michigan vs. Western Michigan: O/U 47.5,Over,,0.57,,,17.5439,17.54,7.54,gagné
+2026-11-18 01:40 UTC,primm,REGLEMENT,Eastern Michigan vs. Western Michigan: O/U 49.5,Over,,0.56,,,17.8571,17.86,7.86,gagné
+2026-11-18 01:40 UTC,primm,REGLEMENT,Eastern Michigan vs. Western Michigan: O/U 45.5,Over,,0.75,,,13.3333,13.33,3.33,gagné
