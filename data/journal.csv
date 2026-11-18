@@ -3928,3 +3928,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-18 03:45 UTC,primm,REGLEMENT,Spread: Ohio (-2.5),Ball State,,0.58,,,17.2414,0.0,-10.0,perdu
 2026-11-18 03:45 UTC,primm,REGLEMENT,Spread: Ohio (-4.5),Ball State,,0.27,,,37.037,0.0,-10.0,perdu
 2026-11-18 03:45 UTC,primm,REGLEMENT,Ball State vs. Ohio,Ohio,,0.77,,,12.987,12.99,2.99,gagné
+2026-11-18 03:55 UTC,BreakTheBank,REGLEMENT,Spread: Spurs (-9.5),Spurs,,0.51,,,19.6078,0.0,-10.0,perdu
+2026-11-18 03:55 UTC,BreakTheBank,REGLEMENT,Spread: Spurs (-10.5),Spurs,,0.47,,,21.2766,0.0,-10.0,perdu
+2026-11-18 03:55 UTC,BreakTheBank,REGLEMENT,Spread: Timberwolves (-5.5),Timberwolves,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-18 03:55 UTC,BreakTheBank,REGLEMENT,Pistons vs. Spurs,Spurs,,0.79,,,12.6582,0.0,-10.0,perdu
