@@ -3987,3 +3987,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-18 23:15 UTC,BreakTheBank,ACHAT,Spread: Rockets (-7.5),Pacers,0.46,0.47,1.0,5.2,21.2766,10.0,,
 2026-11-18 23:15 UTC,primm,IGNORE,Miami (OH) vs. Kent State: O/U 35.5,Over,0.66,,,1310.8,,,,vu trop tard
 2026-11-18 23:15 UTC,primm,IGNORE,Spread: Miami (OH) (-13.5),Kent State,0.26,,,1276.2,,,,vu trop tard
+2026-11-18 23:20 UTC,BreakTheBank,ACHAT,Spread: Rockets (-6.5),Pacers,0.42,0.43,1.0,5.3,23.2558,10.0,,
+2026-11-18 23:20 UTC,BreakTheBank,ACHAT,Spread: Rockets (-9.5),Pacers,0.53,0.55,2.0,5.3,18.1818,10.0,,
