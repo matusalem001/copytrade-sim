@@ -4045,3 +4045,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-19 02:10 UTC,primm,REGLEMENT,Akron vs. UMass: O/U 45.5,Under,,0.46,,,21.7391,0.0,-10.0,perdu
 2026-11-19 02:10 UTC,primm,REGLEMENT,Akron vs. UMass: O/U 47.5,Under,,0.53,,,18.8679,0.0,-10.0,perdu
 2026-11-19 02:20 UTC,primm,IGNORE,Spread: Ohio (-4.5),Ball State,0.26,,,1411.0,,,,vu trop tard
+2026-11-19 02:25 UTC,BreakTheBank,VENTE,Will Anthropic's market cap be less than $1.25T at market close on IPO day?,Yes,0.3633,0.34,,5.6,37.8788,12.88,2.88,
