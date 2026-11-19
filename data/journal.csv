@@ -4058,3 +4058,14 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-19 02:45 UTC,BreakTheBank,REGLEMENT,Spread: Rockets (-7.5),Pacers,,0.47,,,21.2766,0.0,-10.0,perdu
 2026-11-19 02:45 UTC,BreakTheBank,REGLEMENT,Spread: Rockets (-6.5),Pacers,,0.43,,,23.2558,0.0,-10.0,perdu
 2026-11-19 02:45 UTC,BreakTheBank,REGLEMENT,Spread: Rockets (-9.5),Pacers,,0.55,,,18.1818,0.0,-10.0,perdu
+2026-11-19 02:50 UTC,BreakTheBank,IGNORE,Will Anthropic's market cap be between $2.0T and $2.25T at market close on IPO day?,No,0.981,0.993,,8.3,,,,prix trop haut
+2026-11-19 02:50 UTC,BreakTheBank,IGNORE,Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day?,No,0.961,0.966,,4.6,,,,prix trop haut
+2026-11-19 02:50 UTC,BreakTheBank,IGNORE,Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day?,No,0.961,0.966,,4.1,,,,prix trop haut
+2026-11-19 02:50 UTC,primm,IGNORE,Spread: Ohio (-4.5),Ball State,0.26,,,1441.0,,,,vu trop tard
+2026-11-19 02:50 UTC,primm,ACHAT,Central Michigan vs. Buffalo: O/U 71.5,Over,0.41,0.73,32.0,4.9,13.6986,10.0,,
+2026-11-19 02:50 UTC,primm,ACHAT,Spread: UMass (-1.5),UMass,0.48,0.48,0.0,2.0,20.8333,10.0,,
+2026-11-19 02:50 UTC,primm,ACHAT,Akron vs. UMass,UMass,0.49,0.5,1.0,1.7,20.0,10.0,,
+2026-11-19 02:50 UTC,BreakTheBank,REGLEMENT,Spread: Cavaliers (-3.5),Grizzlies,,0.46,,,21.7391,21.74,11.74,gagné
+2026-11-19 02:50 UTC,BreakTheBank,REGLEMENT,Spread: Cavaliers (-2.5),Grizzlies,,0.43,,,23.2558,23.26,13.26,gagné
+2026-11-19 02:50 UTC,BreakTheBank,REGLEMENT,Spread: Cavaliers (-5.5),Grizzlies,,0.54,,,18.5185,18.52,8.52,gagné
+2026-11-19 02:50 UTC,BreakTheBank,REGLEMENT,Spread: Cavaliers (-4.5),Grizzlies,,0.5,,,20.0,20.0,10.0,gagné

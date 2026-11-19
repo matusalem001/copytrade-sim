@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 02:45 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 02:50 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 256 | 310 | 234 | 119 | -45.13 $ | -1.9 % | 22 | +1.2 ¢ | 8 min |
-| primm | 1305 | 642 | 1276 | 655 | +396.96 $ | +3.1 % | 29 | +3.2 ¢ | 4 min |
+| BreakTheBank | 256 | 313 | 238 | 123 | -1.62 $ | -0.1 % | 18 | +1.2 ¢ | 8 min |
+| primm | 1308 | 643 | 1276 | 655 | +396.96 $ | +3.1 % | 32 | +3.2 ¢ | 4 min |
 | juice-fruit | 17 | 2 | 17 | 8 | -39.90 $ | -23.5 % | 0 | -0.7 ¢ | 5 min |
 
-**Total réalisé : +311.93 $ sur 15270 $ engagés (+2.0 %)**
+**Total réalisé : +355.44 $ sur 15310 $ engagés (+2.3 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,10 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 02:45 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Spread: Cavaliers (-4.5) | Grizzlies | 0.50 | 1.00 | +10.00 $ |
+| BreakTheBank | Spread: Cavaliers (-5.5) | Grizzlies | 0.54 | 1.00 | +8.52 $ |
+| BreakTheBank | Spread: Cavaliers (-2.5) | Grizzlies | 0.43 | 1.00 | +13.26 $ |
+| BreakTheBank | Spread: Cavaliers (-3.5) | Grizzlies | 0.46 | 1.00 | +11.74 $ |
 | BreakTheBank | Spread: Rockets (-9.5) | Pacers | 0.55 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Rockets (-6.5) | Pacers | 0.43 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Rockets (-7.5) | Pacers | 0.47 | 0.00 | -10.00 $ |
@@ -37,9 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 02:45 UTC** 
 | BreakTheBank | Pistons vs. Spurs | Spurs | 0.79 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Timberwolves (-5.5) | Timberwolves | 0.46 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Spurs (-10.5) | Spurs | 0.47 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Spurs (-9.5) | Spurs | 0.51 | 0.00 | -10.00 $ |
-| primm | Ball State vs. Ohio | Ohio | 0.77 | 1.00 | +2.99 $ |
-| primm | Spread: Ohio (-4.5) | Ball State | 0.27 | 0.00 | -10.00 $ |
-| primm | Spread: Ohio (-2.5) | Ball State | 0.58 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
