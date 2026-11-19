@@ -4123,3 +4123,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-19 03:50 UTC,primm,REGLEMENT,Spread: Buffalo (-14.5),Buffalo,,0.68,,,14.7059,14.71,4.71,gagné
 2026-11-19 03:55 UTC,primm,REGLEMENT,Spread: Buffalo (-2.5),Central Michigan,,0.63,,,15.873,0.0,-10.0,perdu
 2026-11-19 04:15 UTC,BreakTheBank,IGNORE,Spread: Cavaliers (-3.5),Grizzlies,0.45,,,256.2,,,,vu trop tard
+2026-11-19 04:25 UTC,BreakTheBank,IGNORE,Spread: Cavaliers (-3.5),Grizzlies,0.45,,,267.0,,,,vu trop tard
+2026-11-19 04:25 UTC,BreakTheBank,IGNORE,Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day?,No,0.961,0.966,,1.6,,,,prix trop haut
