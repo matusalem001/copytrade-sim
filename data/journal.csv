@@ -4069,3 +4069,10 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-19 02:50 UTC,BreakTheBank,REGLEMENT,Spread: Cavaliers (-2.5),Grizzlies,,0.43,,,23.2558,23.26,13.26,gagné
 2026-11-19 02:50 UTC,BreakTheBank,REGLEMENT,Spread: Cavaliers (-5.5),Grizzlies,,0.54,,,18.5185,18.52,8.52,gagné
 2026-11-19 02:50 UTC,BreakTheBank,REGLEMENT,Spread: Cavaliers (-4.5),Grizzlies,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-19 02:55 UTC,BreakTheBank,REGLEMENT,76ers vs. Magic,Magic,,0.63,,,15.873,0.0,-10.0,perdu
+2026-11-19 02:55 UTC,BreakTheBank,REGLEMENT,Spread: Magic (-3.5),Magic,,0.54,,,18.5185,0.0,-10.0,perdu
+2026-11-19 02:55 UTC,BreakTheBank,REGLEMENT,Spread: Magic (-2.5),Magic,,0.58,,,17.2414,0.0,-10.0,perdu
+2026-11-19 02:55 UTC,BreakTheBank,REGLEMENT,Spread: Magic (-1.5),Magic,,0.6,,,16.6667,0.0,-10.0,perdu
+2026-11-19 02:55 UTC,BreakTheBank,REGLEMENT,Spread: Magic (-5.5),Magic,,0.45,,,22.2222,0.0,-10.0,perdu
+2026-11-19 02:55 UTC,primm,REGLEMENT,Central Michigan vs. Buffalo: O/U 45.5,Over,,0.73,,,13.6986,13.7,3.7,gagné
+2026-11-19 02:55 UTC,primm,REGLEMENT,Central Michigan vs. Buffalo: O/U 43.5,Over,,0.67,,,14.9254,14.93,4.93,gagné
