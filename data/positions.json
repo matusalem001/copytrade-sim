@@ -169,19 +169,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-18 14:30 UTC"
   },
-  "BreakTheBank|25821783568088053875034860637573330052291681898937185747996143884651610097129": {
-   "date": "2026-11-18 23:05 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Spread: Rockets (-5.5)",
-   "resultat": "Pacers",
-   "prix_trader": 0.39,
-   "retard_min": 4.7,
-   "token": "25821783568088053875034860637573330052291681898937185747996143884651610097129",
-   "prix_simule": 0.4,
-   "parts": 25.0,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-18 23:05 UTC"
-  },
   "primm|111715898551182347628546882701154366782281836401927194060010762648860873466559": {
    "date": "2026-11-18 23:05 UTC",
    "trader": "primm",
@@ -246,45 +233,6 @@
    "parts": 23.2558,
    "montant": 10.0,
    "ouvert_le": "2026-11-18 23:15 UTC"
-  },
-  "BreakTheBank|87003348831177193859684381213324426997791588073854913891914825255046501257095": {
-   "date": "2026-11-18 23:15 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Spread: Rockets (-7.5)",
-   "resultat": "Pacers",
-   "prix_trader": 0.46,
-   "retard_min": 5.2,
-   "token": "87003348831177193859684381213324426997791588073854913891914825255046501257095",
-   "prix_simule": 0.47,
-   "parts": 21.2766,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-18 23:15 UTC"
-  },
-  "BreakTheBank|52503724313948410720302558881911037630826539339803843846155995219862521588369": {
-   "date": "2026-11-18 23:20 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Spread: Rockets (-6.5)",
-   "resultat": "Pacers",
-   "prix_trader": 0.42,
-   "retard_min": 5.3,
-   "token": "52503724313948410720302558881911037630826539339803843846155995219862521588369",
-   "prix_simule": 0.43,
-   "parts": 23.2558,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-18 23:20 UTC"
-  },
-  "BreakTheBank|99697048908493330442404714177839244213725911888927118042250116411602024556705": {
-   "date": "2026-11-18 23:20 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Spread: Rockets (-9.5)",
-   "resultat": "Pacers",
-   "prix_trader": 0.53,
-   "retard_min": 5.3,
-   "token": "99697048908493330442404714177839244213725911888927118042250116411602024556705",
-   "prix_simule": 0.55,
-   "parts": 18.1818,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-18 23:20 UTC"
   },
   "BreakTheBank|50157361330353181967714952531323878877201406792111462491545090120777796565443": {
    "date": "2026-11-18 23:30 UTC",
@@ -688,6 +636,32 @@
    "parts": 15.1515,
    "montant": 10.0,
    "ouvert_le": "2026-11-19 02:35 UTC"
+  },
+  "primm|4812166829784246976629991749804492496826048531223517799003019002964442863448": {
+   "date": "2026-11-19 02:45 UTC",
+   "trader": "primm",
+   "marche": "Spread: Akron (-1.5)",
+   "resultat": "Akron",
+   "prix_trader": 0.41,
+   "retard_min": 0.5,
+   "token": "4812166829784246976629991749804492496826048531223517799003019002964442863448",
+   "prix_simule": 0.41,
+   "parts": 24.3902,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-19 02:45 UTC"
+  },
+  "primm|87415226821223987906101676547547884966932184829303822799502243494427071232497": {
+   "date": "2026-11-19 02:45 UTC",
+   "trader": "primm",
+   "marche": "Spread: Akron (-3.5)",
+   "resultat": "Akron",
+   "prix_trader": 0.349,
+   "retard_min": 0.4,
+   "token": "87415226821223987906101676547547884966932184829303822799502243494427071232497",
+   "prix_simule": 0.348,
+   "parts": 28.7356,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-19 02:45 UTC"
   }
  },
  "fermees": [
@@ -26581,6 +26555,74 @@
    "pnl": 2.8788,
    "ferme_le": "2026-11-19 02:25 UTC",
    "type": "revente"
+  },
+  {
+   "date": "2026-11-18 23:05 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Rockets (-5.5)",
+   "resultat": "Pacers",
+   "prix_trader": 0.39,
+   "retard_min": 4.7,
+   "token": "25821783568088053875034860637573330052291681898937185747996143884651610097129",
+   "prix_simule": 0.4,
+   "parts": 25.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 23:05 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-19 02:45 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-18 23:15 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Rockets (-7.5)",
+   "resultat": "Pacers",
+   "prix_trader": 0.46,
+   "retard_min": 5.2,
+   "token": "87003348831177193859684381213324426997791588073854913891914825255046501257095",
+   "prix_simule": 0.47,
+   "parts": 21.2766,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 23:15 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-19 02:45 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-18 23:20 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Rockets (-6.5)",
+   "resultat": "Pacers",
+   "prix_trader": 0.42,
+   "retard_min": 5.3,
+   "token": "52503724313948410720302558881911037630826539339803843846155995219862521588369",
+   "prix_simule": 0.43,
+   "parts": 23.2558,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 23:20 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-19 02:45 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-18 23:20 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Rockets (-9.5)",
+   "resultat": "Pacers",
+   "prix_trader": 0.53,
+   "retard_min": 5.3,
+   "token": "99697048908493330442404714177839244213725911888927118042250116411602024556705",
+   "prix_simule": 0.55,
+   "parts": 18.1818,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-18 23:20 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-19 02:45 UTC",
+   "type": "perdu"
   }
  ]
 }

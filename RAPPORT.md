@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 02:40 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 02:45 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 256 | 310 | 230 | 119 | -5.13 $ | -0.2 % | 26 | +1.2 ¢ | 8 min |
-| primm | 1303 | 642 | 1276 | 655 | +396.96 $ | +3.1 % | 27 | +3.2 ¢ | 4 min |
+| BreakTheBank | 256 | 310 | 234 | 119 | -45.13 $ | -1.9 % | 22 | +1.2 ¢ | 8 min |
+| primm | 1305 | 642 | 1276 | 655 | +396.96 $ | +3.1 % | 29 | +3.2 ¢ | 4 min |
 | juice-fruit | 17 | 2 | 17 | 8 | -39.90 $ | -23.5 % | 0 | -0.7 ¢ | 5 min |
 
-**Total réalisé : +351.93 $ sur 15230 $ engagés (+2.3 %)**
+**Total réalisé : +311.93 $ sur 15270 $ engagés (+2.0 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,10 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 02:40 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Spread: Rockets (-9.5) | Pacers | 0.55 | 0.00 | -10.00 $ |
+| BreakTheBank | Spread: Rockets (-6.5) | Pacers | 0.43 | 0.00 | -10.00 $ |
+| BreakTheBank | Spread: Rockets (-7.5) | Pacers | 0.47 | 0.00 | -10.00 $ |
+| BreakTheBank | Spread: Rockets (-5.5) | Pacers | 0.40 | 0.00 | -10.00 $ |
 | BreakTheBank | Will Anthropic's market cap be less than $1.25T at market close on IPO day? | Yes | 0.26 | 0.34 | +2.88 $ |
 | primm | Akron vs. UMass: O/U 47.5 | Under | 0.53 | 0.00 | -10.00 $ |
 | primm | Akron vs. UMass: O/U 45.5 | Under | 0.46 | 0.00 | -10.00 $ |
@@ -37,9 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 02:40 UTC** 
 | primm | Ball State vs. Ohio | Ohio | 0.77 | 1.00 | +2.99 $ |
 | primm | Spread: Ohio (-4.5) | Ball State | 0.27 | 0.00 | -10.00 $ |
 | primm | Spread: Ohio (-2.5) | Ball State | 0.58 | 0.00 | -10.00 $ |
-| primm | Spread: Ball State (-2.5) | Ball State | 0.42 | 0.00 | -10.00 $ |
-| primm | Spread: Ohio (-3.5) | Ball State | 0.61 | 0.00 | -10.00 $ |
-| primm | Spread: Ohio (-1.5) | Ball State | 0.50 | 0.00 | -10.00 $ |
-| primm | Ball State vs. Ohio: O/U 65.5 | Over | 0.31 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

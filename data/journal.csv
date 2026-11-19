@@ -4052,3 +4052,9 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-19 02:35 UTC,primm,IGNORE,Miami (OH) vs. Kent State: O/U 41.5,Over,0.45,,,1474.0,,,,vu trop tard
 2026-11-19 02:35 UTC,primm,ACHAT,Akron vs. UMass: O/U 73.5,Over,0.55,0.66,11.0,4.0,15.1515,10.0,,
 2026-11-19 02:40 UTC,primm,IGNORE,Spread: Ohio (-5.5),Ball State,0.17,,,1403.4,,,,vu trop tard
+2026-11-19 02:45 UTC,primm,ACHAT,Spread: Akron (-1.5),Akron,0.41,0.41,0.0,0.5,24.3902,10.0,,
+2026-11-19 02:45 UTC,primm,ACHAT,Spread: Akron (-3.5),Akron,0.349,0.348,-0.1,0.4,28.7356,10.0,,
+2026-11-19 02:45 UTC,BreakTheBank,REGLEMENT,Spread: Rockets (-5.5),Pacers,,0.4,,,25.0,0.0,-10.0,perdu
+2026-11-19 02:45 UTC,BreakTheBank,REGLEMENT,Spread: Rockets (-7.5),Pacers,,0.47,,,21.2766,0.0,-10.0,perdu
+2026-11-19 02:45 UTC,BreakTheBank,REGLEMENT,Spread: Rockets (-6.5),Pacers,,0.43,,,23.2558,0.0,-10.0,perdu
+2026-11-19 02:45 UTC,BreakTheBank,REGLEMENT,Spread: Rockets (-9.5),Pacers,,0.55,,,18.1818,0.0,-10.0,perdu
