@@ -4035,3 +4035,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-19 01:55 UTC,primm,IGNORE,Spread: Miami (OH) (-13.5),Kent State,0.2,,,1427.5,,,,vu trop tard
 2026-11-19 02:00 UTC,BreakTheBank,IGNORE,Will Anthropic's market cap be between $2.0T and $2.25T at market close on IPO day?,No,0.981,0.994,,12.5,,,,prix trop haut
 2026-11-19 02:00 UTC,primm,IGNORE,Spread: Ohio (-4.5),Ball State,0.26,,,1391.5,,,,vu trop tard
+2026-11-19 02:05 UTC,primm,ACHAT,Central Michigan vs. Buffalo: O/U 59.5,Over,0.42,0.45,3.0,8.8,22.2222,10.0,,
+2026-11-19 02:05 UTC,primm,ACHAT,Central Michigan vs. Buffalo: O/U 65.5,Over,0.22,0.24,2.0,8.8,41.6667,10.0,,
