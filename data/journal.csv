@@ -4121,3 +4121,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-19 03:50 UTC,primm,REGLEMENT,Spread: Buffalo (-17.5),Buffalo,,0.65,,,15.3846,15.38,5.38,gagné
 2026-11-19 03:50 UTC,primm,REGLEMENT,Spread: Buffalo (-16.5),Buffalo,,0.67,,,14.9254,14.93,4.93,gagné
 2026-11-19 03:50 UTC,primm,REGLEMENT,Spread: Buffalo (-14.5),Buffalo,,0.68,,,14.7059,14.71,4.71,gagné
+2026-11-19 03:55 UTC,primm,REGLEMENT,Spread: Buffalo (-2.5),Central Michigan,,0.63,,,15.873,0.0,-10.0,perdu

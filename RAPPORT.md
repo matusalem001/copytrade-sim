@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 03:50 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 03:55 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 256 | 318 | 243 | 123 | -51.62 $ | -2.1 % | 13 | +1.2 ¢ | 8 min |
-| primm | 1313 | 644 | 1312 | 673 | +369.72 $ | +2.8 % | 1 | +3.2 ¢ | 4 min |
+| primm | 1313 | 644 | 1313 | 673 | +359.72 $ | +2.7 % | 0 | +3.2 ¢ | 4 min |
 | juice-fruit | 17 | 2 | 17 | 8 | -39.90 $ | -23.5 % | 0 | -0.7 ¢ | 5 min |
 
-**Total réalisé : +278.20 $ sur 15720 $ engagés (+1.8 %)**
+**Total réalisé : +268.20 $ sur 15730 $ engagés (+1.7 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 03:50 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Buffalo (-2.5) | Central Michigan | 0.63 | 0.00 | -10.00 $ |
 | primm | Spread: Buffalo (-14.5) | Buffalo | 0.68 | 1.00 | +4.71 $ |
 | primm | Spread: Buffalo (-16.5) | Buffalo | 0.67 | 1.00 | +4.93 $ |
 | primm | Spread: Buffalo (-17.5) | Buffalo | 0.65 | 1.00 | +5.38 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 03:50 UTC** 
 | primm | Spread: Akron (-1.5) | Akron | 0.41 | 0.00 | -10.00 $ |
 | primm | Akron vs. UMass: O/U 73.5 | Over | 0.66 | 0.00 | -10.00 $ |
 | primm | Akron vs. UMass: O/U 67.5 | Over | 0.49 | 0.00 | -10.00 $ |
-| primm | Spread: UMass (-5.5) | Akron | 0.42 | 1.00 | +13.81 $ |
 
 Journal complet : `data/journal.csv`
