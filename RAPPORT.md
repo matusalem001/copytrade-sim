@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 03:35 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 03:40 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 256 | 317 | 243 | 123 | -51.62 $ | -2.1 % | 13 | +1.2 ¢ | 8 min |
-| primm | 1313 | 644 | 1294 | 667 | +447.40 $ | +3.5 % | 19 | +3.2 ¢ | 4 min |
+| primm | 1313 | 644 | 1296 | 669 | +472.20 $ | +3.6 % | 17 | +3.2 ¢ | 4 min |
 | juice-fruit | 17 | 2 | 17 | 8 | -39.90 $ | -23.5 % | 0 | -0.7 ¢ | 5 min |
 
-**Total réalisé : +355.88 $ sur 15540 $ engagés (+2.3 %)**
+**Total réalisé : +380.68 $ sur 15560 $ engagés (+2.4 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 03:35 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: UMass (-10.5) | Akron | 0.49 | 1.00 | +10.41 $ |
+| primm | Akron vs. UMass | Akron | 0.41 | 1.00 | +14.39 $ |
 | primm | Akron vs. UMass | UMass | 0.50 | 0.00 | -10.00 $ |
 | primm | Spread: UMass (-1.5) | UMass | 0.48 | 0.00 | -10.00 $ |
 | primm | Spread: Akron (-3.5) | Akron | 0.35 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 03:35 UTC** 
 | BreakTheBank | Spread: Magic (-2.5) | Magic | 0.58 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Magic (-3.5) | Magic | 0.54 | 0.00 | -10.00 $ |
 | BreakTheBank | 76ers vs. Magic | Magic | 0.63 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Cavaliers (-4.5) | Grizzlies | 0.50 | 1.00 | +10.00 $ |
-| BreakTheBank | Spread: Cavaliers (-5.5) | Grizzlies | 0.54 | 1.00 | +8.52 $ |
 
 Journal complet : `data/journal.csv`
