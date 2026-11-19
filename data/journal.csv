@@ -4089,3 +4089,16 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-19 03:20 UTC,primm,ACHAT,Spread: Buffalo (-16.5),Buffalo,0.67,0.67,0.0,0.5,14.9254,10.0,,
 2026-11-19 03:20 UTC,primm,ACHAT,Spread: Buffalo (-14.5),Buffalo,0.6954,0.68,-1.5,0.5,14.7059,10.0,,
 2026-11-19 03:25 UTC,primm,REGLEMENT,Central Michigan vs. Buffalo: O/U 59.5,Over,,0.45,,,22.2222,22.22,12.22,gagné
+2026-11-19 03:35 UTC,primm,REGLEMENT,Spread: UMass (-2.5),Akron,,0.46,,,21.7391,21.74,11.74,gagné
+2026-11-19 03:35 UTC,primm,REGLEMENT,Spread: UMass (-1.5),Akron,,0.44,,,22.7273,22.73,12.73,gagné
+2026-11-19 03:35 UTC,primm,REGLEMENT,Spread: UMass (-13.5),Akron,,0.55,,,18.1818,18.18,8.18,gagné
+2026-11-19 03:35 UTC,primm,REGLEMENT,Spread: UMass (-3.5),Akron,,0.47,,,21.2766,21.28,11.28,gagné
+2026-11-19 03:35 UTC,primm,REGLEMENT,Spread: UMass (-6.5),Akron,,0.54,,,18.5185,18.52,8.52,gagné
+2026-11-19 03:35 UTC,primm,REGLEMENT,Spread: UMass (-7.5),Akron,,0.61,,,16.3934,16.39,6.39,gagné
+2026-11-19 03:35 UTC,primm,REGLEMENT,Spread: UMass (-5.5),Akron,,0.42,,,23.8095,23.81,13.81,gagné
+2026-11-19 03:35 UTC,primm,REGLEMENT,Akron vs. UMass: O/U 67.5,Over,,0.49,,,20.4082,0.0,-10.0,perdu
+2026-11-19 03:35 UTC,primm,REGLEMENT,Akron vs. UMass: O/U 73.5,Over,,0.66,,,15.1515,0.0,-10.0,perdu
+2026-11-19 03:35 UTC,primm,REGLEMENT,Spread: Akron (-1.5),Akron,,0.41,,,24.3902,0.0,-10.0,perdu
+2026-11-19 03:35 UTC,primm,REGLEMENT,Spread: Akron (-3.5),Akron,,0.348,,,28.7356,0.0,-10.0,perdu
+2026-11-19 03:35 UTC,primm,REGLEMENT,Spread: UMass (-1.5),UMass,,0.48,,,20.8333,0.0,-10.0,perdu
+2026-11-19 03:35 UTC,primm,REGLEMENT,Akron vs. UMass,UMass,,0.5,,,20.0,0.0,-10.0,perdu
