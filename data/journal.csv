@@ -4019,3 +4019,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-19 01:10 UTC,primm,ACHAT,Central Michigan vs. Buffalo: O/U 45.5,Over,0.59,0.73,14.0,2.8,13.6986,10.0,,
 2026-11-19 01:15 UTC,primm,IGNORE,Spread: Western Michigan (-17.5),Eastern Michigan,0.6399,,,1411.8,,,,vu trop tard
 2026-11-19 01:25 UTC,primm,ACHAT,Spread: Buffalo (-6.5),Central Michigan,0.53,0.53,-0.0,7.6,18.8679,10.0,,
+2026-11-19 01:30 UTC,primm,IGNORE,Spread: Western Michigan (-7.5),Eastern Michigan,0.765,,,1410.9,,,,vu trop tard
+2026-11-19 01:30 UTC,primm,ACHAT,Akron vs. UMass: O/U 67.5,Over,0.48,0.49,1.0,0.8,20.4082,10.0,,
