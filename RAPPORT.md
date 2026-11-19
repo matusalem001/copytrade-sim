@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 02:05 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 02:10 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 256 | 307 | 229 | 118 | -8.01 $ | -0.3 % | 27 | +1.2 ¢ | 8 min |
-| primm | 1302 | 635 | 1273 | 655 | +426.96 $ | +3.4 % | 29 | +3.2 ¢ | 4 min |
+| primm | 1302 | 639 | 1276 | 655 | +396.96 $ | +3.1 % | 26 | +3.2 ¢ | 4 min |
 | juice-fruit | 17 | 2 | 17 | 8 | -39.90 $ | -23.5 % | 0 | -0.7 ¢ | 5 min |
 
-**Total réalisé : +379.05 $ sur 15190 $ engagés (+2.5 %)**
+**Total réalisé : +349.05 $ sur 15220 $ engagés (+2.3 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,9 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 02:05 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Akron vs. UMass: O/U 47.5 | Under | 0.53 | 0.00 | -10.00 $ |
+| primm | Akron vs. UMass: O/U 45.5 | Under | 0.46 | 0.00 | -10.00 $ |
+| primm | Akron vs. UMass: O/U 49.5 | Under | 0.57 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Lakers (-6.5) | Hornets | 0.48 | 1.00 | +10.83 $ |
 | BreakTheBank | Hornets vs. Lakers | Hornets | 0.28 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Lakers (-9.5) | Hornets | 0.59 | 1.00 | +6.95 $ |
@@ -38,8 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 02:05 UTC** 
 | primm | Spread: Ohio (-1.5) | Ball State | 0.50 | 0.00 | -10.00 $ |
 | primm | Ball State vs. Ohio: O/U 65.5 | Over | 0.31 | 0.00 | -10.00 $ |
 | primm | Spread: Ohio (-1.5) | Ohio | 0.49 | 1.00 | +10.41 $ |
-| primm | Spread: Ball State (-1.5) | Ohio | 0.55 | 1.00 | +8.18 $ |
-| primm | Spread: Ball State (-2.5) | Ohio | 0.58 | 1.00 | +7.24 $ |
-| primm | Spread: Ball State (-3.5) | Ohio | 0.68 | 1.00 | +4.71 $ |
 
 Journal complet : `data/journal.csv`
