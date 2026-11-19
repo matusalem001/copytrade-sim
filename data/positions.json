@@ -194,6 +194,19 @@
    "parts": 12.0192,
    "montant": 10.0,
    "ouvert_le": "2026-11-19 08:30 UTC"
+  },
+  "BreakTheBank|82878016116525793891651176820437682108169497314050392985866657471799788760781": {
+   "date": "2026-11-19 10:50 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day?",
+   "resultat": "No",
+   "prix_trader": 0.943,
+   "retard_min": 5.9,
+   "token": "82878016116525793891651176820437682108169497314050392985866657471799788760781",
+   "prix_simule": 0.95,
+   "parts": 10.5263,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-19 10:50 UTC"
   }
  },
  "fermees": [
