@@ -168,6 +168,19 @@
    "parts": 10.8696,
    "montant": 10.0,
    "ouvert_le": "2026-11-18 14:30 UTC"
+  },
+  "BreakTheBank|47942880964158617614279118228047750547985543191564455484169740327839925876869": {
+   "date": "2026-11-19 06:55 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will San Antonio Spurs win the 2027 NBA Finals?",
+   "resultat": "Yes",
+   "prix_trader": 0.22,
+   "retard_min": 6.7,
+   "token": "47942880964158617614279118228047750547985543191564455484169740327839925876869",
+   "prix_simule": 0.23,
+   "parts": 43.4783,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-19 06:55 UTC"
   }
  },
  "fermees": [
