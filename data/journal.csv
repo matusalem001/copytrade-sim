@@ -4085,3 +4085,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-19 03:10 UTC,BreakTheBank,IGNORE,76ers vs. Magic,Magic,0.64,,,184.7,,,,vu trop tard
 2026-11-19 03:10 UTC,primm,ACHAT,Central Michigan vs. Buffalo: O/U 71.5,Under,0.61,0.8,19.0,2.7,12.5,10.0,,
 2026-11-19 03:10 UTC,primm,REGLEMENT,Central Michigan vs. Buffalo: O/U 53.5,Over,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-19 03:20 UTC,primm,ACHAT,Spread: Buffalo (-17.5),Buffalo,0.67,0.65,-2.0,0.5,15.3846,10.0,,
+2026-11-19 03:20 UTC,primm,ACHAT,Spread: Buffalo (-16.5),Buffalo,0.67,0.67,0.0,0.5,14.9254,10.0,,
+2026-11-19 03:20 UTC,primm,ACHAT,Spread: Buffalo (-14.5),Buffalo,0.6954,0.68,-1.5,0.5,14.7059,10.0,,
