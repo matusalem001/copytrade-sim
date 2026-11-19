@@ -286,19 +286,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-19 00:37 UTC"
   },
-  "primm|28283606296844104672351937668666400350101828493367008947613240222028300918980": {
-   "date": "2026-11-19 00:45 UTC",
-   "trader": "primm",
-   "marche": "Central Michigan vs. Buffalo: O/U 47.5",
-   "resultat": "Over",
-   "prix_trader": 0.57,
-   "retard_min": 5.3,
-   "token": "28283606296844104672351937668666400350101828493367008947613240222028300918980",
-   "prix_simule": 0.59,
-   "parts": 16.9492,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-19 00:45 UTC"
-  },
   "primm|88813142322917962154434657772171038301351368458510296826867819195775785982662": {
    "date": "2026-11-19 00:45 UTC",
    "trader": "primm",
@@ -558,6 +545,19 @@
    "parts": 20.0,
    "montant": 10.0,
    "ouvert_le": "2026-11-19 02:50 UTC"
+  },
+  "primm|30356511036294637738102260451935556095860771867235307699038489740996377377598": {
+   "date": "2026-11-19 03:05 UTC",
+   "trader": "primm",
+   "marche": "Spread: Buffalo (-10.5)",
+   "resultat": "Central Michigan",
+   "prix_trader": 0.26,
+   "retard_min": 6.3,
+   "token": "30356511036294637738102260451935556095860771867235307699038489740996377377598",
+   "prix_simule": 0.3,
+   "parts": 33.3333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-19 03:05 UTC"
   }
  },
  "fermees": [
@@ -26705,6 +26705,23 @@
    "sortie": 1.0,
    "pnl": 4.9254,
    "ferme_le": "2026-11-19 02:55 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-19 00:45 UTC",
+   "trader": "primm",
+   "marche": "Central Michigan vs. Buffalo: O/U 47.5",
+   "resultat": "Over",
+   "prix_trader": 0.57,
+   "retard_min": 5.3,
+   "token": "28283606296844104672351937668666400350101828493367008947613240222028300918980",
+   "prix_simule": 0.59,
+   "parts": 16.9492,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-19 00:45 UTC",
+   "sortie": 1.0,
+   "pnl": 6.9492,
+   "ferme_le": "2026-11-19 03:05 UTC",
    "type": "gagné"
   }
  ]

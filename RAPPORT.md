@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 03:01 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 03:05 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 256 | 313 | 243 | 123 | -51.62 $ | -2.1 % | 13 | +1.2 ¢ | 8 min |
-| primm | 1308 | 643 | 1278 | 657 | +405.58 $ | +3.2 % | 30 | +3.2 ¢ | 4 min |
+| BreakTheBank | 256 | 316 | 243 | 123 | -51.62 $ | -2.1 % | 13 | +1.2 ¢ | 8 min |
+| primm | 1309 | 644 | 1279 | 658 | +412.53 $ | +3.2 % | 30 | +3.2 ¢ | 4 min |
 | juice-fruit | 17 | 2 | 17 | 8 | -39.90 $ | -23.5 % | 0 | -0.7 ¢ | 5 min |
 
-**Total réalisé : +314.07 $ sur 15380 $ engagés (+2.0 %)**
+**Total réalisé : +321.01 $ sur 15390 $ engagés (+2.1 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 03:01 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Central Michigan vs. Buffalo: O/U 47.5 | Over | 0.59 | 1.00 | +6.95 $ |
 | primm | Central Michigan vs. Buffalo: O/U 43.5 | Over | 0.67 | 1.00 | +4.93 $ |
 | primm | Central Michigan vs. Buffalo: O/U 45.5 | Over | 0.73 | 1.00 | +3.70 $ |
 | BreakTheBank | Spread: Magic (-5.5) | Magic | 0.45 | 0.00 | -10.00 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 03:01 UTC** 
 | BreakTheBank | Spread: Lakers (-9.5) | Hornets | 0.59 | 1.00 | +6.95 $ |
 | BreakTheBank | Spread: Lakers (-7.5) | Hornets | 0.53 | 1.00 | +8.87 $ |
 | BreakTheBank | Spread: Lakers (-8.5) | Hornets | 0.57 | 1.00 | +7.54 $ |
-| BreakTheBank | Spread: Lakers (-4.5) | Hornets | 0.41 | 1.00 | +14.39 $ |
 
 Journal complet : `data/journal.csv`

@@ -4076,3 +4076,9 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-19 02:55 UTC,BreakTheBank,REGLEMENT,Spread: Magic (-5.5),Magic,,0.45,,,22.2222,0.0,-10.0,perdu
 2026-11-19 02:55 UTC,primm,REGLEMENT,Central Michigan vs. Buffalo: O/U 45.5,Over,,0.73,,,13.6986,13.7,3.7,gagné
 2026-11-19 02:55 UTC,primm,REGLEMENT,Central Michigan vs. Buffalo: O/U 43.5,Over,,0.67,,,14.9254,14.93,4.93,gagné
+2026-11-19 03:05 UTC,BreakTheBank,IGNORE,Spread: Cavaliers (-3.5),Grizzlies,0.45,,,187.5,,,,vu trop tard
+2026-11-19 03:05 UTC,BreakTheBank,IGNORE,Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day?,No,0.961,0.97,,4.5,,,,prix trop haut
+2026-11-19 03:05 UTC,BreakTheBank,IGNORE,Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day?,No,0.961,0.97,,3.7,,,,prix trop haut
+2026-11-19 03:05 UTC,primm,IGNORE,Spread: Buffalo (-10.5),Central Michigan,0.41,0.3,-11.0,7.7,,,,prix a trop chuté (match sans doute joué)
+2026-11-19 03:05 UTC,primm,ACHAT,Spread: Buffalo (-10.5),Central Michigan,0.26,0.3,4.0,6.3,33.3333,10.0,,
+2026-11-19 03:05 UTC,primm,REGLEMENT,Central Michigan vs. Buffalo: O/U 47.5,Over,,0.59,,,16.9492,16.95,6.95,gagné
