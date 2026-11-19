@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 23:10 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 23:15 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 259 | 403 | 243 | 123 | -51.62 $ | -2.1 % | 16 | +1.2 ¢ | 7 min |
+| BreakTheBank | 259 | 403 | 247 | 127 | -45.75 $ | -1.9 % | 12 | +1.2 ¢ | 7 min |
 | primm | 1313 | 644 | 1313 | 673 | +359.72 $ | +2.7 % | 0 | +3.2 ¢ | 4 min |
 | juice-fruit | 17 | 2 | 17 | 8 | -39.90 $ | -23.5 % | 0 | -0.7 ¢ | 5 min |
 
-**Total réalisé : +268.20 $ sur 15730 $ engagés (+1.7 %)**
+**Total réalisé : +274.06 $ sur 15770 $ engagés (+1.7 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,10 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 23:10 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day? | No | 0.95 | 1.00 | +0.53 $ |
+| BreakTheBank | Will Anthropic’s market cap be between 1.5T and 1.8T at market close on IPO day by December 31 2027? | No | 0.83 | 1.00 | +2.02 $ |
+| BreakTheBank | Will Anthropic’s market cap be 1.8T or greater at market close on IPO day by December 31 2027? | No | 0.91 | 1.00 | +0.99 $ |
+| BreakTheBank | Will Anthropic's market cap be between $1.5T and $1.75T at market close on IPO day? | No | 0.81 | 1.00 | +2.33 $ |
 | primm | Spread: Buffalo (-2.5) | Central Michigan | 0.63 | 0.00 | -10.00 $ |
 | primm | Spread: Buffalo (-14.5) | Buffalo | 0.68 | 1.00 | +4.71 $ |
 | primm | Spread: Buffalo (-16.5) | Buffalo | 0.67 | 1.00 | +4.93 $ |
@@ -37,9 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 23:10 UTC** 
 | primm | Akron vs. UMass | Akron | 0.41 | 1.00 | +14.39 $ |
 | primm | Akron vs. UMass | UMass | 0.50 | 0.00 | -10.00 $ |
 | primm | Spread: UMass (-1.5) | UMass | 0.48 | 0.00 | -10.00 $ |
-| primm | Spread: Akron (-3.5) | Akron | 0.35 | 0.00 | -10.00 $ |
-| primm | Spread: Akron (-1.5) | Akron | 0.41 | 0.00 | -10.00 $ |
-| primm | Akron vs. UMass: O/U 73.5 | Over | 0.66 | 0.00 | -10.00 $ |
-| primm | Akron vs. UMass: O/U 67.5 | Over | 0.49 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
