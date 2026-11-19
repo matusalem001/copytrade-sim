@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 03:20 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 03:25 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 256 | 317 | 243 | 123 | -51.62 $ | -2.1 % | 13 | +1.2 ¢ | 8 min |
-| primm | 1313 | 644 | 1280 | 659 | +422.53 $ | +3.3 % | 33 | +3.2 ¢ | 4 min |
+| primm | 1313 | 644 | 1281 | 660 | +434.76 $ | +3.4 % | 32 | +3.2 ¢ | 4 min |
 | juice-fruit | 17 | 2 | 17 | 8 | -39.90 $ | -23.5 % | 0 | -0.7 ¢ | 5 min |
 
-**Total réalisé : +331.01 $ sur 15400 $ engagés (+2.1 %)**
+**Total réalisé : +343.24 $ sur 15410 $ engagés (+2.2 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 03:20 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Central Michigan vs. Buffalo: O/U 59.5 | Over | 0.45 | 1.00 | +12.22 $ |
 | primm | Central Michigan vs. Buffalo: O/U 53.5 | Over | 0.50 | 1.00 | +10.00 $ |
 | primm | Central Michigan vs. Buffalo: O/U 47.5 | Over | 0.59 | 1.00 | +6.95 $ |
 | primm | Central Michigan vs. Buffalo: O/U 43.5 | Over | 0.67 | 1.00 | +4.93 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 03:20 UTC** 
 | BreakTheBank | Spread: Lakers (-6.5) | Hornets | 0.48 | 1.00 | +10.83 $ |
 | BreakTheBank | Hornets vs. Lakers | Hornets | 0.28 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Lakers (-9.5) | Hornets | 0.59 | 1.00 | +6.95 $ |
-| BreakTheBank | Spread: Lakers (-7.5) | Hornets | 0.53 | 1.00 | +8.87 $ |
 
 Journal complet : `data/journal.csv`

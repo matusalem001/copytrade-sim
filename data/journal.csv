@@ -4088,3 +4088,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-19 03:20 UTC,primm,ACHAT,Spread: Buffalo (-17.5),Buffalo,0.67,0.65,-2.0,0.5,15.3846,10.0,,
 2026-11-19 03:20 UTC,primm,ACHAT,Spread: Buffalo (-16.5),Buffalo,0.67,0.67,0.0,0.5,14.9254,10.0,,
 2026-11-19 03:20 UTC,primm,ACHAT,Spread: Buffalo (-14.5),Buffalo,0.6954,0.68,-1.5,0.5,14.7059,10.0,,
+2026-11-19 03:25 UTC,primm,REGLEMENT,Central Michigan vs. Buffalo: O/U 59.5,Over,,0.45,,,22.2222,22.22,12.22,gagné
