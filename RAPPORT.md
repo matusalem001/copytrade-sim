@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 23:20 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 23:23 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 260 | 403 | 247 | 127 | -45.75 $ | -1.9 % | 13 | +1.2 ¢ | 7 min |
+| BreakTheBank | 260 | 403 | 248 | 128 | -34.24 $ | -1.4 % | 12 | +1.2 ¢ | 7 min |
 | primm | 1313 | 644 | 1313 | 673 | +359.72 $ | +2.7 % | 0 | +3.2 ¢ | 4 min |
 | juice-fruit | 17 | 2 | 17 | 8 | -39.90 $ | -23.5 % | 0 | -0.7 ¢ | 5 min |
 
-**Total réalisé : +274.06 $ sur 15770 $ engagés (+1.7 %)**
+**Total réalisé : +285.57 $ sur 15780 $ engagés (+1.8 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 23:20 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Will Anthropic’s market cap be between 1.2T and 1.5T at market close on IPO day by December 31 2027? | Yes | 0.47 | 1.00 | +11.51 $ |
 | BreakTheBank | Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day? | No | 0.95 | 1.00 | +0.53 $ |
 | BreakTheBank | Will Anthropic’s market cap be between 1.5T and 1.8T at market close on IPO day by December 31 2027? | No | 0.83 | 1.00 | +2.02 $ |
 | BreakTheBank | Will Anthropic’s market cap be 1.8T or greater at market close on IPO day by December 31 2027? | No | 0.91 | 1.00 | +0.99 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-19 23:20 UTC** 
 | primm | Spread: UMass (-10.5) | Akron | 0.49 | 1.00 | +10.41 $ |
 | primm | Akron vs. UMass | Akron | 0.41 | 1.00 | +14.39 $ |
 | primm | Akron vs. UMass | UMass | 0.50 | 0.00 | -10.00 $ |
-| primm | Spread: UMass (-1.5) | UMass | 0.48 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
