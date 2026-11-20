@@ -4340,3 +4340,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-20 12:20 UTC,BreakTheBank,IGNORE,Colts vs. Texans,Colts,0.16,,,667.3,,,,vu trop tard
 2026-11-20 12:25 UTC,BreakTheBank,IGNORE,Colts vs. Texans,Colts,0.16,,,672.1,,,,vu trop tard
 2026-11-20 13:15 UTC,juice-fruit,ACHAT,"ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Flavio Cobolli",Carlos Alcaraz,0.81,0.89,8.0,4.6,11.236,10.0,,
+2026-11-20 14:55 UTC,juice-fruit,REGLEMENT,"ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Flavio Cobolli",Carlos Alcaraz,,0.89,,,11.236,11.24,1.24,gagné

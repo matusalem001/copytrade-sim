@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-20 14:50 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-20 14:55 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 275 | 418 | 265 | 140 | +35.05 $ | +1.3 % | 10 | +1.2 ¢ | 8 min |
 | primm | 1338 | 670 | 1338 | 690 | +565.62 $ | +4.2 % | 0 | +3.2 ¢ | 4 min |
-| juice-fruit | 18 | 2 | 17 | 8 | -39.90 $ | -23.5 % | 1 | -0.2 ¢ | 5 min |
+| juice-fruit | 18 | 2 | 18 | 9 | -38.67 $ | -21.5 % | 0 | -0.2 ¢ | 5 min |
 
-**Total réalisé : +560.76 $ sur 16200 $ engagés (+3.5 %)**
+**Total réalisé : +562.00 $ sur 16210 $ engagés (+3.5 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-20 14:50 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| juice-fruit | ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Flavio Cobolli | Carlos Alcaraz | 0.89 | 1.00 | +1.24 $ |
 | primm | Spread: Texans (-7.5) | Colts | 0.45 | 0.00 | -10.00 $ |
 | primm | Spread: Texans (-7.5) | Texans | 0.67 | 1.00 | +4.93 $ |
 | primm | Spread: Texans (-20.5) | Colts | 0.43 | 0.00 | -10.00 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-20 14:50 UTC** 
 | primm | Spread: Temple (-5.5) | Rice | 0.45 | 1.00 | +12.22 $ |
 | primm | Spread: Temple (-6.5) | Rice | 0.59 | 1.00 | +6.95 $ |
 | primm | Spread: Temple (-4.5) | Rice | 0.54 | 1.00 | +8.52 $ |
-| primm | Spread: Temple (-3.5) | Rice | 0.53 | 1.00 | +8.87 $ |
 
 Journal complet : `data/journal.csv`
