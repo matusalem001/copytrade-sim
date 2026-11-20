@@ -4317,3 +4317,20 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-20 04:15 UTC,primm,REGLEMENT,Spread: Temple (-5.5),Rice,,0.45,,,22.2222,22.22,12.22,gagné
 2026-11-20 04:15 UTC,primm,REGLEMENT,Spread: Temple (-7.5),Rice,,0.55,,,18.1818,18.18,8.18,gagné
 2026-11-20 04:15 UTC,primm,REGLEMENT,Rice vs. Temple: O/U 57.5,Over,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-20 04:25 UTC,primm,REGLEMENT,Spread: Texans (-14.5),Texans,,0.42,,,23.8095,23.81,13.81,gagné
+2026-11-20 04:25 UTC,primm,REGLEMENT,Spread: Texans (-13.5),Texans,,0.45,,,22.2222,22.22,12.22,gagné
+2026-11-20 04:25 UTC,BreakTheBank,REGLEMENT,Spread: Texans (-10.5),Colts,,0.47,,,21.2766,0.0,-10.0,perdu
+2026-11-20 04:25 UTC,BreakTheBank,REGLEMENT,Spread: Texans (-13.5),Colts,,0.55,,,18.1818,0.0,-10.0,perdu
+2026-11-20 04:25 UTC,BreakTheBank,REGLEMENT,Spread: Texans (-9.5),Colts,,0.44,,,22.7273,0.0,-10.0,perdu
+2026-11-20 04:25 UTC,BreakTheBank,REGLEMENT,Colts vs. Texans,Colts,,0.17,,,58.8235,0.0,-10.0,perdu
+2026-11-20 04:25 UTC,primm,REGLEMENT,Spread: Texans (-10.5),Colts,,0.54,,,18.5185,0.0,-10.0,perdu
+2026-11-20 04:25 UTC,primm,REGLEMENT,Colts vs. Texans: O/U 44.5,Over,,0.53,,,18.8679,0.0,-10.0,perdu
+2026-11-20 04:25 UTC,primm,REGLEMENT,Colts vs. Texans: O/U 46.5,Over,,0.47,,,21.2766,0.0,-10.0,perdu
+2026-11-20 04:25 UTC,primm,REGLEMENT,Colts vs. Texans: O/U 42.5,Over,,0.53,,,18.8679,0.0,-10.0,perdu
+2026-11-20 04:25 UTC,primm,REGLEMENT,Colts vs. Texans,Texans,,0.77,,,12.987,12.99,2.99,gagné
+2026-11-20 04:25 UTC,primm,REGLEMENT,Spread: Texans (-16.5),Texans,,0.58,,,17.2414,17.24,7.24,gagné
+2026-11-20 04:25 UTC,primm,REGLEMENT,Colts vs. Texans: O/U 50.5,Over,,0.35,,,28.5714,0.0,-10.0,perdu
+2026-11-20 04:25 UTC,primm,REGLEMENT,Spread: Texans (-17.5),Texans,,0.56,,,17.8571,17.86,7.86,gagné
+2026-11-20 04:25 UTC,primm,REGLEMENT,Spread: Texans (-20.5),Texans,,0.44,,,22.7273,22.73,12.73,gagné
+2026-11-20 04:25 UTC,primm,REGLEMENT,Colts vs. Texans: O/U 42.5,Under,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-20 04:25 UTC,primm,REGLEMENT,Spread: Texans (-20.5),Colts,,0.43,,,23.2558,0.0,-10.0,perdu
