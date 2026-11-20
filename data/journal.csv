@@ -4363,3 +4363,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-20 16:01 UTC,primm,ACHAT,New Mexico vs. Wyoming: O/U 37.5,Over,0.51,0.52,1.0,10.4,19.2308,10.0,,
 2026-11-20 16:01 UTC,primm,ACHAT,Spread: New Mexico (-14.5),New Mexico,0.37,0.39,2.0,10.4,25.641,10.0,,
 2026-11-20 16:05 UTC,primm,IGNORE,Spread: Texans (-16.5),Texans,0.59,,,831.2,,,,vu trop tard
+2026-11-20 16:10 UTC,primm,IGNORE,Spread: Temple (-7.5),Rice,0.56,,,800.4,,,,vu trop tard
