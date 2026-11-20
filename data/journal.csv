@@ -4373,3 +4373,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-20 17:50 UTC,primm,ACHAT,Spread: Boston College (-2.5),Syracuse,0.61,0.63,2.0,6.0,15.873,10.0,,
 2026-11-20 17:50 UTC,primm,ACHAT,Spread: Boston College (-1.5),Syracuse,0.59,0.6,1.0,6.0,16.6667,10.0,,
 2026-11-20 17:50 UTC,primm,ACHAT,Spread: Florida (-14.5),Florida,0.45,0.46,1.0,4.6,21.7391,10.0,,
+2026-11-20 17:55 UTC,primm,IGNORE,Spread: Temple (-3.5),Rice,0.47,,,1032.3,,,,vu trop tard
+2026-11-20 17:55 UTC,primm,IGNORE,Spread: Texans (-20.5),Colts,0.4,,,881.1,,,,vu trop tard
