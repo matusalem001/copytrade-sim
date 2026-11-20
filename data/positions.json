@@ -312,19 +312,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-20 00:55 UTC"
   },
-  "BreakTheBank|59348244434413841141029427801303214147536318675817413696653540401281342797282": {
-   "date": "2026-11-20 00:55 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Spread: Grizzlies (-7.5)",
-   "resultat": "Grizzlies",
-   "prix_trader": 0.43,
-   "retard_min": 8.0,
-   "token": "59348244434413841141029427801303214147536318675817413696653540401281342797282",
-   "prix_simule": 0.43,
-   "parts": 23.2558,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-20 00:55 UTC"
-  },
   "BreakTheBank|113790939365901382561296011013735367928929712616568274661786631247315687009328": {
    "date": "2026-11-20 00:55 UTC",
    "trader": "BreakTheBank",
@@ -27510,6 +27497,23 @@
    "sortie": 1.0,
    "pnl": 7.2414,
    "ferme_le": "2026-11-20 03:40 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-20 00:55 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Grizzlies (-7.5)",
+   "resultat": "Grizzlies",
+   "prix_trader": 0.43,
+   "retard_min": 8.0,
+   "token": "59348244434413841141029427801303214147536318675817413696653540401281342797282",
+   "prix_simule": 0.43,
+   "parts": 23.2558,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-20 00:55 UTC",
+   "sortie": 1.0,
+   "pnl": 13.2558,
+   "ferme_le": "2026-11-20 03:45 UTC",
    "type": "gagné"
   }
  ]
