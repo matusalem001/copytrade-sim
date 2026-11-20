@@ -4309,3 +4309,11 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-20 03:50 UTC,BreakTheBank,REGLEMENT,Spread: Spurs (-13.5),Clippers,,0.44,,,22.7273,22.73,12.73,gagné
 2026-11-20 04:06 UTC,primm,REGLEMENT,Rice vs. Temple: O/U 51.5,Under,,0.48,,,20.8333,0.0,-10.0,perdu
 2026-11-20 04:10 UTC,primm,REGLEMENT,Rice vs. Temple,Rice,,0.07,,,142.8571,142.86,132.86,gagné
+2026-11-20 04:15 UTC,primm,REGLEMENT,Spread: Temple (-2.5),Rice,,0.44,,,22.7273,22.73,12.73,gagné
+2026-11-20 04:15 UTC,primm,REGLEMENT,Spread: Temple (-1.5),Rice,,0.42,,,23.8095,23.81,13.81,gagné
+2026-11-20 04:15 UTC,primm,REGLEMENT,Spread: Temple (-3.5),Rice,,0.53,,,18.8679,18.87,8.87,gagné
+2026-11-20 04:15 UTC,primm,REGLEMENT,Spread: Temple (-4.5),Rice,,0.54,,,18.5185,18.52,8.52,gagné
+2026-11-20 04:15 UTC,primm,REGLEMENT,Spread: Temple (-6.5),Rice,,0.59,,,16.9492,16.95,6.95,gagné
+2026-11-20 04:15 UTC,primm,REGLEMENT,Spread: Temple (-5.5),Rice,,0.45,,,22.2222,22.22,12.22,gagné
+2026-11-20 04:15 UTC,primm,REGLEMENT,Spread: Temple (-7.5),Rice,,0.55,,,18.1818,18.18,8.18,gagné
+2026-11-20 04:15 UTC,primm,REGLEMENT,Rice vs. Temple: O/U 57.5,Over,,0.5,,,20.0,20.0,10.0,gagné
