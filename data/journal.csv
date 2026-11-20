@@ -4244,3 +4244,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-20 00:45 UTC,primm,IGNORE,Akron vs. UMass,UMass,0.5,,,1311.6,,,,vu trop tard
 2026-11-20 00:45 UTC,BreakTheBank,REGLEMENT,Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day?,Yes,,0.411,,,24.3309,24.33,14.33,gagné
 2026-11-20 00:50 UTC,primm,IGNORE,Central Michigan vs. Buffalo: O/U 47.5,Over,0.54,,,1382.9,,,,vu trop tard
+2026-11-20 00:55 UTC,BreakTheBank,ACHAT,Spread: Grizzlies (-4.5),Grizzlies,0.54,0.54,0.0,8.2,18.5185,10.0,,
+2026-11-20 00:55 UTC,BreakTheBank,ACHAT,Spread: Grizzlies (-7.5),Grizzlies,0.43,0.43,-0.0,8.0,23.2558,10.0,,
+2026-11-20 00:55 UTC,BreakTheBank,ACHAT,Spread: Grizzlies (-6.5),Grizzlies,0.46,0.46,0.0,7.9,21.7391,10.0,,
+2026-11-20 00:55 UTC,BreakTheBank,ACHAT,Spread: Spurs (-14.5),Clippers,0.46,0.47,1.0,5.3,21.2766,10.0,,
+2026-11-20 00:55 UTC,primm,IGNORE,Akron vs. UMass,UMass,0.5,,,1321.1,,,,vu trop tard
