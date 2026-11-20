@@ -896,6 +896,32 @@
    "parts": 20.4082,
    "montant": 10.0,
    "ouvert_le": "2026-11-20 19:55 UTC"
+  },
+  "primm|91098892023463354558764686161013775866795234492671146976493770655413669165145": {
+   "date": "2026-11-20 20:00 UTC",
+   "trader": "primm",
+   "marche": "Spread: Middle Tennessee (-7.5)",
+   "resultat": "Middle Tennessee",
+   "prix_trader": 0.42,
+   "retard_min": 7.2,
+   "token": "91098892023463354558764686161013775866795234492671146976493770655413669165145",
+   "prix_simule": 0.43,
+   "parts": 23.2558,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-20 20:00 UTC"
+  },
+  "primm|110509266812520695840355037283372788399648693998053985138350016558207847240567": {
+   "date": "2026-11-20 20:00 UTC",
+   "trader": "primm",
+   "marche": "Spread: Georgia State (-1.5)",
+   "resultat": "Marshall",
+   "prix_trader": 0.58,
+   "retard_min": 0.3,
+   "token": "110509266812520695840355037283372788399648693998053985138350016558207847240567",
+   "prix_simule": 0.59,
+   "parts": 16.9492,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-20 20:00 UTC"
   }
  },
  "fermees": [
