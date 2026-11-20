@@ -4338,3 +4338,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-20 04:30 UTC,primm,REGLEMENT,Spread: Texans (-7.5),Colts,,0.45,,,22.2222,0.0,-10.0,perdu
 2026-11-20 12:15 UTC,BreakTheBank,IGNORE,Colts vs. Texans,Colts,0.16,,,662.4,,,,vu trop tard
 2026-11-20 12:20 UTC,BreakTheBank,IGNORE,Colts vs. Texans,Colts,0.16,,,667.3,,,,vu trop tard
+2026-11-20 12:25 UTC,BreakTheBank,IGNORE,Colts vs. Texans,Colts,0.16,,,672.1,,,,vu trop tard
