@@ -351,19 +351,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-20 00:55 UTC"
   },
-  "BreakTheBank|62035733812895725510960326051109905020891353949027033902586332228756848147412": {
-   "date": "2026-11-20 01:00 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Spread: Timberwolves (-2.5)",
-   "resultat": "Knicks",
-   "prix_trader": 0.56,
-   "retard_min": 9.7,
-   "token": "62035733812895725510960326051109905020891353949027033902586332228756848147412",
-   "prix_simule": 0.58,
-   "parts": 17.2414,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-20 01:00 UTC"
-  },
   "BreakTheBank|98366695900029631427765196124833352332030722217792274221588770705491926721516": {
    "date": "2026-11-20 01:00 UTC",
    "trader": "BreakTheBank",
@@ -27506,6 +27493,23 @@
    "sortie": 1.0,
    "pnl": 14.3309,
    "ferme_le": "2026-11-20 00:45 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-20 01:00 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Timberwolves (-2.5)",
+   "resultat": "Knicks",
+   "prix_trader": 0.56,
+   "retard_min": 9.7,
+   "token": "62035733812895725510960326051109905020891353949027033902586332228756848147412",
+   "prix_simule": 0.58,
+   "parts": 17.2414,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-20 01:00 UTC",
+   "sortie": 1.0,
+   "pnl": 7.2414,
+   "ferme_le": "2026-11-20 03:40 UTC",
    "type": "gagné"
   }
  ]

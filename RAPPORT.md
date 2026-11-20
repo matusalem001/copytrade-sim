@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-20 03:35 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-20 03:40 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 275 | 415 | 249 | 129 | -19.91 $ | -0.8 % | 26 | +1.2 ¢ | 8 min |
+| BreakTheBank | 275 | 415 | 250 | 130 | -12.67 $ | -0.5 % | 25 | +1.2 ¢ | 8 min |
 | primm | 1338 | 670 | 1313 | 673 | +359.72 $ | +2.7 % | 25 | +3.2 ¢ | 4 min |
 | juice-fruit | 17 | 2 | 17 | 8 | -39.90 $ | -23.5 % | 0 | -0.7 ¢ | 5 min |
 
-**Total réalisé : +299.90 $ sur 15790 $ engagés (+1.9 %)**
+**Total réalisé : +307.14 $ sur 15800 $ engagés (+1.9 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-20 03:35 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Spread: Timberwolves (-2.5) | Knicks | 0.58 | 1.00 | +7.24 $ |
 | BreakTheBank | Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day? | Yes | 0.41 | 1.00 | +14.33 $ |
 | BreakTheBank | Will Anthropic’s market cap be between 1.2T and 1.5T at market close on IPO day by December 31 2027? | Yes | 0.47 | 1.00 | +11.51 $ |
 | BreakTheBank | Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day? | No | 0.95 | 1.00 | +0.53 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-20 03:35 UTC** 
 | primm | Central Michigan vs. Buffalo | Central Michigan | 0.55 | 0.00 | -10.00 $ |
 | primm | Spread: Buffalo (-1.5) | Central Michigan | 0.51 | 0.00 | -10.00 $ |
 | primm | Spread: UMass (-10.5) | Akron | 0.49 | 1.00 | +10.41 $ |
-| primm | Akron vs. UMass | Akron | 0.41 | 1.00 | +14.39 $ |
 
 Journal complet : `data/journal.csv`
