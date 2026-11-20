@@ -4276,3 +4276,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-20 01:45 UTC,primm,ACHAT,Colts vs. Texans,Texans,0.82,0.77,-5.0,9.8,12.987,10.0,,
 2026-11-20 01:50 UTC,primm,IGNORE,Central Michigan vs. Buffalo: O/U 59.5,Over,0.68,,,1392.7,,,,vu trop tard
 2026-11-20 02:00 UTC,primm,IGNORE,Central Michigan vs. Buffalo,Central Michigan,0.54,,,1503.5,,,,vu trop tard
+2026-11-20 02:05 UTC,primm,IGNORE,Central Michigan vs. Buffalo: O/U 59.5,Over,0.46,,,1447.0,,,,vu trop tard
