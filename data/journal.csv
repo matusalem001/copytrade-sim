@@ -4422,3 +4422,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-20 20:00 UTC,primm,IGNORE,Spread: Temple (-7.5),Rice,0.56,,,1030.8,,,,vu trop tard
 2026-11-20 20:00 UTC,primm,ACHAT,Spread: Middle Tennessee (-7.5),Middle Tennessee,0.42,0.43,1.0,7.2,23.2558,10.0,,
 2026-11-20 20:00 UTC,primm,ACHAT,Spread: Georgia State (-1.5),Marshall,0.58,0.59,1.0,0.3,16.9492,10.0,,
+2026-11-20 20:05 UTC,primm,ACHAT,Spread: South Alabama (-6.5),South Alabama,0.42,0.44,2.0,4.0,22.7273,10.0,,
+2026-11-20 20:05 UTC,primm,ACHAT,Spread: UNLV (-4.5),San Jose State,0.43,0.45,2.0,2.4,22.2222,10.0,,
