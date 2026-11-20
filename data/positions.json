@@ -194,6 +194,32 @@
    "parts": 20.8333,
    "montant": 10.0,
    "ouvert_le": "2026-11-20 00:15 UTC"
+  },
+  "BreakTheBank|13889946898586044656776908152556381235423967659410294415172517068786080860499": {
+   "date": "2026-11-20 00:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Trail Blazers (-11.5)",
+   "resultat": "Bucks",
+   "prix_trader": 0.54,
+   "retard_min": 9.1,
+   "token": "13889946898586044656776908152556381235423967659410294415172517068786080860499",
+   "prix_simule": 0.57,
+   "parts": 17.5439,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-20 00:30 UTC"
+  },
+  "BreakTheBank|112530815323234677673043361518112372421039848103434194967310937867332192705802": {
+   "date": "2026-11-20 00:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Trail Blazers (-9.5)",
+   "resultat": "Bucks",
+   "prix_trader": 0.47,
+   "retard_min": 8.8,
+   "token": "112530815323234677673043361518112372421039848103434194967310937867332192705802",
+   "prix_simule": 0.5,
+   "parts": 20.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-20 00:30 UTC"
   }
  },
  "fermees": [
