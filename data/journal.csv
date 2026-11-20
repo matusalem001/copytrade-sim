@@ -4408,3 +4408,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-20 19:30 UTC,primm,ACHAT,Stanford vs. California: O/U 55.5,Under,0.49,0.51,2.0,2.1,19.6078,10.0,,
 2026-11-20 19:40 UTC,primm,ACHAT,Spread: Ohio State (-3.5),Nebraska,0.5,0.51,1.0,1.7,19.6078,10.0,,
 2026-11-20 19:45 UTC,primm,IGNORE,Colts vs. Texans: O/U 42.5,Over,0.53,,,1061.2,,,,vu trop tard
+2026-11-20 19:50 UTC,primm,IGNORE,Colts vs. Texans: O/U 50.5,Over,0.36,,,1056.6,,,,vu trop tard
+2026-11-20 19:50 UTC,primm,ACHAT,Colorado State vs. Fresno State: O/U 63.5,Over,0.58,0.6,2.0,8.7,16.6667,10.0,,
+2026-11-20 19:50 UTC,primm,ACHAT,UTSA vs. UAB: O/U 53.5,Under,0.59,0.61,2.0,7.7,16.3934,10.0,,
