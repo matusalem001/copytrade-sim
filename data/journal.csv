@@ -4334,3 +4334,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-20 04:25 UTC,primm,REGLEMENT,Spread: Texans (-20.5),Texans,,0.44,,,22.7273,22.73,12.73,gagné
 2026-11-20 04:25 UTC,primm,REGLEMENT,Colts vs. Texans: O/U 42.5,Under,,0.5,,,20.0,20.0,10.0,gagné
 2026-11-20 04:25 UTC,primm,REGLEMENT,Spread: Texans (-20.5),Colts,,0.43,,,23.2558,0.0,-10.0,perdu
+2026-11-20 04:30 UTC,primm,REGLEMENT,Spread: Texans (-7.5),Texans,,0.67,,,14.9254,14.93,4.93,gagné
+2026-11-20 04:30 UTC,primm,REGLEMENT,Spread: Texans (-7.5),Colts,,0.45,,,22.2222,0.0,-10.0,perdu

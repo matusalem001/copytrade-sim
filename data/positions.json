@@ -129,32 +129,6 @@
    "parts": 43.4783,
    "montant": 10.0,
    "ouvert_le": "2026-11-19 06:55 UTC"
-  },
-  "primm|51038898986077570920140835147469047844977098014382120973392385720198960354578": {
-   "date": "2026-11-20 01:20 UTC",
-   "trader": "primm",
-   "marche": "Spread: Texans (-7.5)",
-   "resultat": "Texans",
-   "prix_trader": 0.61,
-   "retard_min": 2.0,
-   "token": "51038898986077570920140835147469047844977098014382120973392385720198960354578",
-   "prix_simule": 0.67,
-   "parts": 14.9254,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-20 01:20 UTC"
-  },
-  "primm|36614143532175226809755284239603062600550291991266107771070823017777687854108": {
-   "date": "2026-11-20 01:25 UTC",
-   "trader": "primm",
-   "marche": "Spread: Texans (-7.5)",
-   "resultat": "Colts",
-   "prix_trader": 0.47,
-   "retard_min": 0.9,
-   "token": "36614143532175226809755284239603062600550291991266107771070823017777687854108",
-   "prix_simule": 0.45,
-   "parts": 22.2222,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-20 01:25 UTC"
   }
  },
  "fermees": [
@@ -27662,6 +27636,40 @@
    "sortie": 0.0,
    "pnl": -10.0,
    "ferme_le": "2026-11-20 04:25 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-20 01:20 UTC",
+   "trader": "primm",
+   "marche": "Spread: Texans (-7.5)",
+   "resultat": "Texans",
+   "prix_trader": 0.61,
+   "retard_min": 2.0,
+   "token": "51038898986077570920140835147469047844977098014382120973392385720198960354578",
+   "prix_simule": 0.67,
+   "parts": 14.9254,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-20 01:20 UTC",
+   "sortie": 1.0,
+   "pnl": 4.9254,
+   "ferme_le": "2026-11-20 04:30 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-20 01:25 UTC",
+   "trader": "primm",
+   "marche": "Spread: Texans (-7.5)",
+   "resultat": "Colts",
+   "prix_trader": 0.47,
+   "retard_min": 0.9,
+   "token": "36614143532175226809755284239603062600550291991266107771070823017777687854108",
+   "prix_simule": 0.45,
+   "parts": 22.2222,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-20 01:25 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-20 04:30 UTC",
    "type": "perdu"
   }
  ]
