@@ -4268,3 +4268,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-20 01:25 UTC,primm,ACHAT,Spread: Texans (-7.5),Colts,0.47,0.45,-2.0,0.9,22.2222,10.0,,
 2026-11-20 01:25 UTC,primm,ACHAT,Spread: Texans (-10.5),Colts,0.56,0.54,-2.0,0.9,18.5185,10.0,,
 2026-11-20 01:25 UTC,primm,ACHAT,Colts vs. Texans: O/U 44.5,Over,0.55,0.53,-2.0,0.9,18.8679,10.0,,
+2026-11-20 01:30 UTC,primm,IGNORE,Akron vs. UMass: O/U 67.5,Over,0.82,,,1365.8,,,,vu trop tard
+2026-11-20 01:30 UTC,primm,ACHAT,Colts vs. Texans: O/U 46.5,Over,0.45,0.47,2.0,3.9,21.2766,10.0,,
