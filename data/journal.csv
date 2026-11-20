@@ -4249,3 +4249,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-20 00:55 UTC,BreakTheBank,ACHAT,Spread: Grizzlies (-6.5),Grizzlies,0.46,0.46,0.0,7.9,21.7391,10.0,,
 2026-11-20 00:55 UTC,BreakTheBank,ACHAT,Spread: Spurs (-14.5),Clippers,0.46,0.47,1.0,5.3,21.2766,10.0,,
 2026-11-20 00:55 UTC,primm,IGNORE,Akron vs. UMass,UMass,0.5,,,1321.1,,,,vu trop tard
+2026-11-20 01:00 UTC,BreakTheBank,ACHAT,Spread: Timberwolves (-2.5),Knicks,0.56,0.58,2.0,9.7,17.2414,10.0,,
+2026-11-20 01:00 UTC,BreakTheBank,ACHAT,Spread: Spurs (-13.5),Clippers,0.43,0.44,1.0,9.4,22.7273,10.0,,
+2026-11-20 01:01 UTC,primm,ACHAT,Spread: Temple (-5.5),Rice,0.44,0.45,1.0,2.6,22.2222,10.0,,
+2026-11-20 01:01 UTC,primm,ACHAT,Spread: Temple (-7.5),Rice,0.51,0.55,4.0,2.0,18.1818,10.0,,
