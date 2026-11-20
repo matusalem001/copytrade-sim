@@ -4436,3 +4436,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-20 22:50 UTC,primm,IGNORE,Spread: Texans (-20.5),Colts,0.4,,,1176.2,,,,vu trop tard
 2026-11-20 23:10 UTC,primm,ACHAT,Spread: Iowa State (-2.5),Iowa State,0.49,0.53,4.0,4.0,18.8679,10.0,,
 2026-11-20 23:10 UTC,primm,ACHAT,Iowa State vs. UCF: O/U 49.5,Under,0.49,0.52,3.0,2.0,19.2308,10.0,,
+2026-11-20 23:15 UTC,primm,ACHAT,Iowa State vs. UCF: O/U 53.5,Under,0.61,0.65,4.0,4.8,15.3846,10.0,,
