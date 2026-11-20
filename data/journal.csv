@@ -4395,3 +4395,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-20 18:25 UTC,primm,ACHAT,Wake Forest vs. Georgia Tech: O/U 57.5,Over,0.47,0.48,1.0,3.4,20.8333,10.0,,
 2026-11-20 18:25 UTC,primm,ACHAT,Spread: Wake Forest (-27.5),Wake Forest,0.32,0.34,2.0,3.4,29.4118,10.0,,
 2026-11-20 18:25 UTC,primm,ACHAT,Spread: Minnesota (-2.5),Northwestern,0.59,0.61,2.0,2.0,16.3934,10.0,,
+2026-11-20 18:40 UTC,primm,ACHAT,North Texas vs. Tulane: O/U 57.5,Under,0.52,0.54,2.0,8.3,18.5185,10.0,,
+2026-11-20 18:40 UTC,primm,ACHAT,Spread: North Texas (-10.5),North Texas,0.39,0.42,3.0,8.3,23.8095,10.0,,
+2026-11-20 18:40 UTC,primm,ACHAT,Spread: North Texas (-7.5),North Texas,0.45,0.46,1.0,8.3,21.7391,10.0,,
+2026-11-20 18:40 UTC,primm,ACHAT,North Texas vs. Tulane: O/U 55.5,Under,0.48,0.5,2.0,7.9,20.0,10.0,,
+2026-11-20 18:40 UTC,primm,ACHAT,Houston vs. West Virginia: O/U 71.5,Over,0.49,0.5,1.0,2.9,20.0,10.0,,
