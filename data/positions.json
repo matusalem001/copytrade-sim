@@ -961,6 +961,19 @@
    "parts": 20.0,
    "montant": 10.0,
    "ouvert_le": "2026-11-20 20:10 UTC"
+  },
+  "primm|89452471241536827966103798156613083209428224929324785481581876639952850981939": {
+   "date": "2026-11-20 20:30 UTC",
+   "trader": "primm",
+   "marche": "New Mexico vs. Wyoming",
+   "resultat": "New Mexico",
+   "prix_trader": 0.75,
+   "retard_min": 6.3,
+   "token": "89452471241536827966103798156613083209428224929324785481581876639952850981939",
+   "prix_simule": 0.76,
+   "parts": 13.1579,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-20 20:30 UTC"
   }
  },
  "fermees": [
