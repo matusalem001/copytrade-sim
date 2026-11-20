@@ -415,6 +415,32 @@
    "parts": 22.2222,
    "montant": 10.0,
    "ouvert_le": "2026-11-20 01:10 UTC"
+  },
+  "BreakTheBank|49118181348082160874406764348724712330959368328750304542731226262048867891138": {
+   "date": "2026-11-20 01:15 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Texans (-10.5)",
+   "resultat": "Colts",
+   "prix_trader": 0.46,
+   "retard_min": 6.4,
+   "token": "49118181348082160874406764348724712330959368328750304542731226262048867891138",
+   "prix_simule": 0.47,
+   "parts": 21.2766,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-20 01:15 UTC"
+  },
+  "BreakTheBank|91155868616471111608486812742977305368841002313691176912852593533729066959657": {
+   "date": "2026-11-20 01:15 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Texans (-13.5)",
+   "resultat": "Colts",
+   "prix_trader": 0.55,
+   "retard_min": 6.2,
+   "token": "91155868616471111608486812742977305368841002313691176912852593533729066959657",
+   "prix_simule": 0.55,
+   "parts": 18.1818,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-20 01:15 UTC"
   }
  },
  "fermees": [

@@ -4259,3 +4259,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-20 01:05 UTC,primm,IGNORE,Central Michigan vs. Buffalo: O/U 65.5,Over,0.22,,,1389.0,,,,vu trop tard
 2026-11-20 01:10 UTC,primm,IGNORE,Central Michigan vs. Buffalo,Central Michigan,0.54,,,1453.0,,,,vu trop tard
 2026-11-20 01:10 UTC,primm,ACHAT,Spread: Texans (-13.5),Texans,0.45,0.45,0.0,1.2,22.2222,10.0,,
+2026-11-20 01:15 UTC,BreakTheBank,ACHAT,Spread: Texans (-10.5),Colts,0.46,0.47,1.0,6.4,21.2766,10.0,,
+2026-11-20 01:15 UTC,BreakTheBank,ACHAT,Spread: Texans (-13.5),Colts,0.55,0.55,-0.0,6.2,18.1818,10.0,,
+2026-11-20 01:15 UTC,primm,IGNORE,Akron vs. UMass: O/U 67.5,Over,0.82,,,1350.5,,,,vu trop tard
