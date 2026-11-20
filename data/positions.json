@@ -168,6 +168,32 @@
    "parts": 23.8095,
    "montant": 10.0,
    "ouvert_le": "2026-11-19 23:55 UTC"
+  },
+  "BreakTheBank|104728216614871395522728614877241762035159463023701864857979066359615345094962": {
+   "date": "2026-11-20 00:15 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Warriors vs. Grizzlies",
+   "resultat": "Grizzlies",
+   "prix_trader": 0.66,
+   "retard_min": 0.5,
+   "token": "104728216614871395522728614877241762035159463023701864857979066359615345094962",
+   "prix_simule": 0.67,
+   "parts": 14.9254,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-20 00:15 UTC"
+  },
+  "primm|55551458600239658000462464326640340505122052766178604410002447044615749701698": {
+   "date": "2026-11-20 00:15 UTC",
+   "trader": "primm",
+   "marche": "Rice vs. Temple: O/U 51.5",
+   "resultat": "Under",
+   "prix_trader": 0.47,
+   "retard_min": 4.4,
+   "token": "55551458600239658000462464326640340505122052766178604410002447044615749701698",
+   "prix_simule": 0.48,
+   "parts": 20.8333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-20 00:15 UTC"
   }
  },
  "fermees": [
