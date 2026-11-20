@@ -142,6 +142,19 @@
    "parts": 29.4118,
    "montant": 10.0,
    "ouvert_le": "2026-11-20 15:01 UTC"
+  },
+  "juice-fruit|97901320104985756472100155768788980035954103432181558723427550391044978348374": {
+   "date": "2026-11-20 15:35 UTC",
+   "trader": "juice-fruit",
+   "marche": "Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A",
+   "resultat": "Natus Vincere",
+   "prix_trader": 0.6097,
+   "retard_min": 2.1,
+   "token": "97901320104985756472100155768788980035954103432181558723427550391044978348374",
+   "prix_simule": 0.62,
+   "parts": 16.129,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-20 15:35 UTC"
   }
  },
  "fermees": [
