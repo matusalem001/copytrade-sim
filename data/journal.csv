@@ -4253,3 +4253,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-20 01:00 UTC,BreakTheBank,ACHAT,Spread: Spurs (-13.5),Clippers,0.43,0.44,1.0,9.4,22.7273,10.0,,
 2026-11-20 01:01 UTC,primm,ACHAT,Spread: Temple (-5.5),Rice,0.44,0.45,1.0,2.6,22.2222,10.0,,
 2026-11-20 01:01 UTC,primm,ACHAT,Spread: Temple (-7.5),Rice,0.51,0.55,4.0,2.0,18.1818,10.0,,
+2026-11-20 01:05 UTC,BreakTheBank,IGNORE,Will Anthropic's market cap be between $2.0T and $2.25T at market close on IPO day?,No,0.997,,,464.2,,,,vu trop tard
+2026-11-20 01:05 UTC,BreakTheBank,IGNORE,"Will Anthropic not IPO by December 31, 2027?",Yes,0.001,,,408.0,,,,carnet indisponible
+2026-11-20 01:05 UTC,primm,IGNORE,Akron vs. UMass: O/U 45.5,Under,0.46,,,1560.1,,,,vu trop tard
+2026-11-20 01:05 UTC,primm,IGNORE,Central Michigan vs. Buffalo: O/U 65.5,Over,0.22,,,1389.0,,,,vu trop tard
