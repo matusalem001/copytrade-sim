@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-20 03:45 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-20 03:50 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 275 | 415 | 251 | 131 | +0.58 $ | +0.0 % | 24 | +1.2 ¢ | 8 min |
+| BreakTheBank | 275 | 415 | 261 | 140 | +75.05 $ | +2.9 % | 14 | +1.2 ¢ | 8 min |
 | primm | 1338 | 670 | 1313 | 673 | +359.72 $ | +2.7 % | 25 | +3.2 ¢ | 4 min |
 | juice-fruit | 17 | 2 | 17 | 8 | -39.90 $ | -23.5 % | 0 | -0.7 ¢ | 5 min |
 
-**Total réalisé : +320.40 $ sur 15810 $ engagés (+2.0 %)**
+**Total réalisé : +394.86 $ sur 15910 $ engagés (+2.5 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,16 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-20 03:45 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Spread: Spurs (-13.5) | Clippers | 0.44 | 1.00 | +12.73 $ |
+| BreakTheBank | Spread: Spurs (-14.5) | Clippers | 0.47 | 1.00 | +11.28 $ |
+| BreakTheBank | Spread: Grizzlies (-6.5) | Grizzlies | 0.46 | 1.00 | +11.74 $ |
+| BreakTheBank | Spread: Grizzlies (-4.5) | Grizzlies | 0.54 | 1.00 | +8.52 $ |
+| BreakTheBank | Spread: Spurs (-16.5) | Clippers | 0.54 | 1.00 | +8.52 $ |
+| BreakTheBank | Spread: Grizzlies (-5.5) | Grizzlies | 0.51 | 1.00 | +9.61 $ |
+| BreakTheBank | Spread: Trail Blazers (-9.5) | Bucks | 0.50 | 0.00 | -10.00 $ |
+| BreakTheBank | Spread: Trail Blazers (-11.5) | Bucks | 0.57 | 1.00 | +7.54 $ |
+| BreakTheBank | Warriors vs. Grizzlies | Grizzlies | 0.67 | 1.00 | +4.93 $ |
+| BreakTheBank | Spread: Spurs (-15.5) | Clippers | 0.51 | 1.00 | +9.61 $ |
 | BreakTheBank | Spread: Grizzlies (-7.5) | Grizzlies | 0.43 | 1.00 | +13.26 $ |
 | BreakTheBank | Spread: Timberwolves (-2.5) | Knicks | 0.58 | 1.00 | +7.24 $ |
 | BreakTheBank | Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day? | Yes | 0.41 | 1.00 | +14.33 $ |
@@ -31,15 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-20 03:45 UTC** 
 | primm | Central Michigan vs. Buffalo: O/U 71.5 | Under | 0.80 | 1.00 | +2.50 $ |
 | primm | Spread: Buffalo (-10.5) | Central Michigan | 0.30 | 0.00 | -10.00 $ |
 | primm | Central Michigan vs. Buffalo: O/U 71.5 | Over | 0.73 | 0.00 | -10.00 $ |
-| primm | Central Michigan vs. Buffalo: O/U 65.5 | Over | 0.24 | 0.00 | -10.00 $ |
-| primm | Spread: Buffalo (-4.5) | Central Michigan | 0.72 | 0.00 | -10.00 $ |
-| primm | Spread: Buffalo (-3.5) | Central Michigan | 0.71 | 0.00 | -10.00 $ |
-| primm | Spread: Central Michigan (-1.5) | Central Michigan | 0.45 | 0.00 | -10.00 $ |
-| primm | Spread: Central Michigan (-2.5) | Central Michigan | 0.41 | 0.00 | -10.00 $ |
-| primm | Spread: Buffalo (-5.5) | Central Michigan | 0.56 | 0.00 | -10.00 $ |
-| primm | Spread: Buffalo (-7.5) | Central Michigan | 0.68 | 0.00 | -10.00 $ |
-| primm | Spread: Buffalo (-6.5) | Central Michigan | 0.53 | 0.00 | -10.00 $ |
-| primm | Central Michigan vs. Buffalo | Central Michigan | 0.55 | 0.00 | -10.00 $ |
-| primm | Spread: Buffalo (-1.5) | Central Michigan | 0.51 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
