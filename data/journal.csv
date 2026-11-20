@@ -4343,3 +4343,9 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-20 14:55 UTC,juice-fruit,REGLEMENT,"ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Flavio Cobolli",Carlos Alcaraz,,0.89,,,11.236,11.24,1.24,gagné
 2026-11-20 15:01 UTC,juice-fruit,ACHAT,Dota 2: GamerLegion vs Xtreme Gaming - Game 2 Winner,Xtreme Gaming,0.38,0.34,-4.0,2.8,29.4118,10.0,,
 2026-11-20 15:35 UTC,juice-fruit,ACHAT,Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A,Natus Vincere,0.6097,0.62,1.0,2.1,16.129,10.0,,
+2026-11-20 15:45 UTC,primm,ACHAT,Iowa State vs. UCF,Iowa State,0.51,0.51,0.0,4.4,19.6078,10.0,,
+2026-11-20 15:45 UTC,primm,ACHAT,Spread: Iowa State (-1.5),Iowa State,0.49,0.49,0.0,4.4,20.4082,10.0,,
+2026-11-20 15:45 UTC,primm,ACHAT,Spread: UCF (-2.5),Iowa State,0.56,0.57,1.0,4.4,17.5439,10.0,,
+2026-11-20 15:45 UTC,primm,ACHAT,Spread: UCF (-1.5),Iowa State,0.54,0.55,1.0,4.4,18.1818,10.0,,
+2026-11-20 15:45 UTC,primm,ACHAT,Spread: Duke (-11.5),Clemson,0.49,0.5,1.0,1.7,20.0,10.0,,
+2026-11-20 15:45 UTC,primm,ACHAT,Spread: Toledo (-15.5),Bowling Green,0.47,0.48,1.0,0.3,20.8333,10.0,,
