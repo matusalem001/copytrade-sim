@@ -4281,3 +4281,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-20 02:10 UTC,primm,ACHAT,Spread: Texans (-16.5),Texans,0.48,0.58,10.0,4.1,17.2414,10.0,,
 2026-11-20 02:10 UTC,primm,ACHAT,Colts vs. Texans: O/U 50.5,Over,0.34,0.35,1.0,0.1,28.5714,10.0,,
 2026-11-20 02:15 UTC,primm,IGNORE,Spread: Central Michigan (-1.5),Central Michigan,0.36,,,1468.0,,,,vu trop tard
+2026-11-20 02:20 UTC,primm,IGNORE,Spread: Texans (-17.5),Texans,0.54,0.48,-6.0,6.2,,,,prix a trop chuté (match sans doute joué)
+2026-11-20 02:20 UTC,primm,IGNORE,Spread: Texans (-17.5),Texans,0.59,0.48,-11.0,4.8,,,,prix a trop chuté (match sans doute joué)
