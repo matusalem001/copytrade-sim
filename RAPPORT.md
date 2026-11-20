@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-20 04:06 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-20 04:10 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 275 | 415 | 261 | 140 | +75.05 $ | +2.9 % | 14 | +1.2 ¢ | 8 min |
-| primm | 1338 | 670 | 1314 | 673 | +349.72 $ | +2.7 % | 24 | +3.2 ¢ | 4 min |
+| primm | 1338 | 670 | 1315 | 674 | +482.57 $ | +3.7 % | 23 | +3.2 ¢ | 4 min |
 | juice-fruit | 17 | 2 | 17 | 8 | -39.90 $ | -23.5 % | 0 | -0.7 ¢ | 5 min |
 
-**Total réalisé : +384.86 $ sur 15920 $ engagés (+2.4 %)**
+**Total réalisé : +517.72 $ sur 15930 $ engagés (+3.2 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-20 04:06 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Rice vs. Temple | Rice | 0.07 | 1.00 | +132.86 $ |
 | primm | Rice vs. Temple: O/U 51.5 | Under | 0.48 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Spurs (-13.5) | Clippers | 0.44 | 1.00 | +12.73 $ |
 | BreakTheBank | Spread: Spurs (-14.5) | Clippers | 0.47 | 1.00 | +11.28 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-20 04:06 UTC** 
 | primm | Spread: Buffalo (-16.5) | Buffalo | 0.67 | 1.00 | +4.93 $ |
 | primm | Spread: Buffalo (-17.5) | Buffalo | 0.65 | 1.00 | +5.38 $ |
 | primm | Central Michigan vs. Buffalo: O/U 71.5 | Under | 0.80 | 1.00 | +2.50 $ |
-| primm | Spread: Buffalo (-10.5) | Central Michigan | 0.30 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
