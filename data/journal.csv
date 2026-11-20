@@ -4365,3 +4365,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-20 16:05 UTC,primm,IGNORE,Spread: Texans (-16.5),Texans,0.59,,,831.2,,,,vu trop tard
 2026-11-20 16:10 UTC,primm,IGNORE,Spread: Temple (-7.5),Rice,0.56,,,800.4,,,,vu trop tard
 2026-11-20 16:15 UTC,juice-fruit,REGLEMENT,Dota 2: GamerLegion vs Xtreme Gaming - Game 2 Winner,Xtreme Gaming,,0.34,,,29.4118,0.0,-10.0,perdu
+2026-11-20 16:35 UTC,primm,ACHAT,Spread: BYU (-6.5),BYU,0.47,0.48,1.0,3.7,20.8333,10.0,,
