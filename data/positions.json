@@ -65,19 +65,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-15 03:10 UTC"
   },
-  "BreakTheBank|56301838179579394383326309870910994868607811662960859222061983298807293606663": {
-   "date": "2026-11-16 20:45 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day?",
-   "resultat": "Yes",
-   "prix_trader": 0.41,
-   "retard_min": 7.2,
-   "token": "56301838179579394383326309870910994868607811662960859222061983298807293606663",
-   "prix_simule": 0.411,
-   "parts": 24.3309,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-16 20:45 UTC"
-  },
   "BreakTheBank|68824290388674385176467771482523926661374466006709550624998958447771606894467": {
    "date": "2026-11-16 21:40 UTC",
    "trader": "BreakTheBank",
@@ -27138,6 +27125,23 @@
    "sortie": 1.0,
    "pnl": 11.5054,
    "ferme_le": "2026-11-19 23:23 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-16 20:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day?",
+   "resultat": "Yes",
+   "prix_trader": 0.41,
+   "retard_min": 7.2,
+   "token": "56301838179579394383326309870910994868607811662960859222061983298807293606663",
+   "prix_simule": 0.411,
+   "parts": 24.3309,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-16 20:45 UTC",
+   "sortie": 1.0,
+   "pnl": 14.3309,
+   "ferme_le": "2026-11-20 00:45 UTC",
    "type": "gagné"
   }
  ]
