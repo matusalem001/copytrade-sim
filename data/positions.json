@@ -129,6 +129,19 @@
    "parts": 43.4783,
    "montant": 10.0,
    "ouvert_le": "2026-11-19 06:55 UTC"
+  },
+  "juice-fruit|33374035754625189881426600506906683204025606677071584854475574155912615585874": {
+   "date": "2026-11-20 15:01 UTC",
+   "trader": "juice-fruit",
+   "marche": "Dota 2: GamerLegion vs Xtreme Gaming - Game 2 Winner",
+   "resultat": "Xtreme Gaming",
+   "prix_trader": 0.38,
+   "retard_min": 2.8,
+   "token": "33374035754625189881426600506906683204025606677071584854475574155912615585874",
+   "prix_simule": 0.34,
+   "parts": 29.4118,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-20 15:01 UTC"
   }
  },
  "fermees": [
