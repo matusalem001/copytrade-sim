@@ -1157,19 +1157,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-21 14:25 UTC"
   },
-  "juice-fruit|6874613288463961710449208998355967469771577822382852530053061874177609104062": {
-   "date": "2026-11-21 14:25 UTC",
-   "trader": "juice-fruit",
-   "marche": "ATP World Tour Finals, Final Stage: Carlos Alcaraz vs Ben Shelton",
-   "resultat": "Carlos Alcaraz",
-   "prix_trader": 0.49,
-   "retard_min": 0.6,
-   "token": "6874613288463961710449208998355967469771577822382852530053061874177609104062",
-   "prix_simule": 0.52,
-   "parts": 19.2308,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-21 14:25 UTC"
-  },
   "BreakTheBank|32384015219551205280233940081361023184560765435870334417971246005923142494083": {
    "date": "2026-11-21 14:30 UTC",
    "trader": "BreakTheBank",
@@ -1624,6 +1611,45 @@
    "parts": 18.8679,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 16:10 UTC"
+  },
+  "primm|74786759789119485202147565693183686743011972446440140636821260935096504486017": {
+   "date": "2026-11-21 16:15 UTC",
+   "trader": "primm",
+   "marche": "Spread: Houston (-4.5)",
+   "resultat": "Houston",
+   "prix_trader": 0.58,
+   "retard_min": 0.4,
+   "token": "74786759789119485202147565693183686743011972446440140636821260935096504486017",
+   "prix_simule": 0.59,
+   "parts": 16.9492,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 16:15 UTC"
+  },
+  "primm|8213514471622957995825916146435499938634605737934396278088982538242242439139": {
+   "date": "2026-11-21 16:15 UTC",
+   "trader": "primm",
+   "marche": "Spread: Houston (-6.5)",
+   "resultat": "Houston",
+   "prix_trader": 0.54,
+   "retard_min": 0.4,
+   "token": "8213514471622957995825916146435499938634605737934396278088982538242242439139",
+   "prix_simule": 0.55,
+   "parts": 18.1818,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 16:15 UTC"
+  },
+  "primm|20451220918465913948423350983141808349849721310299373575829216263563875763000": {
+   "date": "2026-11-21 16:15 UTC",
+   "trader": "primm",
+   "marche": "Spread: Houston (-7.5)",
+   "resultat": "Houston",
+   "prix_trader": 0.47,
+   "retard_min": 0.3,
+   "token": "20451220918465913948423350983141808349849721310299373575829216263563875763000",
+   "prix_simule": 0.48,
+   "parts": 20.8333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 16:15 UTC"
   }
  },
  "fermees": [
@@ -31120,6 +31146,23 @@
    "sortie": 1.0,
    "pnl": 23.3333,
    "ferme_le": "2026-11-21 14:41 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-21 14:25 UTC",
+   "trader": "juice-fruit",
+   "marche": "ATP World Tour Finals, Final Stage: Carlos Alcaraz vs Ben Shelton",
+   "resultat": "Carlos Alcaraz",
+   "prix_trader": 0.49,
+   "retard_min": 0.6,
+   "token": "6874613288463961710449208998355967469771577822382852530053061874177609104062",
+   "prix_simule": 0.52,
+   "parts": 19.2308,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 14:25 UTC",
+   "sortie": 1.0,
+   "pnl": 9.2308,
+   "ferme_le": "2026-11-21 16:15 UTC",
    "type": "gagné"
   }
  ]

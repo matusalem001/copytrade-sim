@@ -4765,3 +4765,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 16:10 UTC,primm,ACHAT,Spread: Boise State (-20.5),San Diego State,0.49,0.51,2.0,8.7,19.6078,10.0,,
 2026-11-21 16:10 UTC,primm,ACHAT,Spread: Cincinnati (-2.5),Colorado,0.45,0.46,1.0,3.2,21.7391,10.0,,
 2026-11-21 16:10 UTC,primm,ACHAT,Spread: Ohio State (-4.5),Nebraska,0.52,0.53,1.0,1.5,18.8679,10.0,,
+2026-11-21 16:15 UTC,primm,IGNORE,New Mexico vs. Wyoming: O/U 39.5,Over,0.49,,,674.1,,,,vu trop tard
+2026-11-21 16:15 UTC,primm,ACHAT,Spread: Houston (-4.5),Houston,0.58,0.59,1.0,0.4,16.9492,10.0,,
+2026-11-21 16:15 UTC,primm,ACHAT,Spread: Houston (-6.5),Houston,0.54,0.55,1.0,0.4,18.1818,10.0,,
+2026-11-21 16:15 UTC,primm,ACHAT,Spread: Houston (-7.5),Houston,0.47,0.48,1.0,0.3,20.8333,10.0,,
+2026-11-21 16:15 UTC,juice-fruit,REGLEMENT,"ATP World Tour Finals, Final Stage: Carlos Alcaraz vs Ben Shelton",Carlos Alcaraz,,0.52,,,19.2308,19.23,9.23,gagné
