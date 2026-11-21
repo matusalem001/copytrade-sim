@@ -4782,3 +4782,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 16:40 UTC,primm,ACHAT,Spread: Houston (-10.5),Houston,0.42,0.42,0.0,4.9,23.8095,10.0,,
 2026-11-21 16:40 UTC,primm,ACHAT,Spread: Houston (-5.5),Houston,0.58,0.57,-1.0,4.9,17.5439,10.0,,
 2026-11-21 16:40 UTC,primm,ACHAT,Wisconsin vs. Purdue: O/U 47.5,Over,0.48,0.48,0.0,2.8,20.8333,10.0,,
+2026-11-21 16:45 UTC,BreakTheBank,ACHAT,"UFC Fight Night: Aleksandre Topuria vs. Santiago Luna (Bantamweight, Main Card)",Santiago Luna,0.29,0.3,1.0,9.6,33.3333,10.0,,
+2026-11-21 16:45 UTC,BreakTheBank,ACHAT,"UFC Fight Night: Jared Cannonier vs. Ikram Aliskerov (Middleweight, Main Card)",Ikram Aliskerov,0.76,0.77,1.0,8.5,12.987,10.0,,
+2026-11-21 16:45 UTC,BreakTheBank,ACHAT,"UFC Fight Night: Kyoji Horiguchi vs. Asu Almabayev (Flyweight, Main Card)",Asu Almabayev,0.38,0.39,1.0,7.8,25.641,10.0,,
+2026-11-21 16:45 UTC,BreakTheBank,ACHAT,"UFC Fight Night: Jirí Procházka vs. Navajo Stirling (Light Heavyweight, Main Card)",Navajo Stirling,0.64,0.65,1.0,6.6,15.3846,10.0,,

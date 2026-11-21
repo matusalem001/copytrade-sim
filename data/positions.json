@@ -1793,6 +1793,58 @@
    "parts": 20.8333,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 16:40 UTC"
+  },
+  "BreakTheBank|13089260581222514942808273085591542627543252842149460654137020465025187134427": {
+   "date": "2026-11-21 16:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "UFC Fight Night: Aleksandre Topuria vs. Santiago Luna (Bantamweight, Main Card)",
+   "resultat": "Santiago Luna",
+   "prix_trader": 0.29,
+   "retard_min": 9.6,
+   "token": "13089260581222514942808273085591542627543252842149460654137020465025187134427",
+   "prix_simule": 0.3,
+   "parts": 33.3333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 16:45 UTC"
+  },
+  "BreakTheBank|80670276674187063060491876810333189890304023874556375703264361399600975089674": {
+   "date": "2026-11-21 16:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "UFC Fight Night: Jared Cannonier vs. Ikram Aliskerov (Middleweight, Main Card)",
+   "resultat": "Ikram Aliskerov",
+   "prix_trader": 0.76,
+   "retard_min": 8.5,
+   "token": "80670276674187063060491876810333189890304023874556375703264361399600975089674",
+   "prix_simule": 0.77,
+   "parts": 12.987,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 16:45 UTC"
+  },
+  "BreakTheBank|23179889754289405220424103056305227273784320688703234024360843927522715300866": {
+   "date": "2026-11-21 16:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "UFC Fight Night: Kyoji Horiguchi vs. Asu Almabayev (Flyweight, Main Card)",
+   "resultat": "Asu Almabayev",
+   "prix_trader": 0.38,
+   "retard_min": 7.8,
+   "token": "23179889754289405220424103056305227273784320688703234024360843927522715300866",
+   "prix_simule": 0.39,
+   "parts": 25.641,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 16:45 UTC"
+  },
+  "BreakTheBank|63457155869463499394771120334784441573628429591038941773766010934490389543619": {
+   "date": "2026-11-21 16:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "UFC Fight Night: Jirí Procházka vs. Navajo Stirling (Light Heavyweight, Main Card)",
+   "resultat": "Navajo Stirling",
+   "prix_trader": 0.64,
+   "retard_min": 6.6,
+   "token": "63457155869463499394771120334784441573628429591038941773766010934490389543619",
+   "prix_simule": 0.65,
+   "parts": 15.3846,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 16:45 UTC"
   }
  },
  "fermees": [
