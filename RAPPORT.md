@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 20:46 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 20:50 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 309 | 471 | 297 | 155 | +35.25 $ | +1.2 % | 12 | +1.2 ¢ | 8 min |
-| primm | 1689 | 739 | 1510 | 775 | +592.52 $ | +3.9 % | 179 | +3.1 ¢ | 4 min |
+| BreakTheBank | 309 | 472 | 297 | 155 | +35.25 $ | +1.2 % | 12 | +1.2 ¢ | 8 min |
+| primm | 1691 | 739 | 1515 | 776 | +558.92 $ | +3.7 % | 176 | +3.1 ¢ | 4 min |
 | juice-fruit | 24 | 2 | 24 | 12 | -47.43 $ | -19.8 % | 0 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +580.34 $ sur 18310 $ engagés (+3.2 %)**
+**Total réalisé : +546.73 $ sur 18360 $ engagés (+3.0 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,11 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 20:46 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Wake Forest (-21.5) | Wake Forest | 0.53 | 0.00 | -10.00 $ |
+| primm | Spread: Wake Forest (-23.5) | Wake Forest | 0.47 | 0.00 | -10.00 $ |
+| primm | Spread: Wake Forest (-24.5) | Wake Forest | 0.45 | 0.00 | -10.00 $ |
+| primm | Spread: Wake Forest (-27.5) | Wake Forest | 0.34 | 0.00 | -10.00 $ |
+| primm | Spread: Wake Forest (-16.5) | Wake Forest | 0.61 | 1.00 | +6.39 $ |
 | primm | North Carolina vs. Virginia: O/U 45.5 | Over | 0.86 | 1.00 | +1.63 $ |
 | primm | Ohio State vs. Nebraska: O/U 57.5 | Over | 0.59 | 1.00 | +6.95 $ |
 | primm | North Carolina vs. Virginia: O/U 47.5 | Over | 0.63 | 1.00 | +5.87 $ |
@@ -36,10 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 20:46 UTC** 
 | primm | Spread: North Texas (-6.5) | Tulane | 0.57 | 1.00 | +7.54 $ |
 | primm | Spread: Cincinnati (-6.5) | Colorado | 0.43 | 0.00 | -10.00 $ |
 | primm | Spread: Cincinnati (-5.5) | Colorado | 0.39 | 0.00 | -10.00 $ |
-| primm | Spread: Cincinnati (-4.5) | Colorado | 0.37 | 0.00 | -10.00 $ |
-| primm | Colorado vs. Cincinnati: O/U 67.5 | Over | 0.33 | 0.00 | -10.00 $ |
-| primm | Spread: Cincinnati (-7.5) | Colorado | 0.54 | 1.00 | +8.52 $ |
-| primm | Spread: Cincinnati (-3.5) | Colorado | 0.36 | 0.00 | -10.00 $ |
-| primm | Colorado vs. Cincinnati | Colorado | 0.23 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

@@ -5064,3 +5064,11 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 20:46 UTC,primm,REGLEMENT,North Carolina vs. Virginia: O/U 47.5,Over,,0.63,,,15.873,15.87,5.87,gagné
 2026-11-21 20:46 UTC,primm,REGLEMENT,Ohio State vs. Nebraska: O/U 57.5,Over,,0.59,,,16.9492,16.95,6.95,gagné
 2026-11-21 20:46 UTC,primm,REGLEMENT,North Carolina vs. Virginia: O/U 45.5,Over,,0.86,,,11.6279,11.63,1.63,gagné
+2026-11-21 20:50 UTC,BreakTheBank,IGNORE,"UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card)",Kevin Vallejos,0.54,,,82.7,,,,vu trop tard
+2026-11-21 20:50 UTC,primm,ACHAT,Spread: UCLA (-3.5),UCLA,0.5,0.5,0.0,4.4,20.0,10.0,,
+2026-11-21 20:50 UTC,primm,ACHAT,Spread: UCLA (-7.5),UCLA,0.36,0.36,0.0,4.4,27.7778,10.0,,
+2026-11-21 20:50 UTC,primm,REGLEMENT,Spread: Wake Forest (-16.5),Wake Forest,,0.61,,,16.3934,16.39,6.39,gagné
+2026-11-21 20:50 UTC,primm,REGLEMENT,Spread: Wake Forest (-27.5),Wake Forest,,0.34,,,29.4118,0.0,-10.0,perdu
+2026-11-21 20:50 UTC,primm,REGLEMENT,Spread: Wake Forest (-24.5),Wake Forest,,0.45,,,22.2222,0.0,-10.0,perdu
+2026-11-21 20:50 UTC,primm,REGLEMENT,Spread: Wake Forest (-23.5),Wake Forest,,0.47,,,21.2766,0.0,-10.0,perdu
+2026-11-21 20:50 UTC,primm,REGLEMENT,Spread: Wake Forest (-21.5),Wake Forest,,0.53,,,18.8679,0.0,-10.0,perdu
