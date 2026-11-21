@@ -4894,3 +4894,14 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 19:01 UTC,primm,IGNORE,Spread: Minnesota (-1.5),Northwestern,0.62,0.37,-25.0,5.4,,,,prix a trop chuté (match sans doute joué)
 2026-11-21 19:01 UTC,primm,ACHAT,Spread: North Texas (-6.5),Tulane,0.46,0.57,11.0,5.2,17.5439,10.0,,
 2026-11-21 19:01 UTC,BreakTheBank,REGLEMENT,"UFC Fight Night: Jared Cannonier vs. Ikram Aliskerov (Middleweight, Main Card)",Ikram Aliskerov,,0.77,,,12.987,12.99,2.99,gagné
+2026-11-21 19:05 UTC,primm,ACHAT,Spread: Minnesota (-3.5),Northwestern,0.45,0.47,2.0,4.0,21.2766,10.0,,
+2026-11-21 19:05 UTC,primm,ACHAT,Spread: Minnesota (-1.5),Northwestern,0.32,0.33,1.0,4.1,30.303,10.0,,
+2026-11-21 19:05 UTC,primm,ACHAT,Spread: Iowa (-4.5),Illinois,0.38,0.4,2.0,2.7,25.0,10.0,,
+2026-11-21 19:05 UTC,primm,ACHAT,Spread: Iowa (-6.5),Illinois,0.41,0.44,3.0,2.7,22.7273,10.0,,
+2026-11-21 19:05 UTC,primm,ACHAT,Iowa vs. Illinois: O/U 35.5,Over,0.67,0.71,4.0,2.7,14.0845,10.0,,
+2026-11-21 19:05 UTC,primm,ACHAT,Spread: Iowa (-7.5),Illinois,0.49,0.5,1.0,2.7,20.0,10.0,,
+2026-11-21 19:05 UTC,primm,ACHAT,Spread: Iowa (-5.5),Illinois,0.4,0.4,0.0,2.5,25.0,10.0,,
+2026-11-21 19:05 UTC,primm,ACHAT,Spread: South Florida (-2.5),Florida Atlantic,0.5,0.51,1.0,1.9,19.6078,10.0,,
+2026-11-21 19:05 UTC,primm,ACHAT,Spread: South Florida (-4.5),Florida Atlantic,0.59,0.6,1.0,1.9,16.6667,10.0,,
+2026-11-21 19:05 UTC,primm,ACHAT,Spread: South Florida (-3.5),Florida Atlantic,0.57,0.57,0.0,1.8,17.5439,10.0,,
+2026-11-21 19:05 UTC,primm,ACHAT,Spread: South Florida (-1.5),Florida Atlantic,0.48,0.49,1.0,1.8,20.4082,10.0,,
