@@ -1027,19 +1027,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-20 23:45 UTC"
   },
-  "BreakTheBank|56522472634132313120762119892962488731910017337468522953384736207232777237178": {
-   "date": "2026-11-21 00:10 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Pelicans vs. Thunder",
-   "resultat": "Pelicans",
-   "prix_trader": 0.19,
-   "retard_min": 2.4,
-   "token": "56522472634132313120762119892962488731910017337468522953384736207232777237178",
-   "prix_simule": 0.2,
-   "parts": 50.0,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-21 00:10 UTC"
-  },
   "BreakTheBank|74466221317563241318986240828974202145543973645190095559344244267046235296244": {
    "date": "2026-11-21 00:55 UTC",
    "trader": "BreakTheBank",
@@ -29771,6 +29758,23 @@
    "pnl": 11.7391,
    "ferme_le": "2026-11-21 03:25 UTC",
    "type": "gagné"
+  },
+  {
+   "date": "2026-11-21 00:10 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Pelicans vs. Thunder",
+   "resultat": "Pelicans",
+   "prix_trader": 0.19,
+   "retard_min": 2.4,
+   "token": "56522472634132313120762119892962488731910017337468522953384736207232777237178",
+   "prix_simule": 0.2,
+   "parts": 50.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 00:10 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-21 03:45 UTC",
+   "type": "perdu"
   }
  ]
 }
