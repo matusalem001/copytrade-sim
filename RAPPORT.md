@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 17:36 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 17:40 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 309 | 459 | 287 | 149 | +11.53 $ | +0.4 % | 22 | +1.2 ¢ | 8 min |
-| primm | 1578 | 716 | 1434 | 733 | +573.98 $ | +4.0 % | 144 | +3.0 ¢ | 4 min |
+| BreakTheBank | 309 | 459 | 288 | 150 | +14.87 $ | +0.5 % | 21 | +1.2 ¢ | 8 min |
+| primm | 1579 | 716 | 1434 | 733 | +573.98 $ | +4.0 % | 145 | +3.0 ¢ | 4 min |
 | juice-fruit | 24 | 2 | 23 | 11 | -53.31 $ | -23.2 % | 1 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +532.21 $ sur 17440 $ engagés (+3.1 %)**
+**Total réalisé : +535.54 $ sur 17450 $ engagés (+3.1 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 17:36 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Spread: Chelsea FC (-1.5) | Leeds United FC | 0.75 | 1.00 | +3.33 $ |
 | BreakTheBank | Will Crystal Palace FC win on 2026-11-21? | Yes | 0.35 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Ipswich Town FC (-1.5) | Ipswich Town FC | 0.05 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Tottenham Hotspur FC (-1.5) | Ipswich Town FC | 0.61 | 0.00 | -10.00 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 17:36 UTC** 
 | primm | Spread: New Mexico (-16.5) | New Mexico | 0.45 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Nuggets (-1.5) | Nuggets | 0.47 | 1.00 | +11.28 $ |
 | BreakTheBank | Rockets vs. Nuggets | Nuggets | 0.50 | 1.00 | +10.00 $ |
-| primm | New Mexico vs. Wyoming | New Mexico | 0.76 | 1.00 | +3.16 $ |
 
 Journal complet : `data/journal.csv`
