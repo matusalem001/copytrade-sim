@@ -4563,3 +4563,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 03:30 UTC,primm,ACHAT,Spread: Oregon (-21.5),Michigan State,0.37,0.48,11.0,1.6,20.8333,10.0,,
 2026-11-21 03:35 UTC,primm,ACHAT,Spread: Clemson (-10.5),Clemson,0.18,0.389,20.9,4.3,25.7069,10.0,,
 2026-11-21 03:35 UTC,primm,ACHAT,Spread: Clemson (-6.5),Clemson,0.53,0.69,16.0,3.0,14.4928,10.0,,
+2026-11-21 03:40 UTC,primm,IGNORE,Iowa State vs. UCF,Iowa State,0.094,,,123.6,,,,vu trop tard
+2026-11-21 03:40 UTC,primm,IGNORE,Spread: Clemson (-13.5),Clemson,0.147,0.095,-5.2,5.5,,,,prix a trop chuté (match sans doute joué)
+2026-11-21 03:40 UTC,primm,ACHAT,New Mexico vs. Wyoming: O/U 45.5,Over,0.47,0.43,-4.0,3.0,23.2558,10.0,,
+2026-11-21 03:40 UTC,primm,ACHAT,Spread: Clemson (-3.5),Duke,0.3,0.31,1.0,0.2,32.2581,10.0,,
