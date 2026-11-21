@@ -1560,32 +1560,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-21 16:40 UTC"
   },
-  "BreakTheBank|94924309990696189937343588653563612152442335906966979949061786526672497346210": {
-   "date": "2026-11-21 16:40 UTC",
-   "trader": "BreakTheBank",
-   "marche": "UFC Fight Night: Amir Albazi vs. Alessandro Costa (Flyweight, Prelims)",
-   "resultat": "Alessandro Costa",
-   "prix_trader": 0.52,
-   "retard_min": 6.1,
-   "token": "94924309990696189937343588653563612152442335906966979949061786526672497346210",
-   "prix_simule": 0.54,
-   "parts": 18.5185,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-21 16:40 UTC"
-  },
-  "BreakTheBank|98722108478729109314951211947064375733850721645822007854835903695404948136568": {
-   "date": "2026-11-21 16:40 UTC",
-   "trader": "BreakTheBank",
-   "marche": "UFC Fight Night: Shamil Gaziev vs. Tallison Teixeira (Heavyweight, Prelims)",
-   "resultat": "Tallison Teixeira",
-   "prix_trader": 0.37,
-   "retard_min": 5.5,
-   "token": "98722108478729109314951211947064375733850721645822007854835903695404948136568",
-   "prix_simule": 0.38,
-   "parts": 26.3158,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-21 16:40 UTC"
-  },
   "primm|50653207425385251650141216703189168901921237682560078510134755385592741137211": {
    "date": "2026-11-21 16:40 UTC",
    "trader": "primm",
@@ -2209,6 +2183,32 @@
    "parts": 17.2414,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 17:50 UTC"
+  },
+  "primm|100868143405389553533506766288659298657105460241811047613663864461990324746802": {
+   "date": "2026-11-21 18:00 UTC",
+   "trader": "primm",
+   "marche": "North Texas vs. Tulane: O/U 59.5",
+   "resultat": "Under",
+   "prix_trader": 0.4898,
+   "retard_min": 8.4,
+   "token": "100868143405389553533506766288659298657105460241811047613663864461990324746802",
+   "prix_simule": 0.49,
+   "parts": 20.4082,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 18:00 UTC"
+  },
+  "primm|86841111770873740892546548722590864222489891255461182682902630457411698546215": {
+   "date": "2026-11-21 18:00 UTC",
+   "trader": "primm",
+   "marche": "Spread: BYU (-3.5)",
+   "resultat": "Kansas",
+   "prix_trader": 0.47,
+   "retard_min": 3.8,
+   "token": "86841111770873740892546548722590864222489891255461182682902630457411698546215",
+   "prix_simule": 0.52,
+   "parts": 19.2308,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 18:00 UTC"
   }
  },
  "fermees": [
@@ -31892,6 +31892,40 @@
    "sortie": 1.0,
    "pnl": 9.2308,
    "ferme_le": "2026-11-21 17:45 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-21 16:40 UTC",
+   "trader": "BreakTheBank",
+   "marche": "UFC Fight Night: Amir Albazi vs. Alessandro Costa (Flyweight, Prelims)",
+   "resultat": "Alessandro Costa",
+   "prix_trader": 0.52,
+   "retard_min": 6.1,
+   "token": "94924309990696189937343588653563612152442335906966979949061786526672497346210",
+   "prix_simule": 0.54,
+   "parts": 18.5185,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 16:40 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-21 18:01 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-21 16:40 UTC",
+   "trader": "BreakTheBank",
+   "marche": "UFC Fight Night: Shamil Gaziev vs. Tallison Teixeira (Heavyweight, Prelims)",
+   "resultat": "Tallison Teixeira",
+   "prix_trader": 0.37,
+   "retard_min": 5.5,
+   "token": "98722108478729109314951211947064375733850721645822007854835903695404948136568",
+   "prix_simule": 0.38,
+   "parts": 26.3158,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 16:40 UTC",
+   "sortie": 1.0,
+   "pnl": 16.3158,
+   "ferme_le": "2026-11-21 18:01 UTC",
    "type": "gagné"
   }
  ]

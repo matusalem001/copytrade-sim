@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 17:55 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 18:01 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 309 | 459 | 289 | 151 | +24.10 $ | +0.8 % | 20 | +1.2 ¢ | 8 min |
-| primm | 1583 | 716 | 1434 | 733 | +573.98 $ | +4.0 % | 149 | +3.0 ¢ | 4 min |
+| BreakTheBank | 309 | 459 | 291 | 152 | +30.41 $ | +1.0 % | 18 | +1.2 ¢ | 8 min |
+| primm | 1585 | 720 | 1434 | 733 | +573.98 $ | +4.0 % | 151 | +3.0 ¢ | 4 min |
 | juice-fruit | 24 | 2 | 23 | 11 | -53.31 $ | -23.2 % | 1 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +544.77 $ sur 17460 $ engagés (+3.1 %)**
+**Total réalisé : +551.09 $ sur 17480 $ engagés (+3.2 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 17:55 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | UFC Fight Night: Shamil Gaziev vs. Tallison Teixeira (Heavyweight, Prelims) | Tallison Teixeira | 0.38 | 1.00 | +16.32 $ |
+| BreakTheBank | UFC Fight Night: Amir Albazi vs. Alessandro Costa (Flyweight, Prelims) | Alessandro Costa | 0.54 | 0.00 | -10.00 $ |
 | BreakTheBank | Will Chelsea FC win on 2026-11-21? | No | 0.52 | 1.00 | +9.23 $ |
 | BreakTheBank | Spread: Chelsea FC (-1.5) | Leeds United FC | 0.75 | 1.00 | +3.33 $ |
 | BreakTheBank | Will Crystal Palace FC win on 2026-11-21? | Yes | 0.35 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 17:55 UTC** 
 | primm | New Mexico vs. Wyoming: O/U 41.5 | Over | 0.43 | 0.00 | -10.00 $ |
 | primm | Spread: New Mexico (-17.5) | New Mexico | 0.46 | 0.00 | -10.00 $ |
 | primm | Spread: New Mexico (-20.5) | New Mexico | 0.35 | 0.00 | -10.00 $ |
-| primm | Spread: New Mexico (-16.5) | New Mexico | 0.45 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Nuggets (-1.5) | Nuggets | 0.47 | 1.00 | +11.28 $ |
 
 Journal complet : `data/journal.csv`
