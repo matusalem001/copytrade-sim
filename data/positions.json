@@ -1117,6 +1117,19 @@
    "parts": 27.027,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 10:05 UTC"
+  },
+  "juice-fruit|91244844708314141778503024351521599410324872024661518916790642578241916728493": {
+   "date": "2026-11-21 12:30 UTC",
+   "trader": "juice-fruit",
+   "marche": "Will Manchester City FC win on 2026-11-21?",
+   "resultat": "Yes",
+   "prix_trader": 0.72,
+   "retard_min": 2.2,
+   "token": "91244844708314141778503024351521599410324872024661518916790642578241916728493",
+   "prix_simule": 0.73,
+   "parts": 13.6986,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 12:30 UTC"
   }
  },
  "fermees": [
