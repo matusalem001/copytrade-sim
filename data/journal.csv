@@ -4647,3 +4647,11 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 04:55 UTC,primm,REGLEMENT,Spread: Oregon (-30.5),Michigan State,,0.66,,,15.1515,0.0,-10.0,perdu
 2026-11-21 04:55 UTC,primm,REGLEMENT,Spread: Oregon (-27.5),Michigan State,,0.59,,,16.9492,0.0,-10.0,perdu
 2026-11-21 04:55 UTC,primm,REGLEMENT,Spread: Oregon (-21.5),Michigan State,,0.48,,,20.8333,0.0,-10.0,perdu
+2026-11-21 05:00 UTC,primm,ACHAT,Spread: Texas Tech (-2.5),Baylor,0.4,0.41,1.0,4.4,24.3902,10.0,,
+2026-11-21 05:00 UTC,primm,ACHAT,Maryland vs. USC: O/U 57.5,Over,0.5,0.51,1.0,3.9,19.6078,10.0,,
+2026-11-21 05:00 UTC,primm,ACHAT,Maryland vs. USC: O/U 55.5,Over,0.55,0.57,2.0,3.9,17.5439,10.0,,
+2026-11-21 05:00 UTC,primm,ACHAT,Virginia Tech vs. Miami (FL): O/U 61.5,Over,0.48,0.49,1.0,3.9,20.4082,10.0,,
+2026-11-21 05:00 UTC,primm,ACHAT,Spread: New Mexico (-16.5),Wyoming,0.56,0.57,1.0,0.1,17.5439,10.0,,
+2026-11-21 05:00 UTC,primm,ACHAT,Spread: New Mexico (-9.5),Wyoming,0.149,0.16,1.1,0.1,62.5,10.0,,
+2026-11-21 05:01 UTC,primm,ACHAT,Spread: New Mexico (-14.5),Wyoming,0.54,0.54,0.0,0.1,18.5185,10.0,,
+2026-11-21 05:01 UTC,primm,ACHAT,Spread: New Mexico (-10.5),Wyoming,0.35,0.35,0.0,0.1,28.5714,10.0,,
