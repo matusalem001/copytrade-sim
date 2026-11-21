@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 22:30 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 22:35 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 309 | 472 | 298 | 156 | +40.64 $ | +1.4 % | 11 | +1.2 ¢ | 8 min |
-| primm | 1748 | 755 | 1603 | 822 | +595.37 $ | +3.7 % | 145 | +3.0 ¢ | 4 min |
+| primm | 1749 | 755 | 1611 | 822 | +515.37 $ | +3.2 % | 138 | +3.0 ¢ | 4 min |
 | juice-fruit | 24 | 2 | 24 | 12 | -47.43 $ | -19.8 % | 0 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +588.57 $ sur 19250 $ engagés (+3.1 %)**
+**Total réalisé : +508.57 $ sur 19330 $ engagés (+2.6 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,14 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 22:30 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Missouri State (-3.5) | Missouri State | 0.47 | 0.00 | -10.00 $ |
+| primm | Spread: Missouri State (-1.5) | Missouri State | 0.60 | 0.00 | -10.00 $ |
+| primm | Missouri State vs. Jacksonville State | Missouri State | 0.62 | 0.00 | -10.00 $ |
+| primm | Spread: Missouri State (-2.5) | Missouri State | 0.57 | 0.00 | -10.00 $ |
+| primm | Spread: Missouri State (-6.5) | Missouri State | 0.39 | 0.00 | -10.00 $ |
+| primm | Missouri State vs. Jacksonville State: O/U 53.5 | Over | 0.49 | 0.00 | -10.00 $ |
+| primm | Missouri State vs. Jacksonville State: O/U 51.5 | Over | 0.54 | 0.00 | -10.00 $ |
+| primm | Missouri State vs. Jacksonville State: O/U 55.5 | Over | 0.44 | 0.00 | -10.00 $ |
 | primm | Iowa vs. Illinois: O/U 35.5 | Over | 0.71 | 1.00 | +4.08 $ |
 | primm | Spread: West Virginia (-2.5) | Houston | 0.52 | 1.00 | +9.23 $ |
 | primm | Spread: Houston (-5.5) | Houston | 0.57 | 0.00 | -10.00 $ |
@@ -33,13 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 22:30 UTC** 
 | primm | Western Kentucky vs. Liberty: O/U 53.5 | Over | 0.50 | 1.00 | +10.00 $ |
 | primm | Western Kentucky vs. Liberty: O/U 51.5 | Over | 0.55 | 1.00 | +8.18 $ |
 | primm | Spread: Virginia (-7.5) | North Carolina | 0.60 | 0.00 | -10.00 $ |
-| primm | Spread: Virginia (-2.5) | North Carolina | 0.46 | 0.00 | -10.00 $ |
-| primm | Spread: Virginia (-5.5) | North Carolina | 0.58 | 0.00 | -10.00 $ |
-| primm | Spread: Virginia (-4.5) | North Carolina | 0.55 | 0.00 | -10.00 $ |
-| primm | Spread: Virginia (-1.5) | North Carolina | 0.42 | 0.00 | -10.00 $ |
-| primm | Spread: North Carolina (-1.5) | North Carolina | 0.38 | 0.00 | -10.00 $ |
-| primm | Spread: Virginia (-6.5) | North Carolina | 0.60 | 0.00 | -10.00 $ |
-| BreakTheBank | UFC Fight Night: Jirí Procházka vs. Navajo Stirling (Light Heavyweight, Main Card) | Navajo Stirling | 0.65 | 1.00 | +5.38 $ |
-| primm | Spread: BYU (-5.5) | BYU | 0.48 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

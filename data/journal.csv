@@ -5234,3 +5234,12 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 22:15 UTC,primm,ACHAT,Spread: Texas (-35.5),Texas,0.48,0.49,1.0,1.7,20.4082,10.0,,
 2026-11-21 22:15 UTC,primm,REGLEMENT,Iowa vs. Illinois: O/U 35.5,Over,,0.71,,,14.0845,14.08,4.08,gagné
 2026-11-21 22:30 UTC,primm,ACHAT,Texas Tech vs. Baylor: O/U 35.5,Under,0.28,0.33,5.0,5.5,30.303,10.0,,
+2026-11-21 22:35 UTC,primm,ACHAT,Spread: Tennessee (-3.5),LSU,0.51,0.52,1.0,0.5,19.2308,10.0,,
+2026-11-21 22:35 UTC,primm,REGLEMENT,Missouri State vs. Jacksonville State: O/U 55.5,Over,,0.44,,,22.7273,0.0,-10.0,perdu
+2026-11-21 22:35 UTC,primm,REGLEMENT,Missouri State vs. Jacksonville State: O/U 51.5,Over,,0.54,,,18.5185,0.0,-10.0,perdu
+2026-11-21 22:35 UTC,primm,REGLEMENT,Missouri State vs. Jacksonville State: O/U 53.5,Over,,0.49,,,20.4082,0.0,-10.0,perdu
+2026-11-21 22:35 UTC,primm,REGLEMENT,Spread: Missouri State (-6.5),Missouri State,,0.39,,,25.641,0.0,-10.0,perdu
+2026-11-21 22:35 UTC,primm,REGLEMENT,Spread: Missouri State (-2.5),Missouri State,,0.57,,,17.5439,0.0,-10.0,perdu
+2026-11-21 22:35 UTC,primm,REGLEMENT,Missouri State vs. Jacksonville State,Missouri State,,0.62,,,16.129,0.0,-10.0,perdu
+2026-11-21 22:35 UTC,primm,REGLEMENT,Spread: Missouri State (-1.5),Missouri State,,0.6,,,16.6667,0.0,-10.0,perdu
+2026-11-21 22:35 UTC,primm,REGLEMENT,Spread: Missouri State (-3.5),Missouri State,,0.47,,,21.2766,0.0,-10.0,perdu
