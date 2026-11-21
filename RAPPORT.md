@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 23:50 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 23:55 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 309 | 472 | 298 | 156 | +40.64 $ | +1.4 % | 11 | +1.2 ¢ | 8 min |
-| primm | 1759 | 762 | 1636 | 831 | +430.92 $ | +2.6 % | 123 | +3.0 ¢ | 4 min |
+| primm | 1759 | 762 | 1638 | 832 | +424.62 $ | +2.6 % | 121 | +3.0 ¢ | 4 min |
 | juice-fruit | 24 | 2 | 24 | 12 | -47.43 $ | -19.8 % | 0 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +424.12 $ sur 19580 $ engagés (+2.2 %)**
+**Total réalisé : +417.82 $ sur 19600 $ engagés (+2.1 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 23:50 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Kennesaw State (-6.5) | Florida International | 0.40 | 0.00 | -10.00 $ |
+| primm | Northern Illinois vs. North Dakota State: O/U 37.5 | Over | 0.73 | 1.00 | +3.70 $ |
 | primm | Florida International vs. Kennesaw State: O/U 65.5 | Over | 0.18 | 0.00 | -10.00 $ |
 | primm | Florida International vs. Kennesaw State: O/U 53.5 | Over | 0.53 | 1.00 | +8.87 $ |
 | primm | Florida International vs. Kennesaw State: O/U 59.5 | Over | 0.32 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 23:50 UTC** 
 | primm | Iowa vs. Illinois: O/U 45.5 | Over | 0.63 | 1.00 | +5.87 $ |
 | primm | Iowa vs. Illinois: O/U 47.5 | Over | 0.62 | 1.00 | +6.13 $ |
 | primm | Florida International vs. Kennesaw State: O/U 47.5 | Over | 0.76 | 1.00 | +3.16 $ |
-| primm | Iowa vs. Illinois: O/U 41.5 | Under | 0.63 | 0.00 | -10.00 $ |
-| primm | Spread: Middle Tennessee (-7.5) | Middle Tennessee | 0.43 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
