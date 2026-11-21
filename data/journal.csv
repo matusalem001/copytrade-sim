@@ -5162,3 +5162,20 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 21:10 UTC,primm,REGLEMENT,BYU vs. Kansas: O/U 37.5,Over,,0.4,,,25.0,25.0,15.0,gagné
 2026-11-21 21:10 UTC,primm,REGLEMENT,Spread: BYU (-5.5),Kansas,,0.29,,,34.4828,34.48,24.48,gagné
 2026-11-21 21:10 UTC,primm,REGLEMENT,Spread: BYU (-1.5),Kansas,,0.53,,,18.8679,0.0,-10.0,perdu
+2026-11-21 21:15 UTC,primm,IGNORE,East Carolina vs. Army,Army,0.42,,,87.4,,,,vu trop tard
+2026-11-21 21:15 UTC,primm,IGNORE,Memphis vs. Navy: O/U 71.5,Over,0.74,,,63.9,,,,vu trop tard
+2026-11-21 21:15 UTC,primm,ACHAT,Spread: Texas (-24.5),Arkansas,0.49,0.52,3.0,4.5,19.2308,10.0,,
+2026-11-21 21:15 UTC,primm,ACHAT,Spread: Texas (-23.5),Arkansas,0.47,0.49,2.0,3.6,20.4082,10.0,,
+2026-11-21 21:15 UTC,primm,ACHAT,LSU vs. Tennessee,LSU,0.6,0.61,1.0,2.9,16.3934,10.0,,
+2026-11-21 21:15 UTC,primm,ACHAT,Spread: UCLA (-2.5),UCLA,0.49,0.58,9.0,2.7,17.2414,10.0,,
+2026-11-21 21:15 UTC,primm,REGLEMENT,Spread: Virginia (-3.5),North Carolina,,0.62,,,16.129,0.0,-10.0,perdu
+2026-11-21 21:15 UTC,primm,REGLEMENT,North Carolina vs. Virginia,North Carolina,,0.51,,,19.6078,0.0,-10.0,perdu
+2026-11-21 21:15 UTC,primm,REGLEMENT,Spread: BYU (-5.5),BYU,,0.48,,,20.8333,0.0,-10.0,perdu
+2026-11-21 21:15 UTC,BreakTheBank,REGLEMENT,"UFC Fight Night: Jirí Procházka vs. Navajo Stirling (Light Heavyweight, Main Card)",Navajo Stirling,,0.65,,,15.3846,15.38,5.38,gagné
+2026-11-21 21:15 UTC,primm,REGLEMENT,Spread: Virginia (-6.5),North Carolina,,0.6,,,16.6667,0.0,-10.0,perdu
+2026-11-21 21:15 UTC,primm,REGLEMENT,Spread: North Carolina (-1.5),North Carolina,,0.38,,,26.3158,0.0,-10.0,perdu
+2026-11-21 21:15 UTC,primm,REGLEMENT,Spread: Virginia (-1.5),North Carolina,,0.42,,,23.8095,0.0,-10.0,perdu
+2026-11-21 21:15 UTC,primm,REGLEMENT,Spread: Virginia (-4.5),North Carolina,,0.55,,,18.1818,0.0,-10.0,perdu
+2026-11-21 21:15 UTC,primm,REGLEMENT,Spread: Virginia (-5.5),North Carolina,,0.58,,,17.2414,0.0,-10.0,perdu
+2026-11-21 21:15 UTC,primm,REGLEMENT,Spread: Virginia (-2.5),North Carolina,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-21 21:15 UTC,primm,REGLEMENT,Spread: Virginia (-7.5),North Carolina,,0.6,,,16.6667,0.0,-10.0,perdu
