@@ -5054,3 +5054,13 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 20:41 UTC,BreakTheBank,REGLEMENT,"UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card)",Kevin Vallejos,,0.54,,,18.5185,18.52,8.52,gagné
 2026-11-21 20:41 UTC,primm,REGLEMENT,North Carolina vs. Virginia: O/U 43.5,Under,,0.53,,,18.8679,0.0,-10.0,perdu
 2026-11-21 20:41 UTC,primm,REGLEMENT,North Carolina vs. Virginia: O/U 43.5,Over,,0.78,,,12.8205,12.82,2.82,gagné
+2026-11-21 20:45 UTC,BreakTheBank,IGNORE,"UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card)",Kevin Vallejos,0.53,,,93.0,,,,vu trop tard
+2026-11-21 20:45 UTC,primm,IGNORE,Memphis vs. Navy: O/U 59.5,Over,0.55,,,80.4,,,,vu trop tard
+2026-11-21 20:45 UTC,primm,ACHAT,Spread: Missouri State (-3.5),Missouri State,0.46,0.47,1.0,4.4,21.2766,10.0,,
+2026-11-21 20:45 UTC,primm,REGLEMENT,Spread: Florida (-14.5),Florida,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-21 20:45 UTC,primm,REGLEMENT,Spread: Florida (-17.5),Florida,,0.4,,,25.0,0.0,-10.0,perdu
+2026-11-21 20:45 UTC,primm,REGLEMENT,Spread: Florida (-5.5),Florida,,0.48,,,20.8333,20.83,10.83,gagné
+2026-11-21 20:45 UTC,primm,REGLEMENT,Spread: Vanderbilt (-2.5),Florida,,0.61,,,16.3934,16.39,6.39,gagné
+2026-11-21 20:46 UTC,primm,REGLEMENT,North Carolina vs. Virginia: O/U 47.5,Over,,0.63,,,15.873,15.87,5.87,gagné
+2026-11-21 20:46 UTC,primm,REGLEMENT,Ohio State vs. Nebraska: O/U 57.5,Over,,0.59,,,16.9492,16.95,6.95,gagné
+2026-11-21 20:46 UTC,primm,REGLEMENT,North Carolina vs. Virginia: O/U 45.5,Over,,0.86,,,11.6279,11.63,1.63,gagné
