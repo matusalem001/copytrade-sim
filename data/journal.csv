@@ -4551,3 +4551,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 03:05 UTC,primm,IGNORE,Spread: Air Force (-38.5),UTEP,0.26,0.21,-5.0,4.0,,,,prix a trop chuté (match sans doute joué)
 2026-11-21 03:10 UTC,primm,IGNORE,Spread: UCF (-5.5),Iowa State,0.21,,,93.3,,,,vu trop tard
 2026-11-21 03:15 UTC,BreakTheBank,REGLEMENT,Spread: Cavaliers (-6.5),Pacers,,0.53,,,18.8679,0.0,-10.0,perdu
+2026-11-21 03:20 UTC,primm,IGNORE,Spread: UCF (-7.5),Iowa State,0.41,,,104.1,,,,vu trop tard
+2026-11-21 03:20 UTC,primm,ACHAT,Spread: Toledo (-16.5),Toledo,0.47,0.45,-2.0,2.5,22.2222,10.0,,
+2026-11-21 03:20 UTC,BreakTheBank,REGLEMENT,Spread: Cavaliers (-4.5),Pacers,,0.45,,,22.2222,0.0,-10.0,perdu
+2026-11-21 03:20 UTC,BreakTheBank,REGLEMENT,Pacers vs. Cavaliers,Pacers,,0.34,,,29.4118,0.0,-10.0,perdu

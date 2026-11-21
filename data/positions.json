@@ -1027,19 +1027,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-20 23:45 UTC"
   },
-  "BreakTheBank|84288737016535091735231874458081384109463061457673470060399318989640062280735": {
-   "date": "2026-11-20 23:55 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Spread: Cavaliers (-4.5)",
-   "resultat": "Pacers",
-   "prix_trader": 0.44,
-   "retard_min": 4.1,
-   "token": "84288737016535091735231874458081384109463061457673470060399318989640062280735",
-   "prix_simule": 0.45,
-   "parts": 22.2222,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-20 23:55 UTC"
-  },
   "BreakTheBank|20803280068035947155204561885414447397054986976916735025008021357343325027796": {
    "date": "2026-11-21 00:05 UTC",
    "trader": "BreakTheBank",
@@ -1065,19 +1052,6 @@
    "parts": 50.0,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 00:10 UTC"
-  },
-  "BreakTheBank|66027340502542708712220297440354003762427088985618074817129673725687228989978": {
-   "date": "2026-11-21 00:45 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Pacers vs. Cavaliers",
-   "resultat": "Pacers",
-   "prix_trader": 0.33,
-   "retard_min": 8.8,
-   "token": "66027340502542708712220297440354003762427088985618074817129673725687228989978",
-   "prix_simule": 0.34,
-   "parts": 29.4118,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-21 00:45 UTC"
   },
   "BreakTheBank|74466221317563241318986240828974202145543973645190095559344244267046235296244": {
    "date": "2026-11-21 00:55 UTC",
@@ -1624,6 +1598,19 @@
    "parts": 16.9492,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 03:05 UTC"
+  },
+  "primm|111898105545491894941031172737055231891557480322670821276353169553704298007216": {
+   "date": "2026-11-21 03:20 UTC",
+   "trader": "primm",
+   "marche": "Spread: Toledo (-16.5)",
+   "resultat": "Toledo",
+   "prix_trader": 0.47,
+   "retard_min": 2.5,
+   "token": "111898105545491894941031172737055231891557480322670821276353169553704298007216",
+   "prix_simule": 0.45,
+   "parts": 22.2222,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 03:20 UTC"
   }
  },
  "fermees": [
@@ -29641,6 +29628,40 @@
    "sortie": 0.0,
    "pnl": -10.0,
    "ferme_le": "2026-11-21 03:15 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-20 23:55 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Cavaliers (-4.5)",
+   "resultat": "Pacers",
+   "prix_trader": 0.44,
+   "retard_min": 4.1,
+   "token": "84288737016535091735231874458081384109463061457673470060399318989640062280735",
+   "prix_simule": 0.45,
+   "parts": 22.2222,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-20 23:55 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-21 03:20 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-21 00:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Pacers vs. Cavaliers",
+   "resultat": "Pacers",
+   "prix_trader": 0.33,
+   "retard_min": 8.8,
+   "token": "66027340502542708712220297440354003762427088985618074817129673725687228989978",
+   "prix_simule": 0.34,
+   "parts": 29.4118,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 00:45 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-21 03:20 UTC",
    "type": "perdu"
   }
  ]
