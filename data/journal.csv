@@ -4465,3 +4465,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 00:20 UTC,primm,ACHAT,Spread: UCF (-10.5),Iowa State,0.4,0.37,-3.0,4.2,27.027,10.0,,
 2026-11-21 00:25 UTC,BreakTheBank,IGNORE,Colts vs. Texans,Colts,0.16,,,1391.5,,,,vu trop tard
 2026-11-21 00:25 UTC,BreakTheBank,ACHAT,Spread: Cavaliers (-6.5),Pacers,0.52,0.53,1.0,2.4,18.8679,10.0,,
+2026-11-21 00:35 UTC,BreakTheBank,IGNORE,Colts vs. Texans,Colts,0.16,,,1402.2,,,,vu trop tard
