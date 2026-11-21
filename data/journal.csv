@@ -5046,3 +5046,11 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: Minnesota (-5.5),Northwestern,,0.77,,,12.987,12.99,2.99,gagné
 2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: North Texas (-3.5),North Texas,,0.48,,,20.8333,0.0,-10.0,perdu
 2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: Minnesota (-6.5),Northwestern,,0.48,,,20.8333,20.83,10.83,gagné
+2026-11-21 20:40 UTC,BreakTheBank,IGNORE,"UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card)",Kevin Vallejos,0.53,,,91.2,,,,carnet indisponible
+2026-11-21 20:40 UTC,BreakTheBank,IGNORE,"UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card)",Kevin Vallejos,0.54,,,73.0,,,,carnet indisponible
+2026-11-21 20:41 UTC,primm,IGNORE,Northwestern vs. Minnesota,Northwestern,0.25,,,70.6,,,,vu trop tard
+2026-11-21 20:41 UTC,primm,IGNORE,East Carolina vs. Army,Army,0.43,,,53.0,,,,vu trop tard
+2026-11-21 20:41 UTC,primm,IGNORE,East Carolina vs. Army,Army,0.42,,,52.9,,,,vu trop tard
+2026-11-21 20:41 UTC,BreakTheBank,REGLEMENT,"UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card)",Kevin Vallejos,,0.54,,,18.5185,18.52,8.52,gagné
+2026-11-21 20:41 UTC,primm,REGLEMENT,North Carolina vs. Virginia: O/U 43.5,Under,,0.53,,,18.8679,0.0,-10.0,perdu
+2026-11-21 20:41 UTC,primm,REGLEMENT,North Carolina vs. Virginia: O/U 43.5,Over,,0.78,,,12.8205,12.82,2.82,gagné

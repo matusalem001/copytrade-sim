@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 20:36 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 20:41 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 309 | 468 | 296 | 154 | +26.73 $ | +0.9 % | 13 | +1.2 ¢ | 8 min |
-| primm | 1688 | 735 | 1501 | 769 | +588.02 $ | +3.9 % | 187 | +3.1 ¢ | 4 min |
+| BreakTheBank | 309 | 470 | 297 | 155 | +35.25 $ | +1.2 % | 12 | +1.2 ¢ | 8 min |
+| primm | 1688 | 738 | 1503 | 770 | +580.85 $ | +3.9 % | 185 | +3.1 ¢ | 4 min |
 | juice-fruit | 24 | 2 | 24 | 12 | -47.43 $ | -19.8 % | 0 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +567.32 $ sur 18210 $ engagés (+3.1 %)**
+**Total réalisé : +568.66 $ sur 18240 $ engagés (+3.1 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,9 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 20:36 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | North Carolina vs. Virginia: O/U 43.5 | Over | 0.78 | 1.00 | +2.82 $ |
+| primm | North Carolina vs. Virginia: O/U 43.5 | Under | 0.53 | 0.00 | -10.00 $ |
+| BreakTheBank | UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card) | Kevin Vallejos | 0.54 | 1.00 | +8.52 $ |
 | primm | Spread: Minnesota (-6.5) | Northwestern | 0.48 | 1.00 | +10.83 $ |
 | primm | Spread: North Texas (-3.5) | North Texas | 0.48 | 0.00 | -10.00 $ |
 | primm | Spread: Minnesota (-5.5) | Northwestern | 0.77 | 1.00 | +2.99 $ |
@@ -38,8 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 20:36 UTC** 
 | primm | Spread: Tulane (-1.5) | Tulane | 0.41 | 1.00 | +14.39 $ |
 | primm | North Texas vs. Tulane: O/U 67.5 | Under | 0.67 | 1.00 | +4.93 $ |
 | primm | Wisconsin vs. Purdue | Purdue | 0.13 | 0.00 | -10.00 $ |
-| primm | Spread: Northwestern (-2.5) | Northwestern | 0.69 | 0.00 | -10.00 $ |
-| primm | Wisconsin vs. Purdue: O/U 61.5 | Over | 0.49 | 0.00 | -10.00 $ |
-| primm | North Texas vs. Tulane: O/U 59.5 | Under | 0.49 | 1.00 | +10.41 $ |
 
 Journal complet : `data/journal.csv`

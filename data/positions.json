@@ -1313,19 +1313,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-21 16:30 UTC"
   },
-  "BreakTheBank|12653717349966440791907189659072939667212361700903292107262676489068799342566": {
-   "date": "2026-11-21 16:40 UTC",
-   "trader": "BreakTheBank",
-   "marche": "UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card)",
-   "resultat": "Kevin Vallejos",
-   "prix_trader": 0.53,
-   "retard_min": 6.8,
-   "token": "12653717349966440791907189659072939667212361700903292107262676489068799342566",
-   "prix_simule": 0.54,
-   "parts": 18.5185,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-21 16:40 UTC"
-  },
   "primm|50653207425385251650141216703189168901921237682560078510134755385592741137211": {
    "date": "2026-11-21 16:40 UTC",
    "trader": "primm",
@@ -1715,19 +1702,6 @@
    "parts": 19.2308,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 18:00 UTC"
-  },
-  "primm|113721601017354910730644253634871821455473433675153807104124267835804975061498": {
-   "date": "2026-11-21 18:05 UTC",
-   "trader": "primm",
-   "marche": "North Carolina vs. Virginia: O/U 43.5",
-   "resultat": "Under",
-   "prix_trader": 0.5,
-   "retard_min": 5.9,
-   "token": "113721601017354910730644253634871821455473433675153807104124267835804975061498",
-   "prix_simule": 0.53,
-   "parts": 18.8679,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-21 18:05 UTC"
   },
   "primm|111437389318520295271430133606325697677690470238701016300533181962723808522113": {
    "date": "2026-11-21 18:05 UTC",
@@ -2337,19 +2311,6 @@
    "token": "64854113327718279644377721972195659233886931966456496039714433149955150850269",
    "prix_simule": 0.86,
    "parts": 11.6279,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-21 19:45 UTC"
-  },
-  "primm|88060408932649030444908510774361464704419977708010764200696721186407198397564": {
-   "date": "2026-11-21 19:45 UTC",
-   "trader": "primm",
-   "marche": "North Carolina vs. Virginia: O/U 43.5",
-   "resultat": "Over",
-   "prix_trader": 0.65,
-   "retard_min": 3.9,
-   "token": "88060408932649030444908510774361464704419977708010764200696721186407198397564",
-   "prix_simule": 0.78,
-   "parts": 12.8205,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 19:45 UTC"
   },
@@ -33557,6 +33518,57 @@
    "sortie": 1.0,
    "pnl": 10.8333,
    "ferme_le": "2026-11-21 20:36 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-21 16:40 UTC",
+   "trader": "BreakTheBank",
+   "marche": "UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card)",
+   "resultat": "Kevin Vallejos",
+   "prix_trader": 0.53,
+   "retard_min": 6.8,
+   "token": "12653717349966440791907189659072939667212361700903292107262676489068799342566",
+   "prix_simule": 0.54,
+   "parts": 18.5185,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 16:40 UTC",
+   "sortie": 1.0,
+   "pnl": 8.5185,
+   "ferme_le": "2026-11-21 20:41 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-21 18:05 UTC",
+   "trader": "primm",
+   "marche": "North Carolina vs. Virginia: O/U 43.5",
+   "resultat": "Under",
+   "prix_trader": 0.5,
+   "retard_min": 5.9,
+   "token": "113721601017354910730644253634871821455473433675153807104124267835804975061498",
+   "prix_simule": 0.53,
+   "parts": 18.8679,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 18:05 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-21 20:41 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-21 19:45 UTC",
+   "trader": "primm",
+   "marche": "North Carolina vs. Virginia: O/U 43.5",
+   "resultat": "Over",
+   "prix_trader": 0.65,
+   "retard_min": 3.9,
+   "token": "88060408932649030444908510774361464704419977708010764200696721186407198397564",
+   "prix_simule": 0.78,
+   "parts": 12.8205,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 19:45 UTC",
+   "sortie": 1.0,
+   "pnl": 2.8205,
+   "ferme_le": "2026-11-21 20:41 UTC",
    "type": "gagné"
   }
  ]
