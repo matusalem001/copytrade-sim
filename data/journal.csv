@@ -4696,3 +4696,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 09:40 UTC,primm,IGNORE,Oregon vs. Michigan State: O/U 43.5,Under,0.78,,,421.3,,,,vu trop tard
 2026-11-21 10:05 UTC,primm,ACHAT,UCLA vs. Michigan: O/U 41.5,Over,0.35,0.37,2.0,2.3,27.027,10.0,,
 2026-11-21 12:30 UTC,juice-fruit,ACHAT,Will Manchester City FC win on 2026-11-21?,Yes,0.72,0.73,1.0,2.2,13.6986,10.0,,
+2026-11-21 12:35 UTC,BreakTheBank,ACHAT,Will Manchester City FC win on 2026-11-21?,No,0.28,0.3,2.0,6.7,33.3333,10.0,,

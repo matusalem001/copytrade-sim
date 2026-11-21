@@ -1130,6 +1130,19 @@
    "parts": 13.6986,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 12:30 UTC"
+  },
+  "BreakTheBank|105978142021201504011396044711066923909125971049379554264054066288197860603645": {
+   "date": "2026-11-21 12:35 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Manchester City FC win on 2026-11-21?",
+   "resultat": "No",
+   "prix_trader": 0.28,
+   "retard_min": 6.7,
+   "token": "105978142021201504011396044711066923909125971049379554264054066288197860603645",
+   "prix_simule": 0.3,
+   "parts": 33.3333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 12:35 UTC"
   }
  },
  "fermees": [
