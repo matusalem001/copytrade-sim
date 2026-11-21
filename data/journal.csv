@@ -5267,3 +5267,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 23:15 UTC,primm,REGLEMENT,Iowa vs. Illinois,Illinois,,0.18,,,55.5556,0.0,-10.0,perdu
 2026-11-21 23:15 UTC,primm,REGLEMENT,Iowa vs. Illinois: O/U 53.5,Over,,0.44,,,22.7273,0.0,-10.0,perdu
 2026-11-21 23:15 UTC,primm,REGLEMENT,Spread: Iowa (-10.5),Illinois,,0.61,,,16.3934,0.0,-10.0,perdu
+2026-11-21 23:20 UTC,primm,IGNORE,NC State vs. Florida State,Florida State,0.2,0.09,-11.0,2.3,,,,prix a trop chuté (match sans doute joué)
