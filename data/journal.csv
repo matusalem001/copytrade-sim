@@ -4965,3 +4965,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 20:10 UTC,primm,ACHAT,Spread: Iowa (-2.5),Illinois,0.4,0.62,22.0,7.1,16.129,10.0,,
 2026-11-21 20:10 UTC,primm,ACHAT,Spread: Iowa (-1.5),Illinois,0.37,0.4,3.0,7.1,25.0,10.0,,
 2026-11-21 20:10 UTC,primm,ACHAT,Memphis vs. Navy,Navy,0.21,0.23,2.0,1.7,43.4783,10.0,,
+2026-11-21 20:15 UTC,BreakTheBank,IGNORE,"UFC Fight Night: Jared Cannonier vs. Ikram Aliskerov (Middleweight, Main Card)",Ikram Aliskerov,0.77,,,128.1,,,,vu trop tard
+2026-11-21 20:15 UTC,primm,ACHAT,Spread: Iowa (-3.5),Illinois,0.43,0.6,17.0,4.0,16.6667,10.0,,
+2026-11-21 20:15 UTC,primm,ACHAT,Spread: Navy (-2.5),Navy,0.3,0.33,3.0,3.9,30.303,10.0,,
+2026-11-21 20:15 UTC,primm,REGLEMENT,North Texas vs. Tulane: O/U 49.5,Under,,0.37,,,27.027,0.0,-10.0,perdu
+2026-11-21 20:16 UTC,primm,REGLEMENT,North Texas vs. Tulane: O/U 49.5,Over,,0.87,,,11.4943,11.49,1.49,gagné
