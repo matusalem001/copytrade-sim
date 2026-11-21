@@ -1079,32 +1079,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-20 23:40 UTC"
   },
-  "BreakTheBank|11376846649846397637629515718287737992489767404893188768280033139373736291692": {
-   "date": "2026-11-20 23:45 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Spread: Hawks (-7.5)",
-   "resultat": "Hornets",
-   "prix_trader": 0.5,
-   "retard_min": 5.1,
-   "token": "11376846649846397637629515718287737992489767404893188768280033139373736291692",
-   "prix_simule": 0.51,
-   "parts": 19.6078,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-20 23:45 UTC"
-  },
-  "BreakTheBank|12042500102922379995800896870229961180519863063448798221842069005259042944123": {
-   "date": "2026-11-20 23:45 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Spread: Hawks (-6.5)",
-   "resultat": "Hornets",
-   "prix_trader": 0.46,
-   "retard_min": 4.7,
-   "token": "12042500102922379995800896870229961180519863063448798221842069005259042944123",
-   "prix_simule": 0.47,
-   "parts": 21.2766,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-20 23:45 UTC"
-  },
   "BreakTheBank|79721239142814267204208923264439747483705492249215437021408689200807892787313": {
    "date": "2026-11-20 23:45 UTC",
    "trader": "BreakTheBank",
@@ -29475,6 +29449,40 @@
    "pnl": 4.7059,
    "ferme_le": "2026-11-21 02:31 UTC",
    "type": "gagné"
+  },
+  {
+   "date": "2026-11-20 23:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Hawks (-7.5)",
+   "resultat": "Hornets",
+   "prix_trader": 0.5,
+   "retard_min": 5.1,
+   "token": "11376846649846397637629515718287737992489767404893188768280033139373736291692",
+   "prix_simule": 0.51,
+   "parts": 19.6078,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-20 23:45 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-21 02:35 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-20 23:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Hawks (-6.5)",
+   "resultat": "Hornets",
+   "prix_trader": 0.46,
+   "retard_min": 4.7,
+   "token": "12042500102922379995800896870229961180519863063448798221842069005259042944123",
+   "prix_simule": 0.47,
+   "parts": 21.2766,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-20 23:45 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-21 02:35 UTC",
+   "type": "perdu"
   }
  ]
 }

@@ -4520,3 +4520,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 02:30 UTC,BreakTheBank,ACHAT,Suns vs. Jazz,Suns,0.62,0.63,1.0,1.1,15.873,10.0,,
 2026-11-21 02:30 UTC,primm,ACHAT,Spread: New Mexico (-17.5),New Mexico,0.41,0.46,5.0,5.0,21.7391,10.0,,
 2026-11-21 02:31 UTC,primm,REGLEMENT,Iowa State vs. UCF: O/U 61.5,Over,,0.68,,,14.7059,14.71,4.71,gagné
+2026-11-21 02:35 UTC,BreakTheBank,REGLEMENT,Spread: Hawks (-7.5),Hornets,,0.51,,,19.6078,0.0,-10.0,perdu
+2026-11-21 02:35 UTC,BreakTheBank,REGLEMENT,Spread: Hawks (-6.5),Hornets,,0.47,,,21.2766,0.0,-10.0,perdu
