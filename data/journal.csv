@@ -4741,3 +4741,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 14:50 UTC,primm,ACHAT,Kentucky vs. Missouri: O/U 49.5,Over,0.48,0.49,1.0,4.0,20.4082,10.0,,
 2026-11-21 14:55 UTC,primm,IGNORE,Spread: Oregon (-27.5),Michigan State,0.58,,,715.2,,,,vu trop tard
 2026-11-21 14:55 UTC,primm,ACHAT,Utah vs. TCU: O/U 47.5,Over,0.48,0.49,1.0,6.2,20.4082,10.0,,
+2026-11-21 15:01 UTC,BreakTheBank,ACHAT,Spread: Ipswich Town FC (-1.5),Ipswich Town FC,0.05,0.05,0.0,10.1,200.0,10.0,,
+2026-11-21 15:01 UTC,BreakTheBank,ACHAT,Spread: Chelsea FC (-1.5),Leeds United FC,0.74,0.75,1.0,5.2,13.3333,10.0,,

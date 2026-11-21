@@ -1364,6 +1364,32 @@
    "parts": 20.4082,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 14:55 UTC"
+  },
+  "BreakTheBank|88067064822914207181535223889707746392796259813984114521210373684793582588227": {
+   "date": "2026-11-21 15:01 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Ipswich Town FC (-1.5)",
+   "resultat": "Ipswich Town FC",
+   "prix_trader": 0.05,
+   "retard_min": 10.1,
+   "token": "88067064822914207181535223889707746392796259813984114521210373684793582588227",
+   "prix_simule": 0.05,
+   "parts": 200.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 15:01 UTC"
+  },
+  "BreakTheBank|108660038988393121445665183108174786845583261343615798786149599674426156477462": {
+   "date": "2026-11-21 15:01 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Chelsea FC (-1.5)",
+   "resultat": "Leeds United FC",
+   "prix_trader": 0.74,
+   "retard_min": 5.2,
+   "token": "108660038988393121445665183108174786845583261343615798786149599674426156477462",
+   "prix_simule": 0.75,
+   "parts": 13.3333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 15:01 UTC"
   }
  },
  "fermees": [
