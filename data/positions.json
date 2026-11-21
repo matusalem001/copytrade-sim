@@ -1638,19 +1638,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-21 16:40 UTC"
   },
-  "BreakTheBank|80670276674187063060491876810333189890304023874556375703264361399600975089674": {
-   "date": "2026-11-21 16:45 UTC",
-   "trader": "BreakTheBank",
-   "marche": "UFC Fight Night: Jared Cannonier vs. Ikram Aliskerov (Middleweight, Main Card)",
-   "resultat": "Ikram Aliskerov",
-   "prix_trader": 0.76,
-   "retard_min": 8.5,
-   "token": "80670276674187063060491876810333189890304023874556375703264361399600975089674",
-   "prix_simule": 0.77,
-   "parts": 12.987,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-21 16:45 UTC"
-  },
   "BreakTheBank|23179889754289405220424103056305227273784320688703234024360843927522715300866": {
    "date": "2026-11-21 16:45 UTC",
    "trader": "BreakTheBank",
@@ -2742,6 +2729,19 @@
    "parts": 16.3934,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 18:45 UTC"
+  },
+  "primm|93077224746846922358561324662522193732319123884330795013796393410411940317372": {
+   "date": "2026-11-21 19:01 UTC",
+   "trader": "primm",
+   "marche": "Spread: North Texas (-6.5)",
+   "resultat": "Tulane",
+   "prix_trader": 0.46,
+   "retard_min": 5.2,
+   "token": "93077224746846922358561324662522193732319123884330795013796393410411940317372",
+   "prix_simule": 0.57,
+   "parts": 17.5439,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 19:01 UTC"
   }
  },
  "fermees": [
@@ -32476,6 +32476,23 @@
    "sortie": 1.0,
    "pnl": 23.3333,
    "ferme_le": "2026-11-21 18:25 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-21 16:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "UFC Fight Night: Jared Cannonier vs. Ikram Aliskerov (Middleweight, Main Card)",
+   "resultat": "Ikram Aliskerov",
+   "prix_trader": 0.76,
+   "retard_min": 8.5,
+   "token": "80670276674187063060491876810333189890304023874556375703264361399600975089674",
+   "prix_simule": 0.77,
+   "parts": 12.987,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 16:45 UTC",
+   "sortie": 1.0,
+   "pnl": 2.987,
+   "ferme_le": "2026-11-21 19:01 UTC",
    "type": "gagné"
   }
  ]

@@ -4890,3 +4890,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 18:40 UTC,primm,ACHAT,Spread: Army (-6.5),Army,0.41,0.42,1.0,0.8,23.8095,10.0,,
 2026-11-21 18:45 UTC,primm,ACHAT,Syracuse vs. Boston College: O/U 49.5,Over,0.26,0.27,1.0,5.0,37.037,10.0,,
 2026-11-21 18:45 UTC,primm,ACHAT,Spread: Vanderbilt (-2.5),Florida,0.6,0.61,1.0,3.9,16.3934,10.0,,
+2026-11-21 19:00 UTC,BreakTheBank,IGNORE,"UFC Fight Night: Jared Cannonier vs. Ikram Aliskerov (Middleweight, Main Card)",Ikram Aliskerov,0.77,,,55.7,,,,carnet indisponible
+2026-11-21 19:01 UTC,primm,IGNORE,Spread: Minnesota (-1.5),Northwestern,0.62,0.37,-25.0,5.4,,,,prix a trop chuté (match sans doute joué)
+2026-11-21 19:01 UTC,primm,ACHAT,Spread: North Texas (-6.5),Tulane,0.46,0.57,11.0,5.2,17.5439,10.0,,
+2026-11-21 19:01 UTC,BreakTheBank,REGLEMENT,"UFC Fight Night: Jared Cannonier vs. Ikram Aliskerov (Middleweight, Main Card)",Ikram Aliskerov,,0.77,,,12.987,12.99,2.99,gagné
