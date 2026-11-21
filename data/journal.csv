@@ -4488,3 +4488,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 01:20 UTC,primm,ACHAT,Oregon vs. Michigan State: O/U 39.5,Under,0.5296,0.52,-1.0,2.1,19.2308,10.0,,
 2026-11-21 01:20 UTC,primm,ACHAT,Spread: Toledo (-20.5),Bowling Green,0.62,0.65,3.0,1.8,15.3846,10.0,,
 2026-11-21 01:20 UTC,primm,ACHAT,Spread: Toledo (-13.5),Bowling Green,0.41,0.46,5.0,1.7,21.7391,10.0,,
+2026-11-21 01:25 UTC,primm,ACHAT,Spread: Toledo (-10.5),Bowling Green,0.36,0.39,3.0,4.1,25.641,10.0,,
+2026-11-21 01:25 UTC,primm,REGLEMENT,Iowa State vs. UCF: O/U 37.5,Over,,0.79,,,12.6582,12.66,2.66,gagné
