@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 19:36 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 19:41 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 309 | 462 | 294 | 154 | +46.73 $ | +1.6 % | 15 | +1.2 ¢ | 8 min |
-| primm | 1663 | 729 | 1434 | 733 | +573.98 $ | +4.0 % | 229 | +3.0 ¢ | 4 min |
+| primm | 1665 | 729 | 1435 | 734 | +577.50 $ | +4.0 % | 230 | +3.0 ¢ | 4 min |
 | juice-fruit | 24 | 2 | 23 | 11 | -53.31 $ | -23.2 % | 1 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +567.41 $ sur 17510 $ engagés (+3.2 %)**
+**Total réalisé : +570.92 $ sur 17520 $ engagés (+3.3 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 19:36 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Wake Forest vs. Georgia Tech: O/U 49.5 | Over | 0.74 | 1.00 | +3.51 $ |
 | BreakTheBank | UFC Fight Night: Kyoji Horiguchi vs. Asu Almabayev (Flyweight, Main Card) | Asu Almabayev | 0.39 | 0.00 | -10.00 $ |
 | BreakTheBank | UFC Fight Night: Jared Cannonier vs. Ikram Aliskerov (Middleweight, Main Card) | Ikram Aliskerov | 0.77 | 1.00 | +2.99 $ |
 | BreakTheBank | UFC Fight Night: Aleksandre Topuria vs. Santiago Luna (Bantamweight, Main Card) | Santiago Luna | 0.30 | 1.00 | +23.33 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 19:36 UTC** 
 | primm | Spread: New Mexico (-9.5) | Wyoming | 0.16 | 1.00 | +52.50 $ |
 | primm | Spread: New Mexico (-16.5) | Wyoming | 0.57 | 1.00 | +7.54 $ |
 | primm | New Mexico vs. Wyoming: O/U 41.5 | Under | 0.61 | 1.00 | +6.39 $ |
-| primm | New Mexico vs. Wyoming: O/U 45.5 | Over | 0.43 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
