@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 02:25 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 02:31 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 288 | 437 | 265 | 140 | +35.05 $ | +1.3 % | 23 | +1.2 ¢ | 8 min |
-| primm | 1456 | 687 | 1343 | 693 | +564.94 $ | +4.2 % | 113 | +3.0 ¢ | 4 min |
+| BreakTheBank | 289 | 437 | 265 | 140 | +35.05 $ | +1.3 % | 24 | +1.2 ¢ | 8 min |
+| primm | 1457 | 687 | 1344 | 694 | +569.65 $ | +4.2 % | 113 | +3.0 ¢ | 4 min |
 | juice-fruit | 20 | 2 | 20 | 10 | -42.54 $ | -21.3 % | 0 | -0.3 ¢ | 5 min |
 
-**Total réalisé : +557.45 $ sur 16280 $ engagés (+3.4 %)**
+**Total réalisé : +562.16 $ sur 16290 $ engagés (+3.5 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 02:25 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Iowa State vs. UCF: O/U 61.5 | Over | 0.68 | 1.00 | +4.71 $ |
 | primm | Iowa State vs. UCF: O/U 57.5 | Over | 0.60 | 1.00 | +6.67 $ |
 | primm | Iowa State vs. UCF: O/U 53.5 | Over | 0.50 | 1.00 | +10.00 $ |
 | primm | Iowa State vs. UCF: O/U 53.5 | Under | 0.65 | 0.00 | -10.00 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 02:25 UTC** 
 | BreakTheBank | Colts vs. Texans | Colts | 0.17 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Texans (-9.5) | Colts | 0.44 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Texans (-13.5) | Colts | 0.55 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Texans (-10.5) | Colts | 0.47 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
