@@ -1404,19 +1404,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-21 21:40 UTC"
   },
-  "primm|44695933729292616098545639640740310060486120414398255926014880728439138002076": {
-   "date": "2026-11-21 21:40 UTC",
-   "trader": "primm",
-   "marche": "Florida International vs. Kennesaw State: O/U 65.5",
-   "resultat": "Over",
-   "prix_trader": 0.15,
-   "retard_min": 5.4,
-   "token": "44695933729292616098545639640740310060486120414398255926014880728439138002076",
-   "prix_simule": 0.18,
-   "parts": 55.5556,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-21 21:40 UTC"
-  },
   "primm|3755499188990157083796406495742304704043188468637869432888634016131122764970": {
    "date": "2026-11-21 21:55 UTC",
    "trader": "primm",
@@ -35025,6 +35012,23 @@
    "pnl": 8.8679,
    "ferme_le": "2026-11-21 23:40 UTC",
    "type": "gagné"
+  },
+  {
+   "date": "2026-11-21 21:40 UTC",
+   "trader": "primm",
+   "marche": "Florida International vs. Kennesaw State: O/U 65.5",
+   "resultat": "Over",
+   "prix_trader": 0.15,
+   "retard_min": 5.4,
+   "token": "44695933729292616098545639640740310060486120414398255926014880728439138002076",
+   "prix_simule": 0.18,
+   "parts": 55.5556,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 21:40 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-21 23:45 UTC",
+   "type": "perdu"
   }
  ]
 }
