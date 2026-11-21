@@ -987,6 +987,19 @@
    "parts": 20.0,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 05:25 UTC"
+  },
+  "primm|75261938925422027131013539782955450442917640794528542385705665609739786640034": {
+   "date": "2026-11-21 06:20 UTC",
+   "trader": "primm",
+   "marche": "Ohio State vs. Nebraska",
+   "resultat": "Nebraska",
+   "prix_trader": 0.38,
+   "retard_min": 3.6,
+   "token": "75261938925422027131013539782955450442917640794528542385705665609739786640034",
+   "prix_simule": 0.39,
+   "parts": 25.641,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 06:20 UTC"
   }
  },
  "fermees": [
