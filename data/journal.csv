@@ -4846,3 +4846,13 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 18:00 UTC,primm,ACHAT,Spread: BYU (-3.5),Kansas,0.47,0.52,5.0,3.8,19.2308,10.0,,
 2026-11-21 18:01 UTC,BreakTheBank,REGLEMENT,"UFC Fight Night: Amir Albazi vs. Alessandro Costa (Flyweight, Prelims)",Alessandro Costa,,0.54,,,18.5185,0.0,-10.0,perdu
 2026-11-21 18:01 UTC,BreakTheBank,REGLEMENT,"UFC Fight Night: Shamil Gaziev vs. Tallison Teixeira (Heavyweight, Prelims)",Tallison Teixeira,,0.38,,,26.3158,26.32,16.32,gagné
+2026-11-21 18:05 UTC,primm,ACHAT,North Carolina vs. Virginia: O/U 43.5,Under,0.5,0.53,3.0,5.9,18.8679,10.0,,
+2026-11-21 18:05 UTC,primm,ACHAT,Spread: Virginia (-6.5),North Carolina,0.57,0.6,3.0,5.8,16.6667,10.0,,
+2026-11-21 18:05 UTC,primm,ACHAT,Spread: North Carolina (-1.5),North Carolina,0.35,0.38,3.0,5.8,26.3158,10.0,,
+2026-11-21 18:05 UTC,primm,ACHAT,Spread: Virginia (-1.5),North Carolina,0.41,0.42,1.0,5.8,23.8095,10.0,,
+2026-11-21 18:05 UTC,primm,ACHAT,Spread: Virginia (-4.5),North Carolina,0.53,0.55,2.0,5.8,18.1818,10.0,,
+2026-11-21 18:05 UTC,primm,ACHAT,Spread: Virginia (-5.5),North Carolina,0.55,0.58,3.0,5.8,17.2414,10.0,,
+2026-11-21 18:05 UTC,primm,ACHAT,BYU vs. Kansas,Kansas,0.35,0.35,0.0,4.5,28.5714,10.0,,
+2026-11-21 18:05 UTC,primm,ACHAT,North Texas vs. Tulane: O/U 61.5,Over,0.51,0.59,8.0,3.9,16.9492,10.0,,
+2026-11-21 18:05 UTC,primm,ACHAT,Wisconsin vs. Purdue: O/U 61.5,Over,0.48,0.49,1.0,2.4,20.4082,10.0,,
+2026-11-21 18:05 UTC,primm,ACHAT,Spread: Virginia (-2.5),North Carolina,0.43,0.46,3.0,1.7,21.7391,10.0,,
