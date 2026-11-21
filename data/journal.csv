@@ -4515,3 +4515,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 02:15 UTC,primm,ACHAT,Spread: Duke (-4.5),Duke,0.32,0.32,0.0,1.8,31.25,10.0,,
 2026-11-21 02:20 UTC,BreakTheBank,IGNORE,Colts vs. Texans,Colts,0.16,,,1506.3,,,,vu trop tard
 2026-11-21 02:20 UTC,primm,REGLEMENT,Iowa State vs. UCF: O/U 57.5,Over,,0.6,,,16.6667,16.67,6.67,gagné
+2026-11-21 02:25 UTC,primm,ACHAT,Spread: New Mexico (-16.5),New Mexico,0.41,0.45,4.0,7.6,22.2222,10.0,,
+2026-11-21 02:25 UTC,primm,ACHAT,Spread: New Mexico (-20.5),New Mexico,0.33,0.35,2.0,2.1,28.5714,10.0,,
