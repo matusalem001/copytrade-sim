@@ -4749,3 +4749,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 15:15 UTC,primm,ACHAT,Indiana vs. Washington,Indiana,0.75,0.76,1.0,4.4,13.1579,10.0,,
 2026-11-21 15:25 UTC,primm,ACHAT,Spread: UCLA (-6.5),UCLA,0.42,0.42,0.0,6.2,23.8095,10.0,,
 2026-11-21 15:25 UTC,primm,ACHAT,Spread: Wake Forest (-24.5),Wake Forest,0.42,0.45,3.0,3.7,22.2222,10.0,,
+2026-11-21 15:30 UTC,primm,IGNORE,Spread: Clemson (-7.5),Clemson,0.44,,,719.2,,,,vu trop tard
+2026-11-21 15:30 UTC,primm,ACHAT,North Carolina vs. Virginia: O/U 41.5,Under,0.5,0.51,1.0,4.7,19.6078,10.0,,
