@@ -4872,3 +4872,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 18:15 UTC,primm,ACHAT,Spread: North Texas (-4.5),Tulane,0.59,0.62,3.0,3.2,16.129,10.0,,
 2026-11-21 18:15 UTC,primm,ACHAT,Spread: North Texas (-1.5),Tulane,0.45,0.47,2.0,3.2,21.2766,10.0,,
 2026-11-21 18:15 UTC,primm,ACHAT,Syracuse vs. Boston College: O/U 45.5,Over,0.54,0.55,1.0,1.2,18.1818,10.0,,
+2026-11-21 18:25 UTC,primm,ACHAT,Spread: Boston College (-6.5),Syracuse,0.52,0.81,29.0,7.8,12.3457,10.0,,
+2026-11-21 18:25 UTC,primm,ACHAT,Syracuse vs. Boston College: O/U 39.5,Over,0.72,0.89,17.0,7.8,11.236,10.0,,
+2026-11-21 18:25 UTC,primm,ACHAT,BYU vs. Kansas: O/U 37.5,Under,0.7,0.73,3.0,2.9,13.6986,10.0,,
+2026-11-21 18:25 UTC,BreakTheBank,REGLEMENT,"UFC Fight Night: Aleksandre Topuria vs. Santiago Luna (Bantamweight, Main Card)",Santiago Luna,,0.3,,,33.3333,33.33,23.33,gagné
