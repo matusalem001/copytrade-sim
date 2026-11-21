@@ -1325,6 +1325,19 @@
    "parts": 27.027,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 00:20 UTC"
+  },
+  "BreakTheBank|7766284018540828463853739258290901638871117392763031400542759434644972820308": {
+   "date": "2026-11-21 00:25 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Cavaliers (-6.5)",
+   "resultat": "Pacers",
+   "prix_trader": 0.52,
+   "retard_min": 2.4,
+   "token": "7766284018540828463853739258290901638871117392763031400542759434644972820308",
+   "prix_simule": 0.53,
+   "parts": 18.8679,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 00:25 UTC"
   }
  },
  "fermees": [
