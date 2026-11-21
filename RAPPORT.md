@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 04:01 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 04:05 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 289 | 438 | 275 | 143 | -2.96 $ | -0.1 % | 14 | +1.2 ¢ | 8 min |
-| primm | 1473 | 698 | 1361 | 694 | +399.65 $ | +2.9 % | 112 | +3.1 ¢ | 4 min |
+| primm | 1473 | 698 | 1362 | 695 | +409.26 $ | +3.0 % | 111 | +3.1 ¢ | 4 min |
 | juice-fruit | 20 | 2 | 20 | 10 | -42.54 $ | -21.3 % | 0 | -0.3 ¢ | 5 min |
 
-**Total réalisé : +354.16 $ sur 16560 $ engagés (+2.1 %)**
+**Total réalisé : +363.76 $ sur 16570 $ engagés (+2.2 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 04:01 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | UTEP vs. Air Force: O/U 53.5 | Over | 0.51 | 1.00 | +9.61 $ |
 | primm | UTEP vs. Air Force: O/U 47.5 | Under | 0.48 | 0.00 | -10.00 $ |
 | primm | UTEP vs. Air Force: O/U 45.5 | Under | 0.45 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Thunder (-9.5) | Pelicans | 0.46 | 1.00 | +11.74 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 04:01 UTC** 
 | primm | Spread: UCF (-16.5) | Iowa State | 0.60 | 0.00 | -10.00 $ |
 | primm | Spread: UCF (-7.5) | Iowa State | 0.67 | 0.00 | -10.00 $ |
 | primm | Spread: UCF (-4.5) | Iowa State | 0.55 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Hawks (-5.5) | Hornets | 0.43 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
