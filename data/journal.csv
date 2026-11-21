@@ -4626,3 +4626,12 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 04:31 UTC,primm,REGLEMENT,Spread: Clemson (-7.5),Clemson,,0.41,,,24.3902,24.39,14.39,gagné
 2026-11-21 04:31 UTC,primm,REGLEMENT,Spread: Clemson (-6.5),Clemson,,0.69,,,14.4928,14.49,4.49,gagné
 2026-11-21 04:45 UTC,primm,REGLEMENT,Oregon vs. Michigan State: O/U 45.5,Under,,0.57,,,17.5439,0.0,-10.0,perdu
+2026-11-21 04:50 UTC,primm,ACHAT,Spread: Iowa (-7.5),Iowa,0.53,0.54,1.0,3.2,18.5185,10.0,,
+2026-11-21 04:50 UTC,primm,ACHAT,UCLA vs. Michigan: O/U 39.5,Over,0.42,0.43,1.0,2.6,23.2558,10.0,,
+2026-11-21 04:50 UTC,primm,ACHAT,Spread: Texas (-20.5),Arkansas,0.51,0.52,1.0,2.4,19.2308,10.0,,
+2026-11-21 04:50 UTC,primm,ACHAT,Arkansas vs. Texas: O/U 49.5,Under,0.57,0.58,1.0,2.4,17.2414,10.0,,
+2026-11-21 04:50 UTC,primm,ACHAT,Old Dominion vs. UConn: O/U 49.5,Over,0.44,0.45,1.0,1.9,22.2222,10.0,,
+2026-11-21 04:50 UTC,primm,ACHAT,Washington State vs. Texas State: O/U 67.5,Under,0.62,0.64,2.0,1.2,15.625,10.0,,
+2026-11-21 04:50 UTC,primm,ACHAT,Northern Illinois vs. North Dakota State: O/U 37.5,Over,0.71,0.73,2.0,1.1,13.6986,10.0,,
+2026-11-21 04:50 UTC,primm,ACHAT,Colorado State vs. Fresno State: O/U 65.5,Over,0.54,0.55,1.0,0.5,18.1818,10.0,,
+2026-11-21 04:50 UTC,primm,ACHAT,Colorado State vs. Fresno State: O/U 71.5,Over,0.39,0.41,2.0,0.5,24.3902,10.0,,
