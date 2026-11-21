@@ -1247,6 +1247,19 @@
    "parts": 20.0,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 00:05 UTC"
+  },
+  "BreakTheBank|56522472634132313120762119892962488731910017337468522953384736207232777237178": {
+   "date": "2026-11-21 00:10 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Pelicans vs. Thunder",
+   "resultat": "Pelicans",
+   "prix_trader": 0.19,
+   "retard_min": 2.4,
+   "token": "56522472634132313120762119892962488731910017337468522953384736207232777237178",
+   "prix_simule": 0.2,
+   "parts": 50.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 00:10 UTC"
   }
  },
  "fermees": [
