@@ -5000,3 +5000,49 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 20:30 UTC,primm,ACHAT,Iowa vs. Illinois: O/U 53.5,Over,0.43,0.44,1.0,0.7,22.7273,10.0,,
 2026-11-21 20:30 UTC,primm,REGLEMENT,Ohio State vs. Nebraska: O/U 45.5,Under,,0.63,,,15.873,0.0,-10.0,perdu
 2026-11-21 20:31 UTC,primm,REGLEMENT,North Texas vs. Tulane: O/U 61.5,Over,,0.59,,,16.9492,0.0,-10.0,perdu
+2026-11-21 20:35 UTC,BreakTheBank,IGNORE,"UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card)",Kevin Vallejos,0.54,,,67.6,,,,carnet indisponible
+2026-11-21 20:35 UTC,primm,IGNORE,Spread: North Texas (-3.5),Tulane,0.53,,,67.9,,,,carnet indisponible
+2026-11-21 20:35 UTC,primm,ACHAT,Iowa vs. Illinois: O/U 45.5,Over,0.66,0.63,-3.0,2.1,15.873,10.0,,
+2026-11-21 20:35 UTC,primm,ACHAT,Spread: Missouri State (-6.5),Missouri State,0.38,0.39,1.0,1.1,25.641,10.0,,
+2026-11-21 20:35 UTC,primm,ACHAT,Spread: Missouri State (-2.5),Missouri State,0.57,0.57,0.0,1.1,17.5439,10.0,,
+2026-11-21 20:35 UTC,primm,ACHAT,Missouri State vs. Jacksonville State,Missouri State,0.62,0.62,0.0,1.1,16.129,10.0,,
+2026-11-21 20:35 UTC,primm,ACHAT,Spread: Missouri State (-1.5),Missouri State,0.6,0.6,0.0,1.1,16.6667,10.0,,
+2026-11-21 20:35 UTC,primm,REGLEMENT,Spread: Minnesota (-2.5),Northwestern,,0.61,,,16.3934,0.0,-10.0,perdu
+2026-11-21 20:35 UTC,primm,REGLEMENT,North Texas vs. Tulane: O/U 57.5,Under,,0.54,,,18.5185,18.52,8.52,gagné
+2026-11-21 20:35 UTC,primm,REGLEMENT,Spread: North Texas (-10.5),North Texas,,0.42,,,23.8095,0.0,-10.0,perdu
+2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: North Texas (-7.5),North Texas,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-21 20:36 UTC,primm,REGLEMENT,North Texas vs. Tulane: O/U 55.5,Under,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-21 20:36 UTC,primm,REGLEMENT,North Carolina vs. Virginia: O/U 41.5,Under,,0.51,,,19.6078,0.0,-10.0,perdu
+2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: Cincinnati (-2.5),Colorado,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: Northwestern (-3.5),Northwestern,,0.43,,,23.2558,0.0,-10.0,perdu
+2026-11-21 20:36 UTC,primm,REGLEMENT,Northwestern vs. Minnesota,Northwestern,,0.57,,,17.5439,0.0,-10.0,perdu
+2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: Northwestern (-1.5),Northwestern,,0.54,,,18.5185,0.0,-10.0,perdu
+2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: Northwestern (-5.5),Northwestern,,0.4,,,25.0,0.0,-10.0,perdu
+2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: Wisconsin (-16.5),Wisconsin,,0.49,,,20.4082,20.41,10.41,gagné
+2026-11-21 20:36 UTC,primm,REGLEMENT,North Texas vs. Tulane: O/U 61.5,Under,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-21 20:36 UTC,primm,REGLEMENT,Wisconsin vs. Purdue: O/U 55.5,Over,,0.58,,,17.2414,0.0,-10.0,perdu
+2026-11-21 20:36 UTC,primm,REGLEMENT,North Texas vs. Tulane: O/U 59.5,Under,,0.49,,,20.4082,20.41,10.41,gagné
+2026-11-21 20:36 UTC,primm,REGLEMENT,Wisconsin vs. Purdue: O/U 61.5,Over,,0.49,,,20.4082,0.0,-10.0,perdu
+2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: Northwestern (-2.5),Northwestern,,0.69,,,14.4928,0.0,-10.0,perdu
+2026-11-21 20:36 UTC,primm,REGLEMENT,Wisconsin vs. Purdue,Purdue,,0.13,,,76.9231,0.0,-10.0,perdu
+2026-11-21 20:36 UTC,primm,REGLEMENT,North Texas vs. Tulane: O/U 67.5,Under,,0.67,,,14.9254,14.93,4.93,gagné
+2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: Tulane (-1.5),Tulane,,0.41,,,24.3902,24.39,14.39,gagné
+2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: North Texas (-2.5),Tulane,,0.49,,,20.4082,20.41,10.41,gagné
+2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: North Texas (-3.5),Tulane,,0.58,,,17.2414,17.24,7.24,gagné
+2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: North Texas (-4.5),Tulane,,0.62,,,16.129,16.13,6.13,gagné
+2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: North Texas (-1.5),Tulane,,0.47,,,21.2766,21.28,11.28,gagné
+2026-11-21 20:36 UTC,primm,REGLEMENT,Colorado vs. Cincinnati,Colorado,,0.23,,,43.4783,0.0,-10.0,perdu
+2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: Cincinnati (-3.5),Colorado,,0.36,,,27.7778,0.0,-10.0,perdu
+2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: Cincinnati (-7.5),Colorado,,0.54,,,18.5185,18.52,8.52,gagné
+2026-11-21 20:36 UTC,primm,REGLEMENT,Colorado vs. Cincinnati: O/U 67.5,Over,,0.33,,,30.303,0.0,-10.0,perdu
+2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: Cincinnati (-4.5),Colorado,,0.37,,,27.027,0.0,-10.0,perdu
+2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: Cincinnati (-5.5),Colorado,,0.39,,,25.641,0.0,-10.0,perdu
+2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: Cincinnati (-6.5),Colorado,,0.43,,,23.2558,0.0,-10.0,perdu
+2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: North Texas (-6.5),Tulane,,0.57,,,17.5439,17.54,7.54,gagné
+2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: Minnesota (-3.5),Northwestern,,0.47,,,21.2766,21.28,11.28,gagné
+2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: Minnesota (-1.5),Northwestern,,0.33,,,30.303,0.0,-10.0,perdu
+2026-11-21 20:36 UTC,primm,REGLEMENT,North Texas vs. Tulane,Tulane,,0.31,,,32.2581,32.26,22.26,gagné
+2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: North Texas (-5.5),Tulane,,0.56,,,17.8571,17.86,7.86,gagné
+2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: Minnesota (-5.5),Northwestern,,0.77,,,12.987,12.99,2.99,gagné
+2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: North Texas (-3.5),North Texas,,0.48,,,20.8333,0.0,-10.0,perdu
+2026-11-21 20:36 UTC,primm,REGLEMENT,Spread: Minnesota (-6.5),Northwestern,,0.48,,,20.8333,20.83,10.83,gagné
