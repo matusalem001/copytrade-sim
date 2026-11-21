@@ -377,19 +377,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-20 18:20 UTC"
   },
-  "primm|52060747822522493838587458484598829061490299536422332415808453828529978026115": {
-   "date": "2026-11-20 18:25 UTC",
-   "trader": "primm",
-   "marche": "Wake Forest vs. Georgia Tech: O/U 57.5",
-   "resultat": "Over",
-   "prix_trader": 0.47,
-   "retard_min": 3.4,
-   "token": "52060747822522493838587458484598829061490299536422332415808453828529978026115",
-   "prix_simule": 0.48,
-   "parts": 20.8333,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-20 18:25 UTC"
-  },
   "primm|109091821981905391955468238391436028888629897329041563669696643860666118510886": {
    "date": "2026-11-20 18:25 UTC",
    "trader": "primm",
@@ -1729,19 +1716,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-21 17:10 UTC"
   },
-  "juice-fruit|66954390270132874789870551702730948279267358933444696989761125939723244343406": {
-   "date": "2026-11-21 17:10 UTC",
-   "trader": "juice-fruit",
-   "marche": "Spread: Arsenal FC (-1.5)",
-   "resultat": "Newcastle United FC",
-   "prix_trader": 0.63,
-   "retard_min": 8.4,
-   "token": "66954390270132874789870551702730948279267358933444696989761125939723244343406",
-   "prix_simule": 0.63,
-   "parts": 15.873,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-21 17:10 UTC"
-  },
   "primm|68674279371635547117569278032535278099315460277380426110635056694571724930164": {
    "date": "2026-11-21 17:21 UTC",
    "trader": "primm",
@@ -1871,19 +1845,6 @@
    "parts": 16.9492,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 17:25 UTC"
-  },
-  "BreakTheBank|79970670136427043765822700251808091493092739571466293666699108016665390134486": {
-   "date": "2026-11-21 17:30 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Will Arsenal FC win on 2026-11-21?",
-   "resultat": "Yes",
-   "prix_trader": 0.65,
-   "retard_min": 5.6,
-   "token": "79970670136427043765822700251808091493092739571466293666699108016665390134486",
-   "prix_simule": 0.66,
-   "parts": 15.1515,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-21 17:30 UTC"
   },
   "primm|92954624724996719232316045575957864909465463543587357585916017503356357891228": {
    "date": "2026-11-21 17:30 UTC",
@@ -3158,6 +3119,32 @@
    "parts": 12.8205,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 19:45 UTC"
+  },
+  "primm|16965478925822669596394060534198224403842482785368766661006115321264268437824": {
+   "date": "2026-11-21 19:50 UTC",
+   "trader": "primm",
+   "marche": "Spread: Memphis (-7.5)",
+   "resultat": "Navy",
+   "prix_trader": 0.51,
+   "retard_min": 2.6,
+   "token": "16965478925822669596394060534198224403842482785368766661006115321264268437824",
+   "prix_simule": 0.51,
+   "parts": 19.6078,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 19:50 UTC"
+  },
+  "primm|90111761362356703427065948320761020928448852513716216330693888359689104230833": {
+   "date": "2026-11-21 19:50 UTC",
+   "trader": "primm",
+   "marche": "East Carolina vs. Army",
+   "resultat": "Army",
+   "prix_trader": 0.43,
+   "retard_min": 2.5,
+   "token": "90111761362356703427065948320761020928448852513716216330693888359689104230833",
+   "prix_simule": 0.49,
+   "parts": 20.4082,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 19:50 UTC"
   }
  },
  "fermees": [
@@ -33029,6 +33016,57 @@
    "pnl": 7.5439,
    "ferme_le": "2026-11-21 19:46 UTC",
    "type": "gagné"
+  },
+  {
+   "date": "2026-11-20 18:25 UTC",
+   "trader": "primm",
+   "marche": "Wake Forest vs. Georgia Tech: O/U 57.5",
+   "resultat": "Over",
+   "prix_trader": 0.47,
+   "retard_min": 3.4,
+   "token": "52060747822522493838587458484598829061490299536422332415808453828529978026115",
+   "prix_simule": 0.48,
+   "parts": 20.8333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-20 18:25 UTC",
+   "sortie": 1.0,
+   "pnl": 10.8333,
+   "ferme_le": "2026-11-21 19:50 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-21 17:10 UTC",
+   "trader": "juice-fruit",
+   "marche": "Spread: Arsenal FC (-1.5)",
+   "resultat": "Newcastle United FC",
+   "prix_trader": 0.63,
+   "retard_min": 8.4,
+   "token": "66954390270132874789870551702730948279267358933444696989761125939723244343406",
+   "prix_simule": 0.63,
+   "parts": 15.873,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 17:10 UTC",
+   "sortie": 1.0,
+   "pnl": 5.873,
+   "ferme_le": "2026-11-21 19:50 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-21 17:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Arsenal FC win on 2026-11-21?",
+   "resultat": "Yes",
+   "prix_trader": 0.65,
+   "retard_min": 5.6,
+   "token": "79970670136427043765822700251808091493092739571466293666699108016665390134486",
+   "prix_simule": 0.66,
+   "parts": 15.1515,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 17:30 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-21 19:50 UTC",
+   "type": "perdu"
   }
  ]
 }

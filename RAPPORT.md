@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 19:46 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 19:50 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 309 | 462 | 295 | 154 | +36.73 $ | +1.2 % | 14 | +1.2 ¢ | 8 min |
-| primm | 1667 | 729 | 1439 | 737 | +591.74 $ | +4.1 % | 228 | +3.0 ¢ | 4 min |
-| juice-fruit | 24 | 2 | 23 | 11 | -53.31 $ | -23.2 % | 1 | -0.1 ¢ | 4 min |
+| BreakTheBank | 309 | 462 | 296 | 154 | +26.73 $ | +0.9 % | 13 | +1.2 ¢ | 8 min |
+| primm | 1669 | 730 | 1440 | 738 | +602.57 $ | +4.2 % | 229 | +3.0 ¢ | 4 min |
+| juice-fruit | 24 | 2 | 24 | 12 | -47.43 $ | -19.8 % | 0 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +575.16 $ sur 17570 $ engagés (+3.3 %)**
+**Total réalisé : +581.87 $ sur 17600 $ engagés (+3.3 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,9 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 19:46 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Will Arsenal FC win on 2026-11-21? | Yes | 0.66 | 0.00 | -10.00 $ |
+| juice-fruit | Spread: Arsenal FC (-1.5) | Newcastle United FC | 0.63 | 1.00 | +5.87 $ |
+| primm | Wake Forest vs. Georgia Tech: O/U 57.5 | Over | 0.48 | 1.00 | +10.83 $ |
 | primm | Colorado vs. Cincinnati: O/U 59.5 | Over | 0.57 | 1.00 | +7.54 $ |
 | primm | Colorado vs. Cincinnati: O/U 61.5 | Over | 0.55 | 1.00 | +8.18 $ |
 | primm | Wake Forest vs. Georgia Tech: O/U 55.5 | Over | 0.54 | 1.00 | +8.52 $ |
@@ -38,8 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 19:46 UTC** 
 | BreakTheBank | Will AFC Bournemouth win on 2026-11-21? | Yes | 0.47 | 1.00 | +11.28 $ |
 | juice-fruit | Will Aston Villa FC win on 2026-11-21? | Yes | 0.51 | 0.00 | -10.00 $ |
 | juice-fruit | ATP World Tour Finals, Final Stage: Carlos Alcaraz vs Ben Shelton | Carlos Alcaraz | 0.52 | 1.00 | +9.23 $ |
-| BreakTheBank | Will Manchester City FC win on 2026-11-21? | No | 0.30 | 1.00 | +23.33 $ |
-| juice-fruit | Will Manchester City FC win on 2026-11-21? | Yes | 0.73 | 0.00 | -10.00 $ |
-| primm | Spread: New Mexico (-13.5) | Wyoming | 0.18 | 1.00 | +45.56 $ |
 
 Journal complet : `data/journal.csv`
