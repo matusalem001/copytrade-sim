@@ -5138,3 +5138,27 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 21:05 UTC,primm,REGLEMENT,Spread: Boston College (-1.5),Syracuse,,0.6,,,16.6667,0.0,-10.0,perdu
 2026-11-21 21:05 UTC,primm,REGLEMENT,Spread: Memphis (-2.5),Navy,,0.51,,,19.6078,19.61,9.61,gagné
 2026-11-21 21:05 UTC,primm,REGLEMENT,Syracuse vs. Boston College: O/U 49.5,Over,,0.27,,,37.037,0.0,-10.0,perdu
+2026-11-21 21:10 UTC,primm,IGNORE,East Carolina vs. Army,Army,0.42,,,82.3,,,,vu trop tard
+2026-11-21 21:10 UTC,primm,IGNORE,BYU vs. Kansas,Kansas,0.43,,,49.4,,,,carnet indisponible
+2026-11-21 21:10 UTC,primm,IGNORE,Spread: Texas (-21.5),Arkansas,0.43,,,22.1,,,,vu trop tard
+2026-11-21 21:10 UTC,primm,ACHAT,Spread: UConn (-20.5),Old Dominion,0.45,0.5,5.0,3.7,20.0,10.0,,
+2026-11-21 21:10 UTC,primm,ACHAT,Spread: UConn (-16.5),Old Dominion,0.35,0.4,5.0,3.7,25.0,10.0,,
+2026-11-21 21:10 UTC,primm,ACHAT,Spread: UConn (-14.5),Old Dominion,0.31,0.36,5.0,3.7,27.7778,10.0,,
+2026-11-21 21:10 UTC,primm,ACHAT,Spread: UConn (-17.5),Old Dominion,0.38,0.43,5.0,3.7,23.2558,10.0,,
+2026-11-21 21:10 UTC,primm,ACHAT,Spread: UConn (-13.5),Old Dominion,0.31,0.32,1.0,0.9,31.25,10.0,,
+2026-11-21 21:10 UTC,primm,REGLEMENT,Spread: BYU (-6.5),BYU,,0.48,,,20.8333,0.0,-10.0,perdu
+2026-11-21 21:10 UTC,primm,REGLEMENT,BYU vs. Kansas: O/U 49.5,Under,,0.6,,,16.6667,0.0,-10.0,perdu
+2026-11-21 21:10 UTC,primm,REGLEMENT,BYU vs. Kansas: O/U 47.5,Under,,0.54,,,18.5185,0.0,-10.0,perdu
+2026-11-21 21:10 UTC,primm,REGLEMENT,BYU vs. Kansas: O/U 43.5,Under,,0.42,,,23.8095,0.0,-10.0,perdu
+2026-11-21 21:10 UTC,primm,REGLEMENT,BYU vs. Kansas,BYU,,0.65,,,15.3846,15.38,5.38,gagné
+2026-11-21 21:10 UTC,primm,REGLEMENT,Spread: BYU (-3.5),Kansas,,0.52,,,19.2308,19.23,9.23,gagné
+2026-11-21 21:10 UTC,primm,REGLEMENT,BYU vs. Kansas,Kansas,,0.35,,,28.5714,0.0,-10.0,perdu
+2026-11-21 21:10 UTC,primm,REGLEMENT,Spread: BYU (-2.5),Kansas,,0.54,,,18.5185,18.52,8.52,gagné
+2026-11-21 21:10 UTC,primm,REGLEMENT,Spread: BYU (-4.5),Kansas,,0.69,,,14.4928,14.49,4.49,gagné
+2026-11-21 21:10 UTC,primm,REGLEMENT,BYU vs. Kansas: O/U 37.5,Under,,0.73,,,13.6986,0.0,-10.0,perdu
+2026-11-21 21:10 UTC,primm,REGLEMENT,Spread: BYU (-10.5),Kansas,,0.75,,,13.3333,13.33,3.33,gagné
+2026-11-21 21:10 UTC,primm,REGLEMENT,Spread: BYU (-7.5),Kansas,,0.59,,,16.9492,16.95,6.95,gagné
+2026-11-21 21:10 UTC,primm,REGLEMENT,Spread: BYU (-6.5),Kansas,,0.31,,,32.2581,32.26,22.26,gagné
+2026-11-21 21:10 UTC,primm,REGLEMENT,BYU vs. Kansas: O/U 37.5,Over,,0.4,,,25.0,25.0,15.0,gagné
+2026-11-21 21:10 UTC,primm,REGLEMENT,Spread: BYU (-5.5),Kansas,,0.29,,,34.4828,34.48,24.48,gagné
+2026-11-21 21:10 UTC,primm,REGLEMENT,Spread: BYU (-1.5),Kansas,,0.53,,,18.8679,0.0,-10.0,perdu
