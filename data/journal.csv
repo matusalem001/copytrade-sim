@@ -4816,3 +4816,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 17:21 UTC,BreakTheBank,REGLEMENT,Will Tottenham Hotspur FC vs. Ipswich Town FC end in a draw?,Yes,,0.21,,,47.619,0.0,-10.0,perdu
 2026-11-21 17:21 UTC,BreakTheBank,REGLEMENT,Spread: Tottenham Hotspur FC (-1.5),Ipswich Town FC,,0.61,,,16.3934,0.0,-10.0,perdu
 2026-11-21 17:21 UTC,BreakTheBank,REGLEMENT,Spread: Ipswich Town FC (-1.5),Ipswich Town FC,,0.05,,,200.0,0.0,-10.0,perdu
+2026-11-21 17:25 UTC,primm,ACHAT,Spread: Boston College (-5.5),Syracuse,0.56,0.6,4.0,2.8,16.6667,10.0,,
+2026-11-21 17:25 UTC,primm,ACHAT,Spread: Ohio State (-13.5),Nebraska,0.58,0.59,1.0,2.0,16.9492,10.0,,
