@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 23:05 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 23:10 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 309 | 472 | 298 | 156 | +40.64 $ | +1.4 % | 11 | +1.2 ¢ | 8 min |
-| primm | 1752 | 755 | 1616 | 825 | +510.53 $ | +3.2 % | 136 | +3.0 ¢ | 4 min |
+| primm | 1752 | 755 | 1617 | 826 | +516.93 $ | +3.2 % | 135 | +3.0 ¢ | 4 min |
 | juice-fruit | 24 | 2 | 24 | 12 | -47.43 $ | -19.8 % | 0 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +503.73 $ sur 19380 $ engagés (+2.6 %)**
+**Total réalisé : +510.13 $ sur 19390 $ engagés (+2.6 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 23:05 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Coastal Carolina vs. Louisiana: O/U 51.5 | Over | 0.61 | 1.00 | +6.39 $ |
 | primm | Iowa vs. Illinois: O/U 45.5 | Over | 0.63 | 1.00 | +5.87 $ |
 | primm | Iowa vs. Illinois: O/U 47.5 | Over | 0.62 | 1.00 | +6.13 $ |
 | primm | Florida International vs. Kennesaw State: O/U 47.5 | Over | 0.76 | 1.00 | +3.16 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 23:05 UTC** 
 | primm | Spread: Houston (-13.5) | Houston | 0.38 | 0.00 | -10.00 $ |
 | primm | Spread: Houston (-6.5) | Houston | 0.55 | 0.00 | -10.00 $ |
 | primm | Spread: Houston (-4.5) | Houston | 0.59 | 0.00 | -10.00 $ |
-| primm | Spread: Liberty (-13.5) | Liberty | 0.63 | 1.00 | +5.87 $ |
 
 Journal complet : `data/journal.csv`
