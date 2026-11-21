@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 17:40 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 17:46 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 309 | 459 | 288 | 150 | +14.87 $ | +0.5 % | 21 | +1.2 ¢ | 8 min |
-| primm | 1579 | 716 | 1434 | 733 | +573.98 $ | +4.0 % | 145 | +3.0 ¢ | 4 min |
+| BreakTheBank | 309 | 459 | 289 | 151 | +24.10 $ | +0.8 % | 20 | +1.2 ¢ | 8 min |
+| primm | 1581 | 716 | 1434 | 733 | +573.98 $ | +4.0 % | 147 | +3.0 ¢ | 4 min |
 | juice-fruit | 24 | 2 | 23 | 11 | -53.31 $ | -23.2 % | 1 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +535.54 $ sur 17450 $ engagés (+3.1 %)**
+**Total réalisé : +544.77 $ sur 17460 $ engagés (+3.1 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 17:40 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Will Chelsea FC win on 2026-11-21? | No | 0.52 | 1.00 | +9.23 $ |
 | BreakTheBank | Spread: Chelsea FC (-1.5) | Leeds United FC | 0.75 | 1.00 | +3.33 $ |
 | BreakTheBank | Will Crystal Palace FC win on 2026-11-21? | Yes | 0.35 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Ipswich Town FC (-1.5) | Ipswich Town FC | 0.05 | 0.00 | -10.00 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 17:40 UTC** 
 | primm | Spread: New Mexico (-20.5) | New Mexico | 0.35 | 0.00 | -10.00 $ |
 | primm | Spread: New Mexico (-16.5) | New Mexico | 0.45 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Nuggets (-1.5) | Nuggets | 0.47 | 1.00 | +11.28 $ |
-| BreakTheBank | Rockets vs. Nuggets | Nuggets | 0.50 | 1.00 | +10.00 $ |
 
 Journal complet : `data/journal.csv`
