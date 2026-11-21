@@ -4978,3 +4978,19 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 20:20 UTC,primm,REGLEMENT,Wisconsin vs. Purdue: O/U 47.5,Over,,0.48,,,20.8333,20.83,10.83,gagné
 2026-11-21 20:21 UTC,primm,REGLEMENT,Wisconsin vs. Purdue: O/U 49.5,Over,,0.46,,,21.7391,21.74,11.74,gagné
 2026-11-21 20:21 UTC,primm,REGLEMENT,North Carolina vs. Virginia: O/U 35.5,Under,,0.35,,,28.5714,0.0,-10.0,perdu
+2026-11-21 20:25 UTC,primm,IGNORE,East Carolina vs. Army,Army,0.42,,,37.2,,,,carnet indisponible
+2026-11-21 20:25 UTC,primm,IGNORE,East Carolina vs. Army,Army,0.42,,,37.4,,,,carnet indisponible
+2026-11-21 20:25 UTC,primm,REGLEMENT,Spread: Army (-6.5),East Carolina,,0.51,,,19.6078,19.61,9.61,gagné
+2026-11-21 20:25 UTC,primm,REGLEMENT,Spread: Army (-4.5),East Carolina,,0.46,,,21.7391,21.74,11.74,gagné
+2026-11-21 20:25 UTC,primm,REGLEMENT,East Carolina vs. Army: O/U 45.5,Under,,0.49,,,20.4082,20.41,10.41,gagné
+2026-11-21 20:25 UTC,primm,REGLEMENT,East Carolina vs. Army: O/U 49.5,Under,,0.62,,,16.129,16.13,6.13,gagné
+2026-11-21 20:25 UTC,primm,REGLEMENT,Spread: Army (-3.5),East Carolina,,0.44,,,22.7273,22.73,12.73,gagné
+2026-11-21 20:26 UTC,primm,REGLEMENT,Spread: Army (-5.5),East Carolina,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-21 20:26 UTC,primm,REGLEMENT,East Carolina vs. Army: O/U 37.5,Over,,0.66,,,15.1515,0.0,-10.0,perdu
+2026-11-21 20:26 UTC,primm,REGLEMENT,Memphis vs. Navy: O/U 63.5,Over,,0.57,,,17.5439,17.54,7.54,gagné
+2026-11-21 20:26 UTC,primm,REGLEMENT,Syracuse vs. Boston College: O/U 39.5,Over,,0.89,,,11.236,11.24,1.24,gagné
+2026-11-21 20:26 UTC,primm,REGLEMENT,Spread: Army (-6.5),Army,,0.42,,,23.8095,0.0,-10.0,perdu
+2026-11-21 20:26 UTC,primm,REGLEMENT,Syracuse vs. Boston College: O/U 39.5,Under,,0.44,,,22.7273,0.0,-10.0,perdu
+2026-11-21 20:26 UTC,primm,REGLEMENT,Memphis vs. Navy: O/U 59.5,Over,,0.44,,,22.7273,22.73,12.73,gagné
+2026-11-21 20:26 UTC,primm,REGLEMENT,Spread: Army (-1.5),East Carolina,,0.7,,,14.2857,14.29,4.29,gagné
+2026-11-21 20:26 UTC,primm,REGLEMENT,East Carolina vs. Army,Army,,0.49,,,20.4082,0.0,-10.0,perdu
