@@ -4561,3 +4561,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 03:25 UTC,primm,ACHAT,Spread: Toledo (-21.5),Toledo,0.36,0.38,2.0,1.8,26.3158,10.0,,
 2026-11-21 03:25 UTC,BreakTheBank,REGLEMENT,Spread: Magic (-5.5),Nets,,0.46,,,21.7391,21.74,11.74,gagné
 2026-11-21 03:30 UTC,primm,ACHAT,Spread: Oregon (-21.5),Michigan State,0.37,0.48,11.0,1.6,20.8333,10.0,,
+2026-11-21 03:35 UTC,primm,ACHAT,Spread: Clemson (-10.5),Clemson,0.18,0.389,20.9,4.3,25.7069,10.0,,
+2026-11-21 03:35 UTC,primm,ACHAT,Spread: Clemson (-6.5),Clemson,0.53,0.69,16.0,3.0,14.4928,10.0,,
