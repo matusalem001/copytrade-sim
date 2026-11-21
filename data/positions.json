@@ -1364,6 +1364,19 @@
    "parts": 29.4118,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 00:45 UTC"
+  },
+  "BreakTheBank|74466221317563241318986240828974202145543973645190095559344244267046235296244": {
+   "date": "2026-11-21 00:55 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Thunder (-11.5)",
+   "resultat": "Pelicans",
+   "prix_trader": 0.53,
+   "retard_min": 5.2,
+   "token": "74466221317563241318986240828974202145543973645190095559344244267046235296244",
+   "prix_simule": 0.54,
+   "parts": 18.5185,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 00:55 UTC"
   }
  },
  "fermees": [
