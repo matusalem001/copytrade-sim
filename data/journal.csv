@@ -4661,3 +4661,21 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 05:45 UTC,primm,REGLEMENT,New Mexico vs. Wyoming: O/U 39.5,Over,,0.45,,,22.2222,22.22,12.22,gagné
 2026-11-21 05:45 UTC,primm,REGLEMENT,New Mexico vs. Wyoming: O/U 37.5,Over,,0.52,,,19.2308,19.23,9.23,gagné
 2026-11-21 05:55 UTC,BreakTheBank,REGLEMENT,Spread: Nuggets (-2.5),Nuggets,,0.44,,,22.7273,22.73,12.73,gagné
+2026-11-21 06:00 UTC,primm,REGLEMENT,Spread: New Mexico (-9.5),New Mexico,,0.51,,,19.6078,0.0,-10.0,perdu
+2026-11-21 06:00 UTC,primm,REGLEMENT,Spread: New Mexico (-10.5),New Mexico,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-21 06:00 UTC,primm,REGLEMENT,Spread: New Mexico (-13.5),New Mexico,,0.42,,,23.8095,0.0,-10.0,perdu
+2026-11-21 06:00 UTC,primm,REGLEMENT,Spread: New Mexico (-14.5),New Mexico,,0.39,,,25.641,0.0,-10.0,perdu
+2026-11-21 06:01 UTC,primm,REGLEMENT,New Mexico vs. Wyoming,New Mexico,,0.76,,,13.1579,13.16,3.16,gagné
+2026-11-21 06:01 UTC,BreakTheBank,REGLEMENT,Rockets vs. Nuggets,Nuggets,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-21 06:01 UTC,BreakTheBank,REGLEMENT,Spread: Nuggets (-1.5),Nuggets,,0.47,,,21.2766,21.28,11.28,gagné
+2026-11-21 06:01 UTC,primm,REGLEMENT,Spread: New Mexico (-16.5),New Mexico,,0.45,,,22.2222,0.0,-10.0,perdu
+2026-11-21 06:01 UTC,primm,REGLEMENT,Spread: New Mexico (-20.5),New Mexico,,0.35,,,28.5714,0.0,-10.0,perdu
+2026-11-21 06:01 UTC,primm,REGLEMENT,Spread: New Mexico (-17.5),New Mexico,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-21 06:01 UTC,primm,REGLEMENT,New Mexico vs. Wyoming: O/U 41.5,Over,,0.43,,,23.2558,0.0,-10.0,perdu
+2026-11-21 06:01 UTC,primm,REGLEMENT,New Mexico vs. Wyoming: O/U 45.5,Over,,0.43,,,23.2558,0.0,-10.0,perdu
+2026-11-21 06:01 UTC,primm,REGLEMENT,New Mexico vs. Wyoming: O/U 41.5,Under,,0.61,,,16.3934,16.39,6.39,gagné
+2026-11-21 06:01 UTC,primm,REGLEMENT,Spread: New Mexico (-16.5),Wyoming,,0.57,,,17.5439,17.54,7.54,gagné
+2026-11-21 06:01 UTC,primm,REGLEMENT,Spread: New Mexico (-9.5),Wyoming,,0.16,,,62.5,62.5,52.5,gagné
+2026-11-21 06:01 UTC,primm,REGLEMENT,Spread: New Mexico (-14.5),Wyoming,,0.54,,,18.5185,18.52,8.52,gagné
+2026-11-21 06:01 UTC,primm,REGLEMENT,Spread: New Mexico (-10.5),Wyoming,,0.35,,,28.5714,28.57,18.57,gagné
+2026-11-21 06:01 UTC,primm,REGLEMENT,Spread: New Mexico (-13.5),Wyoming,,0.18,,,55.5556,55.56,45.56,gagné
