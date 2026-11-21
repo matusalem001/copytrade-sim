@@ -4680,3 +4680,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 06:01 UTC,primm,REGLEMENT,Spread: New Mexico (-10.5),Wyoming,,0.35,,,28.5714,28.57,18.57,gagné
 2026-11-21 06:01 UTC,primm,REGLEMENT,Spread: New Mexico (-13.5),Wyoming,,0.18,,,55.5556,55.56,45.56,gagné
 2026-11-21 06:20 UTC,primm,ACHAT,Ohio State vs. Nebraska,Nebraska,0.38,0.39,1.0,3.6,25.641,10.0,,
+2026-11-21 06:35 UTC,primm,ACHAT,Spread: Ohio State (-5.5),Nebraska,0.56,0.57,1.0,3.2,17.5439,10.0,,
