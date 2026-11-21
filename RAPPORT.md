@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 20:16 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 20:21 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 309 | 467 | 296 | 154 | +26.73 $ | +0.9 % | 13 | +1.2 ¢ | 8 min |
-| primm | 1677 | 730 | 1442 | 739 | +594.07 $ | +4.1 % | 235 | +3.1 ¢ | 4 min |
+| primm | 1679 | 732 | 1446 | 741 | +596.64 $ | +4.1 % | 233 | +3.1 ¢ | 4 min |
 | juice-fruit | 24 | 2 | 24 | 12 | -47.43 $ | -19.8 % | 0 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +573.37 $ sur 17620 $ engagés (+3.3 %)**
+**Total réalisé : +575.94 $ sur 17660 $ engagés (+3.3 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,10 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 20:16 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | North Carolina vs. Virginia: O/U 35.5 | Under | 0.35 | 0.00 | -10.00 $ |
+| primm | Wisconsin vs. Purdue: O/U 49.5 | Over | 0.46 | 1.00 | +11.74 $ |
+| primm | Wisconsin vs. Purdue: O/U 47.5 | Over | 0.48 | 1.00 | +10.83 $ |
+| primm | Ohio State vs. Nebraska: O/U 43.5 | Under | 0.55 | 0.00 | -10.00 $ |
 | primm | North Texas vs. Tulane: O/U 49.5 | Over | 0.87 | 1.00 | +1.49 $ |
 | primm | North Texas vs. Tulane: O/U 49.5 | Under | 0.37 | 0.00 | -10.00 $ |
 | BreakTheBank | Will Arsenal FC win on 2026-11-21? | Yes | 0.66 | 0.00 | -10.00 $ |
@@ -37,9 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 20:16 UTC** 
 | BreakTheBank | Will Crystal Palace FC win on 2026-11-21? | Yes | 0.35 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Ipswich Town FC (-1.5) | Ipswich Town FC | 0.05 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Tottenham Hotspur FC (-1.5) | Ipswich Town FC | 0.61 | 0.00 | -10.00 $ |
-| BreakTheBank | Will Tottenham Hotspur FC vs. Ipswich Town FC end in a draw? | Yes | 0.21 | 0.00 | -10.00 $ |
-| BreakTheBank | Will Ipswich Town FC win on 2026-11-21? | Yes | 0.17 | 0.00 | -10.00 $ |
-| BreakTheBank | Will Tottenham Hotspur FC win on 2026-11-21? | No | 0.37 | 0.00 | -10.00 $ |
-| BreakTheBank | Will AFC Bournemouth win on 2026-11-21? | Yes | 0.47 | 1.00 | +11.28 $ |
 
 Journal complet : `data/journal.csv`
