@@ -4773,3 +4773,12 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 16:29 UTC,primm,ACHAT,North Texas vs. Tulane: O/U 49.5,Under,0.32,0.37,5.0,1.9,27.027,10.0,,
 2026-11-21 16:30 UTC,primm,ACHAT,Spread: Syracuse (-3.5),Syracuse,0.45,0.46,1.0,1.2,21.7391,10.0,,
 2026-11-21 16:35 UTC,primm,IGNORE,Spread: New Mexico (-14.5),Wyoming,0.53,,,693.9,,,,vu trop tard
+2026-11-21 16:40 UTC,BreakTheBank,ACHAT,"UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card)",Kevin Vallejos,0.53,0.54,1.0,6.8,18.5185,10.0,,
+2026-11-21 16:40 UTC,BreakTheBank,ACHAT,"UFC Fight Night: Amir Albazi vs. Alessandro Costa (Flyweight, Prelims)",Alessandro Costa,0.52,0.54,2.0,6.1,18.5185,10.0,,
+2026-11-21 16:40 UTC,BreakTheBank,ACHAT,"UFC Fight Night: Shamil Gaziev vs. Tallison Teixeira (Heavyweight, Prelims)",Tallison Teixeira,0.37,0.38,1.0,5.5,26.3158,10.0,,
+2026-11-21 16:40 UTC,primm,ACHAT,Spread: Houston (-13.5),Houston,0.37,0.38,1.0,4.9,26.3158,10.0,,
+2026-11-21 16:40 UTC,primm,ACHAT,Houston vs. West Virginia,Houston,0.72,0.73,1.0,4.9,13.6986,10.0,,
+2026-11-21 16:40 UTC,primm,ACHAT,Houston vs. West Virginia: O/U 73.5,Over,0.47,0.48,1.0,4.9,20.8333,10.0,,
+2026-11-21 16:40 UTC,primm,ACHAT,Spread: Houston (-10.5),Houston,0.42,0.42,0.0,4.9,23.8095,10.0,,
+2026-11-21 16:40 UTC,primm,ACHAT,Spread: Houston (-5.5),Houston,0.58,0.57,-1.0,4.9,17.5439,10.0,,
+2026-11-21 16:40 UTC,primm,ACHAT,Wisconsin vs. Purdue: O/U 47.5,Over,0.48,0.48,0.0,2.8,20.8333,10.0,,
