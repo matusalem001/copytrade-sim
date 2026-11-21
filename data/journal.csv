@@ -4961,3 +4961,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 20:00 UTC,primm,ACHAT,Iowa vs. Illinois: O/U 41.5,Under,0.57,0.63,6.0,2.9,15.873,10.0,,
 2026-11-21 20:00 UTC,primm,ACHAT,Ohio State vs. Nebraska,Ohio State,0.29,0.33,4.0,0.9,30.303,10.0,,
 2026-11-21 20:05 UTC,BreakTheBank,IGNORE,"UFC Fight Night: Kyoji Horiguchi vs. Asu Almabayev (Flyweight, Main Card)",Asu Almabayev,0.38,,,101.1,,,,vu trop tard
+2026-11-21 20:10 UTC,BreakTheBank,IGNORE,"UFC Fight Night: Jared Cannonier vs. Ikram Aliskerov (Middleweight, Main Card)",Ikram Aliskerov,0.76,,,130.7,,,,vu trop tard
+2026-11-21 20:10 UTC,primm,ACHAT,Spread: Iowa (-2.5),Illinois,0.4,0.62,22.0,7.1,16.129,10.0,,
+2026-11-21 20:10 UTC,primm,ACHAT,Spread: Iowa (-1.5),Illinois,0.37,0.4,3.0,7.1,25.0,10.0,,
+2026-11-21 20:10 UTC,primm,ACHAT,Memphis vs. Navy,Navy,0.21,0.23,2.0,1.7,43.4783,10.0,,
