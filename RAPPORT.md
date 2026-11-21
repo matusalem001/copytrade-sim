@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 14:35 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 14:41 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 295 | 450 | 279 | 147 | +36.92 $ | +1.3 % | 16 | +1.2 ¢ | 8 min |
-| primm | 1512 | 707 | 1434 | 733 | +573.98 $ | +4.0 % | 78 | +3.0 ¢ | 4 min |
-| juice-fruit | 22 | 2 | 20 | 10 | -42.54 $ | -21.3 % | 2 | -0.1 ¢ | 4 min |
+| BreakTheBank | 295 | 454 | 280 | 148 | +60.26 $ | +2.2 % | 15 | +1.2 ¢ | 8 min |
+| primm | 1513 | 707 | 1434 | 733 | +573.98 $ | +4.0 % | 79 | +3.0 ¢ | 4 min |
+| juice-fruit | 22 | 2 | 21 | 10 | -52.54 $ | -25.0 % | 1 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +568.37 $ sur 17330 $ engagés (+3.3 %)**
+**Total réalisé : +581.70 $ sur 17350 $ engagés (+3.4 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 14:35 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Will Manchester City FC win on 2026-11-21? | No | 0.30 | 1.00 | +23.33 $ |
+| juice-fruit | Will Manchester City FC win on 2026-11-21? | Yes | 0.73 | 0.00 | -10.00 $ |
 | primm | Spread: New Mexico (-13.5) | Wyoming | 0.18 | 1.00 | +45.56 $ |
 | primm | Spread: New Mexico (-10.5) | Wyoming | 0.35 | 1.00 | +18.57 $ |
 | primm | Spread: New Mexico (-14.5) | Wyoming | 0.54 | 1.00 | +8.52 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 14:35 UTC** 
 | primm | New Mexico vs. Wyoming: O/U 39.5 | Over | 0.45 | 1.00 | +12.22 $ |
 | BreakTheBank | Suns vs. Jazz | Suns | 0.63 | 1.00 | +5.87 $ |
 | primm | Spread: Oregon (-21.5) | Michigan State | 0.48 | 0.00 | -10.00 $ |
-| primm | Spread: Oregon (-27.5) | Michigan State | 0.59 | 0.00 | -10.00 $ |
-| primm | Spread: Oregon (-30.5) | Michigan State | 0.66 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
