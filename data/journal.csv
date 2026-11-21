@@ -4687,3 +4687,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 07:35 UTC,primm,ACHAT,Spread: UCLA (-5.5),UCLA,0.44,0.45,1.0,3.0,22.2222,10.0,,
 2026-11-21 07:50 UTC,primm,ACHAT,Spread: Iowa (-14.5),Iowa,0.36,0.39,3.0,1.0,25.641,10.0,,
 2026-11-21 08:00 UTC,primm,ACHAT,Spread: Utah (-6.5),TCU,0.42,0.45,3.0,5.3,22.2222,10.0,,
+2026-11-21 08:05 UTC,primm,IGNORE,Spread: Clemson (-4.5),Clemson,0.47,,,315.1,,,,vu trop tard
+2026-11-21 08:05 UTC,primm,IGNORE,Oregon vs. Michigan State: O/U 39.5,Under,0.56,,,286.2,,,,vu trop tard
