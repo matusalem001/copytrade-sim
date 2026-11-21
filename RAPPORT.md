@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 03:45 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 03:50 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 289 | 438 | 273 | 141 | -23.21 $ | -0.9 % | 16 | +1.2 ¢ | 8 min |
-| primm | 1473 | 695 | 1359 | 694 | +419.65 $ | +3.1 % | 114 | +3.1 ¢ | 4 min |
+| BreakTheBank | 289 | 438 | 275 | 143 | -2.96 $ | -0.1 % | 14 | +1.2 ¢ | 8 min |
+| primm | 1473 | 697 | 1361 | 694 | +399.65 $ | +2.9 % | 112 | +3.1 ¢ | 4 min |
 | juice-fruit | 20 | 2 | 20 | 10 | -42.54 $ | -21.3 % | 0 | -0.3 ¢ | 5 min |
 
-**Total réalisé : +353.90 $ sur 16520 $ engagés (+2.1 %)**
+**Total réalisé : +354.16 $ sur 16560 $ engagés (+2.1 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,10 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 03:45 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | UTEP vs. Air Force: O/U 47.5 | Under | 0.48 | 0.00 | -10.00 $ |
+| primm | UTEP vs. Air Force: O/U 45.5 | Under | 0.45 | 0.00 | -10.00 $ |
+| BreakTheBank | Spread: Thunder (-9.5) | Pelicans | 0.46 | 1.00 | +11.74 $ |
+| BreakTheBank | Spread: Thunder (-11.5) | Pelicans | 0.54 | 1.00 | +8.52 $ |
 | BreakTheBank | Pelicans vs. Thunder | Pelicans | 0.20 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Magic (-5.5) | Nets | 0.46 | 1.00 | +11.74 $ |
 | BreakTheBank | Pacers vs. Cavaliers | Pacers | 0.34 | 0.00 | -10.00 $ |
@@ -37,9 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 03:45 UTC** 
 | primm | Spread: UCF (-7.5) | Iowa State | 0.67 | 0.00 | -10.00 $ |
 | primm | Spread: UCF (-4.5) | Iowa State | 0.55 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Hawks (-5.5) | Hornets | 0.43 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Hawks (-6.5) | Hornets | 0.47 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Hawks (-7.5) | Hornets | 0.51 | 0.00 | -10.00 $ |
-| primm | Iowa State vs. UCF: O/U 61.5 | Over | 0.68 | 1.00 | +4.71 $ |
-| primm | Iowa State vs. UCF: O/U 57.5 | Over | 0.60 | 1.00 | +6.67 $ |
 
 Journal complet : `data/journal.csv`
