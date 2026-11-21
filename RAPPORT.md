@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 05:20 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 05:25 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 289 | 438 | 275 | 143 | -2.96 $ | -0.1 % | 14 | +1.2 ¢ | 8 min |
-| primm | 1499 | 698 | 1416 | 724 | +500.29 $ | +3.5 % | 83 | +3.0 ¢ | 4 min |
+| BreakTheBank | 289 | 438 | 276 | 144 | +2.92 $ | +0.1 % | 13 | +1.2 ¢ | 8 min |
+| primm | 1500 | 698 | 1416 | 724 | +500.29 $ | +3.5 % | 84 | +3.0 ¢ | 4 min |
 | juice-fruit | 20 | 2 | 20 | 10 | -42.54 $ | -21.3 % | 0 | -0.3 ¢ | 5 min |
 
-**Total réalisé : +454.80 $ sur 17110 $ engagés (+2.7 %)**
+**Total réalisé : +460.67 $ sur 17120 $ engagés (+2.7 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 05:20 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Suns vs. Jazz | Suns | 0.63 | 1.00 | +5.87 $ |
 | primm | Spread: Oregon (-21.5) | Michigan State | 0.48 | 0.00 | -10.00 $ |
 | primm | Spread: Oregon (-27.5) | Michigan State | 0.59 | 0.00 | -10.00 $ |
 | primm | Spread: Oregon (-30.5) | Michigan State | 0.66 | 0.00 | -10.00 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 05:20 UTC** 
 | primm | Spread: Clemson (-3.5) | Clemson | 0.27 | 1.00 | +27.04 $ |
 | primm | Spread: Duke (-3.5) | Clemson | 0.56 | 1.00 | +7.86 $ |
 | primm | Spread: Duke (-2.5) | Clemson | 0.49 | 1.00 | +10.41 $ |
-| primm | Spread: Clemson (-2.5) | Clemson | 0.39 | 1.00 | +15.64 $ |
 
 Journal complet : `data/journal.csv`
