@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 22:10 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 22:15 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 309 | 472 | 298 | 156 | +40.64 $ | +1.4 % | 11 | +1.2 ¢ | 8 min |
-| primm | 1744 | 755 | 1602 | 821 | +591.29 $ | +3.7 % | 142 | +3.0 ¢ | 4 min |
+| primm | 1747 | 755 | 1603 | 822 | +595.37 $ | +3.7 % | 144 | +3.0 ¢ | 4 min |
 | juice-fruit | 24 | 2 | 24 | 12 | -47.43 $ | -19.8 % | 0 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +584.49 $ sur 19240 $ engagés (+3.0 %)**
+**Total réalisé : +588.57 $ sur 19250 $ engagés (+3.1 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 22:10 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Iowa vs. Illinois: O/U 35.5 | Over | 0.71 | 1.00 | +4.08 $ |
 | primm | Spread: West Virginia (-2.5) | Houston | 0.52 | 1.00 | +9.23 $ |
 | primm | Spread: Houston (-5.5) | Houston | 0.57 | 0.00 | -10.00 $ |
 | primm | Houston vs. West Virginia | Houston | 0.73 | 1.00 | +3.70 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 22:10 UTC** 
 | primm | Spread: Virginia (-6.5) | North Carolina | 0.60 | 0.00 | -10.00 $ |
 | BreakTheBank | UFC Fight Night: Jirí Procházka vs. Navajo Stirling (Light Heavyweight, Main Card) | Navajo Stirling | 0.65 | 1.00 | +5.38 $ |
 | primm | Spread: BYU (-5.5) | BYU | 0.48 | 0.00 | -10.00 $ |
-| primm | North Carolina vs. Virginia | North Carolina | 0.51 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

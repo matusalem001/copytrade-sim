@@ -5229,3 +5229,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 22:10 UTC,primm,ACHAT,Old Dominion vs. UConn: O/U 51.5,Over,0.73,0.75,2.0,3.2,13.3333,10.0,,
 2026-11-21 22:10 UTC,primm,ACHAT,Spread: UCLA (-2.5),Michigan,0.43,0.43,0.0,0.6,23.2558,10.0,,
 2026-11-21 22:10 UTC,primm,ACHAT,Spread: UCLA (-1.5),Michigan,0.41,0.41,0.0,0.6,24.3902,10.0,,
+2026-11-21 22:15 UTC,primm,ACHAT,Old Dominion vs. UConn,Old Dominion,0.13,0.14,1.0,4.5,71.4286,10.0,,
+2026-11-21 22:15 UTC,primm,ACHAT,Spread: UConn (-5.5),Old Dominion,0.29,0.3,1.0,4.4,33.3333,10.0,,
+2026-11-21 22:15 UTC,primm,ACHAT,Spread: Texas (-35.5),Texas,0.48,0.49,1.0,1.7,20.4082,10.0,,
+2026-11-21 22:15 UTC,primm,REGLEMENT,Iowa vs. Illinois: O/U 35.5,Over,,0.71,,,14.0845,14.08,4.08,gagné
