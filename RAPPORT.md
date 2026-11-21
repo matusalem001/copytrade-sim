@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 04:10 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 04:15 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 289 | 438 | 275 | 143 | -2.96 $ | -0.1 % | 14 | +1.2 ¢ | 8 min |
-| primm | 1473 | 698 | 1377 | 702 | +374.92 $ | +2.7 % | 96 | +3.1 ¢ | 4 min |
+| primm | 1473 | 698 | 1379 | 702 | +354.92 $ | +2.6 % | 94 | +3.1 ¢ | 4 min |
 | juice-fruit | 20 | 2 | 20 | 10 | -42.54 $ | -21.3 % | 0 | -0.3 ¢ | 5 min |
 
-**Total réalisé : +329.43 $ sur 16720 $ engagés (+2.0 %)**
+**Total réalisé : +309.43 $ sur 16740 $ engagés (+1.8 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 04:10 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Oregon vs. Michigan State: O/U 39.5 | Under | 0.52 | 0.00 | -10.00 $ |
+| primm | Oregon vs. Michigan State: O/U 43.5 | Under | 0.49 | 0.00 | -10.00 $ |
 | primm | Spread: Toledo (-21.5) | Toledo | 0.38 | 0.00 | -10.00 $ |
 | primm | Spread: Toledo (-16.5) | Toledo | 0.45 | 1.00 | +12.22 $ |
 | primm | Spread: Toledo (-23.5) | Bowling Green | 0.78 | 1.00 | +2.82 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 04:10 UTC** 
 | BreakTheBank | Pelicans vs. Thunder | Pelicans | 0.20 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Magic (-5.5) | Nets | 0.46 | 1.00 | +11.74 $ |
 | BreakTheBank | Pacers vs. Cavaliers | Pacers | 0.34 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Cavaliers (-4.5) | Pacers | 0.45 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Cavaliers (-6.5) | Pacers | 0.53 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

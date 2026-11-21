@@ -182,19 +182,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-20 15:50 UTC"
   },
-  "primm|72022770905189589654962072317335211776930719552159121853534854917482240115070": {
-   "date": "2026-11-20 15:50 UTC",
-   "trader": "primm",
-   "marche": "Oregon vs. Michigan State: O/U 43.5",
-   "resultat": "Under",
-   "prix_trader": 0.48,
-   "retard_min": 2.8,
-   "token": "72022770905189589654962072317335211776930719552159121853534854917482240115070",
-   "prix_simule": 0.49,
-   "parts": 20.4082,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-20 15:50 UTC"
-  },
   "primm|3971133615172906859591473134257229491921002515811632688767192753042338279356": {
    "date": "2026-11-20 16:01 UTC",
    "trader": "primm",
@@ -1026,19 +1013,6 @@
    "parts": 23.8095,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 01:01 UTC"
-  },
-  "primm|89702010923911733391254981892090408638137204777195000908108312288249004415521": {
-   "date": "2026-11-21 01:20 UTC",
-   "trader": "primm",
-   "marche": "Oregon vs. Michigan State: O/U 39.5",
-   "resultat": "Under",
-   "prix_trader": 0.5296,
-   "retard_min": 2.1,
-   "token": "89702010923911733391254981892090408638137204777195000908108312288249004415521",
-   "prix_simule": 0.52,
-   "parts": 19.2308,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-21 01:20 UTC"
   },
   "BreakTheBank|26440765375097139299484482111322143601951907925964391946264161492264204121290": {
    "date": "2026-11-21 01:35 UTC",
@@ -29854,6 +29828,40 @@
    "sortie": 0.0,
    "pnl": -10.0,
    "ferme_le": "2026-11-21 04:10 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-20 15:50 UTC",
+   "trader": "primm",
+   "marche": "Oregon vs. Michigan State: O/U 43.5",
+   "resultat": "Under",
+   "prix_trader": 0.48,
+   "retard_min": 2.8,
+   "token": "72022770905189589654962072317335211776930719552159121853534854917482240115070",
+   "prix_simule": 0.49,
+   "parts": 20.4082,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-20 15:50 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-21 04:15 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-21 01:20 UTC",
+   "trader": "primm",
+   "marche": "Oregon vs. Michigan State: O/U 39.5",
+   "resultat": "Under",
+   "prix_trader": 0.5296,
+   "retard_min": 2.1,
+   "token": "89702010923911733391254981892090408638137204777195000908108312288249004415521",
+   "prix_simule": 0.52,
+   "parts": 19.2308,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 01:20 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-21 04:15 UTC",
    "type": "perdu"
   }
  ]
