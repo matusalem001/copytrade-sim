@@ -806,19 +806,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-21 02:00 UTC"
   },
-  "BreakTheBank|13201954815098590267842253020765227556739179625672316103496554571059843775460": {
-   "date": "2026-11-21 02:05 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Spread: Nuggets (-2.5)",
-   "resultat": "Nuggets",
-   "prix_trader": 0.43,
-   "retard_min": 4.9,
-   "token": "13201954815098590267842253020765227556739179625672316103496554571059843775460",
-   "prix_simule": 0.44,
-   "parts": 22.7273,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-21 02:05 UTC"
-  },
   "primm|105079894983654699933856465014935427667368906561555521156575047543065699265449": {
    "date": "2026-11-21 02:25 UTC",
    "trader": "primm",
@@ -30373,6 +30360,23 @@
    "sortie": 1.0,
    "pnl": 9.2308,
    "ferme_le": "2026-11-21 05:45 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-21 02:05 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Nuggets (-2.5)",
+   "resultat": "Nuggets",
+   "prix_trader": 0.43,
+   "retard_min": 4.9,
+   "token": "13201954815098590267842253020765227556739179625672316103496554571059843775460",
+   "prix_simule": 0.44,
+   "parts": 22.7273,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 02:05 UTC",
+   "sortie": 1.0,
+   "pnl": 12.7273,
+   "ferme_le": "2026-11-21 05:55 UTC",
    "type": "gagné"
   }
  ]
