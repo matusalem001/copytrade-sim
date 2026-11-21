@@ -5218,3 +5218,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 21:45 UTC,primm,REGLEMENT,Spread: West Virginia (-2.5),Houston,,0.52,,,19.2308,19.23,9.23,gagné
 2026-11-21 21:48 UTC,primm,ACHAT,Delaware vs. New Mexico State: O/U 55.5,Over,0.51,0.52,1.0,7.1,19.2308,10.0,,
 2026-11-21 21:48 UTC,primm,ACHAT,Delaware vs. New Mexico State: O/U 57.5,Over,0.44,0.46,2.0,7.2,21.7391,10.0,,
+2026-11-21 21:55 UTC,primm,ACHAT,NC State vs. Florida State: O/U 45.5,Over,0.48,0.43,-5.0,4.4,23.2558,10.0,,
+2026-11-21 21:55 UTC,primm,ACHAT,Old Dominion vs. UConn: O/U 67.5,Over,0.27,0.27,0.0,1.7,37.037,10.0,,
