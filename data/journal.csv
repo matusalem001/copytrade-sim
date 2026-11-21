@@ -5249,3 +5249,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 23:01 UTC,primm,ACHAT,Northern Illinois vs. North Dakota State: O/U 47.5,Over,0.54,0.73,19.0,7.4,13.6986,10.0,,
 2026-11-21 23:01 UTC,primm,ACHAT,Northern Illinois vs. North Dakota State: O/U 49.5,Over,0.43,0.64,21.0,7.4,15.625,10.0,,
 2026-11-21 23:01 UTC,primm,REGLEMENT,Florida International vs. Kennesaw State: O/U 47.5,Over,,0.76,,,13.1579,13.16,3.16,gagné
+2026-11-21 23:05 UTC,primm,REGLEMENT,Iowa vs. Illinois: O/U 47.5,Over,,0.62,,,16.129,16.13,6.13,gagné
+2026-11-21 23:05 UTC,primm,REGLEMENT,Iowa vs. Illinois: O/U 45.5,Over,,0.63,,,15.873,15.87,5.87,gagné
