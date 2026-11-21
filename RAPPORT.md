@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 22:35 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 22:40 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 309 | 472 | 298 | 156 | +40.64 $ | +1.4 % | 11 | +1.2 ¢ | 8 min |
-| primm | 1749 | 755 | 1611 | 822 | +515.37 $ | +3.2 % | 138 | +3.0 ¢ | 4 min |
+| primm | 1749 | 755 | 1612 | 822 | +505.37 $ | +3.1 % | 137 | +3.0 ¢ | 4 min |
 | juice-fruit | 24 | 2 | 24 | 12 | -47.43 $ | -19.8 % | 0 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +508.57 $ sur 19330 $ engagés (+2.6 %)**
+**Total réalisé : +498.57 $ sur 19340 $ engagés (+2.6 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 22:35 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Middle Tennessee (-7.5) | Middle Tennessee | 0.43 | 0.00 | -10.00 $ |
 | primm | Spread: Missouri State (-3.5) | Missouri State | 0.47 | 0.00 | -10.00 $ |
 | primm | Spread: Missouri State (-1.5) | Missouri State | 0.60 | 0.00 | -10.00 $ |
 | primm | Missouri State vs. Jacksonville State | Missouri State | 0.62 | 0.00 | -10.00 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 22:35 UTC** 
 | primm | Houston vs. West Virginia: O/U 71.5 | Over | 0.50 | 0.00 | -10.00 $ |
 | primm | Western Kentucky vs. Liberty: O/U 53.5 | Over | 0.50 | 1.00 | +10.00 $ |
 | primm | Western Kentucky vs. Liberty: O/U 51.5 | Over | 0.55 | 1.00 | +8.18 $ |
-| primm | Spread: Virginia (-7.5) | North Carolina | 0.60 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

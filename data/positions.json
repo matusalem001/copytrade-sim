@@ -312,19 +312,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-20 19:50 UTC"
   },
-  "primm|91098892023463354558764686161013775866795234492671146976493770655413669165145": {
-   "date": "2026-11-20 20:00 UTC",
-   "trader": "primm",
-   "marche": "Spread: Middle Tennessee (-7.5)",
-   "resultat": "Middle Tennessee",
-   "prix_trader": 0.42,
-   "retard_min": 7.2,
-   "token": "91098892023463354558764686161013775866795234492671146976493770655413669165145",
-   "prix_simule": 0.43,
-   "parts": 23.2558,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-20 20:00 UTC"
-  },
   "primm|110509266812520695840355037283372788399648693998053985138350016558207847240567": {
    "date": "2026-11-20 20:00 UTC",
    "trader": "primm",
@@ -34798,6 +34785,23 @@
    "sortie": 0.0,
    "pnl": -10.0,
    "ferme_le": "2026-11-21 22:35 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-20 20:00 UTC",
+   "trader": "primm",
+   "marche": "Spread: Middle Tennessee (-7.5)",
+   "resultat": "Middle Tennessee",
+   "prix_trader": 0.42,
+   "retard_min": 7.2,
+   "token": "91098892023463354558764686161013775866795234492671146976493770655413669165145",
+   "prix_simule": 0.43,
+   "parts": 23.2558,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-20 20:00 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-21 22:40 UTC",
    "type": "perdu"
   }
  ]
