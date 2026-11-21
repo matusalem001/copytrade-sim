@@ -4876,3 +4876,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 18:25 UTC,primm,ACHAT,Syracuse vs. Boston College: O/U 39.5,Over,0.72,0.89,17.0,7.8,11.236,10.0,,
 2026-11-21 18:25 UTC,primm,ACHAT,BYU vs. Kansas: O/U 37.5,Under,0.7,0.73,3.0,2.9,13.6986,10.0,,
 2026-11-21 18:25 UTC,BreakTheBank,REGLEMENT,"UFC Fight Night: Aleksandre Topuria vs. Santiago Luna (Bantamweight, Main Card)",Santiago Luna,,0.3,,,33.3333,33.33,23.33,gagné
+2026-11-21 18:35 UTC,BreakTheBank,IGNORE,"UFC Fight Night: Aleksandre Topuria vs. Santiago Luna (Bantamweight, Main Card)",Santiago Luna,0.29,,,70.7,,,,vu trop tard
