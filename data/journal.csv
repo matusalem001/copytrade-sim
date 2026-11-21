@@ -5187,3 +5187,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 21:20 UTC,primm,ACHAT,Spread: LSU (-10.5),LSU,0.38,0.44,6.0,1.9,22.7273,10.0,,
 2026-11-21 21:20 UTC,primm,ACHAT,UCLA vs. Michigan,UCLA,0.65,0.65,0.0,1.0,15.3846,10.0,,
 2026-11-21 21:25 UTC,primm,IGNORE,Memphis vs. Navy: O/U 71.5,Over,0.74,,,73.8,,,,vu trop tard
+2026-11-21 21:30 UTC,primm,IGNORE,Spread: BYU (-1.5),Kansas,0.54,,,69.7,,,,vu trop tard
+2026-11-21 21:30 UTC,primm,ACHAT,Arkansas vs. Texas: O/U 51.5,Under,0.48,0.59,11.0,6.7,16.9492,10.0,,
+2026-11-21 21:30 UTC,primm,REGLEMENT,Western Kentucky vs. Liberty: O/U 51.5,Over,,0.55,,,18.1818,18.18,8.18,gagné
+2026-11-21 21:30 UTC,primm,REGLEMENT,Western Kentucky vs. Liberty: O/U 53.5,Over,,0.5,,,20.0,20.0,10.0,gagné

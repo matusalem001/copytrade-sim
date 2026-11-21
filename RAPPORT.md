@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 21:25 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 21:31 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 309 | 472 | 298 | 156 | +40.64 $ | +1.4 % | 11 | +1.2 ¢ | 8 min |
-| primm | 1718 | 754 | 1587 | 815 | +634.30 $ | +4.0 % | 131 | +3.1 ¢ | 4 min |
+| primm | 1719 | 755 | 1589 | 817 | +652.49 $ | +4.1 % | 130 | +3.1 ¢ | 4 min |
 | juice-fruit | 24 | 2 | 24 | 12 | -47.43 $ | -19.8 % | 0 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +627.50 $ sur 19090 $ engagés (+3.3 %)**
+**Total réalisé : +645.69 $ sur 19110 $ engagés (+3.4 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 21:25 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Western Kentucky vs. Liberty: O/U 53.5 | Over | 0.50 | 1.00 | +10.00 $ |
+| primm | Western Kentucky vs. Liberty: O/U 51.5 | Over | 0.55 | 1.00 | +8.18 $ |
 | primm | Spread: Virginia (-7.5) | North Carolina | 0.60 | 0.00 | -10.00 $ |
 | primm | Spread: Virginia (-2.5) | North Carolina | 0.46 | 0.00 | -10.00 $ |
 | primm | Spread: Virginia (-5.5) | North Carolina | 0.58 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 21:25 UTC** 
 | primm | BYU vs. Kansas | Kansas | 0.35 | 0.00 | -10.00 $ |
 | primm | Spread: BYU (-3.5) | Kansas | 0.52 | 1.00 | +9.23 $ |
 | primm | BYU vs. Kansas | BYU | 0.65 | 1.00 | +5.38 $ |
-| primm | BYU vs. Kansas: O/U 43.5 | Under | 0.42 | 0.00 | -10.00 $ |
-| primm | BYU vs. Kansas: O/U 47.5 | Under | 0.54 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

@@ -338,19 +338,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-20 19:55 UTC"
   },
-  "primm|56756135478167866989838687309271237019970110275516565079101931492783491118109": {
-   "date": "2026-11-20 19:55 UTC",
-   "trader": "primm",
-   "marche": "Western Kentucky vs. Liberty: O/U 51.5",
-   "resultat": "Over",
-   "prix_trader": 0.54,
-   "retard_min": 4.7,
-   "token": "56756135478167866989838687309271237019970110275516565079101931492783491118109",
-   "prix_simule": 0.55,
-   "parts": 18.1818,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-20 19:55 UTC"
-  },
   "primm|61298579315756919151349075591711619993282407820452105374911863755081449792126": {
    "date": "2026-11-20 19:55 UTC",
    "trader": "primm",
@@ -361,19 +348,6 @@
    "token": "61298579315756919151349075591711619993282407820452105374911863755081449792126",
    "prix_simule": 0.63,
    "parts": 15.873,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-20 19:55 UTC"
-  },
-  "primm|80665168288743509918290100012609868848602608642237078108478328462776590189521": {
-   "date": "2026-11-20 19:55 UTC",
-   "trader": "primm",
-   "marche": "Western Kentucky vs. Liberty: O/U 53.5",
-   "resultat": "Over",
-   "prix_trader": 0.48,
-   "retard_min": 4.7,
-   "token": "80665168288743509918290100012609868848602608642237078108478328462776590189521",
-   "prix_simule": 0.5,
-   "parts": 20.0,
    "montant": 10.0,
    "ouvert_le": "2026-11-20 19:55 UTC"
   },
@@ -1845,6 +1819,19 @@
    "parts": 15.3846,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 21:20 UTC"
+  },
+  "primm|19173958196868355587391360330364128208079505499814779393884457935117671690987": {
+   "date": "2026-11-21 21:30 UTC",
+   "trader": "primm",
+   "marche": "Arkansas vs. Texas: O/U 51.5",
+   "resultat": "Under",
+   "prix_trader": 0.48,
+   "retard_min": 6.7,
+   "token": "19173958196868355587391360330364128208079505499814779393884457935117671690987",
+   "prix_simule": 0.59,
+   "parts": 16.9492,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 21:30 UTC"
   }
  },
  "fermees": [
@@ -34300,6 +34287,40 @@
    "pnl": -10.0,
    "ferme_le": "2026-11-21 21:15 UTC",
    "type": "perdu"
+  },
+  {
+   "date": "2026-11-20 19:55 UTC",
+   "trader": "primm",
+   "marche": "Western Kentucky vs. Liberty: O/U 51.5",
+   "resultat": "Over",
+   "prix_trader": 0.54,
+   "retard_min": 4.7,
+   "token": "56756135478167866989838687309271237019970110275516565079101931492783491118109",
+   "prix_simule": 0.55,
+   "parts": 18.1818,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-20 19:55 UTC",
+   "sortie": 1.0,
+   "pnl": 8.1818,
+   "ferme_le": "2026-11-21 21:30 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-20 19:55 UTC",
+   "trader": "primm",
+   "marche": "Western Kentucky vs. Liberty: O/U 53.5",
+   "resultat": "Over",
+   "prix_trader": 0.48,
+   "retard_min": 4.7,
+   "token": "80665168288743509918290100012609868848602608642237078108478328462776590189521",
+   "prix_simule": 0.5,
+   "parts": 20.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-20 19:55 UTC",
+   "sortie": 1.0,
+   "pnl": 10.0,
+   "ferme_le": "2026-11-21 21:30 UTC",
+   "type": "gagné"
   }
  ]
 }
