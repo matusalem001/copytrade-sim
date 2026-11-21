@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 21:01 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 21:05 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 309 | 472 | 297 | 155 | +35.25 $ | +1.2 % | 12 | +1.2 ¢ | 8 min |
-| primm | 1702 | 743 | 1558 | 805 | +715.05 $ | +4.6 % | 144 | +3.0 ¢ | 4 min |
+| primm | 1704 | 746 | 1561 | 806 | +704.65 $ | +4.5 % | 143 | +3.0 ¢ | 4 min |
 | juice-fruit | 24 | 2 | 24 | 12 | -47.43 $ | -19.8 % | 0 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +702.86 $ sur 18790 $ engagés (+3.7 %)**
+**Total réalisé : +692.47 $ sur 18820 $ engagés (+3.7 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,9 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 21:01 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Syracuse vs. Boston College: O/U 49.5 | Over | 0.27 | 0.00 | -10.00 $ |
+| primm | Spread: Memphis (-2.5) | Navy | 0.51 | 1.00 | +9.61 $ |
+| primm | Spread: Boston College (-1.5) | Syracuse | 0.60 | 0.00 | -10.00 $ |
 | primm | Spread: Navy (-2.5) | Navy | 0.33 | 1.00 | +20.30 $ |
 | primm | Ohio State vs. Nebraska | Ohio State | 0.33 | 0.00 | -10.00 $ |
 | primm | Spread: Memphis (-7.5) | Navy | 0.51 | 1.00 | +9.61 $ |
@@ -38,8 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 21:01 UTC** 
 | primm | Spread: Boston College (-4.5) | Syracuse | 0.75 | 0.00 | -10.00 $ |
 | primm | Spread: Navy (-4.5) | Memphis | 0.57 | 1.00 | +7.54 $ |
 | primm | Spread: Boston College (-3.5) | Syracuse | 0.56 | 0.00 | -10.00 $ |
-| primm | Spread: Syracuse (-3.5) | Syracuse | 0.46 | 0.00 | -10.00 $ |
-| primm | Syracuse vs. Boston College: O/U 53.5 | Under | 0.52 | 1.00 | +9.23 $ |
-| primm | Spread: Boston College (-2.5) | Syracuse | 0.63 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
