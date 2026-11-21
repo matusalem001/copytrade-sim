@@ -1234,6 +1234,58 @@
    "parts": 21.7391,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 14:40 UTC"
+  },
+  "BreakTheBank|71815318065041809744930323897626223551070458506293325692358249043537611963283": {
+   "date": "2026-11-21 14:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Tottenham Hotspur FC (-1.5)",
+   "resultat": "Ipswich Town FC",
+   "prix_trader": 0.6,
+   "retard_min": 6.5,
+   "token": "71815318065041809744930323897626223551070458506293325692358249043537611963283",
+   "prix_simule": 0.61,
+   "parts": 16.3934,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 14:45 UTC"
+  },
+  "BreakTheBank|53749395179799912383120994755546806909334814174759893591178297006021726996156": {
+   "date": "2026-11-21 14:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Chelsea FC win on 2026-11-21?",
+   "resultat": "No",
+   "prix_trader": 0.51,
+   "retard_min": 5.1,
+   "token": "53749395179799912383120994755546806909334814174759893591178297006021726996156",
+   "prix_simule": 0.52,
+   "parts": 19.2308,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 14:45 UTC"
+  },
+  "BreakTheBank|21582939066287813209150536182371347715519705176291230578158657431458705193729": {
+   "date": "2026-11-21 14:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Crystal Palace FC win on 2026-11-21?",
+   "resultat": "Yes",
+   "prix_trader": 0.34,
+   "retard_min": 2.4,
+   "token": "21582939066287813209150536182371347715519705176291230578158657431458705193729",
+   "prix_simule": 0.35,
+   "parts": 28.5714,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 14:45 UTC"
+  },
+  "primm|105402038742009415542964585630040706927649501174838212246828556721286763846604": {
+   "date": "2026-11-21 14:45 UTC",
+   "trader": "primm",
+   "marche": "BYU vs. Kansas: O/U 49.5",
+   "resultat": "Under",
+   "prix_trader": 0.59,
+   "retard_min": 3.6,
+   "token": "105402038742009415542964585630040706927649501174838212246828556721286763846604",
+   "prix_simule": 0.6,
+   "parts": 16.6667,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 14:45 UTC"
   }
  },
  "fermees": [
