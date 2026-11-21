@@ -4655,3 +4655,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 05:00 UTC,primm,ACHAT,Spread: New Mexico (-9.5),Wyoming,0.149,0.16,1.1,0.1,62.5,10.0,,
 2026-11-21 05:01 UTC,primm,ACHAT,Spread: New Mexico (-14.5),Wyoming,0.54,0.54,0.0,0.1,18.5185,10.0,,
 2026-11-21 05:01 UTC,primm,ACHAT,Spread: New Mexico (-10.5),Wyoming,0.35,0.35,0.0,0.1,28.5714,10.0,,
+2026-11-21 05:05 UTC,primm,ACHAT,Spread: New Mexico (-13.5),Wyoming,0.17,0.18,1.0,0.5,55.5556,10.0,,
