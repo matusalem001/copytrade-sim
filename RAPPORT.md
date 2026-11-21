@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 04:50 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 04:55 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 289 | 438 | 275 | 143 | -2.96 $ | -0.1 % | 14 | +1.2 ¢ | 8 min |
-| primm | 1485 | 698 | 1409 | 724 | +570.29 $ | +4.0 % | 76 | +3.0 ¢ | 4 min |
+| primm | 1490 | 698 | 1416 | 724 | +500.29 $ | +3.5 % | 74 | +3.0 ¢ | 4 min |
 | juice-fruit | 20 | 2 | 20 | 10 | -42.54 $ | -21.3 % | 0 | -0.3 ¢ | 5 min |
 
-**Total réalisé : +524.80 $ sur 17040 $ engagés (+3.1 %)**
+**Total réalisé : +454.80 $ sur 17110 $ engagés (+2.7 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,13 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 04:50 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Oregon (-21.5) | Michigan State | 0.48 | 0.00 | -10.00 $ |
+| primm | Spread: Oregon (-27.5) | Michigan State | 0.59 | 0.00 | -10.00 $ |
+| primm | Spread: Oregon (-30.5) | Michigan State | 0.66 | 0.00 | -10.00 $ |
+| primm | Spread: Oregon (-24.5) | Michigan State | 0.48 | 0.00 | -10.00 $ |
+| primm | Spread: Oregon (-16.5) | Michigan State | 0.44 | 0.00 | -10.00 $ |
+| primm | Spread: Oregon (-17.5) | Michigan State | 0.50 | 0.00 | -10.00 $ |
+| primm | Spread: Oregon (-20.5) | Michigan State | 0.59 | 0.00 | -10.00 $ |
 | primm | Oregon vs. Michigan State: O/U 45.5 | Under | 0.57 | 0.00 | -10.00 $ |
 | primm | Spread: Clemson (-6.5) | Clemson | 0.69 | 1.00 | +4.49 $ |
 | primm | Spread: Clemson (-7.5) | Clemson | 0.41 | 1.00 | +14.39 $ |
@@ -34,12 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 04:50 UTC** 
 | primm | Spread: Duke (-3.5) | Clemson | 0.56 | 1.00 | +7.86 $ |
 | primm | Spread: Duke (-2.5) | Clemson | 0.49 | 1.00 | +10.41 $ |
 | primm | Spread: Clemson (-2.5) | Clemson | 0.39 | 1.00 | +15.64 $ |
-| primm | Spread: Clemson (-1.5) | Clemson | 0.42 | 1.00 | +13.81 $ |
-| primm | Spread: Duke (-3.5) | Duke | 0.54 | 0.00 | -10.00 $ |
-| primm | Spread: Duke (-6.5) | Clemson | 0.42 | 1.00 | +13.81 $ |
-| primm | Spread: Air Force (-23.5) | Air Force | 0.49 | 1.00 | +10.41 $ |
-| primm | Spread: Air Force (-24.5) | Air Force | 0.45 | 1.00 | +12.22 $ |
-| primm | Clemson vs. Duke: O/U 39.5 | Under | 0.46 | 1.00 | +11.74 $ |
-| primm | Spread: Duke (-8.5) | Clemson | 0.44 | 1.00 | +12.73 $ |
 
 Journal complet : `data/journal.csv`

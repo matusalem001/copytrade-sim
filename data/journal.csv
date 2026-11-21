@@ -4635,3 +4635,15 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 04:50 UTC,primm,ACHAT,Northern Illinois vs. North Dakota State: O/U 37.5,Over,0.71,0.73,2.0,1.1,13.6986,10.0,,
 2026-11-21 04:50 UTC,primm,ACHAT,Colorado State vs. Fresno State: O/U 65.5,Over,0.54,0.55,1.0,0.5,18.1818,10.0,,
 2026-11-21 04:50 UTC,primm,ACHAT,Colorado State vs. Fresno State: O/U 71.5,Over,0.39,0.41,2.0,0.5,24.3902,10.0,,
+2026-11-21 04:55 UTC,primm,ACHAT,Spread: UTSA (-4.5),UAB,0.47,0.48,1.0,4.3,20.8333,10.0,,
+2026-11-21 04:55 UTC,primm,ACHAT,UTSA vs. UAB,UAB,0.34,0.35,1.0,4.3,28.5714,10.0,,
+2026-11-21 04:55 UTC,primm,ACHAT,Spread: Utah (-7.5),TCU,0.47,0.49,2.0,3.9,20.4082,10.0,,
+2026-11-21 04:55 UTC,primm,ACHAT,Spread: Nevada (-7.5),Nevada,0.43,0.44,1.0,3.1,22.7273,10.0,,
+2026-11-21 04:55 UTC,primm,ACHAT,Spread: Nevada (-6.5),Nevada,0.5,0.51,1.0,3.1,19.6078,10.0,,
+2026-11-21 04:55 UTC,primm,REGLEMENT,Spread: Oregon (-20.5),Michigan State,,0.59,,,16.9492,0.0,-10.0,perdu
+2026-11-21 04:55 UTC,primm,REGLEMENT,Spread: Oregon (-17.5),Michigan State,,0.5,,,20.0,0.0,-10.0,perdu
+2026-11-21 04:55 UTC,primm,REGLEMENT,Spread: Oregon (-16.5),Michigan State,,0.44,,,22.7273,0.0,-10.0,perdu
+2026-11-21 04:55 UTC,primm,REGLEMENT,Spread: Oregon (-24.5),Michigan State,,0.48,,,20.8333,0.0,-10.0,perdu
+2026-11-21 04:55 UTC,primm,REGLEMENT,Spread: Oregon (-30.5),Michigan State,,0.66,,,15.1515,0.0,-10.0,perdu
+2026-11-21 04:55 UTC,primm,REGLEMENT,Spread: Oregon (-27.5),Michigan State,,0.59,,,16.9492,0.0,-10.0,perdu
+2026-11-21 04:55 UTC,primm,REGLEMENT,Spread: Oregon (-21.5),Michigan State,,0.48,,,20.8333,0.0,-10.0,perdu
