@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 20:26 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 20:31 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 309 | 467 | 296 | 154 | +26.73 $ | +0.9 % | 13 | +1.2 ¢ | 8 min |
-| primm | 1679 | 734 | 1460 | 751 | +643.04 $ | +4.4 % | 219 | +3.1 ¢ | 4 min |
+| primm | 1683 | 734 | 1462 | 751 | +623.04 $ | +4.3 % | 221 | +3.1 ¢ | 4 min |
 | juice-fruit | 24 | 2 | 24 | 12 | -47.43 $ | -19.8 % | 0 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +622.34 $ sur 17800 $ engagés (+3.5 %)**
+**Total réalisé : +602.34 $ sur 17820 $ engagés (+3.4 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 20:26 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | North Texas vs. Tulane: O/U 61.5 | Over | 0.59 | 0.00 | -10.00 $ |
+| primm | Ohio State vs. Nebraska: O/U 45.5 | Under | 0.63 | 0.00 | -10.00 $ |
 | primm | East Carolina vs. Army | Army | 0.49 | 0.00 | -10.00 $ |
 | primm | Spread: Army (-1.5) | East Carolina | 0.70 | 1.00 | +4.29 $ |
 | primm | Memphis vs. Navy: O/U 59.5 | Over | 0.44 | 1.00 | +12.73 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 20:26 UTC** 
 | BreakTheBank | Will Arsenal FC win on 2026-11-21? | Yes | 0.66 | 0.00 | -10.00 $ |
 | juice-fruit | Spread: Arsenal FC (-1.5) | Newcastle United FC | 0.63 | 1.00 | +5.87 $ |
 | primm | Wake Forest vs. Georgia Tech: O/U 57.5 | Over | 0.48 | 1.00 | +10.83 $ |
-| primm | Colorado vs. Cincinnati: O/U 59.5 | Over | 0.57 | 1.00 | +7.54 $ |
-| primm | Colorado vs. Cincinnati: O/U 61.5 | Over | 0.55 | 1.00 | +8.18 $ |
 
 Journal complet : `data/journal.csv`

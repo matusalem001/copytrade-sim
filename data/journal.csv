@@ -4994,3 +4994,9 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 20:26 UTC,primm,REGLEMENT,Memphis vs. Navy: O/U 59.5,Over,,0.44,,,22.7273,22.73,12.73,gagné
 2026-11-21 20:26 UTC,primm,REGLEMENT,Spread: Army (-1.5),East Carolina,,0.7,,,14.2857,14.29,4.29,gagné
 2026-11-21 20:26 UTC,primm,REGLEMENT,East Carolina vs. Army,Army,,0.49,,,20.4082,0.0,-10.0,perdu
+2026-11-21 20:30 UTC,primm,ACHAT,Spread: LSU (-5.5),LSU,0.37,0.4,3.0,3.2,25.0,10.0,,
+2026-11-21 20:30 UTC,primm,ACHAT,Spread: LSU (-4.5),LSU,0.39,0.41,2.0,3.2,24.3902,10.0,,
+2026-11-21 20:30 UTC,primm,ACHAT,Iowa vs. Illinois: O/U 47.5,Over,0.6,0.62,2.0,1.6,16.129,10.0,,
+2026-11-21 20:30 UTC,primm,ACHAT,Iowa vs. Illinois: O/U 53.5,Over,0.43,0.44,1.0,0.7,22.7273,10.0,,
+2026-11-21 20:30 UTC,primm,REGLEMENT,Ohio State vs. Nebraska: O/U 45.5,Under,,0.63,,,15.873,0.0,-10.0,perdu
+2026-11-21 20:31 UTC,primm,REGLEMENT,North Texas vs. Tulane: O/U 61.5,Over,,0.59,,,16.9492,0.0,-10.0,perdu
