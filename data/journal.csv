@@ -5233,3 +5233,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 22:15 UTC,primm,ACHAT,Spread: UConn (-5.5),Old Dominion,0.29,0.3,1.0,4.4,33.3333,10.0,,
 2026-11-21 22:15 UTC,primm,ACHAT,Spread: Texas (-35.5),Texas,0.48,0.49,1.0,1.7,20.4082,10.0,,
 2026-11-21 22:15 UTC,primm,REGLEMENT,Iowa vs. Illinois: O/U 35.5,Over,,0.71,,,14.0845,14.08,4.08,gagné
+2026-11-21 22:30 UTC,primm,ACHAT,Texas Tech vs. Baylor: O/U 35.5,Under,0.28,0.33,5.0,5.5,30.303,10.0,,
