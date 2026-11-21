@@ -4498,3 +4498,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 01:50 UTC,BreakTheBank,IGNORE,Spread: Texans (-9.5),Colts,0.42,,,1476.3,,,,vu trop tard
 2026-11-21 01:55 UTC,primm,ACHAT,Spread: UCF (-14.5),Iowa State,0.37,0.35,-2.0,5.5,28.5714,10.0,,
 2026-11-21 01:55 UTC,primm,ACHAT,Spread: Duke (-3.5),Duke,0.52,0.54,2.0,3.3,18.5185,10.0,,
+2026-11-21 02:00 UTC,BreakTheBank,ACHAT,Spread: Nuggets (-1.5),Nuggets,0.45,0.47,2.0,2.4,21.2766,10.0,,
+2026-11-21 02:00 UTC,primm,ACHAT,Spread: Toledo (-17.5),Toledo,0.48,0.65,17.0,2.8,15.3846,10.0,,
