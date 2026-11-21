@@ -1221,6 +1221,32 @@
    "parts": 58.8235,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 14:30 UTC"
+  },
+  "BreakTheBank|63983404976864663986049537537787057905291803103777462292002038886134913132239": {
+   "date": "2026-11-21 14:35 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Tottenham Hotspur FC vs. Ipswich Town FC end in a draw?",
+   "resultat": "Yes",
+   "prix_trader": 0.21,
+   "retard_min": 2.8,
+   "token": "63983404976864663986049537537787057905291803103777462292002038886134913132239",
+   "prix_simule": 0.21,
+   "parts": 47.619,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 14:35 UTC"
+  },
+  "primm|89386464173838270031668000223268209977577478110294286446275671458789098218644": {
+   "date": "2026-11-21 14:35 UTC",
+   "trader": "primm",
+   "marche": "Spread: Virginia (-3.5)",
+   "resultat": "North Carolina",
+   "prix_trader": 0.6,
+   "retard_min": 4.0,
+   "token": "89386464173838270031668000223268209977577478110294286446275671458789098218644",
+   "prix_simule": 0.62,
+   "parts": 16.129,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 14:35 UTC"
   }
  },
  "fermees": [
