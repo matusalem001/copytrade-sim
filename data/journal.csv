@@ -4576,3 +4576,18 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 03:50 UTC,primm,REGLEMENT,UTEP vs. Air Force: O/U 47.5,Under,,0.48,,,20.8333,0.0,-10.0,perdu
 2026-11-21 03:55 UTC,primm,IGNORE,Spread: UCF (-7.5),Iowa State,0.39,,,138.0,,,,vu trop tard
 2026-11-21 04:05 UTC,primm,REGLEMENT,UTEP vs. Air Force: O/U 53.5,Over,,0.51,,,19.6078,19.61,9.61,gagné
+2026-11-21 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-15.5),Bowling Green,,0.48,,,20.8333,0.0,-10.0,perdu
+2026-11-21 04:10 UTC,primm,REGLEMENT,Bowling Green vs. Toledo: O/U 45.5,Under,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-21 04:10 UTC,primm,REGLEMENT,UTEP vs. Air Force: O/U 49.5,Under,,0.53,,,18.8679,0.0,-10.0,perdu
+2026-11-21 04:10 UTC,primm,REGLEMENT,Bowling Green vs. Toledo: O/U 47.5,Under,,0.67,,,14.9254,14.93,4.93,gagné
+2026-11-21 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-16.5),Bowling Green,,0.47,,,21.2766,0.0,-10.0,perdu
+2026-11-21 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-14.5),Bowling Green,,0.48,,,20.8333,0.0,-10.0,perdu
+2026-11-21 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-21.5),Bowling Green,,0.67,,,14.9254,14.93,4.93,gagné
+2026-11-21 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-20.5),Bowling Green,,0.65,,,15.3846,15.38,5.38,gagné
+2026-11-21 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-13.5),Bowling Green,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-21 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-10.5),Bowling Green,,0.39,,,25.641,0.0,-10.0,perdu
+2026-11-21 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-11.5),Bowling Green,,0.4,,,25.0,0.0,-10.0,perdu
+2026-11-21 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-17.5),Toledo,,0.65,,,15.3846,15.38,5.38,gagné
+2026-11-21 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-23.5),Bowling Green,,0.78,,,12.8205,12.82,2.82,gagné
+2026-11-21 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-16.5),Toledo,,0.45,,,22.2222,22.22,12.22,gagné
+2026-11-21 04:10 UTC,primm,REGLEMENT,Spread: Toledo (-21.5),Toledo,,0.38,,,26.3158,0.0,-10.0,perdu
