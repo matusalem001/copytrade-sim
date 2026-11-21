@@ -4476,3 +4476,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 01:00 UTC,primm,ACHAT,Bowling Green vs. Toledo: O/U 47.5,Under,0.55,0.67,12.0,7.9,14.9254,10.0,,
 2026-11-21 01:01 UTC,primm,ACHAT,Spread: Duke (-6.5),Clemson,0.47,0.42,-5.0,4.2,23.8095,10.0,,
 2026-11-21 01:01 UTC,primm,ACHAT,Spread: UCF (-6.5),Iowa State,0.28,0.29,1.0,1.6,34.4828,10.0,,
+2026-11-21 01:05 UTC,BreakTheBank,IGNORE,Colts vs. Texans,Colts,0.16,,,1432.1,,,,vu trop tard
+2026-11-21 01:05 UTC,BreakTheBank,IGNORE,Colts vs. Texans,Colts,0.16,,,1432.0,,,,vu trop tard
