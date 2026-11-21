@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 02:45 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 02:50 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 289 | 437 | 268 | 140 | +5.05 $ | +0.2 % | 21 | +1.2 ¢ | 8 min |
-| primm | 1460 | 689 | 1352 | 694 | +489.65 $ | +3.6 % | 108 | +3.0 ¢ | 4 min |
+| primm | 1460 | 689 | 1354 | 694 | +469.65 $ | +3.5 % | 106 | +3.0 ¢ | 4 min |
 | juice-fruit | 20 | 2 | 20 | 10 | -42.54 $ | -21.3 % | 0 | -0.3 ¢ | 5 min |
 
-**Total réalisé : +452.16 $ sur 16400 $ engagés (+2.8 %)**
+**Total réalisé : +432.16 $ sur 16420 $ engagés (+2.6 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 02:45 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: UCF (-13.5) | Iowa State | 0.48 | 0.00 | -10.00 $ |
+| primm | Iowa State vs. UCF | Iowa State | 0.51 | 0.00 | -10.00 $ |
 | primm | Spread: UCF (-14.5) | Iowa State | 0.35 | 0.00 | -10.00 $ |
 | primm | Spread: UCF (-5.5) | Iowa State | 0.24 | 0.00 | -10.00 $ |
 | primm | Spread: UCF (-6.5) | Iowa State | 0.29 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 02:45 UTC** 
 | primm | Spread: Texans (-7.5) | Colts | 0.45 | 0.00 | -10.00 $ |
 | primm | Spread: Texans (-7.5) | Texans | 0.67 | 1.00 | +4.93 $ |
 | primm | Spread: Texans (-20.5) | Colts | 0.43 | 0.00 | -10.00 $ |
-| primm | Colts vs. Texans: O/U 42.5 | Under | 0.50 | 1.00 | +10.00 $ |
-| primm | Spread: Texans (-20.5) | Texans | 0.44 | 1.00 | +12.73 $ |
 
 Journal complet : `data/journal.csv`
