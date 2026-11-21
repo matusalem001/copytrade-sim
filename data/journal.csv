@@ -4526,3 +4526,13 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 02:40 UTC,primm,ACHAT,Spread: Oregon (-24.5),Michigan State,0.47,0.48,1.0,1.5,20.8333,10.0,,
 2026-11-21 02:40 UTC,primm,ACHAT,Spread: Oregon (-30.5),Michigan State,0.65,0.66,1.0,0.5,15.1515,10.0,,
 2026-11-21 02:40 UTC,BreakTheBank,REGLEMENT,Spread: Hawks (-5.5),Hornets,,0.43,,,23.2558,0.0,-10.0,perdu
+2026-11-21 02:45 UTC,primm,IGNORE,Spread: Oregon (-21.5),Michigan State,0.5,0.34,-16.0,10.8,,,,prix a trop chuté (match sans doute joué)
+2026-11-21 02:45 UTC,primm,ACHAT,New Mexico vs. Wyoming: O/U 41.5,Over,0.39,0.43,4.0,4.0,23.2558,10.0,,
+2026-11-21 02:45 UTC,primm,REGLEMENT,Spread: UCF (-4.5),Iowa State,,0.55,,,18.1818,0.0,-10.0,perdu
+2026-11-21 02:45 UTC,primm,REGLEMENT,Spread: UCF (-7.5),Iowa State,,0.67,,,14.9254,0.0,-10.0,perdu
+2026-11-21 02:45 UTC,primm,REGLEMENT,Spread: UCF (-16.5),Iowa State,,0.6,,,16.6667,0.0,-10.0,perdu
+2026-11-21 02:45 UTC,primm,REGLEMENT,Iowa State vs. UCF: O/U 67.5,Over,,0.49,,,20.4082,0.0,-10.0,perdu
+2026-11-21 02:45 UTC,primm,REGLEMENT,Spread: UCF (-10.5),Iowa State,,0.37,,,27.027,0.0,-10.0,perdu
+2026-11-21 02:45 UTC,primm,REGLEMENT,Spread: UCF (-6.5),Iowa State,,0.29,,,34.4828,0.0,-10.0,perdu
+2026-11-21 02:45 UTC,primm,REGLEMENT,Spread: UCF (-5.5),Iowa State,,0.24,,,41.6667,0.0,-10.0,perdu
+2026-11-21 02:45 UTC,primm,REGLEMENT,Spread: UCF (-14.5),Iowa State,,0.35,,,28.5714,0.0,-10.0,perdu

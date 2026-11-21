@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 02:40 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 02:45 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 289 | 437 | 268 | 140 | +5.05 $ | +0.2 % | 21 | +1.2 ¢ | 8 min |
-| primm | 1459 | 688 | 1344 | 694 | +569.65 $ | +4.2 % | 115 | +3.0 ¢ | 4 min |
+| primm | 1460 | 689 | 1352 | 694 | +489.65 $ | +3.6 % | 108 | +3.0 ¢ | 4 min |
 | juice-fruit | 20 | 2 | 20 | 10 | -42.54 $ | -21.3 % | 0 | -0.3 ¢ | 5 min |
 
-**Total réalisé : +532.16 $ sur 16320 $ engagés (+3.3 %)**
+**Total réalisé : +452.16 $ sur 16400 $ engagés (+2.8 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,14 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 02:40 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: UCF (-14.5) | Iowa State | 0.35 | 0.00 | -10.00 $ |
+| primm | Spread: UCF (-5.5) | Iowa State | 0.24 | 0.00 | -10.00 $ |
+| primm | Spread: UCF (-6.5) | Iowa State | 0.29 | 0.00 | -10.00 $ |
+| primm | Spread: UCF (-10.5) | Iowa State | 0.37 | 0.00 | -10.00 $ |
+| primm | Iowa State vs. UCF: O/U 67.5 | Over | 0.49 | 0.00 | -10.00 $ |
+| primm | Spread: UCF (-16.5) | Iowa State | 0.60 | 0.00 | -10.00 $ |
+| primm | Spread: UCF (-7.5) | Iowa State | 0.67 | 0.00 | -10.00 $ |
+| primm | Spread: UCF (-4.5) | Iowa State | 0.55 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Hawks (-5.5) | Hornets | 0.43 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Hawks (-6.5) | Hornets | 0.47 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Hawks (-7.5) | Hornets | 0.51 | 0.00 | -10.00 $ |
@@ -33,13 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 02:40 UTC** 
 | primm | Spread: Texans (-20.5) | Colts | 0.43 | 0.00 | -10.00 $ |
 | primm | Colts vs. Texans: O/U 42.5 | Under | 0.50 | 1.00 | +10.00 $ |
 | primm | Spread: Texans (-20.5) | Texans | 0.44 | 1.00 | +12.73 $ |
-| primm | Spread: Texans (-17.5) | Texans | 0.56 | 1.00 | +7.86 $ |
-| primm | Colts vs. Texans: O/U 50.5 | Over | 0.35 | 0.00 | -10.00 $ |
-| primm | Spread: Texans (-16.5) | Texans | 0.58 | 1.00 | +7.24 $ |
-| primm | Colts vs. Texans | Texans | 0.77 | 1.00 | +2.99 $ |
-| primm | Colts vs. Texans: O/U 42.5 | Over | 0.53 | 0.00 | -10.00 $ |
-| primm | Colts vs. Texans: O/U 46.5 | Over | 0.47 | 0.00 | -10.00 $ |
-| primm | Colts vs. Texans: O/U 44.5 | Over | 0.53 | 0.00 | -10.00 $ |
-| primm | Spread: Texans (-10.5) | Colts | 0.54 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
