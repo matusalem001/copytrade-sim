@@ -1638,19 +1638,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-21 16:40 UTC"
   },
-  "BreakTheBank|23179889754289405220424103056305227273784320688703234024360843927522715300866": {
-   "date": "2026-11-21 16:45 UTC",
-   "trader": "BreakTheBank",
-   "marche": "UFC Fight Night: Kyoji Horiguchi vs. Asu Almabayev (Flyweight, Main Card)",
-   "resultat": "Asu Almabayev",
-   "prix_trader": 0.38,
-   "retard_min": 7.8,
-   "token": "23179889754289405220424103056305227273784320688703234024360843927522715300866",
-   "prix_simule": 0.39,
-   "parts": 25.641,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-21 16:45 UTC"
-  },
   "BreakTheBank|63457155869463499394771120334784441573628429591038941773766010934490389543619": {
    "date": "2026-11-21 16:45 UTC",
    "trader": "BreakTheBank",
@@ -3054,6 +3041,58 @@
    "parts": 22.7273,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 19:20 UTC"
+  },
+  "primm|14045674042521881170129131832377843678763658443821800110373375673142360620701": {
+   "date": "2026-11-21 19:30 UTC",
+   "trader": "primm",
+   "marche": "Vanderbilt vs. Florida",
+   "resultat": "Florida",
+   "prix_trader": 0.59,
+   "retard_min": 9.2,
+   "token": "14045674042521881170129131832377843678763658443821800110373375673142360620701",
+   "prix_simule": 0.62,
+   "parts": 16.129,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 19:30 UTC"
+  },
+  "primm|45602033989362834301883386959145583566021158701125836617150934011457304870804": {
+   "date": "2026-11-21 19:30 UTC",
+   "trader": "primm",
+   "marche": "Spread: BYU (-10.5)",
+   "resultat": "Kansas",
+   "prix_trader": 0.72,
+   "retard_min": 9.0,
+   "token": "45602033989362834301883386959145583566021158701125836617150934011457304870804",
+   "prix_simule": 0.75,
+   "parts": 13.3333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 19:30 UTC"
+  },
+  "primm|42830950803622872982188899273108899309528889866993967045049086860416489365317": {
+   "date": "2026-11-21 19:30 UTC",
+   "trader": "primm",
+   "marche": "Ohio State vs. Nebraska: O/U 57.5",
+   "resultat": "Over",
+   "prix_trader": 0.55,
+   "retard_min": 3.0,
+   "token": "42830950803622872982188899273108899309528889866993967045049086860416489365317",
+   "prix_simule": 0.59,
+   "parts": 16.9492,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 19:30 UTC"
+  },
+  "primm|79015626035977770703329515492023448352877429528054420613703617673653295178656": {
+   "date": "2026-11-21 19:30 UTC",
+   "trader": "primm",
+   "marche": "Spread: North Texas (-3.5)",
+   "resultat": "North Texas",
+   "prix_trader": 0.43,
+   "retard_min": 2.3,
+   "token": "79015626035977770703329515492023448352877429528054420613703617673653295178656",
+   "prix_simule": 0.48,
+   "parts": 20.8333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 19:30 UTC"
   }
  },
  "fermees": [
@@ -32806,6 +32845,23 @@
    "pnl": 2.987,
    "ferme_le": "2026-11-21 19:01 UTC",
    "type": "gagné"
+  },
+  {
+   "date": "2026-11-21 16:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "UFC Fight Night: Kyoji Horiguchi vs. Asu Almabayev (Flyweight, Main Card)",
+   "resultat": "Asu Almabayev",
+   "prix_trader": 0.38,
+   "retard_min": 7.8,
+   "token": "23179889754289405220424103056305227273784320688703234024360843927522715300866",
+   "prix_simule": 0.39,
+   "parts": 25.641,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 16:45 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-21 19:31 UTC",
+   "type": "perdu"
   }
  ]
 }
