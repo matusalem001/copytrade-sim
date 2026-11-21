@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 23:25 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 23:31 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 309 | 472 | 298 | 156 | +40.64 $ | +1.4 % | 11 | +1.2 ¢ | 8 min |
-| primm | 1755 | 756 | 1629 | 828 | +441.09 $ | +2.7 % | 126 | +3.0 ¢ | 4 min |
+| primm | 1758 | 758 | 1631 | 830 | +462.06 $ | +2.8 % | 127 | +3.0 ¢ | 4 min |
 | juice-fruit | 24 | 2 | 24 | 12 | -47.43 $ | -19.8 % | 0 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +434.29 $ sur 19510 $ engagés (+2.2 %)**
+**Total réalisé : +455.26 $ sur 19530 $ engagés (+2.3 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 23:25 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Delaware vs. New Mexico State: O/U 57.5 | Over | 0.46 | 1.00 | +11.74 $ |
+| primm | Delaware vs. New Mexico State: O/U 55.5 | Over | 0.52 | 1.00 | +9.23 $ |
 | primm | Spread: Iowa (-10.5) | Illinois | 0.61 | 0.00 | -10.00 $ |
 | primm | Iowa vs. Illinois: O/U 53.5 | Over | 0.44 | 0.00 | -10.00 $ |
 | primm | Iowa vs. Illinois | Illinois | 0.18 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 23:25 UTC** 
 | primm | Missouri State vs. Jacksonville State | Missouri State | 0.62 | 0.00 | -10.00 $ |
 | primm | Spread: Missouri State (-2.5) | Missouri State | 0.57 | 0.00 | -10.00 $ |
 | primm | Spread: Missouri State (-6.5) | Missouri State | 0.39 | 0.00 | -10.00 $ |
-| primm | Missouri State vs. Jacksonville State: O/U 53.5 | Over | 0.49 | 0.00 | -10.00 $ |
-| primm | Missouri State vs. Jacksonville State: O/U 51.5 | Over | 0.54 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

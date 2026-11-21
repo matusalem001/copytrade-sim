@@ -5268,3 +5268,10 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 23:15 UTC,primm,REGLEMENT,Iowa vs. Illinois: O/U 53.5,Over,,0.44,,,22.7273,0.0,-10.0,perdu
 2026-11-21 23:15 UTC,primm,REGLEMENT,Spread: Iowa (-10.5),Illinois,,0.61,,,16.3934,0.0,-10.0,perdu
 2026-11-21 23:20 UTC,primm,IGNORE,NC State vs. Florida State,Florida State,0.2,0.09,-11.0,2.3,,,,prix a trop chuté (match sans doute joué)
+2026-11-21 23:30 UTC,primm,IGNORE,Spread: Tennessee (-7.5),Tennessee,0.32,0.1,-22.0,8.8,,,,prix a trop chuté (match sans doute joué)
+2026-11-21 23:30 UTC,primm,IGNORE,NC State vs. Florida State,Florida State,0.08,0.011,-6.9,7.8,,,,prix a trop chuté (match sans doute joué)
+2026-11-21 23:30 UTC,primm,ACHAT,Spread: Michigan (-6.5),UCLA,0.34,0.47,13.0,6.8,21.2766,10.0,,
+2026-11-21 23:30 UTC,primm,ACHAT,Spread: Michigan (-3.5),UCLA,0.28,0.47,19.0,6.8,21.2766,10.0,,
+2026-11-21 23:30 UTC,primm,ACHAT,Spread: Texas State (-3.5),Washington State,0.4,0.36,-4.0,4.1,27.7778,10.0,,
+2026-11-21 23:31 UTC,primm,REGLEMENT,Delaware vs. New Mexico State: O/U 55.5,Over,,0.52,,,19.2308,19.23,9.23,gagné
+2026-11-21 23:31 UTC,primm,REGLEMENT,Delaware vs. New Mexico State: O/U 57.5,Over,,0.46,,,21.7391,21.74,11.74,gagné
