@@ -1547,19 +1547,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-21 16:00 UTC"
   },
-  "juice-fruit|74891491050085289344508579794119281312072378631728026166061386423139714292766": {
-   "date": "2026-11-21 16:00 UTC",
-   "trader": "juice-fruit",
-   "marche": "Will Aston Villa FC win on 2026-11-21?",
-   "resultat": "Yes",
-   "prix_trader": 0.5,
-   "retard_min": 4.0,
-   "token": "74891491050085289344508579794119281312072378631728026166061386423139714292766",
-   "prix_simule": 0.51,
-   "parts": 19.6078,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-21 16:00 UTC"
-  },
   "primm|65628824156825227683596202531153336400918791011674493003619181711794654788199": {
    "date": "2026-11-21 16:10 UTC",
    "trader": "primm",
@@ -1884,6 +1871,84 @@
    "parts": 18.8679,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 17:01 UTC"
+  },
+  "BreakTheBank|78298002870259834214851003188906044936288210570850344989174802266995235185836": {
+   "date": "2026-11-21 17:10 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Arsenal FC (-1.5)",
+   "resultat": "Arsenal FC",
+   "prix_trader": 0.37,
+   "retard_min": 8.3,
+   "token": "78298002870259834214851003188906044936288210570850344989174802266995235185836",
+   "prix_simule": 0.38,
+   "parts": 26.3158,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 17:10 UTC"
+  },
+  "primm|74900973410829986977382177723063457166451164073320374888660414061378225805845": {
+   "date": "2026-11-21 17:10 UTC",
+   "trader": "primm",
+   "marche": "Spread: Northwestern (-3.5)",
+   "resultat": "Northwestern",
+   "prix_trader": 0.48,
+   "retard_min": 4.4,
+   "token": "74900973410829986977382177723063457166451164073320374888660414061378225805845",
+   "prix_simule": 0.43,
+   "parts": 23.2558,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 17:10 UTC"
+  },
+  "primm|1069316990336243492150632062169597956100860442170167641727557605446109046096": {
+   "date": "2026-11-21 17:10 UTC",
+   "trader": "primm",
+   "marche": "Northwestern vs. Minnesota",
+   "resultat": "Northwestern",
+   "prix_trader": 0.58,
+   "retard_min": 4.4,
+   "token": "1069316990336243492150632062169597956100860442170167641727557605446109046096",
+   "prix_simule": 0.57,
+   "parts": 17.5439,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 17:10 UTC"
+  },
+  "primm|66717509238804032274289058851672493033880477534330162428811525563786349148352": {
+   "date": "2026-11-21 17:10 UTC",
+   "trader": "primm",
+   "marche": "Spread: Boston College (-3.5)",
+   "resultat": "Syracuse",
+   "prix_trader": 0.59,
+   "retard_min": 3.6,
+   "token": "66717509238804032274289058851672493033880477534330162428811525563786349148352",
+   "prix_simule": 0.56,
+   "parts": 17.8571,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 17:10 UTC"
+  },
+  "primm|93518804753058218857563143854939058818917828954459245574779546343563546245334": {
+   "date": "2026-11-21 17:10 UTC",
+   "trader": "primm",
+   "marche": "Memphis vs. Navy: O/U 65.5",
+   "resultat": "Over",
+   "prix_trader": 0.5,
+   "retard_min": 1.3,
+   "token": "93518804753058218857563143854939058818917828954459245574779546343563546245334",
+   "prix_simule": 0.5,
+   "parts": 20.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 17:10 UTC"
+  },
+  "juice-fruit|66954390270132874789870551702730948279267358933444696989761125939723244343406": {
+   "date": "2026-11-21 17:10 UTC",
+   "trader": "juice-fruit",
+   "marche": "Spread: Arsenal FC (-1.5)",
+   "resultat": "Newcastle United FC",
+   "prix_trader": 0.63,
+   "retard_min": 8.4,
+   "token": "66954390270132874789870551702730948279267358933444696989761125939723244343406",
+   "prix_simule": 0.63,
+   "parts": 15.873,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 17:10 UTC"
   }
  },
  "fermees": [
@@ -31398,6 +31463,23 @@
    "pnl": 9.2308,
    "ferme_le": "2026-11-21 16:15 UTC",
    "type": "gagné"
+  },
+  {
+   "date": "2026-11-21 16:00 UTC",
+   "trader": "juice-fruit",
+   "marche": "Will Aston Villa FC win on 2026-11-21?",
+   "resultat": "Yes",
+   "prix_trader": 0.5,
+   "retard_min": 4.0,
+   "token": "74891491050085289344508579794119281312072378631728026166061386423139714292766",
+   "prix_simule": 0.51,
+   "parts": 19.6078,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 16:00 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-21 17:11 UTC",
+   "type": "perdu"
   }
  ]
 }

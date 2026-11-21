@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 17:05 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 17:11 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 307 | 456 | 280 | 148 | +60.26 $ | +2.2 % | 27 | +1.2 ¢ | 8 min |
-| primm | 1551 | 715 | 1434 | 733 | +573.98 $ | +4.0 % | 117 | +3.0 ¢ | 4 min |
-| juice-fruit | 23 | 2 | 22 | 11 | -43.31 $ | -19.7 % | 1 | -0.1 ¢ | 4 min |
+| BreakTheBank | 308 | 456 | 280 | 148 | +60.26 $ | +2.2 % | 28 | +1.2 ¢ | 8 min |
+| primm | 1555 | 715 | 1434 | 733 | +573.98 $ | +4.0 % | 121 | +3.0 ¢ | 4 min |
+| juice-fruit | 24 | 2 | 23 | 11 | -53.31 $ | -23.2 % | 1 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +590.93 $ sur 17360 $ engagés (+3.4 %)**
+**Total réalisé : +580.93 $ sur 17370 $ engagés (+3.3 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 17:05 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| juice-fruit | Will Aston Villa FC win on 2026-11-21? | Yes | 0.51 | 0.00 | -10.00 $ |
 | juice-fruit | ATP World Tour Finals, Final Stage: Carlos Alcaraz vs Ben Shelton | Carlos Alcaraz | 0.52 | 1.00 | +9.23 $ |
 | BreakTheBank | Will Manchester City FC win on 2026-11-21? | No | 0.30 | 1.00 | +23.33 $ |
 | juice-fruit | Will Manchester City FC win on 2026-11-21? | Yes | 0.73 | 0.00 | -10.00 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 17:05 UTC** 
 | BreakTheBank | Spread: Nuggets (-2.5) | Nuggets | 0.44 | 1.00 | +12.73 $ |
 | primm | New Mexico vs. Wyoming: O/U 37.5 | Over | 0.52 | 1.00 | +9.23 $ |
 | primm | New Mexico vs. Wyoming: O/U 39.5 | Over | 0.45 | 1.00 | +12.22 $ |
-| BreakTheBank | Suns vs. Jazz | Suns | 0.63 | 1.00 | +5.87 $ |
 
 Journal complet : `data/journal.csv`
