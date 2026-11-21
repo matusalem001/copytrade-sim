@@ -4511,3 +4511,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 02:10 UTC,primm,REGLEMENT,Iowa State vs. UCF: O/U 49.5,Under,,0.52,,,19.2308,0.0,-10.0,perdu
 2026-11-21 02:10 UTC,primm,REGLEMENT,Iowa State vs. UCF: O/U 53.5,Under,,0.65,,,15.3846,0.0,-10.0,perdu
 2026-11-21 02:10 UTC,primm,REGLEMENT,Iowa State vs. UCF: O/U 53.5,Over,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-21 02:15 UTC,primm,ACHAT,Spread: Duke (-5.5),Duke,0.3,0.3,0.0,1.8,33.3333,10.0,,
+2026-11-21 02:15 UTC,primm,ACHAT,Spread: Duke (-4.5),Duke,0.32,0.32,0.0,1.8,31.25,10.0,,
