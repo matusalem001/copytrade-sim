@@ -4689,3 +4689,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 08:00 UTC,primm,ACHAT,Spread: Utah (-6.5),TCU,0.42,0.45,3.0,5.3,22.2222,10.0,,
 2026-11-21 08:05 UTC,primm,IGNORE,Spread: Clemson (-4.5),Clemson,0.47,,,315.1,,,,vu trop tard
 2026-11-21 08:05 UTC,primm,IGNORE,Oregon vs. Michigan State: O/U 39.5,Under,0.56,,,286.2,,,,vu trop tard
+2026-11-21 08:10 UTC,primm,IGNORE,New Mexico vs. Wyoming: O/U 39.5,Over,0.63,,,281.3,,,,vu trop tard
