@@ -5072,3 +5072,30 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 20:50 UTC,primm,REGLEMENT,Spread: Wake Forest (-24.5),Wake Forest,,0.45,,,22.2222,0.0,-10.0,perdu
 2026-11-21 20:50 UTC,primm,REGLEMENT,Spread: Wake Forest (-23.5),Wake Forest,,0.47,,,21.2766,0.0,-10.0,perdu
 2026-11-21 20:50 UTC,primm,REGLEMENT,Spread: Wake Forest (-21.5),Wake Forest,,0.53,,,18.8679,0.0,-10.0,perdu
+2026-11-21 20:55 UTC,primm,IGNORE,Spread: Texas (-23.5),Arkansas,0.48,0.31,-17.0,8.6,,,,prix a trop chuté (match sans doute joué)
+2026-11-21 20:55 UTC,primm,IGNORE,Spread: Texas (-23.5),Arkansas,0.47,0.31,-16.0,6.8,,,,prix a trop chuté (match sans doute joué)
+2026-11-21 20:55 UTC,primm,IGNORE,Spread: Texas (-24.5),Arkansas,0.51,0.33,-18.0,6.8,,,,prix a trop chuté (match sans doute joué)
+2026-11-21 20:55 UTC,primm,IGNORE,Spread: Texas (-21.5),Arkansas,0.43,0.27,-16.0,6.8,,,,prix a trop chuté (match sans doute joué)
+2026-11-21 20:55 UTC,primm,ACHAT,Rutgers vs. Penn State: O/U 49.5,Over,0.53,0.53,0.0,4.2,18.8679,10.0,,
+2026-11-21 20:55 UTC,primm,ACHAT,Rutgers vs. Penn State: O/U 53.5,Over,0.42,0.43,1.0,4.2,23.2558,10.0,,
+2026-11-21 20:55 UTC,primm,ACHAT,Rutgers vs. Penn State: O/U 51.5,Over,0.48,0.48,0.0,4.2,20.8333,10.0,,
+2026-11-21 20:55 UTC,primm,ACHAT,Arkansas vs. Texas: O/U 55.5,Under,0.51,0.53,2.0,1.1,18.8679,10.0,,
+2026-11-21 20:55 UTC,primm,ACHAT,Arkansas vs. Texas: O/U 61.5,Under,0.68,0.69,1.0,1.1,14.4928,10.0,,
+2026-11-21 20:55 UTC,primm,REGLEMENT,Spread: Ohio State (-1.5),Nebraska,,0.42,,,23.8095,23.81,13.81,gagné
+2026-11-21 20:55 UTC,primm,REGLEMENT,Spread: Ohio State (-2.5),Nebraska,,0.44,,,22.7273,22.73,12.73,gagné
+2026-11-21 20:55 UTC,primm,REGLEMENT,Spread: Ohio State (-3.5),Nebraska,,0.51,,,19.6078,19.61,9.61,gagné
+2026-11-21 20:55 UTC,primm,REGLEMENT,Ohio State vs. Nebraska,Nebraska,,0.39,,,25.641,25.64,15.64,gagné
+2026-11-21 20:55 UTC,primm,REGLEMENT,Spread: Ohio State (-5.5),Nebraska,,0.57,,,17.5439,17.54,7.54,gagné
+2026-11-21 20:55 UTC,primm,REGLEMENT,Spread: Ohio State (-4.5),Nebraska,,0.53,,,18.8679,18.87,8.87,gagné
+2026-11-21 20:55 UTC,primm,REGLEMENT,Memphis vs. Navy,Memphis,,0.53,,,18.8679,0.0,-10.0,perdu
+2026-11-21 20:55 UTC,primm,REGLEMENT,Memphis vs. Navy: O/U 65.5,Over,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-21 20:55 UTC,primm,REGLEMENT,Memphis vs. Navy: O/U 67.5,Over,,0.59,,,16.9492,16.95,6.95,gagné
+2026-11-21 20:55 UTC,primm,REGLEMENT,Spread: Ohio State (-13.5),Nebraska,,0.59,,,16.9492,16.95,6.95,gagné
+2026-11-21 20:55 UTC,primm,REGLEMENT,Spread: Ohio State (-10.5),Nebraska,,0.62,,,16.129,16.13,6.13,gagné
+2026-11-21 20:55 UTC,primm,REGLEMENT,Spread: Ohio State (-7.5),Nebraska,,0.64,,,15.625,15.62,5.62,gagné
+2026-11-21 20:55 UTC,primm,REGLEMENT,Memphis vs. Navy: O/U 67.5,Under,,0.54,,,18.5185,0.0,-10.0,perdu
+2026-11-21 20:55 UTC,primm,REGLEMENT,Spread: Nebraska (-10.5),Ohio State,,0.79,,,12.6582,12.66,2.66,gagné
+2026-11-21 20:55 UTC,primm,REGLEMENT,North Carolina vs. Virginia: O/U 53.5,Over,,0.43,,,23.2558,23.26,13.26,gagné
+2026-11-21 20:55 UTC,primm,REGLEMENT,Vanderbilt vs. Florida,Florida,,0.62,,,16.129,16.13,6.13,gagné
+2026-11-21 20:55 UTC,primm,REGLEMENT,Memphis vs. Navy: O/U 71.5,Over,,0.48,,,20.8333,20.83,10.83,gagné
+2026-11-21 20:55 UTC,primm,REGLEMENT,Memphis vs. Navy,Navy,,0.23,,,43.4783,43.48,33.48,gagné
