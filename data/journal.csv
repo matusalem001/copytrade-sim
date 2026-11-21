@@ -4691,3 +4691,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 08:05 UTC,primm,IGNORE,Oregon vs. Michigan State: O/U 39.5,Under,0.56,,,286.2,,,,vu trop tard
 2026-11-21 08:10 UTC,primm,IGNORE,New Mexico vs. Wyoming: O/U 39.5,Over,0.63,,,281.3,,,,vu trop tard
 2026-11-21 08:30 UTC,BreakTheBank,ACHAT,Will Jon Ossoff win the 2028 Democratic presidential nomination?,Yes,0.243,0.242,-0.1,1.3,41.3223,10.0,,
+2026-11-21 09:10 UTC,primm,ACHAT,Utah vs. TCU,TCU,0.25,0.26,1.0,1.9,38.4615,10.0,,
