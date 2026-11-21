@@ -5252,3 +5252,18 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 23:05 UTC,primm,REGLEMENT,Iowa vs. Illinois: O/U 47.5,Over,,0.62,,,16.129,16.13,6.13,gagné
 2026-11-21 23:05 UTC,primm,REGLEMENT,Iowa vs. Illinois: O/U 45.5,Over,,0.63,,,15.873,15.87,5.87,gagné
 2026-11-21 23:10 UTC,primm,REGLEMENT,Coastal Carolina vs. Louisiana: O/U 51.5,Over,,0.61,,,16.3934,16.39,6.39,gagné
+2026-11-21 23:15 UTC,primm,ACHAT,Spread: Texas Tech (-6.5),Baylor,0.34,0.3,-4.0,3.6,33.3333,10.0,,
+2026-11-21 23:15 UTC,primm,ACHAT,Spread: NC State (-3.5),Florida State,0.37,0.43,6.0,2.1,23.2558,10.0,,
+2026-11-21 23:15 UTC,primm,ACHAT,Texas A&M vs. Oklahoma,Oklahoma,0.72,0.73,1.0,0.6,13.6986,10.0,,
+2026-11-21 23:15 UTC,primm,REGLEMENT,Spread: Iowa (-7.5),Iowa,,0.54,,,18.5185,18.52,8.52,gagné
+2026-11-21 23:15 UTC,primm,REGLEMENT,Spread: Iowa (-14.5),Iowa,,0.39,,,25.641,25.64,15.64,gagné
+2026-11-21 23:15 UTC,primm,REGLEMENT,Spread: Iowa (-4.5),Illinois,,0.4,,,25.0,0.0,-10.0,perdu
+2026-11-21 23:15 UTC,primm,REGLEMENT,Spread: Iowa (-6.5),Illinois,,0.44,,,22.7273,0.0,-10.0,perdu
+2026-11-21 23:15 UTC,primm,REGLEMENT,Spread: Iowa (-7.5),Illinois,,0.5,,,20.0,0.0,-10.0,perdu
+2026-11-21 23:15 UTC,primm,REGLEMENT,Spread: Iowa (-5.5),Illinois,,0.4,,,25.0,0.0,-10.0,perdu
+2026-11-21 23:15 UTC,primm,REGLEMENT,Spread: Iowa (-2.5),Illinois,,0.62,,,16.129,0.0,-10.0,perdu
+2026-11-21 23:15 UTC,primm,REGLEMENT,Spread: Iowa (-1.5),Illinois,,0.4,,,25.0,0.0,-10.0,perdu
+2026-11-21 23:15 UTC,primm,REGLEMENT,Spread: Iowa (-3.5),Illinois,,0.6,,,16.6667,0.0,-10.0,perdu
+2026-11-21 23:15 UTC,primm,REGLEMENT,Iowa vs. Illinois,Illinois,,0.18,,,55.5556,0.0,-10.0,perdu
+2026-11-21 23:15 UTC,primm,REGLEMENT,Iowa vs. Illinois: O/U 53.5,Over,,0.44,,,22.7273,0.0,-10.0,perdu
+2026-11-21 23:15 UTC,primm,REGLEMENT,Spread: Iowa (-10.5),Illinois,,0.61,,,16.3934,0.0,-10.0,perdu
