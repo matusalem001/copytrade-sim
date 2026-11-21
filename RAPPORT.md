@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 02:35 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 02:40 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 289 | 437 | 267 | 140 | +15.05 $ | +0.6 % | 22 | +1.2 ¢ | 8 min |
-| primm | 1457 | 687 | 1344 | 694 | +569.65 $ | +4.2 % | 113 | +3.0 ¢ | 4 min |
+| BreakTheBank | 289 | 437 | 268 | 140 | +5.05 $ | +0.2 % | 21 | +1.2 ¢ | 8 min |
+| primm | 1459 | 688 | 1344 | 694 | +569.65 $ | +4.2 % | 115 | +3.0 ¢ | 4 min |
 | juice-fruit | 20 | 2 | 20 | 10 | -42.54 $ | -21.3 % | 0 | -0.3 ¢ | 5 min |
 
-**Total réalisé : +542.16 $ sur 16310 $ engagés (+3.3 %)**
+**Total réalisé : +532.16 $ sur 16320 $ engagés (+3.3 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 02:35 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Spread: Hawks (-5.5) | Hornets | 0.43 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Hawks (-6.5) | Hornets | 0.47 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Hawks (-7.5) | Hornets | 0.51 | 0.00 | -10.00 $ |
 | primm | Iowa State vs. UCF: O/U 61.5 | Over | 0.68 | 1.00 | +4.71 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-21 02:35 UTC** 
 | primm | Colts vs. Texans: O/U 46.5 | Over | 0.47 | 0.00 | -10.00 $ |
 | primm | Colts vs. Texans: O/U 44.5 | Over | 0.53 | 0.00 | -10.00 $ |
 | primm | Spread: Texans (-10.5) | Colts | 0.54 | 0.00 | -10.00 $ |
-| BreakTheBank | Colts vs. Texans | Colts | 0.17 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
