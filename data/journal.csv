@@ -5186,3 +5186,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 21:20 UTC,primm,ACHAT,Spread: LSU (-7.5),LSU,0.44,0.51,7.0,1.9,19.6078,10.0,,
 2026-11-21 21:20 UTC,primm,ACHAT,Spread: LSU (-10.5),LSU,0.38,0.44,6.0,1.9,22.7273,10.0,,
 2026-11-21 21:20 UTC,primm,ACHAT,UCLA vs. Michigan,UCLA,0.65,0.65,0.0,1.0,15.3846,10.0,,
+2026-11-21 21:25 UTC,primm,IGNORE,Memphis vs. Navy: O/U 71.5,Over,0.74,,,73.8,,,,vu trop tard
