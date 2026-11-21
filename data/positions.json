@@ -1195,6 +1195,32 @@
    "parts": 19.2308,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 14:25 UTC"
+  },
+  "BreakTheBank|32384015219551205280233940081361023184560765435870334417971246005923142494083": {
+   "date": "2026-11-21 14:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Tottenham Hotspur FC win on 2026-11-21?",
+   "resultat": "No",
+   "prix_trader": 0.37,
+   "retard_min": 6.9,
+   "token": "32384015219551205280233940081361023184560765435870334417971246005923142494083",
+   "prix_simule": 0.37,
+   "parts": 27.027,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 14:30 UTC"
+  },
+  "BreakTheBank|89058337916349054055923929565254735763987059496003408564590680346760998508644": {
+   "date": "2026-11-21 14:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Ipswich Town FC win on 2026-11-21?",
+   "resultat": "Yes",
+   "prix_trader": 0.16,
+   "retard_min": 6.0,
+   "token": "89058337916349054055923929565254735763987059496003408564590680346760998508644",
+   "prix_simule": 0.17,
+   "parts": 58.8235,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 14:30 UTC"
   }
  },
  "fermees": [

@@ -4710,3 +4710,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 14:25 UTC,BreakTheBank,ACHAT,Will AFC Bournemouth win on 2026-11-21?,Yes,0.48,0.47,-1.0,5.4,21.2766,10.0,,
 2026-11-21 14:25 UTC,primm,ACHAT,Pittsburgh vs. Louisville: O/U 49.5,Under,0.48,0.49,1.0,2.4,20.4082,10.0,,
 2026-11-21 14:25 UTC,juice-fruit,ACHAT,"ATP World Tour Finals, Final Stage: Carlos Alcaraz vs Ben Shelton",Carlos Alcaraz,0.49,0.52,3.0,0.6,19.2308,10.0,,
+2026-11-21 14:30 UTC,BreakTheBank,ACHAT,Will Tottenham Hotspur FC win on 2026-11-21?,No,0.37,0.37,0.0,6.9,27.027,10.0,,
+2026-11-21 14:30 UTC,BreakTheBank,ACHAT,Will Ipswich Town FC win on 2026-11-21?,Yes,0.16,0.17,1.0,6.0,58.8235,10.0,,
+2026-11-21 14:30 UTC,primm,IGNORE,Spread: New Mexico (-16.5),Wyoming,0.53,,,568.8,,,,vu trop tard
