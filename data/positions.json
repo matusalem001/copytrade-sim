@@ -1143,6 +1143,19 @@
    "parts": 11.9048,
    "montant": 10.0,
    "ouvert_le": "2026-11-22 19:10 UTC"
+  },
+  "BreakTheBank|9065527231838982389092778930675876772361318682380484566154882533233249271018": {
+   "date": "2026-11-22 19:20 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Vikings vs. 49ers",
+   "resultat": "49ers",
+   "prix_trader": 0.63,
+   "retard_min": 3.5,
+   "token": "9065527231838982389092778930675876772361318682380484566154882533233249271018",
+   "prix_simule": 0.64,
+   "parts": 15.625,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 19:20 UTC"
   }
  },
  "fermees": [
