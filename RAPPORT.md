@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 19:35 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 19:40 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 332 | 497 | 306 | 156 | -39.36 $ | -1.3 % | 26 | +1.2 ¢ | 8 min |
-| primm | 2020 | 863 | 1956 | 979 | +134.04 $ | +0.7 % | 64 | +2.9 ¢ | 4 min |
+| primm | 2020 | 863 | 1958 | 981 | +157.30 $ | +0.8 % | 62 | +2.9 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 27 | 13 | -62.94 $ | -23.3 % | 1 | +0.1 ¢ | 4 min |
 
-**Total réalisé : +31.74 $ sur 22890 $ engagés (+0.1 %)**
+**Total réalisé : +54.99 $ sur 22910 $ engagés (+0.2 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 19:35 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Ravens vs. Panthers: O/U 44.5 | Over | 0.50 | 1.00 | +10.00 $ |
+| primm | Ravens vs. Panthers: O/U 46.5 | Over | 0.43 | 1.00 | +13.26 $ |
 | juice-fruit | Will Liverpool FC win on 2026-11-22? | No | 0.48 | 0.00 | -10.00 $ |
 | juice-fruit | Will Brighton & Hove Albion FC win on 2026-11-22? | Yes | 0.66 | 0.00 | -10.00 $ |
 | juice-fruit | Will Juventus FC win on 2026-11-22? | Yes | 0.69 | 1.00 | +4.49 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 19:35 UTC** 
 | primm | Spread: Oklahoma State (-3.5) | Oklahoma State | 0.47 | 0.00 | -10.00 $ |
 | primm | Spread: Oklahoma State (-5.5) | Oklahoma State | 0.43 | 0.00 | -10.00 $ |
 | primm | Oklahoma State vs. Arizona State: O/U 57.5 | Over | 0.60 | 0.00 | -10.00 $ |
-| primm | Oklahoma State vs. Arizona State | Oklahoma State | 0.60 | 1.00 | +6.67 $ |
-| primm | Spread: Arizona State (-1.5) | Oklahoma State | 0.63 | 1.00 | +5.87 $ |
 
 Journal complet : `data/journal.csv`
