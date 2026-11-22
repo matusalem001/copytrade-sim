@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 07:40 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 07:45 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 317 | 472 | 306 | 156 | -39.36 $ | -1.3 % | 11 | +1.2 ¢ | 8 min |
-| primm | 1956 | 847 | 1955 | 979 | +144.04 $ | +0.7 % | 1 | +3.0 ¢ | 4 min |
+| primm | 1956 | 847 | 1956 | 979 | +134.04 $ | +0.7 % | 0 | +3.0 ¢ | 4 min |
 | juice-fruit | 24 | 2 | 24 | 12 | -47.43 $ | -19.8 % | 0 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +57.24 $ sur 22850 $ engagés (+0.3 %)**
+**Total réalisé : +47.24 $ sur 22860 $ engagés (+0.2 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 07:40 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Oklahoma State (-2.5) | Arizona State | 0.76 | 0.00 | -10.00 $ |
 | primm | Oklahoma State vs. Arizona State | Arizona State | 0.58 | 0.00 | -10.00 $ |
 | primm | Spread: Oklahoma State (-1.5) | Arizona State | 0.72 | 0.00 | -10.00 $ |
 | primm | Oklahoma State vs. Arizona State: O/U 63.5 | Over | 0.54 | 0.00 | -10.00 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 07:40 UTC** 
 | primm | Spread: Oregon State (-7.5) | Oregon State | 0.12 | 0.00 | -10.00 $ |
 | primm | Spread: Oregon State (-6.5) | Utah State | 0.31 | 0.00 | -10.00 $ |
 | primm | Spread: Oregon State (-5.5) | Utah State | 0.30 | 0.00 | -10.00 $ |
-| primm | Utah State vs. Oregon State: O/U 59.5 | Over | 0.40 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

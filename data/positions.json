@@ -142,19 +142,6 @@
    "parts": 41.3223,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 08:30 UTC"
-  },
-  "primm|21171049957384589007288352019624960546356971347042243269475202402875982205904": {
-   "date": "2026-11-22 06:05 UTC",
-   "trader": "primm",
-   "marche": "Spread: Oklahoma State (-2.5)",
-   "resultat": "Arizona State",
-   "prix_trader": 0.68,
-   "retard_min": 3.8,
-   "token": "21171049957384589007288352019624960546356971347042243269475202402875982205904",
-   "prix_simule": 0.76,
-   "parts": 13.1579,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-22 06:05 UTC"
   }
  },
  "fermees": [
@@ -39001,6 +38988,23 @@
    "sortie": 0.0,
    "pnl": -10.0,
    "ferme_le": "2026-11-22 07:40 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-22 06:05 UTC",
+   "trader": "primm",
+   "marche": "Spread: Oklahoma State (-2.5)",
+   "resultat": "Arizona State",
+   "prix_trader": 0.68,
+   "retard_min": 3.8,
+   "token": "21171049957384589007288352019624960546356971347042243269475202402875982205904",
+   "prix_simule": 0.76,
+   "parts": 13.1579,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 06:05 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-22 07:45 UTC",
    "type": "perdu"
   }
  ]
