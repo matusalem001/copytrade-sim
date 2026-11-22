@@ -6044,3 +6044,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 20:20 UTC,primm,ACHAT,Dolphins vs. Bills: O/U 40.5,Under,0.41,0.47,6.0,2.9,21.2766,10.0,,
 2026-11-22 20:20 UTC,primm,REGLEMENT,Titans vs. Cowboys: O/U 54.5,Under,,0.47,,,21.2766,0.0,-10.0,perdu
 2026-11-22 20:20 UTC,primm,REGLEMENT,Ravens vs. Panthers: O/U 50.5,Over,,0.66,,,15.1515,15.15,5.15,gagné
+2026-11-22 20:30 UTC,primm,ACHAT,Buccaneers vs. Lions: O/U 44.5,Over,0.31,0.32,1.0,1.1,31.25,10.0,,
