@@ -142,6 +142,19 @@
    "parts": 41.3223,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 08:30 UTC"
+  },
+  "juice-fruit|94714861038722410567455706794621351579546565425015220118323335303098621837057": {
+   "date": "2026-11-22 11:35 UTC",
+   "trader": "juice-fruit",
+   "marche": "Will Juventus FC win on 2026-11-22?",
+   "resultat": "Yes",
+   "prix_trader": 0.69,
+   "retard_min": 5.6,
+   "token": "94714861038722410567455706794621351579546565425015220118323335303098621837057",
+   "prix_simule": 0.69,
+   "parts": 14.4928,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 11:35 UTC"
   }
  },
  "fermees": [
