@@ -5917,3 +5917,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 16:10 UTC,BreakTheBank,IGNORE,Spread: Spurs (-19.5),Pelicans,0.52,,,938.8,,,,vu trop tard
 2026-11-22 16:10 UTC,BreakTheBank,IGNORE,Spread: Spurs (-19.5),Pelicans,0.52,,,938.5,,,,vu trop tard
 2026-11-22 16:10 UTC,BreakTheBank,ACHAT,Saints vs. Bears: O/U 50.5,Under,0.58,0.59,1.0,5.5,16.9492,10.0,,
+2026-11-22 16:15 UTC,BreakTheBank,IGNORE,Spread: Spurs (-19.5),Pelicans,0.52,,,943.3,,,,vu trop tard
+2026-11-22 16:15 UTC,BreakTheBank,IGNORE,Spread: Trail Blazers (-1.5),Trail Blazers,0.5,,,943.2,,,,vu trop tard
+2026-11-22 16:15 UTC,BreakTheBank,IGNORE,Spread: Trail Blazers (-1.5),Trail Blazers,0.5,,,942.5,,,,vu trop tard
