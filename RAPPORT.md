@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 16:15 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 16:20 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 320 | 482 | 306 | 156 | -39.36 $ | -1.3 % | 14 | +1.2 ¢ | 8 min |
+| BreakTheBank | 320 | 483 | 306 | 156 | -39.36 $ | -1.3 % | 14 | +1.2 ¢ | 8 min |
 | primm | 1956 | 847 | 1956 | 979 | +134.04 $ | +0.7 % | 0 | +3.0 ¢ | 4 min |
-| juice-fruit | 27 | 2 | 25 | 13 | -42.94 $ | -17.2 % | 2 | +0.0 ¢ | 4 min |
+| juice-fruit | 27 | 2 | 26 | 13 | -52.94 $ | -20.4 % | 1 | +0.0 ¢ | 4 min |
 
-**Total réalisé : +51.74 $ sur 22870 $ engagés (+0.2 %)**
+**Total réalisé : +41.74 $ sur 22880 $ engagés (+0.2 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 16:15 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| juice-fruit | Will Brighton & Hove Albion FC win on 2026-11-22? | Yes | 0.66 | 0.00 | -10.00 $ |
 | juice-fruit | Will Juventus FC win on 2026-11-22? | Yes | 0.69 | 1.00 | +4.49 $ |
 | primm | Spread: Oklahoma State (-2.5) | Arizona State | 0.76 | 0.00 | -10.00 $ |
 | primm | Oklahoma State vs. Arizona State | Arizona State | 0.58 | 0.00 | -10.00 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 16:15 UTC** 
 | primm | Oklahoma State vs. Arizona State | Oklahoma State | 0.60 | 1.00 | +6.67 $ |
 | primm | Spread: Arizona State (-1.5) | Oklahoma State | 0.63 | 1.00 | +5.87 $ |
 | primm | Spread: Oregon State (-7.5) | Oregon State | 0.12 | 0.00 | -10.00 $ |
-| primm | Spread: Oregon State (-6.5) | Utah State | 0.31 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
