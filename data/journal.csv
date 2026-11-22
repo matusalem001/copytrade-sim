@@ -5457,3 +5457,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 01:01 UTC,primm,REGLEMENT,Spread: LSU (-10.5),LSU,,0.44,,,22.7273,0.0,-10.0,perdu
 2026-11-22 01:01 UTC,primm,REGLEMENT,Spread: Tennessee (-3.5),LSU,,0.52,,,19.2308,0.0,-10.0,perdu
 2026-11-22 01:01 UTC,primm,REGLEMENT,Spread: LSU (-2.5),Tennessee,,0.46,,,21.7391,21.74,11.74,gagné
+2026-11-22 01:05 UTC,primm,ACHAT,Spread: Fresno State (-30.5),Fresno State,0.35,0.35,0.0,1.5,28.5714,10.0,,
+2026-11-22 01:05 UTC,primm,ACHAT,Spread: Fresno State (-33.5),Fresno State,0.28,0.29,1.0,1.5,34.4828,10.0,,
+2026-11-22 01:05 UTC,primm,ACHAT,Spread: Fresno State (-20.5),Fresno State,0.6,0.61,1.0,1.1,16.3934,10.0,,
+2026-11-22 01:05 UTC,primm,ACHAT,Spread: Fresno State (-21.5),Fresno State,0.56,0.56,0.0,0.3,17.8571,10.0,,
