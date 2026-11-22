@@ -5542,3 +5542,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 02:45 UTC,primm,REGLEMENT,Spread: Texas State (-3.5),Washington State,,0.36,,,27.7778,0.0,-10.0,perdu
 2026-11-22 02:45 UTC,primm,REGLEMENT,Maryland vs. USC: O/U 53.5,Over,,0.6,,,16.6667,16.67,6.67,gagné
 2026-11-22 02:46 UTC,primm,REGLEMENT,Maryland vs. USC: O/U 51.5,Over,,0.59,,,16.9492,16.95,6.95,gagné
+2026-11-22 02:50 UTC,primm,IGNORE,Arizona vs. Kansas State: O/U 51.5,Over,0.64,0.54,-10.0,4.5,,,,prix a trop chuté (match sans doute joué)
