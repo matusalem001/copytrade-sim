@@ -5602,3 +5602,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 03:31 UTC,primm,REGLEMENT,Stanford vs. California: O/U 47.5,Under,,0.34,,,29.4118,0.0,-10.0,perdu
 2026-11-22 03:35 UTC,primm,REGLEMENT,Colorado State vs. Fresno State: O/U 63.5,Over,,0.6,,,16.6667,16.67,6.67,gagné
 2026-11-22 03:35 UTC,primm,REGLEMENT,Colorado State vs. Fresno State: O/U 65.5,Over,,0.55,,,18.1818,18.18,8.18,gagné
+2026-11-22 03:40 UTC,primm,ACHAT,Oklahoma State vs. Arizona State: O/U 63.5,Under,0.5,0.46,-4.0,4.3,21.7391,10.0,,
+2026-11-22 03:40 UTC,primm,ACHAT,Utah State vs. Oregon State: O/U 51.5,Under,0.49,0.5,1.0,1.2,20.0,10.0,,
+2026-11-22 03:40 UTC,primm,REGLEMENT,Spread: UNLV (-4.5),San Jose State,,0.45,,,22.2222,22.22,12.22,gagné
+2026-11-22 03:40 UTC,primm,REGLEMENT,Arizona vs. Kansas State: O/U 47.5,Under,,0.62,,,16.129,0.0,-10.0,perdu
+2026-11-22 03:40 UTC,primm,REGLEMENT,Arizona vs. Kansas State: O/U 47.5,Over,,0.94,,,10.6383,10.64,0.64,gagné

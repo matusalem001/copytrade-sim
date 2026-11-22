@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 03:35 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 03:41 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 317 | 472 | 302 | 156 | +0.64 $ | +0.0 % | 15 | +1.2 ¢ | 8 min |
-| primm | 1897 | 807 | 1758 | 892 | +448.44 $ | +2.6 % | 139 | +3.0 ¢ | 4 min |
+| primm | 1899 | 807 | 1761 | 894 | +451.30 $ | +2.6 % | 138 | +3.0 ¢ | 4 min |
 | juice-fruit | 24 | 2 | 24 | 12 | -47.43 $ | -19.8 % | 0 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +401.64 $ sur 20840 $ engagés (+1.9 %)**
+**Total réalisé : +404.50 $ sur 20870 $ engagés (+1.9 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,9 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 03:35 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Arizona vs. Kansas State: O/U 47.5 | Over | 0.94 | 1.00 | +0.64 $ |
+| primm | Arizona vs. Kansas State: O/U 47.5 | Under | 0.62 | 0.00 | -10.00 $ |
+| primm | Spread: UNLV (-4.5) | San Jose State | 0.45 | 1.00 | +12.22 $ |
 | primm | Colorado State vs. Fresno State: O/U 65.5 | Over | 0.55 | 1.00 | +8.18 $ |
 | primm | Colorado State vs. Fresno State: O/U 63.5 | Over | 0.60 | 1.00 | +6.67 $ |
 | primm | Stanford vs. California: O/U 47.5 | Under | 0.34 | 0.00 | -10.00 $ |
@@ -38,8 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 03:35 UTC** 
 | primm | Spread: USC (-17.5) | Maryland | 0.48 | 1.00 | +10.83 $ |
 | primm | Spread: USC (-16.5) | Maryland | 0.49 | 1.00 | +10.41 $ |
 | primm | Maryland vs. USC: O/U 57.5 | Over | 0.51 | 0.00 | -10.00 $ |
-| primm | Maryland vs. USC: O/U 51.5 | Over | 0.59 | 1.00 | +6.95 $ |
-| primm | Maryland vs. USC: O/U 53.5 | Over | 0.60 | 1.00 | +6.67 $ |
-| primm | Spread: Texas State (-3.5) | Washington State | 0.36 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
