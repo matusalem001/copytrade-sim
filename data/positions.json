@@ -832,19 +832,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-21 21:20 UTC"
   },
-  "primm|10862186668858456717687134629573263599526899234888821588033775385132952504008": {
-   "date": "2026-11-21 21:20 UTC",
-   "trader": "primm",
-   "marche": "UCLA vs. Michigan",
-   "resultat": "UCLA",
-   "prix_trader": 0.65,
-   "retard_min": 1.0,
-   "token": "10862186668858456717687134629573263599526899234888821588033775385132952504008",
-   "prix_simule": 0.65,
-   "parts": 15.3846,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-21 21:20 UTC"
-  },
   "primm|27622209060233065297260225782258622643694669902962212290258268932363891903511": {
    "date": "2026-11-21 21:40 UTC",
    "trader": "primm",
@@ -1312,6 +1299,19 @@
    "parts": 23.2558,
    "montant": 10.0,
    "ouvert_le": "2026-11-22 00:36 UTC"
+  },
+  "BreakTheBank|96798268793131330515786636036408232007123725014946036900530916631586517394760": {
+   "date": "2026-11-22 00:40 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Trail Blazers vs. Knicks",
+   "resultat": "Trail Blazers",
+   "prix_trader": 0.52,
+   "retard_min": 5.5,
+   "token": "96798268793131330515786636036408232007123725014946036900530916631586517394760",
+   "prix_simule": 0.53,
+   "parts": 18.8679,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 00:40 UTC"
   }
  },
  "fermees": [
@@ -35603,6 +35603,23 @@
    "pnl": 3.6986,
    "ferme_le": "2026-11-22 00:36 UTC",
    "type": "gagné"
+  },
+  {
+   "date": "2026-11-21 21:20 UTC",
+   "trader": "primm",
+   "marche": "UCLA vs. Michigan",
+   "resultat": "UCLA",
+   "prix_trader": 0.65,
+   "retard_min": 1.0,
+   "token": "10862186668858456717687134629573263599526899234888821588033775385132952504008",
+   "prix_simule": 0.65,
+   "parts": 15.3846,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 21:20 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-22 00:40 UTC",
+   "type": "perdu"
   }
  ]
 }
