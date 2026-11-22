@@ -1247,6 +1247,19 @@
    "parts": 40.0,
    "montant": 10.0,
    "ouvert_le": "2026-11-22 20:40 UTC"
+  },
+  "BreakTheBank|95369505424947409592063252515709652166717720611547451222994449304565272485327": {
+   "date": "2026-11-22 20:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Chargers (-2.5)",
+   "resultat": "Jets",
+   "prix_trader": 0.43,
+   "retard_min": 1.7,
+   "token": "95369505424947409592063252515709652166717720611547451222994449304565272485327",
+   "prix_simule": 0.44,
+   "parts": 22.7273,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 20:45 UTC"
   }
  },
  "fermees": [
