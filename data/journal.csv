@@ -5941,3 +5941,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 16:50 UTC,primm,ACHAT,Steelers vs. Eagles: O/U 36.5,Over,0.54,0.54,0.0,2.1,18.5185,10.0,,
 2026-11-22 16:50 UTC,primm,ACHAT,Steelers vs. Eagles,Eagles,0.35,0.35,0.0,2.1,28.5714,10.0,,
 2026-11-22 16:50 UTC,primm,ACHAT,Spread: Steelers (-2.5),Eagles,0.41,0.41,0.0,2.1,24.3902,10.0,,
+2026-11-22 16:55 UTC,BreakTheBank,IGNORE,Spread: Trail Blazers (-1.5),Trail Blazers,0.5,,,982.4,,,,vu trop tard
+2026-11-22 16:55 UTC,primm,IGNORE,Spread: Utah (-1.5),TCU,0.47,,,702.9,,,,vu trop tard
+2026-11-22 16:55 UTC,primm,IGNORE,Spread: Oregon State (-2.5),Utah State,0.43,,,646.3,,,,vu trop tard
