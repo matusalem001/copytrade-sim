@@ -5933,3 +5933,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 16:40 UTC,primm,ACHAT,Spread: Lions (-6.5),Lions,0.42,0.42,0.0,6.5,23.8095,10.0,,
 2026-11-22 16:40 UTC,primm,ACHAT,Spread: Lions (-4.5),Lions,0.47,0.47,0.0,6.5,21.2766,10.0,,
 2026-11-22 16:40 UTC,primm,ACHAT,Spread: Lions (-5.5),Lions,0.45,0.45,0.0,6.5,22.2222,10.0,,
+2026-11-22 16:45 UTC,BreakTheBank,IGNORE,Spread: Trail Blazers (-1.5),Trail Blazers,0.5,,,973.2,,,,vu trop tard
