@@ -5469,3 +5469,10 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 01:15 UTC,primm,ACHAT,Spread: Fresno State (-23.5),Fresno State,0.47,0.55,8.0,3.0,18.1818,10.0,,
 2026-11-22 01:15 UTC,primm,ACHAT,Spread: Fresno State (-23.5),Colorado State,0.52,0.73,21.0,2.4,13.6986,10.0,,
 2026-11-22 01:15 UTC,primm,ACHAT,Virginia Tech vs. Miami (FL): O/U 63.5,Over,0.49,0.5,1.0,0.8,20.0,10.0,,
+2026-11-22 01:30 UTC,primm,IGNORE,Maryland vs. USC: O/U 51.5,Over,0.45,0.38,-7.0,7.4,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 01:30 UTC,primm,ACHAT,SMU vs. Notre Dame: O/U 43.5,Under,0.4,0.43,3.0,4.6,23.2558,10.0,,
+2026-11-22 01:30 UTC,primm,ACHAT,Spread: Missouri (-10.5),Kentucky,0.49,0.53,4.0,4.3,18.8679,10.0,,
+2026-11-22 01:30 UTC,primm,ACHAT,Spread: Notre Dame (-16.5),Notre Dame,0.56,0.53,-3.0,3.2,18.8679,10.0,,
+2026-11-22 01:30 UTC,primm,ACHAT,Spread: Notre Dame (-14.5),Notre Dame,0.61,0.58,-3.0,3.2,17.2414,10.0,,
+2026-11-22 01:30 UTC,primm,IGNORE,Spread: Notre Dame (-17.5),Notre Dame,0.55,0.49,-6.0,2.9,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 01:30 UTC,primm,IGNORE,Spread: Notre Dame (-20.5),Notre Dame,0.47,0.41,-6.0,2.9,,,,prix a trop chuté (match sans doute joué)
