@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 05:55 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 06:01 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 317 | 472 | 306 | 156 | -39.36 $ | -1.3 % | 11 | +1.2 ¢ | 8 min |
-| primm | 1938 | 835 | 1874 | 943 | +286.41 $ | +1.5 % | 64 | +3.0 ¢ | 4 min |
+| primm | 1942 | 836 | 1876 | 945 | +317.12 $ | +1.7 % | 66 | +3.0 ¢ | 4 min |
 | juice-fruit | 24 | 2 | 24 | 12 | -47.43 $ | -19.8 % | 0 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +199.61 $ sur 22040 $ engagés (+0.9 %)**
+**Total réalisé : +230.32 $ sur 22060 $ engagés (+1.0 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 05:55 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Utah vs. TCU: O/U 45.5 | Over | 0.33 | 1.00 | +20.30 $ |
+| primm | Utah vs. TCU: O/U 47.5 | Over | 0.49 | 1.00 | +10.41 $ |
 | primm | Spread: UTSA (-5.5) | UTSA | 0.39 | 0.00 | -10.00 $ |
 | primm | UTSA vs. UAB | UAB | 0.35 | 0.00 | -10.00 $ |
 | primm | Spread: UTSA (-4.5) | UAB | 0.48 | 1.00 | +10.83 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 05:55 UTC** 
 | primm | Spread: Louisville (-13.5) | Pittsburgh | 0.50 | 0.00 | -10.00 $ |
 | primm | Spread: Kansas State (-7.5) | Arizona | 0.45 | 1.00 | +12.27 $ |
 | primm | Arizona vs. Kansas State | Arizona | 0.26 | 1.00 | +28.46 $ |
-| primm | Spread: Kansas State (-4.5) | Arizona | 0.49 | 1.00 | +10.41 $ |
-| primm | Spread: Kansas State (-6.5) | Arizona | 0.66 | 1.00 | +5.15 $ |
 
 Journal complet : `data/journal.csv`
