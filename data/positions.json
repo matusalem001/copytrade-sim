@@ -195,19 +195,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-20 19:30 UTC"
   },
-  "primm|26451018477551398534816115514694827377720028741134048192152966597829597634207": {
-   "date": "2026-11-20 19:50 UTC",
-   "trader": "primm",
-   "marche": "Colorado State vs. Fresno State: O/U 63.5",
-   "resultat": "Over",
-   "prix_trader": 0.58,
-   "retard_min": 8.7,
-   "token": "26451018477551398534816115514694827377720028741134048192152966597829597634207",
-   "prix_simule": 0.6,
-   "parts": 16.6667,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-20 19:50 UTC"
-  },
   "primm|6679292662265205588322300956433021514485069220200675304580073737518674425694": {
    "date": "2026-11-20 19:50 UTC",
    "trader": "primm",
@@ -233,19 +220,6 @@
    "parts": 22.2222,
    "montant": 10.0,
    "ouvert_le": "2026-11-20 20:05 UTC"
-  },
-  "primm|63122672226507070350928027169447860663950291096371730034593452826717250540122": {
-   "date": "2026-11-21 04:50 UTC",
-   "trader": "primm",
-   "marche": "Colorado State vs. Fresno State: O/U 65.5",
-   "resultat": "Over",
-   "prix_trader": 0.54,
-   "retard_min": 0.5,
-   "token": "63122672226507070350928027169447860663950291096371730034593452826717250540122",
-   "prix_simule": 0.55,
-   "parts": 18.1818,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-21 04:50 UTC"
   },
   "primm|97660366209280480474894241628144045881207503049686454693569147820319033252636": {
    "date": "2026-11-21 04:50 UTC",
@@ -37423,6 +37397,40 @@
    "pnl": -10.0,
    "ferme_le": "2026-11-22 03:31 UTC",
    "type": "perdu"
+  },
+  {
+   "date": "2026-11-20 19:50 UTC",
+   "trader": "primm",
+   "marche": "Colorado State vs. Fresno State: O/U 63.5",
+   "resultat": "Over",
+   "prix_trader": 0.58,
+   "retard_min": 8.7,
+   "token": "26451018477551398534816115514694827377720028741134048192152966597829597634207",
+   "prix_simule": 0.6,
+   "parts": 16.6667,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-20 19:50 UTC",
+   "sortie": 1.0,
+   "pnl": 6.6667,
+   "ferme_le": "2026-11-22 03:35 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-21 04:50 UTC",
+   "trader": "primm",
+   "marche": "Colorado State vs. Fresno State: O/U 65.5",
+   "resultat": "Over",
+   "prix_trader": 0.54,
+   "retard_min": 0.5,
+   "token": "63122672226507070350928027169447860663950291096371730034593452826717250540122",
+   "prix_simule": 0.55,
+   "parts": 18.1818,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 04:50 UTC",
+   "sortie": 1.0,
+   "pnl": 8.1818,
+   "ferme_le": "2026-11-22 03:35 UTC",
+   "type": "gagné"
   }
  ]
 }
