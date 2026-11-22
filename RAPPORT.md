@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 07:05 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 07:10 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 317 | 472 | 306 | 156 | -39.36 $ | -1.3 % | 11 | +1.2 ¢ | 8 min |
-| primm | 1956 | 845 | 1896 | 950 | +213.17 $ | +1.1 % | 60 | +3.0 ¢ | 4 min |
+| primm | 1956 | 845 | 1900 | 953 | +224.08 $ | +1.2 % | 56 | +3.0 ¢ | 4 min |
 | juice-fruit | 24 | 2 | 24 | 12 | -47.43 $ | -19.8 % | 0 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +126.37 $ sur 22260 $ engagés (+0.6 %)**
+**Total réalisé : +137.28 $ sur 22300 $ engagés (+0.6 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,10 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 07:05 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Utah State vs. Oregon State: O/U 49.5 | Over | 0.56 | 1.00 | +7.86 $ |
+| primm | Utah State vs. Oregon State: O/U 51.5 | Over | 0.60 | 1.00 | +6.67 $ |
+| primm | Utah State vs. Oregon State: O/U 53.5 | Over | 0.61 | 1.00 | +6.39 $ |
+| primm | Utah State vs. Oregon State: O/U 51.5 | Under | 0.50 | 0.00 | -10.00 $ |
 | primm | San Diego State vs. Boise State: O/U 39.5 | Over | 0.41 | 1.00 | +14.39 $ |
 | primm | San Diego State vs. Boise State: O/U 39.5 | Under | 0.68 | 0.00 | -10.00 $ |
 | primm | San Diego State vs. Boise State: O/U 51.5 | Under | 0.65 | 1.00 | +5.38 $ |
@@ -37,9 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 07:05 UTC** 
 | primm | Spread: Utah (-7.5) | TCU | 0.49 | 0.00 | -10.00 $ |
 | primm | Utah vs. TCU: O/U 43.5 | Over | 0.46 | 1.00 | +11.74 $ |
 | primm | Utah vs. TCU: O/U 45.5 | Over | 0.33 | 1.00 | +20.30 $ |
-| primm | Utah vs. TCU: O/U 47.5 | Over | 0.49 | 1.00 | +10.41 $ |
-| primm | Spread: UTSA (-5.5) | UTSA | 0.39 | 0.00 | -10.00 $ |
-| primm | UTSA vs. UAB | UAB | 0.35 | 0.00 | -10.00 $ |
-| primm | Spread: UTSA (-4.5) | UAB | 0.48 | 1.00 | +10.83 $ |
 
 Journal complet : `data/journal.csv`

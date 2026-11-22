@@ -325,19 +325,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-22 03:40 UTC"
   },
-  "primm|72239093036210623063894292319352530624519152114765785222533650375751905287157": {
-   "date": "2026-11-22 03:40 UTC",
-   "trader": "primm",
-   "marche": "Utah State vs. Oregon State: O/U 51.5",
-   "resultat": "Under",
-   "prix_trader": 0.49,
-   "retard_min": 1.2,
-   "token": "72239093036210623063894292319352530624519152114765785222533650375751905287157",
-   "prix_simule": 0.5,
-   "parts": 20.0,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-22 03:40 UTC"
-  },
   "primm|39488498078307266257703042576557234840821102054054772961050376509319175123845": {
    "date": "2026-11-22 03:50 UTC",
    "trader": "primm",
@@ -754,19 +741,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-22 06:05 UTC"
   },
-  "primm|10236650271251404852645661034207277312180916115660444301464767565183598022403": {
-   "date": "2026-11-22 06:05 UTC",
-   "trader": "primm",
-   "marche": "Utah State vs. Oregon State: O/U 53.5",
-   "resultat": "Over",
-   "prix_trader": 0.54,
-   "retard_min": 2.4,
-   "token": "10236650271251404852645661034207277312180916115660444301464767565183598022403",
-   "prix_simule": 0.61,
-   "parts": 16.3934,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-22 06:05 UTC"
-  },
   "primm|44276705869688977469963232058866120921848351895222881883549065957559402353401": {
    "date": "2026-11-22 06:05 UTC",
    "trader": "primm",
@@ -780,19 +754,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-22 06:05 UTC"
   },
-  "primm|106711047119856324833101372253478385794433285803596627988114742128797147962714": {
-   "date": "2026-11-22 06:05 UTC",
-   "trader": "primm",
-   "marche": "Utah State vs. Oregon State: O/U 51.5",
-   "resultat": "Over",
-   "prix_trader": 0.56,
-   "retard_min": 2.4,
-   "token": "106711047119856324833101372253478385794433285803596627988114742128797147962714",
-   "prix_simule": 0.6,
-   "parts": 16.6667,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-22 06:05 UTC"
-  },
   "primm|84873812392694826056949603837220552342629025384729979249629572380606251443811": {
    "date": "2026-11-22 06:10 UTC",
    "trader": "primm",
@@ -803,19 +764,6 @@
    "token": "84873812392694826056949603837220552342629025384729979249629572380606251443811",
    "prix_simule": 0.45,
    "parts": 22.2222,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-22 06:10 UTC"
-  },
-  "primm|89844904041123124452650721454129560089905572569926967855346752467710130809971": {
-   "date": "2026-11-22 06:10 UTC",
-   "trader": "primm",
-   "marche": "Utah State vs. Oregon State: O/U 49.5",
-   "resultat": "Over",
-   "prix_trader": 0.57,
-   "retard_min": 1.5,
-   "token": "89844904041123124452650721454129560089905572569926967855346752467710130809971",
-   "prix_simule": 0.56,
-   "parts": 17.8571,
    "montant": 10.0,
    "ouvert_le": "2026-11-22 06:10 UTC"
   },
@@ -38765,6 +38713,74 @@
    "sortie": 1.0,
    "pnl": 14.3902,
    "ferme_le": "2026-11-22 06:31 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-22 03:40 UTC",
+   "trader": "primm",
+   "marche": "Utah State vs. Oregon State: O/U 51.5",
+   "resultat": "Under",
+   "prix_trader": 0.49,
+   "retard_min": 1.2,
+   "token": "72239093036210623063894292319352530624519152114765785222533650375751905287157",
+   "prix_simule": 0.5,
+   "parts": 20.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 03:40 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-22 07:10 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-22 06:05 UTC",
+   "trader": "primm",
+   "marche": "Utah State vs. Oregon State: O/U 53.5",
+   "resultat": "Over",
+   "prix_trader": 0.54,
+   "retard_min": 2.4,
+   "token": "10236650271251404852645661034207277312180916115660444301464767565183598022403",
+   "prix_simule": 0.61,
+   "parts": 16.3934,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 06:05 UTC",
+   "sortie": 1.0,
+   "pnl": 6.3934,
+   "ferme_le": "2026-11-22 07:10 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-22 06:05 UTC",
+   "trader": "primm",
+   "marche": "Utah State vs. Oregon State: O/U 51.5",
+   "resultat": "Over",
+   "prix_trader": 0.56,
+   "retard_min": 2.4,
+   "token": "106711047119856324833101372253478385794433285803596627988114742128797147962714",
+   "prix_simule": 0.6,
+   "parts": 16.6667,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 06:05 UTC",
+   "sortie": 1.0,
+   "pnl": 6.6667,
+   "ferme_le": "2026-11-22 07:10 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-22 06:10 UTC",
+   "trader": "primm",
+   "marche": "Utah State vs. Oregon State: O/U 49.5",
+   "resultat": "Over",
+   "prix_trader": 0.57,
+   "retard_min": 1.5,
+   "token": "89844904041123124452650721454129560089905572569926967855346752467710130809971",
+   "prix_simule": 0.56,
+   "parts": 17.8571,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 06:10 UTC",
+   "sortie": 1.0,
+   "pnl": 7.8571,
+   "ferme_le": "2026-11-22 07:10 UTC",
    "type": "gagné"
   }
  ]
