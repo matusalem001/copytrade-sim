@@ -6049,3 +6049,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 20:40 UTC,primm,ACHAT,Spread: Bears (-5.5),Saints,0.33,0.34,1.0,0.6,29.4118,10.0,,
 2026-11-22 20:40 UTC,primm,ACHAT,Spread: Bears (-4.5),Saints,0.25,0.25,0.0,0.6,40.0,10.0,,
 2026-11-22 20:45 UTC,BreakTheBank,ACHAT,Spread: Chargers (-2.5),Jets,0.43,0.44,1.0,1.7,22.7273,10.0,,
+2026-11-22 20:55 UTC,primm,REGLEMENT,Titans vs. Cowboys: O/U 64.5,Under,,0.65,,,15.3846,0.0,-10.0,perdu
+2026-11-22 20:55 UTC,primm,REGLEMENT,Ravens vs. Panthers: O/U 56.5,Over,,0.46,,,21.7391,21.74,11.74,gagné
