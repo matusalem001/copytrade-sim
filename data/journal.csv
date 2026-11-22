@@ -6036,3 +6036,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 19:50 UTC,juice-fruit,REGLEMENT,"ATP World Tour Finals, Final Stage: Alexander Zverev vs Carlos Alcaraz",Alexander Zverev,,0.37,,,27.027,0.0,-10.0,perdu
 2026-11-22 19:55 UTC,primm,ACHAT,Dolphins vs. Bills: O/U 48.5,Under,0.5,0.5,0.0,3.8,20.0,10.0,,
 2026-11-22 19:55 UTC,primm,ACHAT,Spread: Bills (-16.5),Bills,0.61,0.61,0.0,0.4,16.3934,10.0,,
+2026-11-22 20:00 UTC,primm,ACHAT,Spread: Bills (-17.5),Bills,0.58,0.6,2.0,2.2,16.6667,10.0,,
+2026-11-22 20:00 UTC,primm,ACHAT,Spread: Bills (-14.5),Bills,0.67,0.73,6.0,2.2,13.6986,10.0,,
