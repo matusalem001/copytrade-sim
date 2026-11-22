@@ -181,6 +181,19 @@
    "parts": 20.8333,
    "montant": 10.0,
    "ouvert_le": "2026-11-22 16:00 UTC"
+  },
+  "BreakTheBank|60582913160893005057980330889854236031719741979732431643361720136255949131301": {
+   "date": "2026-11-22 16:05 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Dolphins vs. Bills: O/U 46.5",
+   "resultat": "Under",
+   "prix_trader": 0.56,
+   "retard_min": 4.8,
+   "token": "60582913160893005057980330889854236031719741979732431643361720136255949131301",
+   "prix_simule": 0.57,
+   "parts": 17.5439,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 16:05 UTC"
   }
  },
  "fermees": [
