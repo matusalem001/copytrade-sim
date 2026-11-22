@@ -572,19 +572,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-22 00:35 UTC"
   },
-  "BreakTheBank|23539715727821171563882218668831103618590849307339782331264023008283595688810": {
-   "date": "2026-11-22 00:35 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Spread: Trail Blazers (-1.5)",
-   "resultat": "Trail Blazers",
-   "prix_trader": 0.5,
-   "retard_min": 3.5,
-   "token": "23539715727821171563882218668831103618590849307339782331264023008283595688810",
-   "prix_simule": 0.51,
-   "parts": 19.6078,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-22 00:35 UTC"
-  },
   "primm|103726035207477403955576730521036906990679552887608588490199019356769256708089": {
    "date": "2026-11-22 00:35 UTC",
    "trader": "primm",
@@ -636,19 +623,6 @@
    "parts": 23.2558,
    "montant": 10.0,
    "ouvert_le": "2026-11-22 00:36 UTC"
-  },
-  "BreakTheBank|96798268793131330515786636036408232007123725014946036900530916631586517394760": {
-   "date": "2026-11-22 00:40 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Trail Blazers vs. Knicks",
-   "resultat": "Trail Blazers",
-   "prix_trader": 0.52,
-   "retard_min": 5.5,
-   "token": "96798268793131330515786636036408232007123725014946036900530916631586517394760",
-   "prix_simule": 0.53,
-   "parts": 18.8679,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-22 00:40 UTC"
   },
   "primm|33718620320991063256775474416197260890282876867034953124055635196075427908065": {
    "date": "2026-11-22 00:45 UTC",
@@ -2001,6 +1975,71 @@
    "parts": 14.7059,
    "montant": 10.0,
    "ouvert_le": "2026-11-22 03:10 UTC"
+  },
+  "primm|23463710855192957104286921224459259353689666553628798153062718040652289935283": {
+   "date": "2026-11-22 03:15 UTC",
+   "trader": "primm",
+   "marche": "Spread: Kansas State (-5.5)",
+   "resultat": "Arizona",
+   "prix_trader": 0.53,
+   "retard_min": 4.2,
+   "token": "23463710855192957104286921224459259353689666553628798153062718040652289935283",
+   "prix_simule": 0.66,
+   "parts": 15.1515,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 03:15 UTC"
+  },
+  "primm|44822003826877819478571113223499355993326739561305868075914117611613725289028": {
+   "date": "2026-11-22 03:15 UTC",
+   "trader": "primm",
+   "marche": "Spread: Kansas State (-6.5)",
+   "resultat": "Arizona",
+   "prix_trader": 0.55,
+   "retard_min": 4.2,
+   "token": "44822003826877819478571113223499355993326739561305868075914117611613725289028",
+   "prix_simule": 0.66,
+   "parts": 15.1515,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 03:15 UTC"
+  },
+  "primm|100002818425806092639800161200071274264713966976508562018340017233691680754271": {
+   "date": "2026-11-22 03:15 UTC",
+   "trader": "primm",
+   "marche": "Spread: Kansas State (-4.5)",
+   "resultat": "Arizona",
+   "prix_trader": 0.41,
+   "retard_min": 4.2,
+   "token": "100002818425806092639800161200071274264713966976508562018340017233691680754271",
+   "prix_simule": 0.49,
+   "parts": 20.4082,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 03:15 UTC"
+  },
+  "primm|47477195513753858070715182505500496551102938401725367768848064628762976393016": {
+   "date": "2026-11-22 03:15 UTC",
+   "trader": "primm",
+   "marche": "Arizona vs. Kansas State",
+   "resultat": "Arizona",
+   "prix_trader": 0.2,
+   "retard_min": 4.2,
+   "token": "47477195513753858070715182505500496551102938401725367768848064628762976393016",
+   "prix_simule": 0.26,
+   "parts": 38.4615,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 03:15 UTC"
+  },
+  "primm|65336961760580626108209970683067967690467675231857808930417633461194183933503": {
+   "date": "2026-11-22 03:15 UTC",
+   "trader": "primm",
+   "marche": "Spread: Georgia (-21.5)",
+   "resultat": "South Carolina",
+   "prix_trader": 0.78,
+   "retard_min": 2.9,
+   "token": "65336961760580626108209970683067967690467675231857808930417633461194183933503",
+   "prix_simule": 0.83,
+   "parts": 12.0482,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 03:15 UTC"
   }
  },
  "fermees": [
@@ -37278,6 +37317,40 @@
    "pnl": 10.4082,
    "ferme_le": "2026-11-22 03:01 UTC",
    "type": "gagné"
+  },
+  {
+   "date": "2026-11-22 00:35 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Trail Blazers (-1.5)",
+   "resultat": "Trail Blazers",
+   "prix_trader": 0.5,
+   "retard_min": 3.5,
+   "token": "23539715727821171563882218668831103618590849307339782331264023008283595688810",
+   "prix_simule": 0.51,
+   "parts": 19.6078,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 00:35 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-22 03:15 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-22 00:40 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Trail Blazers vs. Knicks",
+   "resultat": "Trail Blazers",
+   "prix_trader": 0.52,
+   "retard_min": 5.5,
+   "token": "96798268793131330515786636036408232007123725014946036900530916631586517394760",
+   "prix_simule": 0.53,
+   "parts": 18.8679,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 00:40 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-22 03:15 UTC",
+   "type": "perdu"
   }
  ]
 }
