@@ -6003,3 +6003,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 18:45 UTC,primm,ACHAT,Spread: Lions (-10.5),Lions,0.45,0.47,2.0,1.1,21.2766,10.0,,
 2026-11-22 18:45 UTC,primm,ACHAT,Cardinals vs. Chiefs: O/U 50.5,Under,0.63,0.69,6.0,0.6,14.4928,10.0,,
 2026-11-22 18:45 UTC,primm,ACHAT,Spread: Eagles (-7.5),Eagles,0.45,0.46,1.0,0.1,21.7391,10.0,,
+2026-11-22 18:50 UTC,primm,ACHAT,Ravens vs. Panthers: O/U 56.5,Over,0.42,0.46,4.0,4.5,21.7391,10.0,,
+2026-11-22 18:50 UTC,primm,ACHAT,Ravens vs. Panthers: O/U 50.5,Over,0.62,0.66,4.0,4.5,15.1515,10.0,,
+2026-11-22 18:50 UTC,primm,ACHAT,Spread: Lions (-16.5),Lions,0.3,0.27,-3.0,4.1,37.037,10.0,,
+2026-11-22 18:50 UTC,primm,ACHAT,Spread: Bears (-20.5),Saints,0.64,0.65,1.0,0.6,15.3846,10.0,,
