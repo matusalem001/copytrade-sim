@@ -5834,3 +5834,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 06:30 UTC,primm,REGLEMENT,San Diego State vs. Boise State: O/U 51.5,Under,,0.65,,,15.3846,15.38,5.38,gagné
 2026-11-22 06:30 UTC,primm,REGLEMENT,San Diego State vs. Boise State: O/U 39.5,Under,,0.68,,,14.7059,0.0,-10.0,perdu
 2026-11-22 06:31 UTC,primm,REGLEMENT,San Diego State vs. Boise State: O/U 39.5,Over,,0.41,,,24.3902,24.39,14.39,gagné
+2026-11-22 06:35 UTC,primm,IGNORE,Utah vs. TCU: O/U 45.5,Over,0.3,,,92.5,,,,vu trop tard
