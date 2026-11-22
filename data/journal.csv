@@ -5607,3 +5607,9 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 03:40 UTC,primm,REGLEMENT,Spread: UNLV (-4.5),San Jose State,,0.45,,,22.2222,22.22,12.22,gagné
 2026-11-22 03:40 UTC,primm,REGLEMENT,Arizona vs. Kansas State: O/U 47.5,Under,,0.62,,,16.129,0.0,-10.0,perdu
 2026-11-22 03:40 UTC,primm,REGLEMENT,Arizona vs. Kansas State: O/U 47.5,Over,,0.94,,,10.6383,10.64,0.64,gagné
+2026-11-22 03:45 UTC,primm,REGLEMENT,Colorado State vs. Fresno State: O/U 71.5,Over,,0.41,,,24.3902,24.39,14.39,gagné
+2026-11-22 03:45 UTC,BreakTheBank,REGLEMENT,Spread: Spurs (-18.5),Pelicans,,0.47,,,21.2766,0.0,-10.0,perdu
+2026-11-22 03:45 UTC,BreakTheBank,REGLEMENT,Spread: Spurs (-17.5),Pelicans,,0.44,,,22.7273,0.0,-10.0,perdu
+2026-11-22 03:45 UTC,BreakTheBank,REGLEMENT,Spread: Spurs (-19.5),Pelicans,,0.51,,,19.6078,0.0,-10.0,perdu
+2026-11-22 03:45 UTC,BreakTheBank,REGLEMENT,Pelicans vs. Spurs,Pelicans,,0.08,,,125.0,0.0,-10.0,perdu
+2026-11-22 03:45 UTC,primm,REGLEMENT,Colorado State vs. Fresno State: O/U 71.5,Under,,0.22,,,45.4545,0.0,-10.0,perdu
