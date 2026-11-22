@@ -909,6 +909,32 @@
    "parts": 28.5714,
    "montant": 10.0,
    "ouvert_le": "2026-11-22 05:30 UTC"
+  },
+  "primm|60279912381074998857712242796171451655720639081245600750699879100436902183292": {
+   "date": "2026-11-22 05:35 UTC",
+   "trader": "primm",
+   "marche": "San Diego State vs. Boise State: O/U 39.5",
+   "resultat": "Over",
+   "prix_trader": 0.43,
+   "retard_min": 3.5,
+   "token": "60279912381074998857712242796171451655720639081245600750699879100436902183292",
+   "prix_simule": 0.41,
+   "parts": 24.3902,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 05:35 UTC"
+  },
+  "primm|70944880079434756195340188137518748346076674797338650062690970683449775265806": {
+   "date": "2026-11-22 05:35 UTC",
+   "trader": "primm",
+   "marche": "Spread: Arizona State (-7.5)",
+   "resultat": "Oklahoma State",
+   "prix_trader": 0.43,
+   "retard_min": 2.8,
+   "token": "70944880079434756195340188137518748346076674797338650062690970683449775265806",
+   "prix_simule": 0.51,
+   "parts": 19.6078,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 05:35 UTC"
   }
  },
  "fermees": [

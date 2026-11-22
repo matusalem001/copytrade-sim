@@ -5784,3 +5784,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 05:25 UTC,primm,IGNORE,Spread: Arizona (-1.5),Kansas State,0.66,,,84.2,,,,vu trop tard
 2026-11-22 05:30 UTC,primm,ACHAT,Spread: Utah (-3.5),TCU,0.26,0.258,-0.2,1.1,38.7597,10.0,,
 2026-11-22 05:30 UTC,primm,ACHAT,Spread: Arizona State (-6.5),Oklahoma State,0.33,0.35,2.0,0.7,28.5714,10.0,,
+2026-11-22 05:35 UTC,primm,IGNORE,Arizona vs. Kansas State,Kansas State,0.3,,,94.0,,,,vu trop tard
+2026-11-22 05:35 UTC,primm,ACHAT,San Diego State vs. Boise State: O/U 39.5,Over,0.43,0.41,-2.0,3.5,24.3902,10.0,,
+2026-11-22 05:35 UTC,primm,ACHAT,Spread: Arizona State (-7.5),Oklahoma State,0.43,0.51,8.0,2.8,19.6078,10.0,,
