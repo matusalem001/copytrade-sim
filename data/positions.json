@@ -168,6 +168,19 @@
    "parts": 23.2558,
    "montant": 10.0,
    "ouvert_le": "2026-11-22 12:50 UTC"
+  },
+  "juice-fruit|46090016304666083766122726597888550056374924759055648437096347816675240114811": {
+   "date": "2026-11-22 13:35 UTC",
+   "trader": "juice-fruit",
+   "marche": "Will Brighton & Hove Albion FC win on 2026-11-22?",
+   "resultat": "Yes",
+   "prix_trader": 0.65,
+   "retard_min": 0.1,
+   "token": "46090016304666083766122726597888550056374924759055648437096347816675240114811",
+   "prix_simule": 0.66,
+   "parts": 15.1515,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 13:35 UTC"
   }
  },
  "fermees": [
