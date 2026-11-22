@@ -6027,3 +6027,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 19:10 UTC,BreakTheBank,ACHAT,Raiders vs. Broncos,Broncos,0.83,0.84,1.0,2.2,11.9048,10.0,,
 2026-11-22 19:15 UTC,primm,IGNORE,Steelers vs. Eagles: O/U 40.5,Over,0.41,0.34,-7.0,3.4,,,,prix a trop chuté (match sans doute joué)
 2026-11-22 19:20 UTC,BreakTheBank,ACHAT,Vikings vs. 49ers,49ers,0.63,0.64,1.0,3.5,15.625,10.0,,
+2026-11-22 19:30 UTC,primm,IGNORE,Spread: Panthers (-4.5),Panthers,0.28,0.22,-6.0,4.7,,,,prix a trop chuté (match sans doute joué)
