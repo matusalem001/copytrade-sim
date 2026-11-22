@@ -168,6 +168,19 @@
    "parts": 15.1515,
    "montant": 10.0,
    "ouvert_le": "2026-11-22 13:35 UTC"
+  },
+  "juice-fruit|10235116750149815270924632502118331146502010051292303662783047397710357424117": {
+   "date": "2026-11-22 16:00 UTC",
+   "trader": "juice-fruit",
+   "marche": "Will Liverpool FC win on 2026-11-22?",
+   "resultat": "No",
+   "prix_trader": 0.47,
+   "retard_min": 0.5,
+   "token": "10235116750149815270924632502118331146502010051292303662783047397710357424117",
+   "prix_simule": 0.48,
+   "parts": 20.8333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 16:00 UTC"
   }
  },
  "fermees": [
