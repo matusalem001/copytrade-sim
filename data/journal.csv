@@ -5382,3 +5382,42 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 00:40 UTC,primm,IGNORE,Old Dominion vs. UConn: O/U 61.5,Over,0.4,,,149.7,,,,vu trop tard
 2026-11-22 00:40 UTC,primm,IGNORE,Spread: UConn (-10.5),Old Dominion,0.49,,,149.6,,,,vu trop tard
 2026-11-22 00:40 UTC,primm,REGLEMENT,UCLA vs. Michigan,UCLA,,0.65,,,15.3846,0.0,-10.0,perdu
+2026-11-22 00:45 UTC,primm,ACHAT,Spread: USC (-11.5),Maryland,0.51,0.66,15.0,9.1,15.1515,10.0,,
+2026-11-22 00:45 UTC,primm,ACHAT,Spread: Notre Dame (-24.5),SMU,0.62,0.63,1.0,8.4,15.873,10.0,,
+2026-11-22 00:45 UTC,primm,ACHAT,Stanford vs. California,Stanford,0.62,0.71,9.0,7.0,14.0845,10.0,,
+2026-11-22 00:45 UTC,primm,IGNORE,Spread: Notre Dame (-13.5),SMU,0.41,0.35,-6.0,6.5,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 00:45 UTC,primm,ACHAT,Arizona vs. Kansas State: O/U 35.5,Over,0.71,0.74,3.0,5.7,13.5135,10.0,,
+2026-11-22 00:45 UTC,primm,ACHAT,Stanford vs. California: O/U 53.5,Under,0.5,0.55,5.0,4.9,18.1818,10.0,,
+2026-11-22 00:45 UTC,primm,ACHAT,Spread: Notre Dame (-21.5),SMU,0.6002,0.56,-4.0,4.3,17.8571,10.0,,
+2026-11-22 00:45 UTC,primm,ACHAT,SMU vs. Notre Dame: O/U 57.5,Over,0.45,0.41,-4.0,3.3,24.3902,10.0,,
+2026-11-22 00:45 UTC,primm,ACHAT,SMU vs. Notre Dame: O/U 55.5,Over,0.5,0.46,-4.0,3.3,21.7391,10.0,,
+2026-11-22 00:45 UTC,primm,ACHAT,Spread: Notre Dame (-13.5),SMU,0.39,0.35,-4.0,3.3,28.5714,10.0,,
+2026-11-22 00:45 UTC,primm,ACHAT,SMU vs. Notre Dame: O/U 59.5,Over,0.39,0.36,-3.0,3.3,27.7778,10.0,,
+2026-11-22 00:45 UTC,primm,ACHAT,Spread: Notre Dame (-14.5),SMU,0.41,0.38,-3.0,3.3,26.3158,10.0,,
+2026-11-22 00:45 UTC,primm,ACHAT,Spread: Notre Dame (-11.5),SMU,0.36,0.31,-5.0,3.3,32.2581,10.0,,
+2026-11-22 00:45 UTC,primm,ACHAT,Spread: Notre Dame (-16.5),SMU,0.44,0.42,-2.0,3.3,23.8095,10.0,,
+2026-11-22 00:45 UTC,primm,ACHAT,Spread: Fresno State (-24.5),Fresno State,0.5,0.6,10.0,2.4,16.6667,10.0,,
+2026-11-22 00:45 UTC,primm,ACHAT,SMU vs. Notre Dame: O/U 57.5,Under,0.59,0.64,5.0,2.2,15.625,10.0,,
+2026-11-22 00:45 UTC,primm,ACHAT,Spread: Stanford (-10.5),Stanford,0.39,0.4,1.0,1.0,25.0,10.0,,
+2026-11-22 00:45 UTC,primm,ACHAT,Spread: Stanford (-5.5),Stanford,0.55,0.55,0.0,0.3,18.1818,10.0,,
+2026-11-22 00:45 UTC,primm,REGLEMENT,Spread: Georgia State (-1.5),Marshall,,0.59,,,16.9492,16.95,6.95,gagné
+2026-11-22 00:45 UTC,primm,REGLEMENT,Spread: South Alabama (-6.5),South Alabama,,0.44,,,22.7273,0.0,-10.0,perdu
+2026-11-22 00:45 UTC,primm,REGLEMENT,UCLA vs. Michigan: O/U 39.5,Over,,0.43,,,23.2558,0.0,-10.0,perdu
+2026-11-22 00:45 UTC,primm,REGLEMENT,Spread: UCLA (-5.5),UCLA,,0.45,,,22.2222,0.0,-10.0,perdu
+2026-11-22 00:45 UTC,primm,REGLEMENT,UCLA vs. Michigan: O/U 41.5,Over,,0.37,,,27.027,0.0,-10.0,perdu
+2026-11-22 00:45 UTC,primm,REGLEMENT,Spread: UCLA (-4.5),UCLA,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-22 00:45 UTC,primm,REGLEMENT,Spread: UCLA (-6.5),UCLA,,0.42,,,23.8095,0.0,-10.0,perdu
+2026-11-22 00:45 UTC,primm,REGLEMENT,Spread: UCLA (-3.5),UCLA,,0.5,,,20.0,0.0,-10.0,perdu
+2026-11-22 00:45 UTC,primm,REGLEMENT,Spread: UCLA (-7.5),UCLA,,0.36,,,27.7778,0.0,-10.0,perdu
+2026-11-22 00:45 UTC,primm,REGLEMENT,Georgia State vs. Marshall,Marshall,,0.59,,,16.9492,16.95,6.95,gagné
+2026-11-22 00:45 UTC,primm,REGLEMENT,Spread: Marshall (-5.5),Marshall,,0.44,,,22.7273,0.0,-10.0,perdu
+2026-11-22 00:45 UTC,primm,REGLEMENT,Spread: UCLA (-10.5),UCLA,,0.36,,,27.7778,0.0,-10.0,perdu
+2026-11-22 00:45 UTC,primm,REGLEMENT,Spread: UCLA (-2.5),UCLA,,0.58,,,17.2414,0.0,-10.0,perdu
+2026-11-22 00:45 UTC,primm,REGLEMENT,Spread: Michigan (-2.5),UCLA,,0.65,,,15.3846,15.38,5.38,gagné
+2026-11-22 00:45 UTC,primm,REGLEMENT,Spread: Michigan (-1.5),UCLA,,0.65,,,15.3846,0.0,-10.0,perdu
+2026-11-22 00:45 UTC,primm,REGLEMENT,Spread: North Dakota State (-24.5),Northern Illinois,,0.58,,,17.2414,17.24,7.24,gagné
+2026-11-22 00:45 UTC,primm,REGLEMENT,Spread: UCLA (-2.5),Michigan,,0.43,,,23.2558,23.26,13.26,gagné
+2026-11-22 00:45 UTC,primm,REGLEMENT,Spread: UCLA (-1.5),Michigan,,0.41,,,24.3902,24.39,14.39,gagné
+2026-11-22 00:45 UTC,primm,REGLEMENT,Spread: Michigan (-6.5),UCLA,,0.47,,,21.2766,21.28,11.28,gagné
+2026-11-22 00:45 UTC,primm,REGLEMENT,Spread: Michigan (-3.5),UCLA,,0.47,,,21.2766,21.28,11.28,gagné
+2026-11-22 00:45 UTC,primm,REGLEMENT,Spread: North Dakota State (-11.5),Northern Illinois,,0.12,,,83.3333,83.33,73.33,gagné
