@@ -1260,6 +1260,58 @@
    "parts": 18.1818,
    "montant": 10.0,
    "ouvert_le": "2026-11-22 00:45 UTC"
+  },
+  "BreakTheBank|6010720608100636618683978441589351905755283559190160709714270500815076146742": {
+   "date": "2026-11-22 00:50 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Grizzlies vs. Timberwolves",
+   "resultat": "Grizzlies",
+   "prix_trader": 0.33,
+   "retard_min": 0.9,
+   "token": "6010720608100636618683978441589351905755283559190160709714270500815076146742",
+   "prix_simule": 0.34,
+   "parts": 29.4118,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 00:50 UTC"
+  },
+  "BreakTheBank|98850769173217196378065980714856817199900985504562676866741473480600088305950": {
+   "date": "2026-11-22 00:50 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Timberwolves (-6.5)",
+   "resultat": "Grizzlies",
+   "prix_trader": 0.52,
+   "retard_min": 0.6,
+   "token": "98850769173217196378065980714856817199900985504562676866741473480600088305950",
+   "prix_simule": 0.52,
+   "parts": 19.2308,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 00:50 UTC"
+  },
+  "primm|62448305225837044352792619718639125409634130801756118137254268393016259307564": {
+   "date": "2026-11-22 00:50 UTC",
+   "trader": "primm",
+   "marche": "Spread: Stanford (-7.5)",
+   "resultat": "Stanford",
+   "prix_trader": 0.5,
+   "retard_min": 1.6,
+   "token": "62448305225837044352792619718639125409634130801756118137254268393016259307564",
+   "prix_simule": 0.52,
+   "parts": 19.2308,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 00:50 UTC"
+  },
+  "primm|114183369941780000683857725414633112919707915580958594758949448626021137386402": {
+   "date": "2026-11-22 00:50 UTC",
+   "trader": "primm",
+   "marche": "Maryland vs. USC: O/U 53.5",
+   "resultat": "Over",
+   "prix_trader": 0.58,
+   "retard_min": 1.0,
+   "token": "114183369941780000683857725414633112919707915580958594758949448626021137386402",
+   "prix_simule": 0.6,
+   "parts": 16.6667,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 00:50 UTC"
   }
  },
  "fermees": [
