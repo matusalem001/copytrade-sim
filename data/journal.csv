@@ -6203,3 +6203,9 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 23:15 UTC,primm,ACHAT,Spread: Giants (-13.5),Giants,0.304,0.344,4.0,0.6,29.0698,10.0,,
 2026-11-22 23:20 UTC,BreakTheBank,IGNORE,Spread: Bears (-14.5),Bears,0.43,,,320.5,,,,vu trop tard
 2026-11-22 23:20 UTC,primm,IGNORE,Dolphins vs. Bills: O/U 40.5,Under,0.47,,,180.1,,,,vu trop tard
+2026-11-22 23:25 UTC,primm,IGNORE,Spread: Giants (-14.5),Giants,0.2651,0.212,-5.3,9.7,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 23:25 UTC,primm,IGNORE,Spread: Giants (-14.5),Giants,0.267,0.212,-5.5,9.7,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 23:25 UTC,primm,IGNORE,Spread: Giants (-14.5),Giants,0.27,0.211,-5.9,9.0,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 23:25 UTC,primm,IGNORE,Spread: Giants (-14.5),Giants,0.338,0.211,-12.7,6.9,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 23:25 UTC,primm,ACHAT,Jaguars vs. Giants,Jaguars,0.12,0.23,11.0,5.9,43.4783,10.0,,
+2026-11-22 23:25 UTC,primm,ACHAT,Spread: Giants (-5.5),Jaguars,0.3,0.4,10.0,3.8,25.0,10.0,,
