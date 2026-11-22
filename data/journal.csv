@@ -5594,3 +5594,9 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 03:25 UTC,primm,IGNORE,Spread: Kansas State (-7.5),Arizona,0.437,0.27,-16.7,3.6,,,,prix a trop chuté (match sans doute joué)
 2026-11-22 03:25 UTC,primm,IGNORE,Spread: Kansas State (-7.5),Arizona,0.37,0.27,-10.0,1.6,,,,prix a trop chuté (match sans doute joué)
 2026-11-22 03:25 UTC,primm,REGLEMENT,Arizona vs. Kansas State: O/U 41.5,Over,,0.71,,,14.0845,14.08,4.08,gagné
+2026-11-22 03:30 UTC,primm,ACHAT,Spread: Kansas State (-7.5),Arizona,0.437,0.449,1.2,10.2,22.2717,10.0,,
+2026-11-22 03:30 UTC,primm,ACHAT,San Diego State vs. Boise State: O/U 51.5,Under,0.54,0.65,11.0,5.1,15.3846,10.0,,
+2026-11-22 03:30 UTC,primm,IGNORE,Spread: Louisville (-24.5),Pittsburgh,0.47,0.37,-10.0,4.1,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 03:31 UTC,BreakTheBank,REGLEMENT,Grizzlies vs. Timberwolves,Grizzlies,,0.34,,,29.4118,0.0,-10.0,perdu
+2026-11-22 03:31 UTC,BreakTheBank,REGLEMENT,Spread: Timberwolves (-6.5),Grizzlies,,0.52,,,19.2308,0.0,-10.0,perdu
+2026-11-22 03:31 UTC,primm,REGLEMENT,Stanford vs. California: O/U 47.5,Under,,0.34,,,29.4118,0.0,-10.0,perdu
