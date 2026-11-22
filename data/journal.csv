@@ -5669,3 +5669,20 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 04:10 UTC,primm,REGLEMENT,Spread: Georgia (-15.5),South Carolina,,0.61,,,16.3934,0.0,-10.0,perdu
 2026-11-22 04:10 UTC,primm,REGLEMENT,Georgia vs. South Carolina: O/U 41.5,Over,,0.61,,,16.3934,0.0,-10.0,perdu
 2026-11-22 04:10 UTC,primm,REGLEMENT,Spread: Georgia (-21.5),South Carolina,,0.83,,,12.0482,0.0,-10.0,perdu
+2026-11-22 04:15 UTC,primm,REGLEMENT,Spread: Notre Dame (-20.5),SMU,,0.5,,,20.0,0.0,-10.0,perdu
+2026-11-22 04:15 UTC,primm,REGLEMENT,Spread: Notre Dame (-23.5),SMU,,0.61,,,16.3934,16.39,6.39,gagné
+2026-11-22 04:15 UTC,primm,REGLEMENT,SMU vs. Notre Dame: O/U 55.5,Under,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-22 04:15 UTC,primm,REGLEMENT,Spread: Notre Dame (-24.5),SMU,,0.63,,,15.873,15.87,5.87,gagné
+2026-11-22 04:15 UTC,primm,REGLEMENT,Spread: Notre Dame (-13.5),SMU,,0.35,,,28.5714,0.0,-10.0,perdu
+2026-11-22 04:15 UTC,primm,REGLEMENT,Spread: Notre Dame (-11.5),SMU,,0.31,,,32.2581,0.0,-10.0,perdu
+2026-11-22 04:15 UTC,primm,REGLEMENT,Spread: Notre Dame (-16.5),SMU,,0.42,,,23.8095,0.0,-10.0,perdu
+2026-11-22 04:15 UTC,primm,REGLEMENT,SMU vs. Notre Dame: O/U 57.5,Under,,0.64,,,15.625,15.62,5.62,gagné
+2026-11-22 04:15 UTC,primm,REGLEMENT,SMU vs. Notre Dame,Notre Dame,,0.88,,,11.3636,11.36,1.36,gagné
+2026-11-22 04:15 UTC,primm,REGLEMENT,Spread: Notre Dame (-17.5),SMU,,0.55,,,18.1818,0.0,-10.0,perdu
+2026-11-22 04:15 UTC,primm,REGLEMENT,SMU vs. Notre Dame: O/U 43.5,Under,,0.43,,,23.2558,23.26,13.26,gagné
+2026-11-22 04:15 UTC,primm,REGLEMENT,Spread: Notre Dame (-16.5),Notre Dame,,0.53,,,18.8679,18.87,8.87,gagné
+2026-11-22 04:15 UTC,primm,REGLEMENT,Spread: Notre Dame (-14.5),Notre Dame,,0.58,,,17.2414,17.24,7.24,gagné
+2026-11-22 04:15 UTC,primm,REGLEMENT,Spread: Notre Dame (-17.5),Notre Dame,,0.6,,,16.6667,16.67,6.67,gagné
+2026-11-22 04:15 UTC,primm,REGLEMENT,Spread: Notre Dame (-23.5),Notre Dame,,0.42,,,23.8095,0.0,-10.0,perdu
+2026-11-22 04:15 UTC,primm,REGLEMENT,Spread: Notre Dame (-20.5),Notre Dame,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-22 04:15 UTC,primm,REGLEMENT,Pittsburgh vs. Louisville: O/U 45.5,Under,,0.49,,,20.4082,0.0,-10.0,perdu
