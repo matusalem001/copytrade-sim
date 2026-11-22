@@ -5803,3 +5803,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 06:05 UTC,primm,ACHAT,Spread: Oregon State (-3.5),Utah State,0.59,0.63,4.0,2.4,15.873,10.0,,
 2026-11-22 06:05 UTC,primm,ACHAT,Utah State vs. Oregon State: O/U 51.5,Over,0.56,0.6,4.0,2.4,16.6667,10.0,,
 2026-11-22 06:05 UTC,primm,REGLEMENT,Utah vs. TCU: O/U 43.5,Over,,0.46,,,21.7391,21.74,11.74,gagné
+2026-11-22 06:10 UTC,primm,IGNORE,Utah State vs. Oregon State: O/U 49.5,Over,0.62,0.56,-6.0,2.1,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 06:10 UTC,primm,ACHAT,Spread: Oregon State (-1.5),Utah State,0.4,0.45,5.0,1.5,22.2222,10.0,,
+2026-11-22 06:10 UTC,primm,ACHAT,Utah State vs. Oregon State: O/U 49.5,Over,0.57,0.56,-1.0,1.5,17.8571,10.0,,
