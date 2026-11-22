@@ -454,6 +454,32 @@
    "parts": 27.027,
    "montant": 10.0,
    "ouvert_le": "2026-11-22 17:40 UTC"
+  },
+  "BreakTheBank|25123237083234856266860858620698833886712208487277829636581328433162239446061": {
+   "date": "2026-11-22 17:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Steelers (-3.5)",
+   "resultat": "Steelers",
+   "prix_trader": 0.5,
+   "retard_min": 3.2,
+   "token": "25123237083234856266860858620698833886712208487277829636581328433162239446061",
+   "prix_simule": 0.51,
+   "parts": 19.6078,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 17:45 UTC"
+  },
+  "BreakTheBank|19577591304368729287417486927309551157207370787037313787028667155012107356787": {
+   "date": "2026-11-22 17:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Bills (-17.5)",
+   "resultat": "Bills",
+   "prix_trader": 0.47,
+   "retard_min": 3.0,
+   "token": "19577591304368729287417486927309551157207370787037313787028667155012107356787",
+   "prix_simule": 0.48,
+   "parts": 20.8333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 17:45 UTC"
   }
  },
  "fermees": [
