@@ -6041,3 +6041,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 20:05 UTC,primm,ACHAT,Spread: Bills (-10.5),Bills,0.68,0.69,1.0,0.6,14.4928,10.0,,
 2026-11-22 20:15 UTC,BreakTheBank,ACHAT,Spread: Chargers (-3.5),Jets,0.54,0.55,1.0,4.6,18.1818,10.0,,
 2026-11-22 20:15 UTC,primm,ACHAT,Buccaneers vs. Lions: O/U 46.5,Over,0.48,0.43,-5.0,4.4,23.2558,10.0,,
+2026-11-22 20:20 UTC,primm,ACHAT,Dolphins vs. Bills: O/U 40.5,Under,0.41,0.47,6.0,2.9,21.2766,10.0,,
+2026-11-22 20:20 UTC,primm,REGLEMENT,Titans vs. Cowboys: O/U 54.5,Under,,0.47,,,21.2766,0.0,-10.0,perdu
+2026-11-22 20:20 UTC,primm,REGLEMENT,Ravens vs. Panthers: O/U 50.5,Over,,0.66,,,15.1515,15.15,5.15,gagné
