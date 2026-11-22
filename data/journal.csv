@@ -5845,3 +5845,17 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 07:10 UTC,primm,REGLEMENT,Utah State vs. Oregon State: O/U 53.5,Over,,0.61,,,16.3934,16.39,6.39,gagné
 2026-11-22 07:10 UTC,primm,REGLEMENT,Utah State vs. Oregon State: O/U 51.5,Over,,0.6,,,16.6667,16.67,6.67,gagné
 2026-11-22 07:10 UTC,primm,REGLEMENT,Utah State vs. Oregon State: O/U 49.5,Over,,0.56,,,17.8571,17.86,7.86,gagné
+2026-11-22 07:15 UTC,primm,IGNORE,Utah State vs. Oregon State: O/U 49.5,Over,0.61,,,61.4,,,,vu trop tard
+2026-11-22 07:15 UTC,primm,REGLEMENT,Spread: Nevada (-7.5),Nevada,,0.44,,,22.7273,22.73,12.73,gagné
+2026-11-22 07:15 UTC,primm,REGLEMENT,Spread: Nevada (-6.5),Nevada,,0.51,,,19.6078,19.61,9.61,gagné
+2026-11-22 07:15 UTC,primm,REGLEMENT,Hawai'i vs. Nevada: O/U 37.5,Over,,0.61,,,16.3934,0.0,-10.0,perdu
+2026-11-22 07:15 UTC,primm,REGLEMENT,Hawai'i vs. Nevada: O/U 41.5,Over,,0.47,,,21.2766,0.0,-10.0,perdu
+2026-11-22 07:15 UTC,primm,REGLEMENT,Spread: Nevada (-4.5),Hawaii,,0.31,,,32.2581,0.0,-10.0,perdu
+2026-11-22 07:15 UTC,primm,REGLEMENT,Spread: Nevada (-5.5),Hawaii,,0.36,,,27.7778,0.0,-10.0,perdu
+2026-11-22 07:15 UTC,primm,REGLEMENT,Spread: Nevada (-3.5),Hawaii,,0.3,,,33.3333,0.0,-10.0,perdu
+2026-11-22 07:15 UTC,primm,REGLEMENT,Hawai'i vs. Nevada,Hawaii,,0.2,,,50.0,0.0,-10.0,perdu
+2026-11-22 07:15 UTC,primm,REGLEMENT,Spread: Nevada (-10.5),Hawaii,,0.57,,,17.5439,17.54,7.54,gagné
+2026-11-22 07:15 UTC,primm,REGLEMENT,Hawai'i vs. Nevada: O/U 37.5,Under,,0.84,,,11.9048,11.9,1.9,gagné
+2026-11-22 07:15 UTC,primm,REGLEMENT,Spread: Nevada (-14.5),Nevada,,0.56,,,17.8571,0.0,-10.0,perdu
+2026-11-22 07:15 UTC,primm,REGLEMENT,Spread: Nevada (-16.5),Nevada,,0.48,,,20.8333,0.0,-10.0,perdu
+2026-11-22 07:15 UTC,primm,REGLEMENT,Spread: Nevada (-14.5),Hawaii,,0.37,,,27.027,27.03,17.03,gagné
