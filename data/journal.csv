@@ -5758,3 +5758,10 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 04:50 UTC,primm,REGLEMENT,Spread: UTSA (-5.5),UTSA,,0.39,,,25.641,0.0,-10.0,perdu
 2026-11-22 04:55 UTC,primm,IGNORE,Spread: Kansas State (-7.5),Arizona,0.437,,,93.6,,,,vu trop tard
 2026-11-22 04:55 UTC,primm,IGNORE,Pittsburgh vs. Louisville: O/U 51.5,Under,0.43,,,87.8,,,,vu trop tard
+2026-11-22 05:00 UTC,primm,ACHAT,Spread: Nevada (-4.5),Hawaii,0.35,0.31,-4.0,4.4,32.2581,10.0,,
+2026-11-22 05:00 UTC,primm,ACHAT,Spread: Nevada (-6.5),Hawaii,0.41,0.42,1.0,4.4,23.8095,10.0,,
+2026-11-22 05:00 UTC,primm,ACHAT,Spread: Nevada (-5.5),Hawaii,0.38,0.36,-2.0,4.4,27.7778,10.0,,
+2026-11-22 05:00 UTC,primm,ACHAT,Spread: Nevada (-3.5),Hawaii,0.35,0.3,-5.0,4.4,33.3333,10.0,,
+2026-11-22 05:00 UTC,primm,ACHAT,Hawai'i vs. Nevada,Hawaii,0.21,0.2,-1.0,4.4,50.0,10.0,,
+2026-11-22 05:00 UTC,primm,ACHAT,Spread: Nevada (-7.5),Hawaii,0.5,0.47,-3.0,4.4,21.2766,10.0,,
+2026-11-22 05:00 UTC,primm,ACHAT,Spread: Nevada (-10.5),Hawaii,0.6066,0.57,-3.7,4.4,17.5439,10.0,,
