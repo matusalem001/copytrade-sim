@@ -5836,3 +5836,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 06:31 UTC,primm,REGLEMENT,San Diego State vs. Boise State: O/U 39.5,Over,,0.41,,,24.3902,24.39,14.39,gagné
 2026-11-22 06:35 UTC,primm,IGNORE,Utah vs. TCU: O/U 45.5,Over,0.3,,,92.5,,,,vu trop tard
 2026-11-22 06:45 UTC,primm,ACHAT,Spread: Nevada (-14.5),Hawaii,0.35,0.37,2.0,0.9,27.027,10.0,,
+2026-11-22 06:50 UTC,primm,ACHAT,Spread: Oregon State (-5.5),Utah State,0.3,0.3,0.0,0.3,33.3333,10.0,,
+2026-11-22 06:50 UTC,primm,ACHAT,Spread: Oregon State (-6.5),Utah State,0.31,0.31,0.0,0.3,32.2581,10.0,,
+2026-11-22 06:50 UTC,primm,ACHAT,Spread: Oregon State (-7.5),Oregon State,0.1175,0.122,0.5,0.1,81.9672,10.0,,
