@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 23:50 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 23:55 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 341 | 504 | 318 | 161 | -82.08 $ | -2.6 % | 23 | +1.2 ¢ | 8 min |
-| primm | 2080 | 893 | 2028 | 1017 | +209.19 $ | +1.0 % | 52 | +3.0 ¢ | 4 min |
+| primm | 2080 | 893 | 2029 | 1017 | +199.19 $ | +1.0 % | 51 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : +54.17 $ sur 23740 $ engagés (+0.2 %)**
+**Total réalisé : +44.17 $ sur 23750 $ engagés (+0.2 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 23:50 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Jets vs. Chargers: O/U 46.5 | Under | 0.56 | 0.00 | -10.00 $ |
 | primm | Jets vs. Chargers: O/U 40.5 | Under | 0.42 | 0.00 | -10.00 $ |
 | primm | Jets vs. Chargers: O/U 42.5 | Under | 0.47 | 0.00 | -10.00 $ |
 | BreakTheBank | Ravens vs. Panthers | Ravens | 0.43 | 0.00 | -10.00 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 23:50 UTC** 
 | primm | Spread: Eagles (-9.5) | Eagles | 0.46 | 0.00 | -10.00 $ |
 | primm | Spread: Eagles (-7.5) | Eagles | 0.46 | 0.00 | -10.00 $ |
 | primm | Spread: Lions (-14.5) | Lions | 0.35 | 0.00 | -10.00 $ |
-| primm | Spread: Eagles (-6.5) | Eagles | 0.51 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
