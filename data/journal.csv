@@ -5650,3 +5650,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 04:01 UTC,primm,REGLEMENT,Arizona vs. Kansas State: O/U 53.5,Over,,0.5,,,20.0,20.0,10.0,gagné
 2026-11-22 04:01 UTC,primm,REGLEMENT,Arizona vs. Kansas State: O/U 55.5,Over,,0.72,,,13.8889,13.89,3.89,gagné
 2026-11-22 04:01 UTC,primm,REGLEMENT,Arizona vs. Kansas State: O/U 51.5,Over,,0.56,,,17.8571,17.86,7.86,gagné
+2026-11-22 04:05 UTC,primm,IGNORE,Arizona vs. Kansas State: O/U 55.5,Over,0.5,,,53.7,,,,vu trop tard
+2026-11-22 04:05 UTC,primm,IGNORE,Spread: Arizona (-1.5),Kansas State,0.66,0.005,-65.5,4.1,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 04:05 UTC,primm,IGNORE,Spread: Arizona (-1.5),Kansas State,0.66,0.005,-65.5,4.1,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 04:05 UTC,primm,IGNORE,Spread: Arizona (-1.5),Kansas State,0.66,0.005,-65.5,4.1,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 04:05 UTC,primm,REGLEMENT,Stanford vs. California: O/U 55.5,Under,,0.51,,,19.6078,0.0,-10.0,perdu

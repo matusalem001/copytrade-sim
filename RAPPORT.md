@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 04:01 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 04:05 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 317 | 472 | 306 | 156 | -39.36 $ | -1.3 % | 11 | +1.2 ¢ | 8 min |
-| primm | 1907 | 810 | 1789 | 903 | +341.71 $ | +1.9 % | 118 | +3.0 ¢ | 4 min |
+| primm | 1907 | 814 | 1790 | 903 | +331.71 $ | +1.9 % | 117 | +3.0 ¢ | 4 min |
 | juice-fruit | 24 | 2 | 24 | 12 | -47.43 $ | -19.8 % | 0 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +254.91 $ sur 21190 $ engagés (+1.2 %)**
+**Total réalisé : +244.91 $ sur 21200 $ engagés (+1.2 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 04:01 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Stanford vs. California: O/U 55.5 | Under | 0.51 | 0.00 | -10.00 $ |
 | primm | Arizona vs. Kansas State: O/U 51.5 | Over | 0.56 | 1.00 | +7.86 $ |
 | primm | Arizona vs. Kansas State: O/U 55.5 | Over | 0.72 | 1.00 | +3.89 $ |
 | primm | Arizona vs. Kansas State: O/U 53.5 | Over | 0.50 | 1.00 | +10.00 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 04:01 UTC** 
 | primm | Virginia Tech vs. Miami (FL): O/U 63.5 | Over | 0.50 | 0.00 | -10.00 $ |
 | primm | Spread: Miami (FL) (-7.5) | Miami (FL) | 0.43 | 1.00 | +13.26 $ |
 | primm | Spread: Miami (FL) (-6.5) | Miami (FL) | 0.50 | 1.00 | +10.00 $ |
-| primm | Spread: Miami (FL) (-4.5) | Miami (FL) | 0.56 | 1.00 | +7.86 $ |
 
 Journal complet : `data/journal.csv`
