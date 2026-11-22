@@ -5944,3 +5944,9 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 16:55 UTC,BreakTheBank,IGNORE,Spread: Trail Blazers (-1.5),Trail Blazers,0.5,,,982.4,,,,vu trop tard
 2026-11-22 16:55 UTC,primm,IGNORE,Spread: Utah (-1.5),TCU,0.47,,,702.9,,,,vu trop tard
 2026-11-22 16:55 UTC,primm,IGNORE,Spread: Oregon State (-2.5),Utah State,0.43,,,646.3,,,,vu trop tard
+2026-11-22 17:00 UTC,BreakTheBank,ACHAT,Dolphins vs. Bills,Bills,0.92,0.93,1.0,3.2,10.7527,10.0,,
+2026-11-22 17:00 UTC,primm,ACHAT,Jets vs. Chargers: O/U 42.5,Under,0.47,0.47,0.0,4.1,21.2766,10.0,,
+2026-11-22 17:01 UTC,primm,ACHAT,Jets vs. Chargers: O/U 40.5,Under,0.42,0.42,0.0,3.6,23.8095,10.0,,
+2026-11-22 17:01 UTC,primm,ACHAT,Raiders vs. Broncos,Broncos,0.83,0.83,0.0,2.5,12.0482,10.0,,
+2026-11-22 17:01 UTC,primm,ACHAT,Raiders vs. Broncos: O/U 42.5,Over,0.47,0.48,1.0,2.4,20.8333,10.0,,
+2026-11-22 17:01 UTC,juice-fruit,ACHAT,"ATP World Tour Finals, Final Stage: Alexander Zverev vs Carlos Alcaraz",Alexander Zverev,0.3588,0.37,1.1,1.7,27.027,10.0,,
