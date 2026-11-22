@@ -6129,3 +6129,10 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 21:35 UTC,primm,REGLEMENT,Spread: Panthers (-2.5),Panthers,,0.36,,,27.7778,0.0,-10.0,perdu
 2026-11-22 21:35 UTC,primm,REGLEMENT,Spread: Panthers (-3.5),Panthers,,0.43,,,23.2558,0.0,-10.0,perdu
 2026-11-22 21:35 UTC,primm,REGLEMENT,Spread: Eagles (-10.5),Eagles,,0.41,,,24.3902,0.0,-10.0,perdu
+2026-11-22 21:40 UTC,primm,ACHAT,Spread: Jaguars (-10.5),Giants,0.59,0.58,-1.0,3.3,17.2414,10.0,,
+2026-11-22 21:40 UTC,primm,ACHAT,Spread: Jaguars (-9.5),Giants,0.55,0.55,-0.0,3.3,18.1818,10.0,,
+2026-11-22 21:40 UTC,primm,ACHAT,Spread: Jaguars (-7.5),Jaguars,0.48,0.5,2.0,2.2,20.0,10.0,,
+2026-11-22 21:40 UTC,primm,ACHAT,Jaguars vs. Giants: O/U 40.5,Under,0.38,0.4,2.0,2.2,25.0,10.0,,
+2026-11-22 21:40 UTC,primm,ACHAT,Jaguars vs. Giants: O/U 46.5,Under,0.56,0.59,3.0,2.0,16.9492,10.0,,
+2026-11-22 21:40 UTC,primm,ACHAT,Spread: Jaguars (-13.5),Jaguars,0.33,0.36,3.0,1.9,27.7778,10.0,,
+2026-11-22 21:40 UTC,BreakTheBank,REGLEMENT,Ravens vs. Panthers,Ravens,,0.43,,,23.2558,0.0,-10.0,perdu
