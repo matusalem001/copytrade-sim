@@ -5630,3 +5630,23 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 03:50 UTC,primm,REGLEMENT,Virginia Tech vs. Miami (FL): O/U 55.5,Over,,0.5,,,20.0,0.0,-10.0,perdu
 2026-11-22 03:55 UTC,primm,REGLEMENT,Virginia Tech vs. Miami (FL): O/U 61.5,Over,,0.49,,,20.4082,0.0,-10.0,perdu
 2026-11-22 03:55 UTC,primm,REGLEMENT,Virginia Tech vs. Miami (FL),Miami (FL),,0.7,,,14.2857,14.29,4.29,gagné
+2026-11-22 04:00 UTC,primm,IGNORE,Spread: Arizona (-1.5),Kansas State,0.5,0.44,-6.0,5.9,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 04:00 UTC,primm,ACHAT,Spread: Nevada (-4.5),Nevada,0.56,0.57,1.0,3.2,17.5439,10.0,,
+2026-11-22 04:00 UTC,primm,IGNORE,San Diego State vs. Boise State: O/U 45.5,Under,0.74,0.69,-5.0,3.1,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 04:00 UTC,primm,ACHAT,Oklahoma State vs. Arizona State: O/U 65.5,Over,0.48,0.48,0.0,3.0,20.8333,10.0,,
+2026-11-22 04:00 UTC,primm,REGLEMENT,Kentucky vs. Missouri: O/U 49.5,Over,,0.49,,,20.4082,0.0,-10.0,perdu
+2026-11-22 04:01 UTC,primm,REGLEMENT,Spread: Missouri (-5.5),Kentucky,,0.5,,,20.0,0.0,-10.0,perdu
+2026-11-22 04:01 UTC,primm,REGLEMENT,Stanford vs. California: O/U 53.5,Under,,0.55,,,18.1818,0.0,-10.0,perdu
+2026-11-22 04:01 UTC,primm,REGLEMENT,Kentucky vs. Missouri: O/U 51.5,Over,,0.5,,,20.0,0.0,-10.0,perdu
+2026-11-22 04:01 UTC,primm,REGLEMENT,Spread: Missouri (-3.5),Kentucky,,0.5,,,20.0,0.0,-10.0,perdu
+2026-11-22 04:01 UTC,primm,REGLEMENT,Spread: Missouri (-6.5),Kentucky,,0.58,,,17.2414,0.0,-10.0,perdu
+2026-11-22 04:01 UTC,primm,REGLEMENT,Spread: Missouri (-2.5),Kentucky,,0.42,,,23.8095,0.0,-10.0,perdu
+2026-11-22 04:01 UTC,primm,REGLEMENT,Spread: Missouri (-4.5),Kentucky,,0.54,,,18.5185,0.0,-10.0,perdu
+2026-11-22 04:01 UTC,primm,REGLEMENT,Spread: Missouri (-10.5),Kentucky,,0.53,,,18.8679,0.0,-10.0,perdu
+2026-11-22 04:01 UTC,primm,REGLEMENT,Kentucky vs. Missouri: O/U 43.5,Over,,0.64,,,15.625,0.0,-10.0,perdu
+2026-11-22 04:01 UTC,primm,REGLEMENT,Kentucky vs. Missouri: O/U 47.5,Over,,0.45,,,22.2222,0.0,-10.0,perdu
+2026-11-22 04:01 UTC,primm,REGLEMENT,Stanford vs. California: O/U 57.5,Under,,0.51,,,19.6078,0.0,-10.0,perdu
+2026-11-22 04:01 UTC,primm,REGLEMENT,Stanford vs. California: O/U 59.5,Under,,0.61,,,16.3934,0.0,-10.0,perdu
+2026-11-22 04:01 UTC,primm,REGLEMENT,Arizona vs. Kansas State: O/U 53.5,Over,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-22 04:01 UTC,primm,REGLEMENT,Arizona vs. Kansas State: O/U 55.5,Over,,0.72,,,13.8889,13.89,3.89,gagné
+2026-11-22 04:01 UTC,primm,REGLEMENT,Arizona vs. Kansas State: O/U 51.5,Over,,0.56,,,17.8571,17.86,7.86,gagné
