@@ -5756,3 +5756,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 04:50 UTC,primm,REGLEMENT,Spread: UTSA (-4.5),UAB,,0.48,,,20.8333,20.83,10.83,gagné
 2026-11-22 04:50 UTC,primm,REGLEMENT,UTSA vs. UAB,UAB,,0.35,,,28.5714,0.0,-10.0,perdu
 2026-11-22 04:50 UTC,primm,REGLEMENT,Spread: UTSA (-5.5),UTSA,,0.39,,,25.641,0.0,-10.0,perdu
+2026-11-22 04:55 UTC,primm,IGNORE,Spread: Kansas State (-7.5),Arizona,0.437,,,93.6,,,,vu trop tard
+2026-11-22 04:55 UTC,primm,IGNORE,Pittsburgh vs. Louisville: O/U 51.5,Under,0.43,,,87.8,,,,vu trop tard
