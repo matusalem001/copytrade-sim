@@ -6096,3 +6096,22 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 21:25 UTC,primm,REGLEMENT,Dolphins vs. Bills: O/U 40.5,Under,,0.47,,,21.2766,21.28,11.28,gagné
 2026-11-22 21:25 UTC,primm,REGLEMENT,Spread: Bears (-5.5),Saints,,0.34,,,29.4118,0.0,-10.0,perdu
 2026-11-22 21:25 UTC,primm,REGLEMENT,Spread: Bears (-4.5),Saints,,0.25,,,40.0,0.0,-10.0,perdu
+2026-11-22 21:30 UTC,primm,ACHAT,Spread: Jaguars (-5.5),Giants,0.44,0.44,0.0,3.0,22.7273,10.0,,
+2026-11-22 21:30 UTC,primm,ACHAT,Jaguars vs. Giants,Giants,0.27,0.25,-2.0,3.0,40.0,10.0,,
+2026-11-22 21:30 UTC,primm,ACHAT,Jaguars vs. Giants: O/U 44.5,Under,0.48,0.47,-1.0,2.9,21.2766,10.0,,
+2026-11-22 21:30 UTC,primm,REGLEMENT,Spread: Eagles (-1.5),Eagles,,0.34,,,29.4118,29.41,19.41,gagné
+2026-11-22 21:30 UTC,primm,REGLEMENT,Steelers vs. Eagles: O/U 36.5,Over,,0.54,,,18.5185,0.0,-10.0,perdu
+2026-11-22 21:30 UTC,primm,REGLEMENT,Spread: Steelers (-2.5),Eagles,,0.41,,,24.3902,24.39,14.39,gagné
+2026-11-22 21:30 UTC,BreakTheBank,REGLEMENT,Dolphins vs. Bills,Bills,,0.93,,,10.7527,10.75,0.75,gagné
+2026-11-22 21:30 UTC,BreakTheBank,REGLEMENT,Spread: Bears (-10.5),Bears,,0.56,,,17.8571,0.0,-10.0,perdu
+2026-11-22 21:30 UTC,BreakTheBank,REGLEMENT,Saints vs. Bears,Bears,,0.86,,,11.6279,11.63,1.63,gagné
+2026-11-22 21:30 UTC,BreakTheBank,REGLEMENT,Buccaneers vs. Lions,Buccaneers,,0.34,,,29.4118,0.0,-10.0,perdu
+2026-11-22 21:30 UTC,primm,REGLEMENT,Spread: Bears (-10.5),Saints,,0.52,,,19.2308,19.23,9.23,gagné
+2026-11-22 21:30 UTC,primm,REGLEMENT,Spread: Eagles (-6.5),Eagles,,0.51,,,19.6078,0.0,-10.0,perdu
+2026-11-22 21:30 UTC,primm,REGLEMENT,Spread: Lions (-14.5),Lions,,0.35,,,28.5714,0.0,-10.0,perdu
+2026-11-22 21:30 UTC,primm,REGLEMENT,Spread: Eagles (-7.5),Eagles,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-22 21:30 UTC,primm,REGLEMENT,Spread: Eagles (-9.5),Eagles,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-22 21:30 UTC,primm,REGLEMENT,Spread: Bears (-14.5),Saints,,0.43,,,23.2558,23.26,13.26,gagné
+2026-11-22 21:30 UTC,primm,REGLEMENT,Spread: Bills (-16.5),Bills,,0.61,,,16.3934,16.39,6.39,gagné
+2026-11-22 21:30 UTC,primm,REGLEMENT,Spread: Bills (-14.5),Bills,,0.73,,,13.6986,13.7,3.7,gagné
+2026-11-22 21:30 UTC,primm,REGLEMENT,Buccaneers vs. Lions: O/U 46.5,Over,,0.43,,,23.2558,23.26,13.26,gagné
