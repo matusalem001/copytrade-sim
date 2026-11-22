@@ -143,32 +143,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-21 08:30 UTC"
   },
-  "primm|38229995635849699453310541084583596142715893404710466904594340208493523816707": {
-   "date": "2026-11-22 17:00 UTC",
-   "trader": "primm",
-   "marche": "Jets vs. Chargers: O/U 42.5",
-   "resultat": "Under",
-   "prix_trader": 0.47,
-   "retard_min": 4.1,
-   "token": "38229995635849699453310541084583596142715893404710466904594340208493523816707",
-   "prix_simule": 0.47,
-   "parts": 21.2766,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-22 17:01 UTC"
-  },
-  "primm|60639015815147568481700477034396541336192657935242442210533186141954888860632": {
-   "date": "2026-11-22 17:01 UTC",
-   "trader": "primm",
-   "marche": "Jets vs. Chargers: O/U 40.5",
-   "resultat": "Under",
-   "prix_trader": 0.42,
-   "retard_min": 3.6,
-   "token": "60639015815147568481700477034396541336192657935242442210533186141954888860632",
-   "prix_simule": 0.42,
-   "parts": 23.8095,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-22 17:01 UTC"
-  },
   "primm|35709515287750717937624220807186952455539162910410050382479585134145540762209": {
    "date": "2026-11-22 17:01 UTC",
    "trader": "primm",
@@ -41221,6 +41195,40 @@
    "sortie": 0.0,
    "pnl": -10.0,
    "ferme_le": "2026-11-22 21:40 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-22 17:00 UTC",
+   "trader": "primm",
+   "marche": "Jets vs. Chargers: O/U 42.5",
+   "resultat": "Under",
+   "prix_trader": 0.47,
+   "retard_min": 4.1,
+   "token": "38229995635849699453310541084583596142715893404710466904594340208493523816707",
+   "prix_simule": 0.47,
+   "parts": 21.2766,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 17:01 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-22 23:35 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-22 17:01 UTC",
+   "trader": "primm",
+   "marche": "Jets vs. Chargers: O/U 40.5",
+   "resultat": "Under",
+   "prix_trader": 0.42,
+   "retard_min": 3.6,
+   "token": "60639015815147568481700477034396541336192657935242442210533186141954888860632",
+   "prix_simule": 0.42,
+   "parts": 23.8095,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 17:01 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-22 23:35 UTC",
    "type": "perdu"
   }
  ]

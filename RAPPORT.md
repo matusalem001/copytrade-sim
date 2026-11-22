@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 23:30 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 23:35 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 340 | 504 | 318 | 161 | -82.08 $ | -2.6 % | 22 | +1.2 ¢ | 8 min |
-| primm | 2073 | 893 | 2026 | 1017 | +229.19 $ | +1.1 % | 47 | +3.0 ¢ | 4 min |
+| primm | 2073 | 893 | 2028 | 1017 | +209.19 $ | +1.0 % | 45 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : +74.17 $ sur 23720 $ engagés (+0.3 %)**
+**Total réalisé : +54.17 $ sur 23740 $ engagés (+0.2 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 23:30 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Jets vs. Chargers: O/U 40.5 | Under | 0.42 | 0.00 | -10.00 $ |
+| primm | Jets vs. Chargers: O/U 42.5 | Under | 0.47 | 0.00 | -10.00 $ |
 | BreakTheBank | Ravens vs. Panthers | Ravens | 0.43 | 0.00 | -10.00 $ |
 | primm | Spread: Eagles (-10.5) | Eagles | 0.41 | 0.00 | -10.00 $ |
 | primm | Spread: Panthers (-3.5) | Panthers | 0.43 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 23:30 UTC** 
 | primm | Spread: Eagles (-7.5) | Eagles | 0.46 | 0.00 | -10.00 $ |
 | primm | Spread: Lions (-14.5) | Lions | 0.35 | 0.00 | -10.00 $ |
 | primm | Spread: Eagles (-6.5) | Eagles | 0.51 | 0.00 | -10.00 $ |
-| primm | Spread: Bears (-10.5) | Saints | 0.52 | 1.00 | +9.23 $ |
-| BreakTheBank | Buccaneers vs. Lions | Buccaneers | 0.34 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
