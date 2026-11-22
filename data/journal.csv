@@ -5476,3 +5476,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 01:30 UTC,primm,ACHAT,Spread: Notre Dame (-14.5),Notre Dame,0.61,0.58,-3.0,3.2,17.2414,10.0,,
 2026-11-22 01:30 UTC,primm,IGNORE,Spread: Notre Dame (-17.5),Notre Dame,0.55,0.49,-6.0,2.9,,,,prix a trop chuté (match sans doute joué)
 2026-11-22 01:30 UTC,primm,IGNORE,Spread: Notre Dame (-20.5),Notre Dame,0.47,0.41,-6.0,2.9,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 01:35 UTC,primm,ACHAT,Maryland vs. USC: O/U 51.5,Over,0.38,0.59,21.0,4.6,16.9492,10.0,,
+2026-11-22 01:35 UTC,primm,ACHAT,SMU vs. Notre Dame: O/U 37.5,Under,0.27,0.26,-1.0,1.3,38.4615,10.0,,
+2026-11-22 01:35 UTC,primm,ACHAT,Spread: Arizona (-7.5),Kansas State,0.4613,0.47,0.9,1.2,21.2766,10.0,,
