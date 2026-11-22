@@ -5466,3 +5466,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 01:10 UTC,primm,ACHAT,Spread: Missouri (-6.5),Kentucky,0.58,0.58,0.0,4.7,17.2414,10.0,,
 2026-11-22 01:10 UTC,primm,ACHAT,Spread: Missouri (-2.5),Kentucky,0.42,0.42,0.0,4.7,23.8095,10.0,,
 2026-11-22 01:10 UTC,primm,ACHAT,Spread: Missouri (-4.5),Kentucky,0.53,0.54,1.0,4.7,18.5185,10.0,,
+2026-11-22 01:15 UTC,primm,ACHAT,Spread: Fresno State (-23.5),Fresno State,0.47,0.55,8.0,3.0,18.1818,10.0,,
+2026-11-22 01:15 UTC,primm,ACHAT,Spread: Fresno State (-23.5),Colorado State,0.52,0.73,21.0,2.4,13.6986,10.0,,
+2026-11-22 01:15 UTC,primm,ACHAT,Virginia Tech vs. Miami (FL): O/U 63.5,Over,0.49,0.5,1.0,0.8,20.0,10.0,,
