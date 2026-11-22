@@ -6149,3 +6149,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 22:09 UTC,primm,IGNORE,Spread: Bears (-20.5),Saints,0.64,,,199.6,,,,vu trop tard
 2026-11-22 22:09 UTC,primm,IGNORE,Spread: Eagles (-7.5),Eagles,0.43,,,174.9,,,,vu trop tard
 2026-11-22 22:09 UTC,primm,IGNORE,Spread: Eagles (-6.5),Eagles,0.49,,,167.1,,,,vu trop tard
+2026-11-22 22:20 UTC,primm,ACHAT,Spread: Broncos (-20.5),Raiders,0.37,0.37,0.0,4.8,27.027,10.0,,
+2026-11-22 22:20 UTC,primm,ACHAT,Jets vs. Chargers: O/U 46.5,Under,0.47,0.56,9.0,4.5,17.8571,10.0,,
+2026-11-22 22:20 UTC,primm,ACHAT,Jets vs. Chargers: O/U 52.5,Under,0.71,0.78,7.0,4.5,12.8205,10.0,,
+2026-11-22 22:20 UTC,primm,ACHAT,Spread: Jaguars (-2.5),Giants,0.49,0.5,1.0,0.8,20.0,10.0,,
+2026-11-22 22:20 UTC,primm,ACHAT,Spread: Giants (-2.5),Giants,0.38,0.4,2.0,0.4,25.0,10.0,,
