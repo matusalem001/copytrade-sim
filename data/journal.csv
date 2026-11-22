@@ -5823,3 +5823,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 06:15 UTC,primm,REGLEMENT,Spread: Utah (-4.5),TCU,,0.737,,,13.5685,0.0,-10.0,perdu
 2026-11-22 06:15 UTC,primm,REGLEMENT,Spread: TCU (-1.5),TCU,,0.369,,,27.1003,0.0,-10.0,perdu
 2026-11-22 06:15 UTC,primm,REGLEMENT,Spread: Utah (-3.5),TCU,,0.258,,,38.7597,0.0,-10.0,perdu
+2026-11-22 06:20 UTC,primm,IGNORE,Utah vs. TCU,TCU,0.45,,,68.2,,,,vu trop tard
+2026-11-22 06:20 UTC,primm,IGNORE,Utah vs. TCU: O/U 43.5,Over,0.67,,,68.1,,,,vu trop tard
