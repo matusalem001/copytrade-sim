@@ -6046,3 +6046,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 20:20 UTC,primm,REGLEMENT,Ravens vs. Panthers: O/U 50.5,Over,,0.66,,,15.1515,15.15,5.15,gagné
 2026-11-22 20:30 UTC,primm,ACHAT,Buccaneers vs. Lions: O/U 44.5,Over,0.31,0.32,1.0,1.1,31.25,10.0,,
 2026-11-22 20:35 UTC,primm,REGLEMENT,Titans vs. Cowboys: O/U 58.5,Under,,0.34,,,29.4118,0.0,-10.0,perdu
+2026-11-22 20:40 UTC,primm,ACHAT,Spread: Bears (-5.5),Saints,0.33,0.34,1.0,0.6,29.4118,10.0,,
+2026-11-22 20:40 UTC,primm,ACHAT,Spread: Bears (-4.5),Saints,0.25,0.25,0.0,0.6,40.0,10.0,,
