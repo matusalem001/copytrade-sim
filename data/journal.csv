@@ -5765,3 +5765,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 05:00 UTC,primm,ACHAT,Hawai'i vs. Nevada,Hawaii,0.21,0.2,-1.0,4.4,50.0,10.0,,
 2026-11-22 05:00 UTC,primm,ACHAT,Spread: Nevada (-7.5),Hawaii,0.5,0.47,-3.0,4.4,21.2766,10.0,,
 2026-11-22 05:00 UTC,primm,ACHAT,Spread: Nevada (-10.5),Hawaii,0.6066,0.57,-3.7,4.4,17.5439,10.0,,
+2026-11-22 05:10 UTC,primm,IGNORE,Spread: Utah (-5.5),Utah,0.45,0.38,-7.0,7.6,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 05:10 UTC,primm,ACHAT,Utah vs. TCU: O/U 45.5,Over,0.3,0.33,3.0,7.6,30.303,10.0,,
