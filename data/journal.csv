@@ -5352,3 +5352,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 00:20 UTC,primm,REGLEMENT,NC State vs. Florida State: O/U 39.5,Over,,0.52,,,19.2308,0.0,-10.0,perdu
 2026-11-22 00:20 UTC,primm,REGLEMENT,Spread: Texas Tech (-6.5),Baylor,,0.3,,,33.3333,0.0,-10.0,perdu
 2026-11-22 00:20 UTC,primm,REGLEMENT,Spread: NC State (-3.5),Florida State,,0.43,,,23.2558,0.0,-10.0,perdu
+2026-11-22 00:25 UTC,primm,IGNORE,Spread: Texas (-24.5),Arkansas,0.55,,,167.8,,,,vu trop tard
+2026-11-22 00:25 UTC,primm,IGNORE,Spread: Texas (-30.5),Arkansas,0.59,,,146.9,,,,vu trop tard
