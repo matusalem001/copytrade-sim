@@ -5508,3 +5508,12 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 02:15 UTC,primm,ACHAT,Spread: Arizona (-2.5),Kansas State,0.3,0.3,0.0,1.7,33.3333,10.0,,
 2026-11-22 02:15 UTC,primm,ACHAT,Arizona vs. Kansas State,Kansas State,0.24,0.24,0.0,1.7,41.6667,10.0,,
 2026-11-22 02:15 UTC,primm,ACHAT,Spread: Arizona (-4.5),Kansas State,0.46,0.46,0.0,1.4,21.7391,10.0,,
+2026-11-22 02:20 UTC,primm,ACHAT,Spread: Fresno State (-19.5),Colorado State,0.51,0.5,-1.0,4.9,20.0,10.0,,
+2026-11-22 02:20 UTC,primm,ACHAT,Spread: Fresno State (-21.5),Colorado State,0.54,0.56,2.0,4.9,17.8571,10.0,,
+2026-11-22 02:20 UTC,primm,ACHAT,Spread: Fresno State (-17.5),Colorado State,0.451,0.42,-3.1,4.9,23.8095,10.0,,
+2026-11-22 02:20 UTC,primm,ACHAT,Spread: Fresno State (-13.5),Colorado State,0.3,0.3,0.0,4.8,33.3333,10.0,,
+2026-11-22 02:20 UTC,primm,ACHAT,Colorado State vs. Fresno State: O/U 71.5,Under,0.22,0.22,0.0,4.5,45.4545,10.0,,
+2026-11-22 02:20 UTC,primm,IGNORE,Spread: Arizona (-6.5),Kansas State,0.55,0.45,-10.0,3.0,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 02:20 UTC,primm,IGNORE,Spread: Arizona (-5.5),Kansas State,0.51,0.39,-12.0,3.0,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 02:20 UTC,primm,IGNORE,Spread: Arizona (-3.5),Kansas State,0.48,0.36,-12.0,3.0,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 02:20 UTC,primm,IGNORE,Arizona vs. Kansas State: O/U 55.5,Over,0.43,0.36,-7.0,3.0,,,,prix a trop chuté (match sans doute joué)
