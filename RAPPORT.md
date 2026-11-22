@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 01:46 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 01:50 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 317 | 472 | 298 | 156 | +40.64 $ | +1.4 % | 19 | +1.2 ¢ | 8 min |
-| primm | 1845 | 784 | 1726 | 868 | +338.93 $ | +2.0 % | 119 | +3.0 ¢ | 4 min |
+| primm | 1845 | 784 | 1727 | 869 | +350.67 $ | +2.0 % | 118 | +3.0 ¢ | 4 min |
 | juice-fruit | 24 | 2 | 24 | 12 | -47.43 $ | -19.8 % | 0 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +332.13 $ sur 20480 $ engagés (+1.6 %)**
+**Total réalisé : +343.87 $ sur 20490 $ engagés (+1.7 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 01:46 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | South Florida vs. Florida Atlantic | Florida Atlantic | 0.46 | 1.00 | +11.74 $ |
 | primm | Spread: LSU (-2.5) | Tennessee | 0.46 | 1.00 | +11.74 $ |
 | primm | Spread: Tennessee (-3.5) | LSU | 0.52 | 0.00 | -10.00 $ |
 | primm | Spread: LSU (-10.5) | LSU | 0.44 | 0.00 | -10.00 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 01:46 UTC** 
 | primm | Spread: UCLA (-7.5) | UCLA | 0.36 | 0.00 | -10.00 $ |
 | primm | Spread: UCLA (-3.5) | UCLA | 0.50 | 0.00 | -10.00 $ |
 | primm | Spread: UCLA (-6.5) | UCLA | 0.42 | 0.00 | -10.00 $ |
-| primm | Spread: UCLA (-4.5) | UCLA | 0.46 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

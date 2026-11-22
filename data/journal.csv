@@ -5491,3 +5491,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 01:45 UTC,primm,ACHAT,Spread: Louisville (-5.5),Louisville,0.55,0.53,-2.0,4.5,18.8679,10.0,,
 2026-11-22 01:45 UTC,primm,ACHAT,Kentucky vs. Missouri: O/U 47.5,Over,0.5,0.45,-5.0,4.4,22.2222,10.0,,
 2026-11-22 01:45 UTC,primm,IGNORE,Georgia vs. South Carolina: O/U 35.5,Over,0.77,0.72,-5.0,3.4,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 01:50 UTC,primm,REGLEMENT,South Florida vs. Florida Atlantic,Florida Atlantic,,0.46,,,21.7391,21.74,11.74,gagné

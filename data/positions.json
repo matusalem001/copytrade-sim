@@ -559,19 +559,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-21 19:05 UTC"
   },
-  "primm|51568019959224565380409646345669257468720753301505204658129304318761244633364": {
-   "date": "2026-11-21 19:10 UTC",
-   "trader": "primm",
-   "marche": "South Florida vs. Florida Atlantic",
-   "resultat": "Florida Atlantic",
-   "prix_trader": 0.46,
-   "retard_min": 2.1,
-   "token": "51568019959224565380409646345669257468720753301505204658129304318761244633364",
-   "prix_simule": 0.46,
-   "parts": 21.7391,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-21 19:10 UTC"
-  },
   "primm|22244816879693466676386722354062029837932488222823081385437479411464149816910": {
    "date": "2026-11-21 23:30 UTC",
    "trader": "primm",
@@ -36610,6 +36597,23 @@
    "sortie": 1.0,
    "pnl": 11.7391,
    "ferme_le": "2026-11-22 01:01 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-21 19:10 UTC",
+   "trader": "primm",
+   "marche": "South Florida vs. Florida Atlantic",
+   "resultat": "Florida Atlantic",
+   "prix_trader": 0.46,
+   "retard_min": 2.1,
+   "token": "51568019959224565380409646345669257468720753301505204658129304318761244633364",
+   "prix_simule": 0.46,
+   "parts": 21.7391,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-21 19:10 UTC",
+   "sortie": 1.0,
+   "pnl": 11.7391,
+   "ferme_le": "2026-11-22 01:50 UTC",
    "type": "gagné"
   }
  ]
