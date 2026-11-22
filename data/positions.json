@@ -1130,6 +1130,19 @@
    "parts": 24.3902,
    "montant": 10.0,
    "ouvert_le": "2026-11-22 19:00 UTC"
+  },
+  "BreakTheBank|35709515287750717937624220807186952455539162910410050382479585134145540762209": {
+   "date": "2026-11-22 19:10 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Raiders vs. Broncos",
+   "resultat": "Broncos",
+   "prix_trader": 0.83,
+   "retard_min": 2.2,
+   "token": "35709515287750717937624220807186952455539162910410050382479585134145540762209",
+   "prix_simule": 0.84,
+   "parts": 11.9048,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 19:10 UTC"
   }
  },
  "fermees": [
