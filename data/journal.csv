@@ -6034,3 +6034,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 19:40 UTC,primm,REGLEMENT,Ravens vs. Panthers: O/U 44.5,Over,,0.5,,,20.0,20.0,10.0,gagné
 2026-11-22 19:50 UTC,primm,IGNORE,Saints vs. Bears: O/U 46.5,Over,0.59,0.52,-7.0,4.3,,,,prix a trop chuté (match sans doute joué)
 2026-11-22 19:50 UTC,juice-fruit,REGLEMENT,"ATP World Tour Finals, Final Stage: Alexander Zverev vs Carlos Alcaraz",Alexander Zverev,,0.37,,,27.027,0.0,-10.0,perdu
+2026-11-22 19:55 UTC,primm,ACHAT,Dolphins vs. Bills: O/U 48.5,Under,0.5,0.5,0.0,3.8,20.0,10.0,,
+2026-11-22 19:55 UTC,primm,ACHAT,Spread: Bills (-16.5),Bills,0.61,0.61,0.0,0.4,16.3934,10.0,,
