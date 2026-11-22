@@ -5913,3 +5913,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 15:25 UTC,BreakTheBank,IGNORE,Spread: Spurs (-19.5),Pelicans,0.52,,,893.8,,,,vu trop tard
 2026-11-22 16:00 UTC,juice-fruit,ACHAT,Will Liverpool FC win on 2026-11-22?,No,0.47,0.48,1.0,0.5,20.8333,10.0,,
 2026-11-22 16:05 UTC,BreakTheBank,ACHAT,Dolphins vs. Bills: O/U 46.5,Under,0.56,0.57,1.0,4.8,17.5439,10.0,,
+2026-11-22 16:10 UTC,BreakTheBank,IGNORE,Spread: Spurs (-17.5),Pelicans,0.45,,,939.1,,,,vu trop tard
+2026-11-22 16:10 UTC,BreakTheBank,IGNORE,Spread: Spurs (-19.5),Pelicans,0.52,,,938.8,,,,vu trop tard
+2026-11-22 16:10 UTC,BreakTheBank,IGNORE,Spread: Spurs (-19.5),Pelicans,0.52,,,938.5,,,,vu trop tard
+2026-11-22 16:10 UTC,BreakTheBank,ACHAT,Saints vs. Bears: O/U 50.5,Under,0.58,0.59,1.0,5.5,16.9492,10.0,,

@@ -194,6 +194,19 @@
    "parts": 17.5439,
    "montant": 10.0,
    "ouvert_le": "2026-11-22 16:05 UTC"
+  },
+  "BreakTheBank|44968050760191690031484008606342636897588762719606500827903861075232114068179": {
+   "date": "2026-11-22 16:10 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Saints vs. Bears: O/U 50.5",
+   "resultat": "Under",
+   "prix_trader": 0.58,
+   "retard_min": 5.5,
+   "token": "44968050760191690031484008606342636897588762719606500827903861075232114068179",
+   "prix_simule": 0.59,
+   "parts": 16.9492,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 16:10 UTC"
   }
  },
  "fermees": [
