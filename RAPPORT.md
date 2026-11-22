@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 00:31 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 00:36 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 309 | 472 | 298 | 156 | +40.64 $ | +1.4 % | 11 | +1.2 ¢ | 8 min |
-| primm | 1773 | 768 | 1693 | 856 | +373.83 $ | +2.2 % | 80 | +3.0 ¢ | 4 min |
+| BreakTheBank | 314 | 472 | 298 | 156 | +40.64 $ | +1.4 % | 16 | +1.2 ¢ | 8 min |
+| primm | 1780 | 768 | 1695 | 858 | +387.14 $ | +2.3 % | 85 | +3.0 ¢ | 4 min |
 | juice-fruit | 24 | 2 | 24 | 12 | -47.43 $ | -19.8 % | 0 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +367.03 $ sur 20150 $ engagés (+1.8 %)**
+**Total réalisé : +380.34 $ sur 20170 $ engagés (+1.9 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 00:31 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Texas A&M vs. Oklahoma | Oklahoma | 0.73 | 1.00 | +3.70 $ |
+| primm | Texas A&M vs. Oklahoma: O/U 37.5 | Under | 0.51 | 1.00 | +9.61 $ |
 | primm | Northern Illinois vs. North Dakota State: O/U 49.5 | Over | 0.64 | 1.00 | +5.62 $ |
 | primm | Rutgers vs. Penn State: O/U 51.5 | Over | 0.48 | 0.00 | -10.00 $ |
 | primm | Rutgers vs. Penn State: O/U 53.5 | Over | 0.43 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 00:31 UTC** 
 | primm | Spread: Florida State (-7.5) | NC State | 0.46 | 1.00 | +11.74 $ |
 | primm | Spread: Florida State (-9.5) | NC State | 0.48 | 1.00 | +10.83 $ |
 | primm | Spread: Florida State (-8.5) | NC State | 0.46 | 1.00 | +11.74 $ |
-| primm | Georgia Southern vs. Troy: O/U 47.5 | Over | 0.50 | 1.00 | +10.00 $ |
-| primm | Northern Illinois vs. North Dakota State: O/U 47.5 | Over | 0.73 | 1.00 | +3.70 $ |
 
 Journal complet : `data/journal.csv`
