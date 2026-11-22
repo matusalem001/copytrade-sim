@@ -5909,3 +5909,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 13:00 UTC,BreakTheBank,IGNORE,Spread: Spurs (-19.5),Pelicans,0.52,,,749.6,,,,vu trop tard
 2026-11-22 13:00 UTC,BreakTheBank,IGNORE,Spread: Trail Blazers (-1.5),Trail Blazers,0.5,,,747.9,,,,vu trop tard
 2026-11-22 13:35 UTC,juice-fruit,ACHAT,Will Brighton & Hove Albion FC win on 2026-11-22?,Yes,0.65,0.66,1.0,0.1,15.1515,10.0,,
+2026-11-22 13:45 UTC,juice-fruit,REGLEMENT,Will Juventus FC win on 2026-11-22?,Yes,,0.69,,,14.4928,14.49,4.49,gagné
