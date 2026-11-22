@@ -155,6 +155,19 @@
    "parts": 14.4928,
    "montant": 10.0,
    "ouvert_le": "2026-11-22 11:35 UTC"
+  },
+  "BreakTheBank|49978035511431256430844646759014442931506220279082176761918068184183417251425": {
+   "date": "2026-11-22 12:50 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Ravens vs. Panthers",
+   "resultat": "Ravens",
+   "prix_trader": 0.42,
+   "retard_min": 3.0,
+   "token": "49978035511431256430844646759014442931506220279082176761918068184183417251425",
+   "prix_simule": 0.43,
+   "parts": 23.2558,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 12:50 UTC"
   }
  },
  "fermees": [
