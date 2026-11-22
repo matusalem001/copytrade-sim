@@ -5655,3 +5655,17 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 04:05 UTC,primm,IGNORE,Spread: Arizona (-1.5),Kansas State,0.66,0.005,-65.5,4.1,,,,prix a trop chuté (match sans doute joué)
 2026-11-22 04:05 UTC,primm,IGNORE,Spread: Arizona (-1.5),Kansas State,0.66,0.005,-65.5,4.1,,,,prix a trop chuté (match sans doute joué)
 2026-11-22 04:05 UTC,primm,REGLEMENT,Stanford vs. California: O/U 55.5,Under,,0.51,,,19.6078,0.0,-10.0,perdu
+2026-11-22 04:10 UTC,primm,ACHAT,San Diego State vs. Boise State: O/U 39.5,Under,0.67,0.68,1.0,2.0,14.7059,10.0,,
+2026-11-22 04:10 UTC,primm,REGLEMENT,Spread: Georgia (-16.5),Georgia,,0.48,,,20.8333,20.83,10.83,gagné
+2026-11-22 04:10 UTC,primm,REGLEMENT,Spread: Georgia (-17.5),Georgia,,0.45,,,22.2222,22.22,12.22,gagné
+2026-11-22 04:10 UTC,primm,REGLEMENT,Spread: Georgia (-13.5),South Carolina,,0.52,,,19.2308,0.0,-10.0,perdu
+2026-11-22 04:10 UTC,primm,REGLEMENT,Spread: Georgia (-14.5),South Carolina,,0.58,,,17.2414,0.0,-10.0,perdu
+2026-11-22 04:10 UTC,primm,REGLEMENT,Spread: Georgia (-9.5),South Carolina,,0.42,,,23.8095,0.0,-10.0,perdu
+2026-11-22 04:10 UTC,primm,REGLEMENT,Georgia vs. South Carolina,South Carolina,,0.18,,,55.5556,0.0,-10.0,perdu
+2026-11-22 04:10 UTC,primm,REGLEMENT,Spread: Georgia (-10.5),South Carolina,,0.45,,,22.2222,0.0,-10.0,perdu
+2026-11-22 04:10 UTC,primm,REGLEMENT,Spread: Georgia (-11.5),South Carolina,,0.5,,,20.0,0.0,-10.0,perdu
+2026-11-22 04:10 UTC,primm,REGLEMENT,Spread: Georgia (-6.5),South Carolina,,0.32,,,31.25,0.0,-10.0,perdu
+2026-11-22 04:10 UTC,primm,REGLEMENT,Spread: Georgia (-7.5),South Carolina,,0.38,,,26.3158,0.0,-10.0,perdu
+2026-11-22 04:10 UTC,primm,REGLEMENT,Spread: Georgia (-15.5),South Carolina,,0.61,,,16.3934,0.0,-10.0,perdu
+2026-11-22 04:10 UTC,primm,REGLEMENT,Georgia vs. South Carolina: O/U 41.5,Over,,0.61,,,16.3934,0.0,-10.0,perdu
+2026-11-22 04:10 UTC,primm,REGLEMENT,Spread: Georgia (-21.5),South Carolina,,0.83,,,12.0482,0.0,-10.0,perdu
