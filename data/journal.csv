@@ -6161,3 +6161,10 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 22:35 UTC,BreakTheBank,ACHAT,Spread: Jets (-2.5),Jets,0.61,0.67,6.0,9.5,14.9254,10.0,,
 2026-11-22 22:35 UTC,primm,ACHAT,Spread: Jaguars (-1.5),Giants,0.48,0.48,-0.0,4.0,20.8333,10.0,,
 2026-11-22 22:35 UTC,primm,ACHAT,Spread: Jaguars (-3.5),Giants,0.61,0.63,2.0,3.8,15.873,10.0,,
+2026-11-22 22:40 UTC,BreakTheBank,ACHAT,Spread: Heat (-3.5),Thunder,0.45,0.46,1.0,7.1,21.7391,10.0,,
+2026-11-22 22:40 UTC,primm,IGNORE,Saints vs. Bears: O/U 48.5,Over,0.5,,,187.4,,,,vu trop tard
+2026-11-22 22:40 UTC,primm,ACHAT,Spread: Giants (-5.5),Giants,0.3298,0.45,12.0,4.8,22.2222,10.0,,
+2026-11-22 22:40 UTC,primm,ACHAT,Spread: Giants (-3.5),Giants,0.39,0.52,13.0,4.2,19.2308,10.0,,
+2026-11-22 22:40 UTC,primm,ACHAT,Spread: Giants (-4.5),Giants,0.39,0.48,9.0,1.0,20.8333,10.0,,
+2026-11-22 22:40 UTC,primm,ACHAT,Spread: Giants (-1.5),Giants,0.55,0.63,8.0,1.0,15.873,10.0,,
+2026-11-22 22:40 UTC,primm,ACHAT,Spread: Giants (-6.5),Giants,0.32,0.43,11.0,1.1,23.2558,10.0,,
