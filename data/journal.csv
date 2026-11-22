@@ -5499,3 +5499,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 01:55 UTC,primm,REGLEMENT,Spread: South Florida (-1.5),Florida Atlantic,,0.49,,,20.4082,20.41,10.41,gagné
 2026-11-22 02:00 UTC,primm,ACHAT,Kentucky vs. Missouri: O/U 37.5,Over,0.66,0.67,1.0,3.6,14.9254,10.0,,
 2026-11-22 02:00 UTC,primm,ACHAT,Pittsburgh vs. Louisville: O/U 45.5,Under,0.47,0.49,2.0,2.1,20.4082,10.0,,
+2026-11-22 02:05 UTC,primm,ACHAT,Spread: Stanford (-1.5),California,0.42,0.38,-4.0,4.3,26.3158,10.0,,
+2026-11-22 02:05 UTC,primm,ACHAT,Stanford vs. California: O/U 57.5,Under,0.53,0.51,-2.0,4.3,19.6078,10.0,,
+2026-11-22 02:05 UTC,primm,ACHAT,Spread: Stanford (-2.5),California,0.42,0.4,-2.0,4.3,25.0,10.0,,
