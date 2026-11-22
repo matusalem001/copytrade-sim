@@ -5577,3 +5577,20 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 03:15 UTC,BreakTheBank,REGLEMENT,Spread: Trail Blazers (-1.5),Trail Blazers,,0.51,,,19.6078,0.0,-10.0,perdu
 2026-11-22 03:15 UTC,BreakTheBank,REGLEMENT,Trail Blazers vs. Knicks,Trail Blazers,,0.53,,,18.8679,0.0,-10.0,perdu
 2026-11-22 03:20 UTC,primm,REGLEMENT,Kentucky vs. Missouri: O/U 37.5,Over,,0.67,,,14.9254,14.93,4.93,gagné
+2026-11-22 03:25 UTC,primm,IGNORE,Spread: Kansas State (-7.5),Arizona,0.437,0.276,-16.1,5.6,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 03:25 UTC,primm,IGNORE,Spread: Kansas State (-7.5),Arizona,0.4329,0.276,-15.7,5.6,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 03:25 UTC,primm,IGNORE,Spread: Kansas State (-7.5),Arizona,0.437,0.274,-16.3,5.3,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 03:25 UTC,primm,IGNORE,Spread: Kansas State (-7.5),Arizona,0.437,0.274,-16.3,5.3,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 03:25 UTC,primm,IGNORE,Spread: Kansas State (-7.5),Arizona,0.437,0.274,-16.3,4.8,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 03:25 UTC,primm,IGNORE,Spread: Kansas State (-7.5),Arizona,0.437,0.274,-16.3,4.8,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 03:25 UTC,primm,IGNORE,Spread: Kansas State (-7.5),Arizona,0.437,0.273,-16.4,4.5,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 03:25 UTC,primm,IGNORE,Spread: Kansas State (-7.5),Arizona,0.437,0.273,-16.4,4.5,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 03:25 UTC,primm,ACHAT,Pittsburgh vs. Louisville: O/U 51.5,Under,0.5,0.54,4.0,4.3,18.5185,10.0,,
+2026-11-22 03:25 UTC,primm,ACHAT,Pittsburgh vs. Louisville: O/U 53.5,Under,0.67,0.73,6.0,4.4,13.6986,10.0,,
+2026-11-22 03:25 UTC,primm,IGNORE,Spread: Kansas State (-7.5),Arizona,0.437,0.273,-16.4,4.2,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 03:25 UTC,primm,IGNORE,Spread: Kansas State (-7.5),Arizona,0.437,0.273,-16.4,4.2,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 03:25 UTC,primm,IGNORE,Spread: Kansas State (-7.5),Arizona,0.437,0.27,-16.7,3.7,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 03:25 UTC,primm,IGNORE,Spread: Kansas State (-7.5),Arizona,0.437,0.27,-16.7,3.7,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 03:25 UTC,primm,IGNORE,Spread: Kansas State (-7.5),Arizona,0.437,0.27,-16.7,3.6,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 03:25 UTC,primm,IGNORE,Spread: Kansas State (-7.5),Arizona,0.37,0.27,-10.0,1.6,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 03:25 UTC,primm,REGLEMENT,Arizona vs. Kansas State: O/U 41.5,Over,,0.71,,,14.0845,14.08,4.08,gagné
