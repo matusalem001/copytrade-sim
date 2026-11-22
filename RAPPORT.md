@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 04:45 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 04:50 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 317 | 472 | 306 | 156 | -39.36 $ | -1.3 % | 11 | +1.2 ¢ | 8 min |
-| primm | 1913 | 820 | 1870 | 941 | +289.18 $ | +1.5 % | 43 | +3.0 ¢ | 4 min |
+| primm | 1917 | 821 | 1874 | 943 | +286.41 $ | +1.5 % | 43 | +3.0 ¢ | 4 min |
 | juice-fruit | 24 | 2 | 24 | 12 | -47.43 $ | -19.8 % | 0 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +202.38 $ sur 22000 $ engagés (+0.9 %)**
+**Total réalisé : +199.61 $ sur 22040 $ engagés (+0.9 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,10 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 04:45 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: UTSA (-5.5) | UTSA | 0.39 | 0.00 | -10.00 $ |
+| primm | UTSA vs. UAB | UAB | 0.35 | 0.00 | -10.00 $ |
+| primm | Spread: UTSA (-4.5) | UAB | 0.48 | 1.00 | +10.83 $ |
+| primm | UTSA vs. UAB: O/U 53.5 | Under | 0.61 | 1.00 | +6.39 $ |
 | primm | Spread: Fresno State (-13.5) | Colorado State | 0.30 | 1.00 | +23.33 $ |
 | primm | Spread: Fresno State (-17.5) | Colorado State | 0.42 | 1.00 | +13.81 $ |
 | primm | Spread: Fresno State (-21.5) | Colorado State | 0.56 | 1.00 | +7.86 $ |
@@ -37,9 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 04:45 UTC** 
 | primm | Arizona vs. Kansas State | Arizona | 0.26 | 1.00 | +28.46 $ |
 | primm | Spread: Kansas State (-4.5) | Arizona | 0.49 | 1.00 | +10.41 $ |
 | primm | Spread: Kansas State (-6.5) | Arizona | 0.66 | 1.00 | +5.15 $ |
-| primm | Spread: Kansas State (-5.5) | Arizona | 0.66 | 1.00 | +5.15 $ |
-| primm | Spread: Stanford (-16.5) | Stanford | 0.71 | 0.00 | -10.00 $ |
-| primm | Spread: Kansas State (-3.5) | Arizona | 0.55 | 1.00 | +8.18 $ |
-| primm | Arizona vs. Kansas State: O/U 65.5 | Over | 0.22 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

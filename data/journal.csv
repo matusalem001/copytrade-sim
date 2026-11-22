@@ -5747,3 +5747,12 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 04:40 UTC,primm,REGLEMENT,Spread: Fresno State (-21.5),Colorado State,,0.56,,,17.8571,17.86,7.86,gagné
 2026-11-22 04:40 UTC,primm,REGLEMENT,Spread: Fresno State (-17.5),Colorado State,,0.42,,,23.8095,23.81,13.81,gagné
 2026-11-22 04:40 UTC,primm,REGLEMENT,Spread: Fresno State (-13.5),Colorado State,,0.3,,,33.3333,33.33,23.33,gagné
+2026-11-22 04:50 UTC,primm,ACHAT,Spread: Utah State (-6.5),Oregon State,0.58,0.78,20.0,6.5,12.8205,10.0,,
+2026-11-22 04:50 UTC,primm,ACHAT,Spread: Utah State (-2.5),Oregon State,0.43,0.65,22.0,6.5,15.3846,10.0,,
+2026-11-22 04:50 UTC,primm,IGNORE,Spread: Arizona State (-7.5),Oklahoma State,0.58,0.49,-9.0,5.3,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 04:50 UTC,primm,ACHAT,Utah vs. TCU: O/U 43.5,Over,0.46,0.46,0.0,0.5,21.7391,10.0,,
+2026-11-22 04:50 UTC,primm,ACHAT,Spread: Arizona State (-10.5),Oklahoma State,0.56,0.56,0.0,0.1,17.8571,10.0,,
+2026-11-22 04:50 UTC,primm,REGLEMENT,UTSA vs. UAB: O/U 53.5,Under,,0.61,,,16.3934,16.39,6.39,gagné
+2026-11-22 04:50 UTC,primm,REGLEMENT,Spread: UTSA (-4.5),UAB,,0.48,,,20.8333,20.83,10.83,gagné
+2026-11-22 04:50 UTC,primm,REGLEMENT,UTSA vs. UAB,UAB,,0.35,,,28.5714,0.0,-10.0,perdu
+2026-11-22 04:50 UTC,primm,REGLEMENT,Spread: UTSA (-5.5),UTSA,,0.39,,,25.641,0.0,-10.0,perdu
