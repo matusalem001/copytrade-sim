@@ -6115,3 +6115,17 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 21:30 UTC,primm,REGLEMENT,Spread: Bills (-16.5),Bills,,0.61,,,16.3934,16.39,6.39,gagné
 2026-11-22 21:30 UTC,primm,REGLEMENT,Spread: Bills (-14.5),Bills,,0.73,,,13.6986,13.7,3.7,gagné
 2026-11-22 21:30 UTC,primm,REGLEMENT,Buccaneers vs. Lions: O/U 46.5,Over,,0.43,,,23.2558,23.26,13.26,gagné
+2026-11-22 21:35 UTC,primm,REGLEMENT,Spread: Steelers (-3.5),Eagles,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-22 21:35 UTC,primm,REGLEMENT,Spread: Steelers (-1.5),Eagles,,0.39,,,25.641,25.64,15.64,gagné
+2026-11-22 21:35 UTC,primm,REGLEMENT,Steelers vs. Eagles: O/U 38.5,Over,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-22 21:35 UTC,primm,REGLEMENT,Steelers vs. Eagles,Eagles,,0.35,,,28.5714,28.57,18.57,gagné
+2026-11-22 21:35 UTC,BreakTheBank,REGLEMENT,Spread: Steelers (-3.5),Steelers,,0.51,,,19.6078,0.0,-10.0,perdu
+2026-11-22 21:35 UTC,primm,REGLEMENT,Spread: Eagles (-3.5),Eagles,,0.33,,,30.303,0.0,-10.0,perdu
+2026-11-22 21:35 UTC,primm,REGLEMENT,Spread: Eagles (-2.5),Eagles,,0.41,,,24.3902,24.39,14.39,gagné
+2026-11-22 21:35 UTC,primm,REGLEMENT,Spread: Eagles (-4.5),Eagles,,0.31,,,32.2581,0.0,-10.0,perdu
+2026-11-22 21:35 UTC,primm,REGLEMENT,Spread: Eagles (-5.5),Eagles,,0.57,,,17.5439,0.0,-10.0,perdu
+2026-11-22 21:35 UTC,primm,REGLEMENT,Spread: Ravens (-7.5),Ravens,,0.35,,,28.5714,0.0,-10.0,perdu
+2026-11-22 21:35 UTC,primm,REGLEMENT,Spread: Panthers (-1.5),Panthers,,0.44,,,22.7273,22.73,12.73,gagné
+2026-11-22 21:35 UTC,primm,REGLEMENT,Spread: Panthers (-2.5),Panthers,,0.36,,,27.7778,0.0,-10.0,perdu
+2026-11-22 21:35 UTC,primm,REGLEMENT,Spread: Panthers (-3.5),Panthers,,0.43,,,23.2558,0.0,-10.0,perdu
+2026-11-22 21:35 UTC,primm,REGLEMENT,Spread: Eagles (-10.5),Eagles,,0.41,,,24.3902,0.0,-10.0,perdu
