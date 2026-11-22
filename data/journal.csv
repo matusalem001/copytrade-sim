@@ -5287,3 +5287,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-21 23:45 UTC,primm,REGLEMENT,Florida International vs. Kennesaw State: O/U 65.5,Over,,0.18,,,55.5556,0.0,-10.0,perdu
 2026-11-21 23:55 UTC,primm,REGLEMENT,Northern Illinois vs. North Dakota State: O/U 37.5,Over,,0.73,,,13.6986,13.7,3.7,gagné
 2026-11-21 23:55 UTC,primm,REGLEMENT,Spread: Kennesaw State (-6.5),Florida International,,0.4,,,25.0,0.0,-10.0,perdu
+2026-11-22 00:05 UTC,primm,IGNORE,Northern Illinois vs. North Dakota State: O/U 51.5,Over,0.63,0.56,-7.0,6.0,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 00:05 UTC,primm,IGNORE,Northern Illinois vs. North Dakota State: O/U 55.5,Over,0.5121,0.39,-12.2,6.0,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 00:05 UTC,primm,ACHAT,Spread: North Dakota State (-11.5),Northern Illinois,0.149,0.12,-2.9,6.0,83.3333,10.0,,

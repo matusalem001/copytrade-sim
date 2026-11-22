@@ -1715,6 +1715,19 @@
    "parts": 21.7391,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 23:40 UTC"
+  },
+  "primm|28455677303007066370685114156615288662578154637147168791233108297691737047721": {
+   "date": "2026-11-22 00:05 UTC",
+   "trader": "primm",
+   "marche": "Spread: North Dakota State (-11.5)",
+   "resultat": "Northern Illinois",
+   "prix_trader": 0.149,
+   "retard_min": 6.0,
+   "token": "28455677303007066370685114156615288662578154637147168791233108297691737047721",
+   "prix_simule": 0.12,
+   "parts": 83.3333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 00:05 UTC"
   }
  },
  "fermees": [
