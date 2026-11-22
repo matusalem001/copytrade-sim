@@ -831,6 +831,19 @@
    "parts": 15.625,
    "montant": 10.0,
    "ouvert_le": "2026-11-22 04:25 UTC"
+  },
+  "primm|20981911238661031356101024095284962137228388847447562561454106748745691843444": {
+   "date": "2026-11-22 04:35 UTC",
+   "trader": "primm",
+   "marche": "Spread: Arizona State (-4.5)",
+   "resultat": "Oklahoma State",
+   "prix_trader": 0.55,
+   "retard_min": 0.7,
+   "token": "20981911238661031356101024095284962137228388847447562561454106748745691843444",
+   "prix_simule": 0.65,
+   "parts": 15.3846,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-22 04:35 UTC"
   }
  },
  "fermees": [

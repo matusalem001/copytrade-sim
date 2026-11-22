@@ -5726,3 +5726,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 04:30 UTC,primm,REGLEMENT,Spread: Louisville (-5.5),Louisville,,0.53,,,18.8679,18.87,8.87,gagné
 2026-11-22 04:30 UTC,primm,REGLEMENT,Arizona vs. Kansas State: O/U 59.5,Over,,0.56,,,17.8571,17.86,7.86,gagné
 2026-11-22 04:30 UTC,primm,REGLEMENT,Pittsburgh vs. Louisville: O/U 53.5,Under,,0.73,,,13.6986,13.7,3.7,gagné
+2026-11-22 04:35 UTC,primm,IGNORE,Arizona vs. Kansas State: O/U 51.5,Over,0.61,,,108.0,,,,vu trop tard
+2026-11-22 04:35 UTC,primm,IGNORE,Utah vs. TCU: O/U 37.5,Under,0.6,0.32,-28.0,2.9,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 04:35 UTC,primm,IGNORE,Utah vs. TCU: O/U 37.5,Under,0.6,0.32,-28.0,2.9,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 04:35 UTC,primm,IGNORE,Utah vs. TCU: O/U 43.5,Under,0.79,0.57,-22.0,2.9,,,,prix a trop chuté (match sans doute joué)
+2026-11-22 04:35 UTC,primm,ACHAT,Spread: Arizona State (-4.5),Oklahoma State,0.55,0.65,10.0,0.7,15.3846,10.0,,
