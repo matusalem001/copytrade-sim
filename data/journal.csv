@@ -5431,3 +5431,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 00:50 UTC,primm,IGNORE,UCLA vs. Michigan,UCLA,0.47,,,50.2,,,,vu trop tard
 2026-11-22 00:50 UTC,primm,ACHAT,Spread: Stanford (-7.5),Stanford,0.5,0.52,2.0,1.6,19.2308,10.0,,
 2026-11-22 00:50 UTC,primm,ACHAT,Maryland vs. USC: O/U 53.5,Over,0.58,0.6,2.0,1.0,16.6667,10.0,,
+2026-11-22 00:55 UTC,primm,IGNORE,Spread: UCLA (-2.5),Michigan,0.43,,,153.7,,,,vu trop tard
+2026-11-22 00:55 UTC,primm,ACHAT,SMU vs. Notre Dame: O/U 49.5,Under,0.43,0.55,12.0,4.9,18.1818,10.0,,
+2026-11-22 00:55 UTC,primm,ACHAT,Spread: Georgia (-13.5),South Carolina,0.4,0.52,12.0,4.7,19.2308,10.0,,
+2026-11-22 00:55 UTC,primm,ACHAT,Spread: Georgia (-14.5),South Carolina,0.44,0.58,14.0,4.7,17.2414,10.0,,
