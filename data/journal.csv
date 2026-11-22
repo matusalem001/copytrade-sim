@@ -6059,3 +6059,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 21:05 UTC,primm,REGLEMENT,Spread: Chiefs (-13.5),Cardinals,,0.37,,,27.027,0.0,-10.0,perdu
 2026-11-22 21:05 UTC,primm,REGLEMENT,Spread: Chiefs (-17.5),Cardinals,,0.56,,,17.8571,0.0,-10.0,perdu
 2026-11-22 21:05 UTC,primm,REGLEMENT,Cardinals vs. Chiefs: O/U 44.5,Over,,0.74,,,13.5135,0.0,-10.0,perdu
+2026-11-22 21:15 UTC,primm,REGLEMENT,Ravens vs. Panthers: O/U 62.5,Over,,0.36,,,27.7778,27.78,17.78,gagné
+2026-11-22 21:15 UTC,primm,REGLEMENT,Buccaneers vs. Lions: O/U 44.5,Over,,0.32,,,31.25,31.25,21.25,gagné
