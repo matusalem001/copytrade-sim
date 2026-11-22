@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 03:16 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 03:20 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 317 | 472 | 300 | 156 | +20.64 $ | +0.7 % | 17 | +1.2 ¢ | 8 min |
-| primm | 1893 | 792 | 1753 | 888 | +434.58 $ | +2.5 % | 140 | +3.0 ¢ | 4 min |
+| primm | 1893 | 792 | 1754 | 889 | +439.51 $ | +2.5 % | 139 | +3.0 ¢ | 4 min |
 | juice-fruit | 24 | 2 | 24 | 12 | -47.43 $ | -19.8 % | 0 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +407.78 $ sur 20770 $ engagés (+2.0 %)**
+**Total réalisé : +412.71 $ sur 20780 $ engagés (+2.0 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 03:16 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Kentucky vs. Missouri: O/U 37.5 | Over | 0.67 | 1.00 | +4.93 $ |
 | BreakTheBank | Trail Blazers vs. Knicks | Trail Blazers | 0.53 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Trail Blazers (-1.5) | Trail Blazers | 0.51 | 0.00 | -10.00 $ |
 | primm | Spread: USC (-6.5) | USC | 0.49 | 1.00 | +10.41 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 03:16 UTC** 
 | primm | Washington State vs. Texas State: O/U 61.5 | Under | 0.45 | 1.00 | +12.22 $ |
 | primm | Washington State vs. Texas State: O/U 73.5 | Under | 0.79 | 1.00 | +2.66 $ |
 | primm | Washington State vs. Texas State: O/U 67.5 | Under | 0.64 | 1.00 | +5.62 $ |
-| primm | Spread: South Florida (-1.5) | Florida Atlantic | 0.49 | 1.00 | +10.41 $ |
 
 Journal complet : `data/journal.csv`

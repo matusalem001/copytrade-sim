@@ -5576,3 +5576,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 03:15 UTC,primm,ACHAT,Spread: Georgia (-21.5),South Carolina,0.78,0.83,5.0,2.9,12.0482,10.0,,
 2026-11-22 03:15 UTC,BreakTheBank,REGLEMENT,Spread: Trail Blazers (-1.5),Trail Blazers,,0.51,,,19.6078,0.0,-10.0,perdu
 2026-11-22 03:15 UTC,BreakTheBank,REGLEMENT,Trail Blazers vs. Knicks,Trail Blazers,,0.53,,,18.8679,0.0,-10.0,perdu
+2026-11-22 03:20 UTC,primm,REGLEMENT,Kentucky vs. Missouri: O/U 37.5,Over,,0.67,,,14.9254,14.93,4.93,gagné
