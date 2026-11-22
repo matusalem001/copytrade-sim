@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 02:35 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 02:40 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 317 | 472 | 298 | 156 | +40.64 $ | +1.4 % | 19 | +1.2 ¢ | 8 min |
-| primm | 1862 | 788 | 1731 | 873 | +384.90 $ | +2.2 % | 131 | +3.0 ¢ | 4 min |
+| primm | 1866 | 788 | 1734 | 876 | +405.40 $ | +2.3 % | 132 | +3.0 ¢ | 4 min |
 | juice-fruit | 24 | 2 | 24 | 12 | -47.43 $ | -19.8 % | 0 | -0.1 ¢ | 4 min |
 
-**Total réalisé : +378.10 $ sur 20530 $ engagés (+1.8 %)**
+**Total réalisé : +398.60 $ sur 20560 $ engagés (+1.9 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,9 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 02:35 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Washington State vs. Texas State: O/U 61.5 | Under | 0.45 | 1.00 | +12.22 $ |
+| primm | Washington State vs. Texas State: O/U 73.5 | Under | 0.79 | 1.00 | +2.66 $ |
+| primm | Washington State vs. Texas State: O/U 67.5 | Under | 0.64 | 1.00 | +5.62 $ |
 | primm | Spread: South Florida (-1.5) | Florida Atlantic | 0.49 | 1.00 | +10.41 $ |
 | primm | Spread: South Florida (-3.5) | Florida Atlantic | 0.57 | 1.00 | +7.54 $ |
 | primm | Spread: South Florida (-4.5) | Florida Atlantic | 0.60 | 1.00 | +6.67 $ |
@@ -38,8 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-22 02:35 UTC** 
 | primm | Spread: North Dakota State (-24.5) | Northern Illinois | 0.58 | 1.00 | +7.24 $ |
 | primm | Spread: Michigan (-1.5) | UCLA | 0.65 | 0.00 | -10.00 $ |
 | primm | Spread: Michigan (-2.5) | UCLA | 0.65 | 1.00 | +5.38 $ |
-| primm | Spread: UCLA (-2.5) | UCLA | 0.58 | 0.00 | -10.00 $ |
-| primm | Spread: UCLA (-10.5) | UCLA | 0.36 | 0.00 | -10.00 $ |
-| primm | Spread: Marshall (-5.5) | Marshall | 0.44 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
