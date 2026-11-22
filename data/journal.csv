@@ -6051,3 +6051,11 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 20:45 UTC,BreakTheBank,ACHAT,Spread: Chargers (-2.5),Jets,0.43,0.44,1.0,1.7,22.7273,10.0,,
 2026-11-22 20:55 UTC,primm,REGLEMENT,Titans vs. Cowboys: O/U 64.5,Under,,0.65,,,15.3846,0.0,-10.0,perdu
 2026-11-22 20:55 UTC,primm,REGLEMENT,Ravens vs. Panthers: O/U 56.5,Over,,0.46,,,21.7391,21.74,11.74,gagné
+2026-11-22 21:05 UTC,primm,REGLEMENT,Spread: Chiefs (-14.5),Cardinals,,0.36,,,27.7778,0.0,-10.0,perdu
+2026-11-22 21:05 UTC,primm,REGLEMENT,Spread: Chiefs (-20.5),Cardinals,,0.5,,,20.0,0.0,-10.0,perdu
+2026-11-22 21:05 UTC,primm,REGLEMENT,Cardinals vs. Chiefs: O/U 44.5,Under,,0.68,,,14.7059,14.71,4.71,gagné
+2026-11-22 21:05 UTC,primm,REGLEMENT,Cardinals vs. Chiefs: O/U 50.5,Under,,0.69,,,14.4928,14.49,4.49,gagné
+2026-11-22 21:05 UTC,primm,REGLEMENT,Spread: Chiefs (-16.5),Cardinals,,0.48,,,20.8333,0.0,-10.0,perdu
+2026-11-22 21:05 UTC,primm,REGLEMENT,Spread: Chiefs (-13.5),Cardinals,,0.37,,,27.027,0.0,-10.0,perdu
+2026-11-22 21:05 UTC,primm,REGLEMENT,Spread: Chiefs (-17.5),Cardinals,,0.56,,,17.8571,0.0,-10.0,perdu
+2026-11-22 21:05 UTC,primm,REGLEMENT,Cardinals vs. Chiefs: O/U 44.5,Over,,0.74,,,13.5135,0.0,-10.0,perdu
