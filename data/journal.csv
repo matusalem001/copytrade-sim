@@ -6146,3 +6146,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 22:05 UTC,primm,ACHAT,Spread: Jets (-7.5),Jets,0.39,0.5,11.0,6.4,20.0,10.0,,
 2026-11-22 22:05 UTC,primm,ACHAT,Spread: Jets (-9.5),Jets,0.34,0.44,10.0,6.4,22.7273,10.0,,
 2026-11-22 22:05 UTC,primm,ACHAT,Spread: Jets (-10.5),Jets,0.3,0.39,9.0,6.4,25.641,10.0,,
+2026-11-22 22:09 UTC,primm,IGNORE,Spread: Bears (-20.5),Saints,0.64,,,199.6,,,,vu trop tard
+2026-11-22 22:09 UTC,primm,IGNORE,Spread: Eagles (-7.5),Eagles,0.43,,,174.9,,,,vu trop tard
+2026-11-22 22:09 UTC,primm,IGNORE,Spread: Eagles (-6.5),Eagles,0.49,,,167.1,,,,vu trop tard
