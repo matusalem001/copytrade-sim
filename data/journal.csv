@@ -6168,3 +6168,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 22:40 UTC,primm,ACHAT,Spread: Giants (-4.5),Giants,0.39,0.48,9.0,1.0,20.8333,10.0,,
 2026-11-22 22:40 UTC,primm,ACHAT,Spread: Giants (-1.5),Giants,0.55,0.63,8.0,1.0,15.873,10.0,,
 2026-11-22 22:40 UTC,primm,ACHAT,Spread: Giants (-6.5),Giants,0.32,0.43,11.0,1.1,23.2558,10.0,,
+2026-11-22 22:45 UTC,primm,IGNORE,Spread: Eagles (-7.5),Eagles,0.51,,,226.9,,,,vu trop tard
+2026-11-22 22:45 UTC,primm,IGNORE,Spread: Chiefs (-20.5),Cardinals,0.36,,,213.2,,,,vu trop tard
