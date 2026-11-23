@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 01:15 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 01:21 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 345 | 509 | 325 | 167 | -42.95 $ | -1.3 % | 20 | +1.2 ¢ | 8 min |
-| primm | 2083 | 903 | 2081 | 1048 | +307.23 $ | +1.5 % | 2 | +3.0 ¢ | 4 min |
+| primm | 2084 | 903 | 2082 | 1049 | +318.51 $ | +1.5 % | 2 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : +191.34 $ sur 24340 $ engagés (+0.8 %)**
+**Total réalisé : +202.62 $ sur 24350 $ engagés (+0.8 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 01:15 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Jaguars vs. Giants: O/U 44.5 | Under | 0.47 | 1.00 | +11.28 $ |
 | primm | Spread: Giants (-9.5) | Jaguars | 0.62 | 1.00 | +6.13 $ |
 | primm | Spread: Giants (-7.5) | Jaguars | 0.54 | 1.00 | +8.52 $ |
 | primm | Spread: Giants (-6.5) | Jaguars | 0.48 | 1.00 | +10.83 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 01:15 UTC** 
 | primm | Jaguars vs. Giants: O/U 46.5 | Under | 0.59 | 1.00 | +6.95 $ |
 | primm | Spread: Jaguars (-7.5) | Jaguars | 0.50 | 0.00 | -10.00 $ |
 | primm | Spread: Jaguars (-9.5) | Giants | 0.55 | 1.00 | +8.18 $ |
-| primm | Spread: Jaguars (-10.5) | Giants | 0.58 | 1.00 | +7.24 $ |
 
 Journal complet : `data/journal.csv`

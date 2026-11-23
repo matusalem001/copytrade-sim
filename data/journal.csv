@@ -6303,3 +6303,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-23 01:15 UTC,primm,REGLEMENT,Spread: Giants (-6.5),Jaguars,,0.48,,,20.8333,20.83,10.83,gagné
 2026-11-23 01:15 UTC,primm,REGLEMENT,Spread: Giants (-7.5),Jaguars,,0.54,,,18.5185,18.52,8.52,gagné
 2026-11-23 01:15 UTC,primm,REGLEMENT,Spread: Giants (-9.5),Jaguars,,0.62,,,16.129,16.13,6.13,gagné
+2026-11-23 01:20 UTC,primm,ACHAT,Spread: 49ers (-7.5),49ers,0.36,0.38,2.0,1.8,26.3158,10.0,,
+2026-11-23 01:21 UTC,primm,REGLEMENT,Jaguars vs. Giants: O/U 44.5,Under,,0.47,,,21.2766,21.28,11.28,gagné
