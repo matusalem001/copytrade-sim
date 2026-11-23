@@ -6243,3 +6243,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-23 00:10 UTC,BreakTheBank,IGNORE,Jets vs. Chargers,Jets,0.39,,,227.6,,,,vu trop tard
 2026-11-23 00:10 UTC,BreakTheBank,IGNORE,Jets vs. Chargers,Jets,0.39,,,206.6,,,,vu trop tard
 2026-11-23 00:15 UTC,primm,IGNORE,Spread: Giants (-4.5),Jaguars,0.35,0.16,-19.0,3.2,,,,prix a trop chuté (match sans doute joué)
+2026-11-23 00:20 UTC,primm,IGNORE,Spread: Jets (-10.5),Jets,0.29,,,124.5,,,,vu trop tard
+2026-11-23 00:20 UTC,primm,IGNORE,Spread: Giants (-1.5),Jaguars,0.33,,,89.6,,,,vu trop tard
+2026-11-23 00:20 UTC,primm,REGLEMENT,Raiders vs. Broncos: O/U 42.5,Over,,0.48,,,20.8333,20.83,10.83,gagné
+2026-11-23 00:20 UTC,primm,REGLEMENT,Raiders vs. Broncos: O/U 46.5,Over,,0.62,,,16.129,16.13,6.13,gagné
