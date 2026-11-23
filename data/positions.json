@@ -181,6 +181,19 @@
    "parts": 20.4082,
    "montant": 10.0,
    "ouvert_le": "2026-11-23 19:50 UTC"
+  },
+  "BreakTheBank|115458097634498057759096834816008368241222688137561226553880188740627053264972": {
+   "date": "2026-11-23 21:55 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Bengals (-5.5)",
+   "resultat": "Bengals",
+   "prix_trader": 0.53,
+   "retard_min": 6.9,
+   "token": "115458097634498057759096834816008368241222688137561226553880188740627053264972",
+   "prix_simule": 0.54,
+   "parts": 18.5185,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-23 21:55 UTC"
   }
  },
  "fermees": [
