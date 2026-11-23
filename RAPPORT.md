@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 22:20 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 22:25 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 350 | 516 | 335 | 171 | -67.53 $ | -2.0 % | 15 | +1.1 ¢ | 8 min |
+| BreakTheBank | 350 | 516 | 337 | 171 | -87.53 $ | -2.6 % | 13 | +1.1 ¢ | 8 min |
 | primm | 2103 | 925 | 2103 | 1055 | +223.51 $ | +1.1 % | 0 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : +83.04 $ sur 24660 $ engagés (+0.3 %)**
+**Total réalisé : +63.04 $ sur 24680 $ engagés (+0.3 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 22:20 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Will Everton FC win on 2026-11-23? | Yes | 0.30 | 0.00 | -10.00 $ |
+| BreakTheBank | Will Brentford FC win on 2026-11-23? | No | 0.57 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: 49ers (-3.5) | 49ers | 0.54 | 1.00 | +8.52 $ |
 | primm | Spread: 49ers (-16.5) | Vikings | 0.45 | 0.00 | -10.00 $ |
 | primm | Vikings vs. 49ers: O/U 60.5 | Under | 0.50 | 1.00 | +10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 22:20 UTC** 
 | primm | Spread: 49ers (-7.5) | 49ers | 0.38 | 1.00 | +16.32 $ |
 | BreakTheBank | Spread: 49ers (-4.5) | 49ers | 0.50 | 1.00 | +10.00 $ |
 | primm | Spread: 49ers (-3.5) | Vikings | 0.47 | 0.00 | -10.00 $ |
-| BreakTheBank | Vikings vs. 49ers | 49ers | 0.64 | 1.00 | +5.62 $ |
-| primm | Vikings vs. 49ers: O/U 44.5 | Under | 0.40 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

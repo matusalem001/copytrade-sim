@@ -143,32 +143,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-21 08:30 UTC"
   },
-  "BreakTheBank|64683019428064779459358849868941866000527886763398865377258332714904946823767": {
-   "date": "2026-11-23 19:05 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Will Brentford FC win on 2026-11-23?",
-   "resultat": "No",
-   "prix_trader": 0.58,
-   "retard_min": 4.0,
-   "token": "64683019428064779459358849868941866000527886763398865377258332714904946823767",
-   "prix_simule": 0.57,
-   "parts": 17.5439,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-23 19:05 UTC"
-  },
-  "BreakTheBank|41312137763373648902476236554993618791302826835435822193067273665464450556226": {
-   "date": "2026-11-23 19:05 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Will Everton FC win on 2026-11-23?",
-   "resultat": "Yes",
-   "prix_trader": 0.3,
-   "retard_min": 3.4,
-   "token": "41312137763373648902476236554993618791302826835435822193067273665464450556226",
-   "prix_simule": 0.3,
-   "parts": 33.3333,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-23 19:05 UTC"
-  },
   "BreakTheBank|25833909583848229560604946180146254026252241209923592644429191596992200679138": {
    "date": "2026-11-23 19:50 UTC",
    "trader": "BreakTheBank",
@@ -42118,6 +42092,40 @@
    "pnl": 8.5185,
    "ferme_le": "2026-11-23 04:50 UTC",
    "type": "gagné"
+  },
+  {
+   "date": "2026-11-23 19:05 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Brentford FC win on 2026-11-23?",
+   "resultat": "No",
+   "prix_trader": 0.58,
+   "retard_min": 4.0,
+   "token": "64683019428064779459358849868941866000527886763398865377258332714904946823767",
+   "prix_simule": 0.57,
+   "parts": 17.5439,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-23 19:05 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-23 22:25 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-23 19:05 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Everton FC win on 2026-11-23?",
+   "resultat": "Yes",
+   "prix_trader": 0.3,
+   "retard_min": 3.4,
+   "token": "41312137763373648902476236554993618791302826835435822193067273665464450556226",
+   "prix_simule": 0.3,
+   "parts": 33.3333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-23 19:05 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-23 22:25 UTC",
+   "type": "perdu"
   }
  ]
 }
