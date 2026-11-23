@@ -6311,3 +6311,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-23 01:25 UTC,primm,IGNORE,Spread: Giants (-10.5),Giants,0.378,,,78.6,,,,vu trop tard
 2026-11-23 01:30 UTC,primm,IGNORE,Vikings vs. 49ers: O/U 44.5,Under,0.45,0.34,-11.0,2.7,,,,prix a trop chuté (match sans doute joué)
 2026-11-23 01:30 UTC,primm,IGNORE,Vikings vs. 49ers: O/U 46.5,Under,0.5,0.4,-10.0,2.3,,,,prix a trop chuté (match sans doute joué)
+2026-11-23 01:35 UTC,primm,IGNORE,Spread: Jaguars (-2.5),Giants,0.5,,,182.1,,,,vu trop tard
+2026-11-23 01:35 UTC,primm,IGNORE,Spread: Giants (-7.5),Giants,0.48,,,142.6,,,,vu trop tard
