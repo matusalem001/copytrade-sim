@@ -6242,3 +6242,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-23 00:05 UTC,BreakTheBank,REGLEMENT,Spread: Jets (-2.5),Jets,,0.67,,,14.9254,14.93,4.93,gagné
 2026-11-23 00:10 UTC,BreakTheBank,IGNORE,Jets vs. Chargers,Jets,0.39,,,227.6,,,,vu trop tard
 2026-11-23 00:10 UTC,BreakTheBank,IGNORE,Jets vs. Chargers,Jets,0.39,,,206.6,,,,vu trop tard
+2026-11-23 00:15 UTC,primm,IGNORE,Spread: Giants (-4.5),Jaguars,0.35,0.16,-19.0,3.2,,,,prix a trop chuté (match sans doute joué)
