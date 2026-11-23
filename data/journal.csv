@@ -6352,3 +6352,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-23 03:55 UTC,primm,IGNORE,Jaguars vs. Giants,Jaguars,0.23,,,270.9,,,,vu trop tard
 2026-11-23 03:55 UTC,primm,IGNORE,Spread: Giants (-2.5),Giants,0.39,,,194.5,,,,vu trop tard
 2026-11-23 03:55 UTC,BreakTheBank,REGLEMENT,Spread: Knicks (-6.5),Pacers,,0.5,,,20.0,0.0,-10.0,perdu
+2026-11-23 04:00 UTC,BreakTheBank,REGLEMENT,Pacers vs. Knicks,Pacers,,0.31,,,32.2581,0.0,-10.0,perdu

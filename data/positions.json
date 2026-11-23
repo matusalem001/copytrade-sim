@@ -156,19 +156,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-22 19:20 UTC"
   },
-  "BreakTheBank|52830579009877272502204408642298109076206113043599363947790684477828482280192": {
-   "date": "2026-11-23 00:35 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Pacers vs. Knicks",
-   "resultat": "Pacers",
-   "prix_trader": 0.3,
-   "retard_min": 5.1,
-   "token": "52830579009877272502204408642298109076206113043599363947790684477828482280192",
-   "prix_simule": 0.31,
-   "parts": 32.2581,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-23 00:35 UTC"
-  },
   "BreakTheBank|98055297371724956716574930608378405403990883379763089906467964666353197355957": {
    "date": "2026-11-23 01:00 UTC",
    "trader": "BreakTheBank",
@@ -41961,6 +41948,23 @@
    "sortie": 0.0,
    "pnl": -10.0,
    "ferme_le": "2026-11-23 03:55 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-23 00:35 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Pacers vs. Knicks",
+   "resultat": "Pacers",
+   "prix_trader": 0.3,
+   "retard_min": 5.1,
+   "token": "52830579009877272502204408642298109076206113043599363947790684477828482280192",
+   "prix_simule": 0.31,
+   "parts": 32.2581,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-23 00:35 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-23 04:00 UTC",
    "type": "perdu"
   }
  ]
