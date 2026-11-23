@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 04:40 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 04:45 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 346 | 509 | 331 | 167 | -102.95 $ | -3.1 % | 15 | +1.2 ¢ | 8 min |
-| primm | 2103 | 925 | 2083 | 1049 | +308.51 $ | +1.5 % | 20 | +3.0 ¢ | 4 min |
+| BreakTheBank | 346 | 509 | 334 | 170 | -76.05 $ | -2.3 % | 12 | +1.2 ¢ | 8 min |
+| primm | 2103 | 925 | 2103 | 1055 | +223.51 $ | +1.1 % | 0 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : +132.62 $ sur 24420 $ engagés (+0.5 %)**
+**Total réalisé : +74.52 $ sur 24650 $ engagés (+0.3 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,30 +16,30 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 04:40 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: 49ers (-16.5) | Vikings | 0.45 | 0.00 | -10.00 $ |
+| primm | Vikings vs. 49ers: O/U 60.5 | Under | 0.50 | 1.00 | +10.00 $ |
+| primm | Spread: 49ers (-20.5) | Vikings | 0.61 | 0.00 | -10.00 $ |
+| primm | Spread: 49ers (-14.5) | Vikings | 0.40 | 0.00 | -10.00 $ |
+| primm | Spread: 49ers (-13.5) | Vikings | 0.34 | 0.00 | -10.00 $ |
+| primm | Spread: 49ers (-17.5) | Vikings | 0.49 | 0.00 | -10.00 $ |
+| primm | Spread: 49ers (-10.5) | 49ers | 0.74 | 1.00 | +3.51 $ |
+| primm | Spread: 49ers (-9.5) | Vikings | 0.54 | 0.00 | -10.00 $ |
+| primm | Spread: 49ers (-6.5) | Vikings | 0.41 | 0.00 | -10.00 $ |
+| primm | Vikings vs. 49ers: O/U 60.5 | Over | 0.31 | 0.00 | -10.00 $ |
+| primm | Spread: 49ers (-2.5) | Vikings | 0.40 | 0.00 | -10.00 $ |
+| primm | Vikings vs. 49ers: O/U 54.5 | Over | 0.40 | 0.00 | -10.00 $ |
+| primm | Vikings vs. 49ers: O/U 46.5 | Over | 0.65 | 0.00 | -10.00 $ |
+| primm | Vikings vs. 49ers: O/U 48.5 | Over | 0.61 | 0.00 | -10.00 $ |
+| primm | Spread: 49ers (-4.5) | Vikings | 0.53 | 0.00 | -10.00 $ |
+| primm | Vikings vs. 49ers: O/U 48.5 | Under | 0.53 | 1.00 | +8.87 $ |
+| primm | Vikings vs. 49ers: O/U 54.5 | Under | 0.71 | 1.00 | +4.08 $ |
+| primm | Vikings vs. 49ers: O/U 46.5 | Under | 0.45 | 1.00 | +12.22 $ |
+| BreakTheBank | Spread: 49ers (-5.5) | 49ers | 0.47 | 1.00 | +11.28 $ |
+| primm | Spread: 49ers (-7.5) | 49ers | 0.38 | 1.00 | +16.32 $ |
+| BreakTheBank | Spread: 49ers (-4.5) | 49ers | 0.50 | 1.00 | +10.00 $ |
+| primm | Spread: 49ers (-3.5) | Vikings | 0.47 | 0.00 | -10.00 $ |
+| BreakTheBank | Vikings vs. 49ers | 49ers | 0.64 | 1.00 | +5.62 $ |
 | primm | Vikings vs. 49ers: O/U 44.5 | Under | 0.40 | 0.00 | -10.00 $ |
 | BreakTheBank | Pacers vs. Knicks | Pacers | 0.31 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Knicks (-6.5) | Pacers | 0.50 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Mavericks (-1.5) | Jazz | 0.47 | 0.00 | -10.00 $ |
-| BreakTheBank | Mavericks vs. Jazz | Jazz | 0.45 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Heat (-4.5) | Thunder | 0.50 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Heat (-3.5) | Thunder | 0.46 | 0.00 | -10.00 $ |
-| primm | Jaguars vs. Giants: O/U 44.5 | Under | 0.47 | 1.00 | +11.28 $ |
-| primm | Spread: Giants (-9.5) | Jaguars | 0.62 | 1.00 | +6.13 $ |
-| primm | Spread: Giants (-7.5) | Jaguars | 0.54 | 1.00 | +8.52 $ |
-| primm | Spread: Giants (-6.5) | Jaguars | 0.48 | 1.00 | +10.83 $ |
-| primm | Spread: Giants (-5.5) | Jaguars | 0.40 | 1.00 | +15.00 $ |
-| primm | Jaguars vs. Giants | Jaguars | 0.23 | 0.00 | -10.00 $ |
-| primm | Spread: Giants (-13.5) | Giants | 0.34 | 0.00 | -10.00 $ |
-| primm | Spread: Giants (-7.5) | Giants | 0.49 | 0.00 | -10.00 $ |
-| primm | Spread: Giants (-10.5) | Giants | 0.36 | 0.00 | -10.00 $ |
-| primm | Spread: Giants (-9.5) | Giants | 0.40 | 0.00 | -10.00 $ |
-| primm | Spread: Giants (-6.5) | Giants | 0.43 | 0.00 | -10.00 $ |
-| primm | Spread: Giants (-1.5) | Giants | 0.63 | 1.00 | +5.87 $ |
-| primm | Spread: Giants (-4.5) | Giants | 0.48 | 1.00 | +10.83 $ |
-| primm | Spread: Giants (-3.5) | Giants | 0.52 | 1.00 | +9.23 $ |
-| primm | Spread: Giants (-5.5) | Giants | 0.45 | 0.00 | -10.00 $ |
-| primm | Spread: Jaguars (-3.5) | Giants | 0.63 | 1.00 | +5.87 $ |
-| primm | Spread: Jaguars (-1.5) | Giants | 0.48 | 1.00 | +10.83 $ |
-| primm | Spread: Giants (-2.5) | Giants | 0.40 | 1.00 | +15.00 $ |
 
 Journal complet : `data/journal.csv`
