@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 01:35 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 01:40 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 346 | 509 | 325 | 167 | -42.95 $ | -1.3 % | 21 | +1.2 ¢ | 8 min |
-| primm | 2084 | 910 | 2082 | 1049 | +318.51 $ | +1.5 % | 2 | +3.0 ¢ | 4 min |
+| BreakTheBank | 346 | 509 | 327 | 167 | -62.95 $ | -1.9 % | 19 | +1.2 ¢ | 8 min |
+| primm | 2088 | 910 | 2082 | 1049 | +318.51 $ | +1.5 % | 6 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : +202.62 $ sur 24350 $ engagés (+0.8 %)**
+**Total réalisé : +182.62 $ sur 24370 $ engagés (+0.7 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 01:35 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Spread: Heat (-4.5) | Thunder | 0.50 | 0.00 | -10.00 $ |
+| BreakTheBank | Spread: Heat (-3.5) | Thunder | 0.46 | 0.00 | -10.00 $ |
 | primm | Jaguars vs. Giants: O/U 44.5 | Under | 0.47 | 1.00 | +11.28 $ |
 | primm | Spread: Giants (-9.5) | Jaguars | 0.62 | 1.00 | +6.13 $ |
 | primm | Spread: Giants (-7.5) | Jaguars | 0.54 | 1.00 | +8.52 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 01:35 UTC** 
 | primm | Spread: Jaguars (-4.5) | Giants | 0.48 | 1.00 | +10.83 $ |
 | primm | Spread: Jaguars (-13.5) | Jaguars | 0.36 | 0.00 | -10.00 $ |
 | primm | Jaguars vs. Giants: O/U 46.5 | Under | 0.59 | 1.00 | +6.95 $ |
-| primm | Spread: Jaguars (-7.5) | Jaguars | 0.50 | 0.00 | -10.00 $ |
-| primm | Spread: Jaguars (-9.5) | Giants | 0.55 | 1.00 | +8.18 $ |
 
 Journal complet : `data/journal.csv`
