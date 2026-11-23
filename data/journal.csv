@@ -6379,3 +6379,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-23 04:45 UTC,primm,REGLEMENT,Spread: 49ers (-16.5),Vikings,,0.45,,,22.2222,0.0,-10.0,perdu
 2026-11-23 04:50 UTC,BreakTheBank,REGLEMENT,Spread: 49ers (-3.5),49ers,,0.54,,,18.5185,18.52,8.52,gagné
 2026-11-23 14:05 UTC,BreakTheBank,IGNORE,Spread: 49ers (-3.5),49ers,0.53,,,767.6,,,,vu trop tard
+2026-11-23 19:05 UTC,BreakTheBank,ACHAT,Will Brentford FC win on 2026-11-23?,No,0.58,0.57,-1.0,4.0,17.5439,10.0,,
+2026-11-23 19:05 UTC,BreakTheBank,ACHAT,Will Everton FC win on 2026-11-23?,Yes,0.3,0.3,0.0,3.4,33.3333,10.0,,
