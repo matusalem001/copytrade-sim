@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 04:10 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 04:15 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 346 | 509 | 331 | 167 | -102.95 $ | -3.1 % | 15 | +1.2 ¢ | 8 min |
-| primm | 2103 | 925 | 2082 | 1049 | +318.51 $ | +1.5 % | 21 | +3.0 ¢ | 4 min |
+| primm | 2103 | 925 | 2083 | 1049 | +308.51 $ | +1.5 % | 20 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : +142.62 $ sur 24410 $ engagés (+0.6 %)**
+**Total réalisé : +132.62 $ sur 24420 $ engagés (+0.5 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 04:10 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Vikings vs. 49ers: O/U 44.5 | Under | 0.40 | 0.00 | -10.00 $ |
 | BreakTheBank | Pacers vs. Knicks | Pacers | 0.31 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Knicks (-6.5) | Pacers | 0.50 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Mavericks (-1.5) | Jazz | 0.47 | 0.00 | -10.00 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 04:10 UTC** 
 | primm | Spread: Jaguars (-3.5) | Giants | 0.63 | 1.00 | +5.87 $ |
 | primm | Spread: Jaguars (-1.5) | Giants | 0.48 | 1.00 | +10.83 $ |
 | primm | Spread: Giants (-2.5) | Giants | 0.40 | 1.00 | +15.00 $ |
-| primm | Spread: Jaguars (-2.5) | Giants | 0.50 | 1.00 | +10.00 $ |
 
 Journal complet : `data/journal.csv`
