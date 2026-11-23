@@ -6319,3 +6319,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-23 01:40 UTC,primm,ACHAT,Vikings vs. 49ers: O/U 44.5,Under,0.35,0.4,5.0,1.8,25.0,10.0,,
 2026-11-23 01:40 UTC,BreakTheBank,REGLEMENT,Spread: Heat (-3.5),Thunder,,0.46,,,21.7391,0.0,-10.0,perdu
 2026-11-23 01:40 UTC,BreakTheBank,REGLEMENT,Spread: Heat (-4.5),Thunder,,0.5,,,20.0,0.0,-10.0,perdu
+2026-11-23 01:45 UTC,primm,IGNORE,Spread: Broncos (-14.5),Broncos,0.37,,,152.7,,,,vu trop tard
+2026-11-23 01:45 UTC,primm,IGNORE,Spread: Giants (-7.5),Jaguars,0.47,,,116.2,,,,vu trop tard
