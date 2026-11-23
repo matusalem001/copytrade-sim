@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 02:45 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 02:50 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 346 | 509 | 328 | 167 | -72.95 $ | -2.2 % | 18 | +1.2 ¢ | 8 min |
-| primm | 2097 | 921 | 2082 | 1049 | +318.51 $ | +1.5 % | 15 | +3.0 ¢ | 4 min |
+| BreakTheBank | 346 | 509 | 329 | 167 | -82.95 $ | -2.5 % | 17 | +1.2 ¢ | 8 min |
+| primm | 2103 | 922 | 2082 | 1049 | +318.51 $ | +1.5 % | 21 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : +172.62 $ sur 24380 $ engagés (+0.7 %)**
+**Total réalisé : +162.62 $ sur 24390 $ engagés (+0.7 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 02:45 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Spread: Mavericks (-1.5) | Jazz | 0.47 | 0.00 | -10.00 $ |
 | BreakTheBank | Mavericks vs. Jazz | Jazz | 0.45 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Heat (-4.5) | Thunder | 0.50 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Heat (-3.5) | Thunder | 0.46 | 0.00 | -10.00 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 02:45 UTC** 
 | primm | Spread: Jaguars (-2.5) | Giants | 0.50 | 1.00 | +10.00 $ |
 | primm | Jaguars vs. Giants: O/U 44.5 | Over | 0.51 | 0.00 | -10.00 $ |
 | primm | Spread: Jaguars (-4.5) | Giants | 0.48 | 1.00 | +10.83 $ |
-| primm | Spread: Jaguars (-13.5) | Jaguars | 0.36 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

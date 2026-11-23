@@ -6340,3 +6340,11 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-23 02:35 UTC,primm,IGNORE,Spread: Giants (-6.5),Jaguars,0.49,,,143.0,,,,vu trop tard
 2026-11-23 02:40 UTC,primm,ACHAT,Spread: 49ers (-10.5),49ers,0.41,0.74,33.0,9.0,13.5135,10.0,,
 2026-11-23 02:45 UTC,BreakTheBank,REGLEMENT,Mavericks vs. Jazz,Jazz,,0.45,,,22.2222,0.0,-10.0,perdu
+2026-11-23 02:50 UTC,primm,ACHAT,Spread: 49ers (-17.5),Vikings,0.4728,0.49,1.7,8.0,20.4082,10.0,,
+2026-11-23 02:50 UTC,primm,ACHAT,Spread: 49ers (-13.5),Vikings,0.3097,0.34,3.0,8.0,29.4118,10.0,,
+2026-11-23 02:50 UTC,primm,ACHAT,Spread: 49ers (-14.5),Vikings,0.3797,0.4,2.0,8.0,25.0,10.0,,
+2026-11-23 02:50 UTC,primm,ACHAT,Spread: 49ers (-20.5),Vikings,0.58,0.61,3.0,8.0,16.3934,10.0,,
+2026-11-23 02:50 UTC,primm,ACHAT,Vikings vs. 49ers: O/U 60.5,Under,0.41,0.5,9.0,8.0,20.0,10.0,,
+2026-11-23 02:50 UTC,primm,ACHAT,Spread: 49ers (-16.5),Vikings,0.43,0.45,2.0,7.9,22.2222,10.0,,
+2026-11-23 02:50 UTC,primm,IGNORE,Vikings vs. 49ers,Vikings,0.04,0.04,,7.3,,,,prix trop bas
+2026-11-23 02:50 UTC,BreakTheBank,REGLEMENT,Spread: Mavericks (-1.5),Jazz,,0.47,,,21.2766,0.0,-10.0,perdu
