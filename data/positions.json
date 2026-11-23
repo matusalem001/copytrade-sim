@@ -779,6 +779,19 @@
    "parts": 16.129,
    "montant": 10.0,
    "ouvert_le": "2026-11-23 00:05 UTC"
+  },
+  "BreakTheBank|52830579009877272502204408642298109076206113043599363947790684477828482280192": {
+   "date": "2026-11-23 00:35 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Pacers vs. Knicks",
+   "resultat": "Pacers",
+   "prix_trader": 0.3,
+   "retard_min": 5.1,
+   "token": "52830579009877272502204408642298109076206113043599363947790684477828482280192",
+   "prix_simule": 0.31,
+   "parts": 32.2581,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-23 00:35 UTC"
   }
  },
  "fermees": [
