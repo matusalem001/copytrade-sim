@@ -6222,3 +6222,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-22 23:50 UTC,primm,ACHAT,Spread: Giants (-7.5),Jaguars,0.46,0.54,8.0,3.4,18.5185,10.0,,
 2026-11-22 23:50 UTC,primm,ACHAT,Spread: Giants (-9.5),Jaguars,0.51,0.62,11.0,2.7,16.129,10.0,,
 2026-11-22 23:55 UTC,primm,REGLEMENT,Jets vs. Chargers: O/U 46.5,Under,,0.56,,,17.8571,0.0,-10.0,perdu
+2026-11-23 00:00 UTC,BreakTheBank,IGNORE,Ravens vs. Panthers,Ravens,0.44,,,361.0,,,,vu trop tard
+2026-11-23 00:00 UTC,primm,ACHAT,Jaguars vs. Giants: O/U 40.5,Over,0.53,0.54,1.0,1.9,18.5185,10.0,,
