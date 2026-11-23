@@ -6331,3 +6331,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-23 02:05 UTC,primm,IGNORE,Spread: Jets (-4.5),Jets,0.37,,,173.8,,,,vu trop tard
 2026-11-23 02:05 UTC,primm,ACHAT,Vikings vs. 49ers: O/U 60.5,Over,0.22,0.31,9.0,4.4,32.2581,10.0,,
 2026-11-23 02:10 UTC,primm,IGNORE,Spread: Jets (-6.5),Jets,0.26,,,178.8,,,,vu trop tard
+2026-11-23 02:15 UTC,primm,IGNORE,Spread: Giants (-3.5),Giants,0.44,,,97.3,,,,vu trop tard
