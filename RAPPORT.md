@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 01:05 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 01:11 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 344 | 509 | 325 | 167 | -42.95 $ | -1.3 % | 19 | +1.2 ¢ | 8 min |
-| primm | 2083 | 901 | 2049 | 1027 | +195.84 $ | +1.0 % | 34 | +3.0 ¢ | 4 min |
+| BreakTheBank | 345 | 509 | 325 | 167 | -42.95 $ | -1.3 % | 20 | +1.2 ¢ | 8 min |
+| primm | 2083 | 901 | 2054 | 1031 | +223.18 $ | +1.1 % | 29 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : +79.95 $ sur 24020 $ engagés (+0.3 %)**
+**Total réalisé : +107.28 $ sur 24070 $ engagés (+0.4 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,11 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 01:05 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Broncos (-9.5) | Broncos | 0.65 | 1.00 | +5.38 $ |
+| primm | Spread: Broncos (-8.5) | Broncos | 0.67 | 1.00 | +4.93 $ |
+| primm | Spread: Broncos (-13.5) | Broncos | 0.50 | 1.00 | +10.00 $ |
+| primm | Spread: Broncos (-14.5) | Broncos | 0.44 | 0.00 | -10.00 $ |
+| primm | Spread: Broncos (-20.5) | Raiders | 0.37 | 1.00 | +17.03 $ |
 | primm | Spread: Broncos (-14.5) | Raiders | 0.62 | 1.00 | +6.13 $ |
 | primm | Jaguars vs. Giants: O/U 40.5 | Over | 0.54 | 1.00 | +8.52 $ |
 | primm | Spread: Broncos (-6.5) | Broncos | 0.63 | 1.00 | +5.87 $ |
@@ -36,10 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 01:05 UTC** 
 | primm | Spread: Jets (-10.5) | Jets | 0.39 | 0.00 | -10.00 $ |
 | primm | Spread: Jets (-9.5) | Jets | 0.44 | 0.00 | -10.00 $ |
 | primm | Spread: Jets (-7.5) | Jets | 0.50 | 0.00 | -10.00 $ |
-| primm | Spread: Jets (-4.5) | Jets | 0.64 | 0.00 | -10.00 $ |
-| primm | Spread: Jets (-6.5) | Jets | 0.49 | 0.00 | -10.00 $ |
-| primm | Spread: Jets (-3.5) | Jets | 0.60 | 0.00 | -10.00 $ |
-| BreakTheBank | Raiders vs. Broncos: O/U 38.5 | Over | 0.61 | 1.00 | +6.39 $ |
-| BreakTheBank | Spread: Chargers (-2.5) | Jets | 0.44 | 1.00 | +12.73 $ |
 
 Journal complet : `data/journal.csv`
