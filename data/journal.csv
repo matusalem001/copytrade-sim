@@ -6256,3 +6256,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-23 00:45 UTC,primm,IGNORE,Jaguars vs. Giants: O/U 48.5,Over,0.38,0.17,-21.0,2.5,,,,prix a trop chuté (match sans doute joué)
 2026-11-23 00:45 UTC,primm,IGNORE,Jaguars vs. Giants: O/U 46.5,Over,0.48,0.28,-20.0,2.5,,,,prix a trop chuté (match sans doute joué)
 2026-11-23 00:45 UTC,primm,REGLEMENT,Raiders vs. Broncos: O/U 52.5,Over,,0.4,,,25.0,25.0,15.0,gagné
+2026-11-23 01:00 UTC,BreakTheBank,ACHAT,Spread: 49ers (-3.5),49ers,0.53,0.54,1.0,3.1,18.5185,10.0,,
