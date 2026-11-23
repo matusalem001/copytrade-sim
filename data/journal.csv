@@ -6349,3 +6349,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-23 02:50 UTC,primm,IGNORE,Vikings vs. 49ers,Vikings,0.04,0.04,,7.3,,,,prix trop bas
 2026-11-23 02:50 UTC,BreakTheBank,REGLEMENT,Spread: Mavericks (-1.5),Jazz,,0.47,,,21.2766,0.0,-10.0,perdu
 2026-11-23 03:35 UTC,primm,IGNORE,Spread: Giants (-10.5),Giants,0.378,,,208.3,,,,vu trop tard
+2026-11-23 03:55 UTC,primm,IGNORE,Jaguars vs. Giants,Jaguars,0.23,,,270.9,,,,vu trop tard
+2026-11-23 03:55 UTC,primm,IGNORE,Spread: Giants (-2.5),Giants,0.39,,,194.5,,,,vu trop tard
+2026-11-23 03:55 UTC,BreakTheBank,REGLEMENT,Spread: Knicks (-6.5),Pacers,,0.5,,,20.0,0.0,-10.0,perdu
