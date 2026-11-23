@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 00:01 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 00:05 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 341 | 505 | 318 | 161 | -82.08 $ | -2.6 % | 23 | +1.2 ¢ | 8 min |
-| primm | 2081 | 893 | 2029 | 1017 | +199.19 $ | +1.0 % | 52 | +3.0 ¢ | 4 min |
+| BreakTheBank | 341 | 506 | 324 | 166 | -44.86 $ | -1.4 % | 17 | +1.2 ¢ | 8 min |
+| primm | 2082 | 893 | 2037 | 1018 | +132.01 $ | +0.6 % | 45 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : +44.17 $ sur 23750 $ engagés (+0.2 %)**
+**Total réalisé : +14.22 $ sur 23890 $ engagés (+0.1 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,20 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 00:01 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Spread: Jets (-2.5) | Jets | 0.67 | 1.00 | +4.93 $ |
+| BreakTheBank | Spread: Jets (-3.5) | Jets | 0.48 | 0.00 | -10.00 $ |
+| primm | Spread: Jets (-5.5) | Jets | 0.41 | 0.00 | -10.00 $ |
+| primm | Jets vs. Chargers: O/U 52.5 | Under | 0.78 | 1.00 | +2.82 $ |
+| primm | Spread: Jets (-10.5) | Jets | 0.39 | 0.00 | -10.00 $ |
+| primm | Spread: Jets (-9.5) | Jets | 0.44 | 0.00 | -10.00 $ |
+| primm | Spread: Jets (-7.5) | Jets | 0.50 | 0.00 | -10.00 $ |
+| primm | Spread: Jets (-4.5) | Jets | 0.64 | 0.00 | -10.00 $ |
+| primm | Spread: Jets (-6.5) | Jets | 0.49 | 0.00 | -10.00 $ |
+| primm | Spread: Jets (-3.5) | Jets | 0.60 | 0.00 | -10.00 $ |
+| BreakTheBank | Raiders vs. Broncos: O/U 38.5 | Over | 0.61 | 1.00 | +6.39 $ |
+| BreakTheBank | Spread: Chargers (-2.5) | Jets | 0.44 | 1.00 | +12.73 $ |
+| BreakTheBank | Spread: Chargers (-3.5) | Jets | 0.55 | 1.00 | +8.18 $ |
+| BreakTheBank | Jets vs. Chargers | Jets | 0.40 | 1.00 | +15.00 $ |
 | primm | Jets vs. Chargers: O/U 46.5 | Under | 0.56 | 0.00 | -10.00 $ |
 | primm | Jets vs. Chargers: O/U 40.5 | Under | 0.42 | 0.00 | -10.00 $ |
 | primm | Jets vs. Chargers: O/U 42.5 | Under | 0.47 | 0.00 | -10.00 $ |
@@ -27,19 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 00:01 UTC** 
 | primm | Spread: Ravens (-7.5) | Ravens | 0.35 | 0.00 | -10.00 $ |
 | primm | Spread: Eagles (-5.5) | Eagles | 0.57 | 0.00 | -10.00 $ |
 | primm | Spread: Eagles (-4.5) | Eagles | 0.31 | 0.00 | -10.00 $ |
-| primm | Spread: Eagles (-2.5) | Eagles | 0.41 | 1.00 | +14.39 $ |
-| primm | Spread: Eagles (-3.5) | Eagles | 0.33 | 0.00 | -10.00 $ |
-| BreakTheBank | Spread: Steelers (-3.5) | Steelers | 0.51 | 0.00 | -10.00 $ |
-| primm | Steelers vs. Eagles | Eagles | 0.35 | 1.00 | +18.57 $ |
-| primm | Steelers vs. Eagles: O/U 38.5 | Over | 0.46 | 0.00 | -10.00 $ |
-| primm | Spread: Steelers (-1.5) | Eagles | 0.39 | 1.00 | +15.64 $ |
-| primm | Spread: Steelers (-3.5) | Eagles | 0.50 | 1.00 | +10.00 $ |
-| primm | Buccaneers vs. Lions: O/U 46.5 | Over | 0.43 | 1.00 | +13.26 $ |
-| primm | Spread: Bills (-14.5) | Bills | 0.73 | 1.00 | +3.70 $ |
-| primm | Spread: Bills (-16.5) | Bills | 0.61 | 1.00 | +6.39 $ |
-| primm | Spread: Bears (-14.5) | Saints | 0.43 | 1.00 | +13.26 $ |
-| primm | Spread: Eagles (-9.5) | Eagles | 0.46 | 0.00 | -10.00 $ |
-| primm | Spread: Eagles (-7.5) | Eagles | 0.46 | 0.00 | -10.00 $ |
-| primm | Spread: Lions (-14.5) | Lions | 0.35 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
