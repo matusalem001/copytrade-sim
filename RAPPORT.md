@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 00:40 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 00:45 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 342 | 508 | 324 | 166 | -44.86 $ | -1.4 % | 18 | +1.2 ¢ | 8 min |
-| primm | 2082 | 896 | 2039 | 1020 | +148.98 $ | +0.7 % | 43 | +3.0 ¢ | 4 min |
+| BreakTheBank | 343 | 509 | 324 | 166 | -44.86 $ | -1.4 % | 19 | +1.2 ¢ | 8 min |
+| primm | 2082 | 901 | 2040 | 1021 | +163.98 $ | +0.8 % | 42 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : +31.18 $ sur 23910 $ engagés (+0.1 %)**
+**Total réalisé : +46.18 $ sur 23920 $ engagés (+0.2 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 00:40 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Raiders vs. Broncos: O/U 52.5 | Over | 0.40 | 1.00 | +15.00 $ |
 | primm | Raiders vs. Broncos: O/U 46.5 | Over | 0.62 | 1.00 | +6.13 $ |
 | primm | Raiders vs. Broncos: O/U 42.5 | Over | 0.48 | 1.00 | +10.83 $ |
 | BreakTheBank | Spread: Jets (-2.5) | Jets | 0.67 | 1.00 | +4.93 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-23 00:40 UTC** 
 | primm | Spread: Panthers (-3.5) | Panthers | 0.43 | 0.00 | -10.00 $ |
 | primm | Spread: Panthers (-2.5) | Panthers | 0.36 | 0.00 | -10.00 $ |
 | primm | Spread: Panthers (-1.5) | Panthers | 0.44 | 1.00 | +12.73 $ |
-| primm | Spread: Ravens (-7.5) | Ravens | 0.35 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
