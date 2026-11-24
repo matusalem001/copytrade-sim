@@ -6481,3 +6481,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-24 23:35 UTC,primm,IGNORE,Spread: Bengals (-3.5),Commanders,0.48,,,1238.3,,,,vu trop tard
 2026-11-24 23:35 UTC,primm,ACHAT,Spread: Western Michigan (-7.5),Western Michigan,0.39,0.41,2.0,7.3,24.3902,10.0,,
 2026-11-24 23:45 UTC,primm,ACHAT,Spread: Western Michigan (-5.5),Western Michigan,0.47,0.48,1.0,0.7,20.8333,10.0,,
+2026-11-24 23:55 UTC,primm,IGNORE,Spread: Bengals (-3.5),Commanders,0.37,,,1234.7,,,,vu trop tard
