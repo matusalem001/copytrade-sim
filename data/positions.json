@@ -194,6 +194,32 @@
    "parts": 16.9492,
    "montant": 10.0,
    "ouvert_le": "2026-11-24 00:05 UTC"
+  },
+  "BreakTheBank|38171991561981764637396174653583320614378533633699318283121909536639818437904": {
+   "date": "2026-11-24 00:40 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Bengals (-7.5)",
+   "resultat": "Bengals",
+   "prix_trader": 0.44,
+   "retard_min": 3.9,
+   "token": "38171991561981764637396174653583320614378533633699318283121909536639818437904",
+   "prix_simule": 0.45,
+   "parts": 22.2222,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-24 00:40 UTC"
+  },
+  "BreakTheBank|86027245480344316980124319738274612516179269298149512585657714269605108831944": {
+   "date": "2026-11-24 00:40 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Bengals (-8.5)",
+   "resultat": "Bengals",
+   "prix_trader": 0.41,
+   "retard_min": 3.4,
+   "token": "86027245480344316980124319738274612516179269298149512585657714269605108831944",
+   "prix_simule": 0.42,
+   "parts": 23.8095,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-24 00:40 UTC"
   }
  },
  "fermees": [
