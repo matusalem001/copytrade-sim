@@ -194,6 +194,19 @@
    "parts": 22.7273,
    "montant": 10.0,
    "ouvert_le": "2026-11-24 23:15 UTC"
+  },
+  "primm|43612962870814045877866463278394110520894726244712652962229088444875254899723": {
+   "date": "2026-11-24 23:35 UTC",
+   "trader": "primm",
+   "marche": "Spread: Western Michigan (-7.5)",
+   "resultat": "Western Michigan",
+   "prix_trader": 0.39,
+   "retard_min": 7.3,
+   "token": "43612962870814045877866463278394110520894726244712652962229088444875254899723",
+   "prix_simule": 0.41,
+   "parts": 24.3902,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-24 23:35 UTC"
   }
  },
  "fermees": [
