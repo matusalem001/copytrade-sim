@@ -6442,3 +6442,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-24 04:00 UTC,primm,IGNORE,Spread: 49ers (-4.5),Vikings,0.39,,,1532.1,,,,vu trop tard
 2026-11-24 04:05 UTC,primm,IGNORE,Vikings vs. 49ers: O/U 48.5,Over,0.45,,,1570.3,,,,vu trop tard
 2026-11-24 04:05 UTC,primm,IGNORE,Spread: 49ers (-16.5),Vikings,0.43,,,1522.7,,,,vu trop tard
+2026-11-24 04:10 UTC,primm,IGNORE,Spread: 49ers (-16.5),Vikings,0.43,,,1527.8,,,,vu trop tard
+2026-11-24 04:10 UTC,primm,IGNORE,Spread: 49ers (-13.5),Vikings,0.32,,,1527.2,,,,vu trop tard
