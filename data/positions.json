@@ -429,19 +429,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-24 03:25 UTC"
   },
-  "primm|92154047555995510858045479379882997241595850825173013701906638283047591212323": {
-   "date": "2026-11-24 03:45 UTC",
-   "trader": "primm",
-   "marche": "Bengals vs. Commanders",
-   "resultat": "Commanders",
-   "prix_trader": 0.36,
-   "retard_min": 2.9,
-   "token": "92154047555995510858045479379882997241595850825173013701906638283047591212323",
-   "prix_simule": 0.31,
-   "parts": 32.2581,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-24 03:45 UTC"
-  },
   "primm|85411969690339718296636676570865658653520591247651481573852410907443142821049": {
    "date": "2026-11-24 03:55 UTC",
    "trader": "primm",
@@ -42441,6 +42428,23 @@
    "sortie": 1.0,
    "pnl": 6.3934,
    "ferme_le": "2026-11-24 04:20 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-24 03:45 UTC",
+   "trader": "primm",
+   "marche": "Bengals vs. Commanders",
+   "resultat": "Commanders",
+   "prix_trader": 0.36,
+   "retard_min": 2.9,
+   "token": "92154047555995510858045479379882997241595850825173013701906638283047591212323",
+   "prix_simule": 0.31,
+   "parts": 32.2581,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-24 03:45 UTC",
+   "sortie": 1.0,
+   "pnl": 22.2581,
+   "ferme_le": "2026-11-24 04:35 UTC",
    "type": "gagné"
   }
  ]
