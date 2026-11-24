@@ -6471,3 +6471,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-24 04:40 UTC,primm,REGLEMENT,Bengals vs. Commanders: O/U 40.5,Under,,0.59,,,16.9492,0.0,-10.0,perdu
 2026-11-24 04:40 UTC,primm,REGLEMENT,Spread: Bengals (-1.5),Commanders,,0.67,,,14.9254,14.93,4.93,gagné
 2026-11-24 08:00 UTC,BreakTheBank,IGNORE,Will the Minnesota Vikings win the 2027 NFL league championship?,Yes,0.045,0.046,,4.6,,,,prix trop bas
+2026-11-24 12:10 UTC,BreakTheBank,IGNORE,Will the Minnesota Vikings win the 2027 NFL league championship?,Yes,0.045,0.047,,3.8,,,,prix trop bas
