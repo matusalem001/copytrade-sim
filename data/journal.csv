@@ -6415,3 +6415,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-24 02:00 UTC,primm,ACHAT,Bengals vs. Commanders: O/U 34.5,Over,0.61,0.61,0.0,2.9,16.3934,10.0,,
 2026-11-24 02:10 UTC,primm,ACHAT,Bengals vs. Commanders,Bengals,0.71,0.72,1.0,8.9,13.8889,10.0,,
 2026-11-24 02:20 UTC,primm,IGNORE,Spread: Bengals (-3.5),Commanders,0.44,0.34,-10.0,2.5,,,,prix a trop chuté (match sans doute joué)
+2026-11-24 02:25 UTC,primm,ACHAT,Spread: Bengals (-13.5),Commanders,0.63,0.63,0.0,1.0,15.873,10.0,,
+2026-11-24 02:25 UTC,primm,ACHAT,Spread: Bengals (-6.5),Commanders,0.36,0.37,1.0,0.7,27.027,10.0,,
