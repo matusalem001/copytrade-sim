@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-24 04:15 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-24 04:20 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 355 | 523 | 337 | 171 | -87.53 $ | -2.6 % | 18 | +1.1 ¢ | 8 min |
-| primm | 2122 | 947 | 2103 | 1055 | +223.51 $ | +1.1 % | 19 | +3.0 ¢ | 4 min |
+| primm | 2122 | 947 | 2104 | 1056 | +229.91 $ | +1.1 % | 18 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : +63.04 $ sur 24680 $ engagés (+0.3 %)**
+**Total réalisé : +69.44 $ sur 24690 $ engagés (+0.3 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-24 04:15 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Bengals vs. Commanders: O/U 34.5 | Over | 0.61 | 1.00 | +6.39 $ |
 | BreakTheBank | Will Everton FC win on 2026-11-23? | Yes | 0.30 | 0.00 | -10.00 $ |
 | BreakTheBank | Will Brentford FC win on 2026-11-23? | No | 0.57 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: 49ers (-3.5) | 49ers | 0.54 | 1.00 | +8.52 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-24 04:15 UTC** 
 | BreakTheBank | Spread: 49ers (-5.5) | 49ers | 0.47 | 1.00 | +11.28 $ |
 | primm | Spread: 49ers (-7.5) | 49ers | 0.38 | 1.00 | +16.32 $ |
 | BreakTheBank | Spread: 49ers (-4.5) | 49ers | 0.50 | 1.00 | +10.00 $ |
-| primm | Spread: 49ers (-3.5) | Vikings | 0.47 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
