@@ -6473,3 +6473,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-24 08:00 UTC,BreakTheBank,IGNORE,Will the Minnesota Vikings win the 2027 NFL league championship?,Yes,0.045,0.046,,4.6,,,,prix trop bas
 2026-11-24 12:10 UTC,BreakTheBank,IGNORE,Will the Minnesota Vikings win the 2027 NFL league championship?,Yes,0.045,0.047,,3.8,,,,prix trop bas
 2026-11-24 20:00 UTC,BreakTheBank,ACHAT,Will Arsenal FC vs. BV Borussia 09 Dortmund end in a draw?,Yes,0.19,0.2,1.0,4.4,50.0,10.0,,
+2026-11-24 22:10 UTC,BreakTheBank,REGLEMENT,Will Arsenal FC vs. BV Borussia 09 Dortmund end in a draw?,Yes,,0.2,,,50.0,50.0,40.0,gagné

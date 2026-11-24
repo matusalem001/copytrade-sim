@@ -142,19 +142,6 @@
    "parts": 41.3223,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 08:30 UTC"
-  },
-  "BreakTheBank|20688966511180342262055611951364480251804278240914390942808979995947878169161": {
-   "date": "2026-11-24 20:00 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Will Arsenal FC vs. BV Borussia 09 Dortmund end in a draw?",
-   "resultat": "Yes",
-   "prix_trader": 0.19,
-   "retard_min": 4.4,
-   "token": "20688966511180342262055611951364480251804278240914390942808979995947878169161",
-   "prix_simule": 0.2,
-   "parts": 50.0,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-24 20:00 UTC"
   }
  },
  "fermees": [
@@ -42554,6 +42541,23 @@
    "sortie": 1.0,
    "pnl": 4.9254,
    "ferme_le": "2026-11-24 04:40 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-24 20:00 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Arsenal FC vs. BV Borussia 09 Dortmund end in a draw?",
+   "resultat": "Yes",
+   "prix_trader": 0.19,
+   "retard_min": 4.4,
+   "token": "20688966511180342262055611951364480251804278240914390942808979995947878169161",
+   "prix_simule": 0.2,
+   "parts": 50.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-24 20:00 UTC",
+   "sortie": 1.0,
+   "pnl": 40.0,
+   "ferme_le": "2026-11-24 22:10 UTC",
    "type": "gagné"
   }
  ]
