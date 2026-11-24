@@ -142,6 +142,58 @@
    "parts": 41.3223,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 08:30 UTC"
+  },
+  "primm|43792183984869760973134595915436856956190465899140525997539139852606464636626": {
+   "date": "2026-11-24 23:15 UTC",
+   "trader": "primm",
+   "marche": "Miami (OH) vs. Western Michigan: O/U 45.5",
+   "resultat": "Over",
+   "prix_trader": 0.48,
+   "retard_min": 4.6,
+   "token": "43792183984869760973134595915436856956190465899140525997539139852606464636626",
+   "prix_simule": 0.47,
+   "parts": 21.2766,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-24 23:15 UTC"
+  },
+  "primm|67598285883251616494176645686709572583892491684272009116466294352602349368533": {
+   "date": "2026-11-24 23:15 UTC",
+   "trader": "primm",
+   "marche": "Miami (OH) vs. Western Michigan: O/U 47.5",
+   "resultat": "Over",
+   "prix_trader": 0.43,
+   "retard_min": 4.6,
+   "token": "67598285883251616494176645686709572583892491684272009116466294352602349368533",
+   "prix_simule": 0.43,
+   "parts": 23.2558,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-24 23:15 UTC"
+  },
+  "primm|53844916377872072691574857339817869380928537421441249296504273185286741459221": {
+   "date": "2026-11-24 23:15 UTC",
+   "trader": "primm",
+   "marche": "Spread: Western Michigan (-4.5)",
+   "resultat": "Western Michigan",
+   "prix_trader": 0.49,
+   "retard_min": 4.6,
+   "token": "53844916377872072691574857339817869380928537421441249296504273185286741459221",
+   "prix_simule": 0.5,
+   "parts": 20.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-24 23:15 UTC"
+  },
+  "primm|69462774035219649374521590102249666515687267353969600146385820807579525901504": {
+   "date": "2026-11-24 23:15 UTC",
+   "trader": "primm",
+   "marche": "Spread: Western Michigan (-6.5)",
+   "resultat": "Western Michigan",
+   "prix_trader": 0.44,
+   "retard_min": 4.6,
+   "token": "69462774035219649374521590102249666515687267353969600146385820807579525901504",
+   "prix_simule": 0.44,
+   "parts": 22.7273,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-24 23:15 UTC"
   }
  },
  "fermees": [
