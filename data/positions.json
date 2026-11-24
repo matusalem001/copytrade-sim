@@ -168,6 +168,19 @@
    "parts": 18.5185,
    "montant": 10.0,
    "ouvert_le": "2026-11-23 21:55 UTC"
+  },
+  "BreakTheBank|16298346419904446811715156267782437584556634543121344799544323583504303916515": {
+   "date": "2026-11-24 00:00 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Bengals vs. Commanders: O/U 54.5",
+   "resultat": "Under",
+   "prix_trader": 0.51,
+   "retard_min": 5.6,
+   "token": "16298346419904446811715156267782437584556634543121344799544323583504303916515",
+   "prix_simule": 0.52,
+   "parts": 19.2308,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-24 00:00 UTC"
   }
  },
  "fermees": [
