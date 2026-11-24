@@ -6427,3 +6427,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-24 03:05 UTC,primm,IGNORE,Spread: 49ers (-20.5),Vikings,0.42,,,1396.4,,,,vu trop tard
 2026-11-24 03:05 UTC,primm,ACHAT,Spread: Commanders (-1.5),Bengals,0.74,0.74,0.0,0.8,13.5135,10.0,,
 2026-11-24 03:10 UTC,primm,IGNORE,Spread: 49ers (-17.5),Vikings,0.4728,,,1467.9,,,,vu trop tard
+2026-11-24 03:15 UTC,primm,IGNORE,Bengals vs. Commanders: O/U 46.5,Under,0.55,0.48,-7.0,4.5,,,,prix a trop chuté (match sans doute joué)
+2026-11-24 03:15 UTC,primm,IGNORE,Bengals vs. Commanders: O/U 46.5,Under,0.57,0.48,-9.0,3.2,,,,prix a trop chuté (match sans doute joué)
