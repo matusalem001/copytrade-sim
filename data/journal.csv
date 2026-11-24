@@ -6417,3 +6417,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-24 02:20 UTC,primm,IGNORE,Spread: Bengals (-3.5),Commanders,0.44,0.34,-10.0,2.5,,,,prix a trop chuté (match sans doute joué)
 2026-11-24 02:25 UTC,primm,ACHAT,Spread: Bengals (-13.5),Commanders,0.63,0.63,0.0,1.0,15.873,10.0,,
 2026-11-24 02:25 UTC,primm,ACHAT,Spread: Bengals (-6.5),Commanders,0.36,0.37,1.0,0.7,27.027,10.0,,
+2026-11-24 02:35 UTC,primm,ACHAT,Spread: Bengals (-7.5),Commanders,0.45,0.58,13.0,7.2,17.2414,10.0,,
+2026-11-24 02:35 UTC,primm,ACHAT,Spread: Bengals (-4.5),Commanders,0.29,0.45,16.0,7.2,22.2222,10.0,,
+2026-11-24 02:35 UTC,primm,ACHAT,Spread: Bengals (-10.5),Commanders,0.57,0.74,17.0,6.9,13.5135,10.0,,
