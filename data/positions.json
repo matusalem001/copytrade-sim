@@ -181,6 +181,19 @@
    "parts": 21.7391,
    "montant": 10.0,
    "ouvert_le": "2026-11-25 15:40 UTC"
+  },
+  "BreakTheBank|34216599256731645025005217537625791908287810832071932505986585678845756791490": {
+   "date": "2026-11-25 16:40 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Minnesota Vikings win the 2027 NFL NFC Championship?",
+   "resultat": "Yes",
+   "prix_trader": 0.08,
+   "retard_min": 1.1,
+   "token": "34216599256731645025005217537625791908287810832071932505986585678845756791490",
+   "prix_simule": 0.09,
+   "parts": 111.1111,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-25 16:40 UTC"
   }
  },
  "fermees": [
