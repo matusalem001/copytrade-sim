@@ -441,6 +441,32 @@
    "parts": 14.4928,
    "montant": 10.0,
    "ouvert_le": "2026-11-25 00:55 UTC"
+  },
+  "primm|25498830327706288003346437389618810840577823217310343503727157632963016210385": {
+   "date": "2026-11-25 01:10 UTC",
+   "trader": "primm",
+   "marche": "Miami (OH) vs. Western Michigan",
+   "resultat": "Western Michigan",
+   "prix_trader": 0.29,
+   "retard_min": 2.2,
+   "token": "25498830327706288003346437389618810840577823217310343503727157632963016210385",
+   "prix_simule": 0.31,
+   "parts": 32.2581,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-25 01:10 UTC"
+  },
+  "primm|81898333548346991069588451165335016223008661539955850852936108329472169286109": {
+   "date": "2026-11-25 01:10 UTC",
+   "trader": "primm",
+   "marche": "Spread: Miami (OH) (-4.5)",
+   "resultat": "Western Michigan",
+   "prix_trader": 0.44,
+   "retard_min": 1.9,
+   "token": "81898333548346991069588451165335016223008661539955850852936108329472169286109",
+   "prix_simule": 0.46,
+   "parts": 21.7391,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-25 01:10 UTC"
   }
  },
  "fermees": [
