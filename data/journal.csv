@@ -6623,3 +6623,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-25 21:55 UTC,primm,ACHAT,Spread: Rams (-3.5),Rams,0.43,0.43,0.0,3.6,23.2558,10.0,,
 2026-11-25 21:55 UTC,primm,ACHAT,Spread: Rams (-6.5),Rams,0.36,0.37,1.0,3.6,27.027,10.0,,
 2026-11-25 22:10 UTC,BreakTheBank,IGNORE,Will the Minnesota Vikings win the 2027 NFL league championship?,Yes,0.045,0.046,,7.9,,,,prix trop bas
+2026-11-25 22:35 UTC,primm,ACHAT,Broncos vs. Steelers: O/U 34.5,Over,0.56,0.57,1.0,8.1,17.5439,10.0,,
