@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-25 03:30 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-25 03:35 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 356 | 525 | 345 | 175 | -59.61 $ | -1.7 % | 11 | +1.1 ¢ | 8 min |
-| primm | 2158 | 974 | 2123 | 1068 | +305.94 $ | +1.4 % | 35 | +3.0 ¢ | 4 min |
+| primm | 2158 | 975 | 2124 | 1069 | +316.77 $ | +1.5 % | 34 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : +173.39 $ sur 24960 $ engagés (+0.7 %)**
+**Total réalisé : +184.22 $ sur 24970 $ engagés (+0.7 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-25 03:30 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Eastern Michigan (-6.5) | Kent State | 0.48 | 1.00 | +10.83 $ |
 | primm | Miami (OH) vs. Western Michigan: O/U 39.5 | Over | 0.69 | 1.00 | +4.49 $ |
 | BreakTheBank | Will Arsenal FC vs. BV Borussia 09 Dortmund end in a draw? | Yes | 0.20 | 1.00 | +40.00 $ |
 | primm | Spread: Bengals (-1.5) | Commanders | 0.67 | 1.00 | +4.93 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-25 03:30 UTC** 
 | BreakTheBank | Spread: Bengals (-7.5) | Bengals | 0.45 | 0.00 | -10.00 $ |
 | BreakTheBank | Bengals vs. Commanders: O/U 56.5 | Under | 0.59 | 1.00 | +6.95 $ |
 | BreakTheBank | Bengals vs. Commanders: O/U 54.5 | Under | 0.52 | 1.00 | +9.23 $ |
-| BreakTheBank | Spread: Bengals (-5.5) | Bengals | 0.54 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
