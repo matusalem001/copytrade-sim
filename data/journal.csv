@@ -6497,3 +6497,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-25 00:15 UTC,primm,ACHAT,Spread: Eastern Michigan (-13.5),Eastern Michigan,0.53,0.55,2.0,3.3,18.1818,10.0,,
 2026-11-25 00:15 UTC,primm,ACHAT,Miami (OH) vs. Western Michigan: O/U 51.5,Over,0.51,0.52,1.0,1.0,19.2308,10.0,,
 2026-11-25 00:15 UTC,primm,ACHAT,Miami (OH) vs. Western Michigan: O/U 49.5,Over,0.57,0.58,1.0,1.0,17.2414,10.0,,
+2026-11-25 00:20 UTC,primm,IGNORE,Spread: 49ers (-13.5),Vikings,0.31,,,2684.8,,,,vu trop tard
+2026-11-25 00:20 UTC,primm,IGNORE,Bengals vs. Commanders,Bengals,0.72,,,1338.4,,,,vu trop tard
+2026-11-25 00:20 UTC,primm,IGNORE,Spread: Bengals (-3.5),Commanders,0.71,,,1229.4,,,,vu trop tard
