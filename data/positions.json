@@ -337,6 +337,19 @@
    "parts": 17.2414,
    "montant": 10.0,
    "ouvert_le": "2026-11-25 00:15 UTC"
+  },
+  "primm|23741258896875932509988892367823333186954181821594166481476131760941755716110": {
+   "date": "2026-11-25 00:25 UTC",
+   "trader": "primm",
+   "marche": "Spread: Eastern Michigan (-7.5)",
+   "resultat": "Kent State",
+   "prix_trader": 0.41,
+   "retard_min": 5.6,
+   "token": "23741258896875932509988892367823333186954181821594166481476131760941755716110",
+   "prix_simule": 0.51,
+   "parts": 19.6078,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-25 00:25 UTC"
   }
  },
  "fermees": [
