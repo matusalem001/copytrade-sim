@@ -155,6 +155,19 @@
    "parts": 27.027,
    "montant": 10.0,
    "ouvert_le": "2026-11-25 06:55 UTC"
+  },
+  "BreakTheBank|113051954436140230967350044098811981944103572640132117862389458890801640599836": {
+   "date": "2026-11-25 13:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Javokhir Sindarov win the 2026 World Chess Championship?",
+   "resultat": "Yes",
+   "prix_trader": 0.73,
+   "retard_min": 2.0,
+   "token": "113051954436140230967350044098811981944103572640132117862389458890801640599836",
+   "prix_simule": 0.74,
+   "parts": 13.5135,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-25 13:30 UTC"
   }
  },
  "fermees": [
