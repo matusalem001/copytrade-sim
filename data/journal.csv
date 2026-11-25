@@ -6527,3 +6527,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-25 01:20 UTC,primm,ACHAT,Spread: Eastern Michigan (-10.5),Kent State,0.5597,0.69,13.0,9.4,14.4928,10.0,,
 2026-11-25 01:20 UTC,primm,ACHAT,Spread: Miami (OH) (-6.5),Western Michigan,0.5,0.53,3.0,9.3,18.8679,10.0,,
 2026-11-25 01:30 UTC,primm,IGNORE,Spread: Bengals (-4.5),Commanders,0.6,,,1318.9,,,,vu trop tard
+2026-11-25 01:35 UTC,primm,IGNORE,Bengals vs. Commanders: O/U 50.5,Over,0.3,,,1321.0,,,,vu trop tard
