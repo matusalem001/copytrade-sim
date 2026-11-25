@@ -6614,3 +6614,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-25 20:05 UTC,primm,ACHAT,Spread: Broncos (-5.5),Broncos,0.44,0.46,2.0,1.2,21.7391,10.0,,
 2026-11-25 20:05 UTC,primm,ACHAT,Spread: Broncos (-3.5),Broncos,0.5,0.51,1.0,1.2,19.6078,10.0,,
 2026-11-25 20:10 UTC,primm,IGNORE,Kent State vs. Eastern Michigan: O/U 37.5,Over,0.43,,,1056.8,,,,vu trop tard
+2026-11-25 21:15 UTC,primm,IGNORE,Miami (OH) vs. Western Michigan: O/U 51.5,Over,0.6,,,1245.4,,,,vu trop tard
+2026-11-25 21:15 UTC,primm,IGNORE,Kent State vs. Eastern Michigan: O/U 37.5,Over,0.43,,,1121.9,,,,vu trop tard
