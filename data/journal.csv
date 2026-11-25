@@ -6489,3 +6489,11 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-25 00:10 UTC,primm,IGNORE,Spread: 49ers (-20.5),Vikings,0.6,,,2727.3,,,,vu trop tard
 2026-11-25 00:10 UTC,primm,IGNORE,Spread: Bengals (-10.5),Commanders,0.59,,,1299.2,,,,vu trop tard
 2026-11-25 00:10 UTC,primm,IGNORE,Miami (OH) vs. Western Michigan,Western Michigan,0.62,0.5,-12.0,2.5,,,,prix a trop chuté (match sans doute joué)
+2026-11-25 00:15 UTC,primm,IGNORE,Spread: Bengals (-5.5),Commanders,0.55,,,1358.3,,,,vu trop tard
+2026-11-25 00:15 UTC,primm,ACHAT,Kent State vs. Eastern Michigan: O/U 55.5,Under,0.62,0.7,8.0,4.5,14.2857,10.0,,
+2026-11-25 00:15 UTC,primm,ACHAT,Kent State vs. Eastern Michigan: O/U 49.5,Under,0.44,0.54,10.0,3.8,18.5185,10.0,,
+2026-11-25 00:15 UTC,primm,ACHAT,Kent State vs. Eastern Michigan: O/U 47.5,Under,0.37,0.48,11.0,3.8,20.8333,10.0,,
+2026-11-25 00:15 UTC,primm,ACHAT,Spread: Eastern Michigan (-14.5),Eastern Michigan,0.5,0.5,0.0,3.3,20.0,10.0,,
+2026-11-25 00:15 UTC,primm,ACHAT,Spread: Eastern Michigan (-13.5),Eastern Michigan,0.53,0.55,2.0,3.3,18.1818,10.0,,
+2026-11-25 00:15 UTC,primm,ACHAT,Miami (OH) vs. Western Michigan: O/U 51.5,Over,0.51,0.52,1.0,1.0,19.2308,10.0,,
+2026-11-25 00:15 UTC,primm,ACHAT,Miami (OH) vs. Western Michigan: O/U 49.5,Over,0.57,0.58,1.0,1.0,17.2414,10.0,,
