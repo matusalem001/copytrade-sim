@@ -6580,3 +6580,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-25 04:55 UTC,BreakTheBank,IGNORE,Spread: Bengals (-7.5),Bengals,0.43,,,1662.2,,,,vu trop tard
 2026-11-25 05:30 UTC,BreakTheBank,IGNORE,Spread: Bengals (-7.5),Bengals,0.43,,,1701.6,,,,vu trop tard
 2026-11-25 06:55 UTC,BreakTheBank,ACHAT,Will San Francisco 49ers win the 2027 NFL NFC Championship?,Yes,0.36,0.37,1.0,0.8,27.027,10.0,,
+2026-11-25 07:10 UTC,BreakTheBank,ACHAT,Counter-Strike: NIP vs Liquid (BO3) - PGL Major Singapore Stage 1,NIP,0.48,0.49,1.0,3.0,20.4082,10.0,,
