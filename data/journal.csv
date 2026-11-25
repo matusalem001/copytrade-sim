@@ -6630,3 +6630,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-25 22:40 UTC,primm,IGNORE,Kent State vs. Eastern Michigan: O/U 45.5,Over,0.62,,,1271.7,,,,vu trop tard
 2026-11-25 22:40 UTC,primm,IGNORE,Miami (OH) vs. Western Michigan: O/U 49.5,Over,0.56,,,1218.0,,,,vu trop tard
 2026-11-25 22:40 UTC,primm,IGNORE,Spread: Kent State (-1.5),Kent State,0.25,,,1204.1,,,,vu trop tard
+2026-11-25 22:45 UTC,primm,IGNORE,Spread: Eastern Michigan (-7.5),Kent State,0.45,,,1294.4,,,,vu trop tard
+2026-11-25 22:45 UTC,primm,ACHAT,Packers vs. Rams: O/U 46.5,Over,0.37,0.37,0.0,3.6,27.027,10.0,,
