@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-25 12:55 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-25 13:01 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 359 | 550 | 346 | 176 | -50.00 $ | -1.4 % | 13 | +1.1 ¢ | 8 min |
+| BreakTheBank | 359 | 550 | 347 | 177 | -39.60 $ | -1.1 % | 12 | +1.1 ¢ | 8 min |
 | primm | 2158 | 975 | 2158 | 1082 | +223.25 $ | +1.0 % | 0 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : +100.30 $ sur 25320 $ engagés (+0.4 %)**
+**Total réalisé : +110.71 $ sur 25330 $ engagés (+0.4 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-25 12:55 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Counter-Strike: NIP vs Liquid (BO3) - PGL Major Singapore Stage 1 | NIP | 0.49 | 1.00 | +10.41 $ |
 | BreakTheBank | Counter-Strike: Wildcard vs Lynn Vision (BO1) - PGL Major Singapore Stage 1 | Lynn Vision | 0.51 | 1.00 | +9.61 $ |
 | primm | Spread: Miami (OH) (-4.5) | Miami (OH) | 0.58 | 0.00 | -10.00 $ |
 | primm | Spread: Miami (OH) (-5.5) | Western Michigan | 0.65 | 1.00 | +5.38 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-25 12:55 UTC** 
 | primm | Kent State vs. Eastern Michigan: O/U 47.5 | Over | 0.58 | 0.00 | -10.00 $ |
 | primm | Spread: Eastern Michigan (-4.5) | Kent State | 0.45 | 0.00 | -10.00 $ |
 | primm | Spread: Eastern Michigan (-3.5) | Kent State | 0.44 | 0.00 | -10.00 $ |
-| primm | Kent State vs. Eastern Michigan | Kent State | 0.29 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

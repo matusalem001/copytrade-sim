@@ -155,19 +155,6 @@
    "parts": 27.027,
    "montant": 10.0,
    "ouvert_le": "2026-11-25 06:55 UTC"
-  },
-  "BreakTheBank|5369423622696204856500944242770648063991208790952665050263817083346181349561": {
-   "date": "2026-11-25 07:10 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Counter-Strike: NIP vs Liquid (BO3) - PGL Major Singapore Stage 1",
-   "resultat": "NIP",
-   "prix_trader": 0.48,
-   "retard_min": 3.0,
-   "token": "5369423622696204856500944242770648063991208790952665050263817083346181349561",
-   "prix_simule": 0.49,
-   "parts": 20.4082,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-25 07:10 UTC"
   }
  },
  "fermees": [
@@ -43213,6 +43200,23 @@
    "sortie": 1.0,
    "pnl": 9.6078,
    "ferme_le": "2026-11-25 08:10 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-25 07:10 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Counter-Strike: NIP vs Liquid (BO3) - PGL Major Singapore Stage 1",
+   "resultat": "NIP",
+   "prix_trader": 0.48,
+   "retard_min": 3.0,
+   "token": "5369423622696204856500944242770648063991208790952665050263817083346181349561",
+   "prix_simule": 0.49,
+   "parts": 20.4082,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-25 07:10 UTC",
+   "sortie": 1.0,
+   "pnl": 10.4082,
+   "ferme_le": "2026-11-25 13:01 UTC",
    "type": "gagné"
   }
  ]
