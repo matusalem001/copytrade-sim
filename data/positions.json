@@ -533,19 +533,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-25 02:10 UTC"
   },
-  "primm|100760586371452381443300238617317035358742787883695571582148006917408978201824": {
-   "date": "2026-11-25 02:10 UTC",
-   "trader": "primm",
-   "marche": "Miami (OH) vs. Western Michigan: O/U 39.5",
-   "resultat": "Over",
-   "prix_trader": 0.61,
-   "retard_min": 7.5,
-   "token": "100760586371452381443300238617317035358742787883695571582148006917408978201824",
-   "prix_simule": 0.69,
-   "parts": 14.4928,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-25 02:10 UTC"
-  },
   "primm|92330308319295840549663776294761848846689884889884239135037135021007203625985": {
    "date": "2026-11-25 02:10 UTC",
    "trader": "primm",
@@ -43026,6 +43013,23 @@
    "sortie": 1.0,
    "pnl": 40.0,
    "ferme_le": "2026-11-24 22:10 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-25 02:10 UTC",
+   "trader": "primm",
+   "marche": "Miami (OH) vs. Western Michigan: O/U 39.5",
+   "resultat": "Over",
+   "prix_trader": 0.61,
+   "retard_min": 7.5,
+   "token": "100760586371452381443300238617317035358742787883695571582148006917408978201824",
+   "prix_simule": 0.69,
+   "parts": 14.4928,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-25 02:10 UTC",
+   "sortie": 1.0,
+   "pnl": 4.4928,
+   "ferme_le": "2026-11-25 03:30 UTC",
    "type": "gagné"
   }
  ]
