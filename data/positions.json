@@ -143,19 +143,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-21 08:30 UTC"
   },
-  "BreakTheBank|49758798684119385682537605418874383747636275609679991350627957052789264674020": {
-   "date": "2026-11-25 04:05 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Counter-Strike: Wildcard vs Lynn Vision (BO1) - PGL Major Singapore Stage 1",
-   "resultat": "Lynn Vision",
-   "prix_trader": 0.5,
-   "retard_min": 6.6,
-   "token": "49758798684119385682537605418874383747636275609679991350627957052789264674020",
-   "prix_simule": 0.51,
-   "parts": 19.6078,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-25 04:05 UTC"
-  },
   "BreakTheBank|16069463077207745565653213000916677761222564542852716163048404174490570568415": {
    "date": "2026-11-25 06:55 UTC",
    "trader": "BreakTheBank",
@@ -43210,6 +43197,23 @@
    "pnl": -10.0,
    "ferme_le": "2026-11-25 04:00 UTC",
    "type": "perdu"
+  },
+  {
+   "date": "2026-11-25 04:05 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Counter-Strike: Wildcard vs Lynn Vision (BO1) - PGL Major Singapore Stage 1",
+   "resultat": "Lynn Vision",
+   "prix_trader": 0.5,
+   "retard_min": 6.6,
+   "token": "49758798684119385682537605418874383747636275609679991350627957052789264674020",
+   "prix_simule": 0.51,
+   "parts": 19.6078,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-25 04:05 UTC",
+   "sortie": 1.0,
+   "pnl": 9.6078,
+   "ferme_le": "2026-11-25 08:10 UTC",
+   "type": "gagné"
   }
  ]
 }
