@@ -6486,3 +6486,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-25 00:00 UTC,primm,ACHAT,Spread: Eastern Michigan (-5.5),Kent State,0.45,0.46,1.0,4.1,21.7391,10.0,,
 2026-11-25 00:05 UTC,primm,IGNORE,Vikings vs. 49ers: O/U 54.5,Under,0.67,,,2663.6,,,,vu trop tard
 2026-11-25 00:05 UTC,primm,IGNORE,Bengals vs. Commanders,Bengals,0.71,,,1323.8,,,,vu trop tard
+2026-11-25 00:10 UTC,primm,IGNORE,Spread: 49ers (-20.5),Vikings,0.6,,,2727.3,,,,vu trop tard
+2026-11-25 00:10 UTC,primm,IGNORE,Spread: Bengals (-10.5),Commanders,0.59,,,1299.2,,,,vu trop tard
+2026-11-25 00:10 UTC,primm,IGNORE,Miami (OH) vs. Western Michigan,Western Michigan,0.62,0.5,-12.0,2.5,,,,prix a trop chuté (match sans doute joué)
