@@ -142,6 +142,19 @@
    "parts": 41.3223,
    "montant": 10.0,
    "ouvert_le": "2026-11-21 08:30 UTC"
+  },
+  "BreakTheBank|49758798684119385682537605418874383747636275609679991350627957052789264674020": {
+   "date": "2026-11-25 04:05 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Counter-Strike: Wildcard vs Lynn Vision (BO1) - PGL Major Singapore Stage 1",
+   "resultat": "Lynn Vision",
+   "prix_trader": 0.5,
+   "retard_min": 6.6,
+   "token": "49758798684119385682537605418874383747636275609679991350627957052789264674020",
+   "prix_simule": 0.51,
+   "parts": 19.6078,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-25 04:05 UTC"
   }
  },
  "fermees": [
