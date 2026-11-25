@@ -6501,3 +6501,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-25 00:20 UTC,primm,IGNORE,Bengals vs. Commanders,Bengals,0.72,,,1338.4,,,,vu trop tard
 2026-11-25 00:20 UTC,primm,IGNORE,Spread: Bengals (-3.5),Commanders,0.71,,,1229.4,,,,vu trop tard
 2026-11-25 00:25 UTC,primm,ACHAT,Spread: Eastern Michigan (-7.5),Kent State,0.41,0.51,10.0,5.6,19.6078,10.0,,
+2026-11-25 00:30 UTC,primm,IGNORE,Spread: Bengals (-2.5),Commanders,0.48,,,1243.9,,,,vu trop tard
+2026-11-25 00:30 UTC,primm,IGNORE,Kent State vs. Eastern Michigan: O/U 45.5,Under,0.45,0.36,-9.0,7.4,,,,prix a trop chuté (match sans doute joué)
+2026-11-25 00:30 UTC,primm,IGNORE,Kent State vs. Eastern Michigan: O/U 45.5,Under,0.45,0.36,-9.0,7.4,,,,prix a trop chuté (match sans doute joué)
+2026-11-25 00:30 UTC,primm,ACHAT,Kent State vs. Eastern Michigan,Kent State,0.29,0.29,0.0,4.2,34.4828,10.0,,
+2026-11-25 00:30 UTC,primm,ACHAT,Spread: Eastern Michigan (-3.5),Kent State,0.42,0.44,2.0,3.4,22.7273,10.0,,

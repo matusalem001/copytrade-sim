@@ -350,6 +350,32 @@
    "parts": 19.6078,
    "montant": 10.0,
    "ouvert_le": "2026-11-25 00:25 UTC"
+  },
+  "primm|27706827423728799242911288449938995577757295240360198632851503652884401760854": {
+   "date": "2026-11-25 00:30 UTC",
+   "trader": "primm",
+   "marche": "Kent State vs. Eastern Michigan",
+   "resultat": "Kent State",
+   "prix_trader": 0.29,
+   "retard_min": 4.2,
+   "token": "27706827423728799242911288449938995577757295240360198632851503652884401760854",
+   "prix_simule": 0.29,
+   "parts": 34.4828,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-25 00:30 UTC"
+  },
+  "primm|31419999247609923597656154982792346338823382267826282234982005815773493612759": {
+   "date": "2026-11-25 00:30 UTC",
+   "trader": "primm",
+   "marche": "Spread: Eastern Michigan (-3.5)",
+   "resultat": "Kent State",
+   "prix_trader": 0.42,
+   "retard_min": 3.4,
+   "token": "31419999247609923597656154982792346338823382267826282234982005815773493612759",
+   "prix_simule": 0.44,
+   "parts": 22.7273,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-25 00:30 UTC"
   }
  },
  "fermees": [
