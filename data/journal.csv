@@ -6567,3 +6567,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-25 03:50 UTC,primm,REGLEMENT,Spread: Western Michigan (-7.5),Western Michigan,,0.41,,,24.3902,0.0,-10.0,perdu
 2026-11-25 03:50 UTC,primm,REGLEMENT,Spread: Western Michigan (-5.5),Western Michigan,,0.48,,,20.8333,0.0,-10.0,perdu
 2026-11-25 03:50 UTC,primm,REGLEMENT,Miami (OH) vs. Western Michigan,Western Michigan,,0.31,,,32.2581,0.0,-10.0,perdu
+2026-11-25 03:55 UTC,primm,REGLEMENT,Miami (OH) vs. Western Michigan: O/U 57.5,Over,,0.44,,,22.7273,0.0,-10.0,perdu
+2026-11-25 03:55 UTC,primm,REGLEMENT,Spread: Miami (OH) (-6.5),Western Michigan,,0.53,,,18.8679,18.87,8.87,gagné
