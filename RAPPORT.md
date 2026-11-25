@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-25 03:45 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-25 03:50 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 356 | 525 | 345 | 175 | -59.61 $ | -1.7 % | 11 | +1.1 ¢ | 8 min |
-| primm | 2158 | 975 | 2146 | 1078 | +268.02 $ | +1.2 % | 12 | +3.0 ¢ | 4 min |
+| primm | 2158 | 975 | 2151 | 1078 | +218.02 $ | +1.0 % | 7 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : +135.47 $ sur 25190 $ engagés (+0.5 %)**
+**Total réalisé : +85.47 $ sur 25240 $ engagés (+0.3 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,11 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-25 03:45 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Miami (OH) vs. Western Michigan | Western Michigan | 0.31 | 0.00 | -10.00 $ |
+| primm | Spread: Western Michigan (-5.5) | Western Michigan | 0.48 | 0.00 | -10.00 $ |
+| primm | Spread: Western Michigan (-7.5) | Western Michigan | 0.41 | 0.00 | -10.00 $ |
+| primm | Spread: Western Michigan (-6.5) | Western Michigan | 0.44 | 0.00 | -10.00 $ |
+| primm | Spread: Western Michigan (-4.5) | Western Michigan | 0.50 | 0.00 | -10.00 $ |
 | primm | Spread: Kent State (-3.5) | Kent State | 0.19 | 0.00 | -10.00 $ |
 | primm | Spread: Kent State (-2.5) | Kent State | 0.18 | 0.00 | -10.00 $ |
 | primm | Spread: Kent State (-1.5) | Kent State | 0.21 | 0.00 | -10.00 $ |
@@ -36,10 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-25 03:45 UTC** 
 | primm | Kent State vs. Eastern Michigan: O/U 49.5 | Under | 0.54 | 1.00 | +8.52 $ |
 | primm | Kent State vs. Eastern Michigan: O/U 55.5 | Under | 0.70 | 1.00 | +4.29 $ |
 | primm | Spread: Eastern Michigan (-5.5) | Kent State | 0.46 | 1.00 | +11.74 $ |
-| primm | Miami (OH) vs. Western Michigan: O/U 47.5 | Over | 0.43 | 1.00 | +13.26 $ |
-| primm | Miami (OH) vs. Western Michigan: O/U 45.5 | Over | 0.47 | 1.00 | +11.28 $ |
-| primm | Spread: Eastern Michigan (-6.5) | Kent State | 0.48 | 1.00 | +10.83 $ |
-| primm | Miami (OH) vs. Western Michigan: O/U 39.5 | Over | 0.69 | 1.00 | +4.49 $ |
-| BreakTheBank | Will Arsenal FC vs. BV Borussia 09 Dortmund end in a draw? | Yes | 0.20 | 1.00 | +40.00 $ |
 
 Journal complet : `data/journal.csv`
