@@ -6506,3 +6506,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-25 00:30 UTC,primm,IGNORE,Kent State vs. Eastern Michigan: O/U 45.5,Under,0.45,0.36,-9.0,7.4,,,,prix a trop chuté (match sans doute joué)
 2026-11-25 00:30 UTC,primm,ACHAT,Kent State vs. Eastern Michigan,Kent State,0.29,0.29,0.0,4.2,34.4828,10.0,,
 2026-11-25 00:30 UTC,primm,ACHAT,Spread: Eastern Michigan (-3.5),Kent State,0.42,0.44,2.0,3.4,22.7273,10.0,,
+2026-11-25 00:35 UTC,primm,IGNORE,Spread: Bengals (-4.5),Commanders,0.72,,,1256.4,,,,vu trop tard
+2026-11-25 00:35 UTC,primm,IGNORE,Spread: Bengals (-1.5),Commanders,0.79,,,1237.0,,,,vu trop tard
+2026-11-25 00:35 UTC,primm,ACHAT,Miami (OH) vs. Western Michigan: O/U 57.5,Over,0.42,0.44,2.0,3.9,22.7273,10.0,,
+2026-11-25 00:35 UTC,primm,ACHAT,Spread: Eastern Michigan (-4.5),Kent State,0.47,0.45,-2.0,1.1,22.2222,10.0,,
