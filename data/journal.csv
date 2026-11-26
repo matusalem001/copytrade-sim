@@ -6755,3 +6755,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-26 19:50 UTC,primm,IGNORE,Spread: Rams (-4.5),Rams,0.47,,,1074.3,,,,vu trop tard
 2026-11-26 20:00 UTC,primm,IGNORE,Bears vs. Lions: O/U 56.5,Under,0.45,0.39,-6.0,8.9,,,,prix a trop chuté (match sans doute joué)
 2026-11-26 20:00 UTC,primm,ACHAT,Spread: Florida (-7.5),Florida,0.42,0.44,2.0,5.2,22.7273,10.0,,
+2026-11-26 20:05 UTC,primm,ACHAT,Spread: Lions (-2.5),Bears,0.45,0.45,0.0,1.8,22.2222,10.0,,
