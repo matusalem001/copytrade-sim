@@ -6735,3 +6735,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-26 18:40 UTC,primm,ACHAT,Spread: Lions (-7.5),Lions,0.33,0.34,1.0,4.0,29.4118,10.0,,
 2026-11-26 18:45 UTC,primm,ACHAT,Spread: Lions (-9.5),Lions,0.33,0.36,3.0,3.7,27.7778,10.0,,
 2026-11-26 18:45 UTC,primm,ACHAT,Spread: Lions (-10.5),Lions,0.29,0.31,2.0,2.9,32.2581,10.0,,
+2026-11-26 18:50 UTC,primm,IGNORE,Spread: Rams (-3.5),Rams,0.49,,,1041.6,,,,vu trop tard
+2026-11-26 18:50 UTC,primm,IGNORE,Spread: Rams (-5.5),Rams,0.4239,,,1041.3,,,,vu trop tard
+2026-11-26 18:50 UTC,primm,IGNORE,Spread: Rams (-6.5),Rams,0.35,,,939.5,,,,vu trop tard
+2026-11-26 18:50 UTC,primm,IGNORE,Spread: Rams (-7.5),Packers,0.54,,,904.5,,,,vu trop tard
