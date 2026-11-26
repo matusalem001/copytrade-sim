@@ -6663,3 +6663,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-26 01:45 UTC,primm,ACHAT,Packers vs. Rams: O/U 36.5,Under,0.32,0.3,-2.0,1.2,33.3333,10.0,,
 2026-11-26 01:45 UTC,primm,ACHAT,Packers vs. Rams: O/U 44.5,Under,0.55,0.56,1.0,0.1,17.8571,10.0,,
 2026-11-26 02:25 UTC,primm,ACHAT,Spread: Packers (-1.5),Packers,0.38,0.41,3.0,4.8,24.3902,10.0,,
+2026-11-26 03:40 UTC,primm,ACHAT,Spread: Rams (-7.5),Packers,0.58,0.59,1.0,1.5,16.9492,10.0,,
+2026-11-26 03:40 UTC,primm,ACHAT,Spread: Rams (-10.5),Packers,0.71,0.71,0.0,1.5,14.0845,10.0,,
