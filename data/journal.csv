@@ -6780,3 +6780,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-26 21:20 UTC,primm,REGLEMENT,Bears vs. Lions: O/U 64.5,Over,,0.37,,,27.027,27.03,17.03,gagné
 2026-11-26 21:36 UTC,primm,ACHAT,Spread: Cowboys (-6.5),Eagles,0.4,0.41,1.0,1.2,24.3902,10.0,,
 2026-11-26 21:45 UTC,primm,ACHAT,Eagles vs. Cowboys,Eagles,0.21,0.21,0.0,4.8,47.619,10.0,,
+2026-11-26 21:50 UTC,primm,ACHAT,Eagles vs. Cowboys: O/U 56.5,Over,0.28,0.31,3.0,7.3,32.2581,10.0,,
+2026-11-26 21:50 UTC,primm,ACHAT,Eagles vs. Cowboys: O/U 48.5,Under,0.45,0.46,1.0,1.0,21.7391,10.0,,
+2026-11-26 21:50 UTC,primm,ACHAT,Eagles vs. Cowboys: O/U 46.5,Under,0.39,0.4,1.0,0.8,25.0,10.0,,
