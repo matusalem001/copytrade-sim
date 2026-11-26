@@ -6642,3 +6642,10 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-26 00:35 UTC,primm,ACHAT,Packers vs. Rams,Rams,0.56,0.56,0.0,1.4,17.8571,10.0,,
 2026-11-26 00:40 UTC,BreakTheBank,ACHAT,Packers vs. Rams,Packers,0.44,0.45,1.0,6.6,22.2222,10.0,,
 2026-11-26 00:40 UTC,primm,ACHAT,Spread: Rams (-1.5),Rams,0.54,0.54,0.0,2.2,18.5185,10.0,,
+2026-11-26 00:45 UTC,BreakTheBank,IGNORE,Counter-Strike: NIP vs Liquid (BO3) - PGL Major Singapore Stage 1,NIP,0.48,,,982.4,,,,vu trop tard
+2026-11-26 00:45 UTC,BreakTheBank,IGNORE,Counter-Strike: NIP vs Liquid (BO3) - PGL Major Singapore Stage 1,NIP,0.48,,,952.6,,,,vu trop tard
+2026-11-26 00:45 UTC,BreakTheBank,IGNORE,Counter-Strike: NIP vs Liquid (BO3) - PGL Major Singapore Stage 1,NIP,0.48,,,941.1,,,,vu trop tard
+2026-11-26 00:45 UTC,BreakTheBank,IGNORE,Counter-Strike: NIP vs Liquid (BO3) - PGL Major Singapore Stage 1,NIP,0.48,,,938.4,,,,vu trop tard
+2026-11-26 00:45 UTC,BreakTheBank,IGNORE,Counter-Strike: NIP vs Liquid (BO3) - PGL Major Singapore Stage 1,NIP,0.48,,,933.1,,,,vu trop tard
+2026-11-26 00:45 UTC,BreakTheBank,IGNORE,Counter-Strike: NIP vs Liquid (BO3) - PGL Major Singapore Stage 1,NIP,0.48,,,932.2,,,,vu trop tard
+2026-11-26 00:45 UTC,primm,IGNORE,Kent State vs. Eastern Michigan,Kent State,0.19,,,1414.8,,,,vu trop tard
