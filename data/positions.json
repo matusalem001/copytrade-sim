@@ -272,6 +272,19 @@
    "parts": 200.0,
    "montant": 10.0,
    "ouvert_le": "2026-11-26 01:00 UTC"
+  },
+  "BreakTheBank|39837385690303579870717217200412085690608514752076614686048080531386540862921": {
+   "date": "2026-11-26 05:00 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will the San Francisco 49ers win the 2027 NFL league championship?",
+   "resultat": "Yes",
+   "prix_trader": 0.193,
+   "retard_min": 8.5,
+   "token": "39837385690303579870717217200412085690608514752076614686048080531386540862921",
+   "prix_simule": 0.194,
+   "parts": 51.5464,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-26 05:00 UTC"
   }
  },
  "fermees": [
