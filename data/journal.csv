@@ -6698,3 +6698,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-26 04:50 UTC,primm,REGLEMENT,Spread: Rams (-6.5),Packers,,0.48,,,20.8333,0.0,-10.0,perdu
 2026-11-26 04:50 UTC,primm,REGLEMENT,Spread: Rams (-9.5),Rams,,0.76,,,13.1579,13.16,3.16,gagné
 2026-11-26 05:00 UTC,BreakTheBank,ACHAT,Will the San Francisco 49ers win the 2027 NFL league championship?,Yes,0.193,0.194,0.1,8.5,51.5464,10.0,,
+2026-11-26 07:40 UTC,BreakTheBank,IGNORE,Packers vs. Rams,Packers,0.44,,,400.9,,,,vu trop tard
