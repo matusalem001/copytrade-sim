@@ -6751,3 +6751,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-26 19:45 UTC,primm,ACHAT,Spread: Buffalo (-7.5),Buffalo,0.49,0.5,1.0,2.9,20.0,10.0,,
 2026-11-26 19:45 UTC,primm,ACHAT,Spread: Buffalo (-13.5),Buffalo,0.38,0.4,2.0,2.9,25.0,10.0,,
 2026-11-26 19:45 UTC,primm,ACHAT,Toledo vs. Ohio: O/U 47.5,Under,0.57,0.58,1.0,0.2,17.2414,10.0,,
+2026-11-26 19:50 UTC,primm,IGNORE,Spread: Rams (-2.5),Packers,0.36,,,1096.0,,,,vu trop tard
+2026-11-26 19:50 UTC,primm,IGNORE,Spread: Rams (-4.5),Rams,0.47,,,1074.3,,,,vu trop tard
