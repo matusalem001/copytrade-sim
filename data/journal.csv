@@ -6703,3 +6703,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-26 15:01 UTC,primm,ACHAT,Chiefs vs. Bills: O/U 48.5,Over,0.41,0.41,0.0,3.6,24.3902,10.0,,
 2026-11-26 15:01 UTC,primm,ACHAT,Chiefs vs. Bills: O/U 50.5,Over,0.36,0.37,1.0,3.6,27.027,10.0,,
 2026-11-26 15:10 UTC,primm,ACHAT,Spread: Texas Tech (-17.5),TCU,0.55,0.56,1.0,3.2,17.8571,10.0,,
+2026-11-26 16:05 UTC,primm,IGNORE,Packers vs. Rams,Rams,0.58,,,828.7,,,,vu trop tard
