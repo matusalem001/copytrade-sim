@@ -6807,3 +6807,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-26 21:55 UTC,primm,REGLEMENT,Spread: Bears (-1.5),Bears,,0.34,,,29.4118,29.41,19.41,gagné
 2026-11-26 22:05 UTC,primm,IGNORE,Spread: Lions (-9.5),Lions,0.33,,,203.5,,,,vu trop tard
 2026-11-26 22:05 UTC,primm,ACHAT,TCU vs. Texas Tech,TCU,0.16,0.17,1.0,7.8,58.8235,10.0,,
+2026-11-26 22:15 UTC,primm,IGNORE,Spread: Lions (-7.5),Lions,0.35,,,218.4,,,,vu trop tard
+2026-11-26 22:15 UTC,primm,ACHAT,Eagles vs. Cowboys: O/U 56.5,Under,0.67,0.68,1.0,0.2,14.7059,10.0,,
