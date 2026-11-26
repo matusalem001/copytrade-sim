@@ -766,6 +766,19 @@
    "parts": 29.4118,
    "montant": 10.0,
    "ouvert_le": "2026-11-26 20:40 UTC"
+  },
+  "primm|109632282091979097021354992492698810342576721399722838352601363358942868618540": {
+   "date": "2026-11-26 20:50 UTC",
+   "trader": "primm",
+   "marche": "Air Force vs. New Mexico",
+   "resultat": "New Mexico",
+   "prix_trader": 0.7,
+   "retard_min": 3.9,
+   "token": "109632282091979097021354992492698810342576721399722838352601363358942868618540",
+   "prix_simule": 0.71,
+   "parts": 14.0845,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-26 20:50 UTC"
   }
  },
  "fermees": [
