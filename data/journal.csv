@@ -6809,3 +6809,10 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-26 22:05 UTC,primm,ACHAT,TCU vs. Texas Tech,TCU,0.16,0.17,1.0,7.8,58.8235,10.0,,
 2026-11-26 22:15 UTC,primm,IGNORE,Spread: Lions (-7.5),Lions,0.35,,,218.4,,,,vu trop tard
 2026-11-26 22:15 UTC,primm,ACHAT,Eagles vs. Cowboys: O/U 56.5,Under,0.67,0.68,1.0,0.2,14.7059,10.0,,
+2026-11-26 22:20 UTC,primm,IGNORE,Bears vs. Lions,Bears,0.38,,,133.0,,,,vu trop tard
+2026-11-26 22:20 UTC,primm,IGNORE,Bears vs. Lions,Bears,0.38,,,132.9,,,,vu trop tard
+2026-11-26 22:20 UTC,primm,IGNORE,Spread: Cowboys (-14.5),Eagles,0.61,0.52,-9.0,4.6,,,,prix a trop chuté (match sans doute joué)
+2026-11-26 22:20 UTC,primm,IGNORE,Spread: Cowboys (-10.5),Eagles,0.48,0.42,-6.0,3.9,,,,prix a trop chuté (match sans doute joué)
+2026-11-26 22:20 UTC,primm,IGNORE,Spread: Cowboys (-14.5),Eagles,0.59,0.52,-7.0,3.9,,,,prix a trop chuté (match sans doute joué)
+2026-11-26 22:20 UTC,primm,IGNORE,Spread: Cowboys (-7.5),Eagles,0.4,0.33,-7.0,3.9,,,,prix a trop chuté (match sans doute joué)
+2026-11-26 22:20 UTC,primm,ACHAT,Eagles vs. Cowboys: O/U 44.5,Under,0.36,0.41,5.0,3.2,24.3902,10.0,,
