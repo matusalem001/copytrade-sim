@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-26 21:10 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-26 21:15 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 364 | 562 | 348 | 177 | -49.60 $ | -1.4 % | 16 | +1.1 ¢ | 8 min |
-| primm | 2229 | 1027 | 2186 | 1093 | +172.25 $ | +0.8 % | 43 | +3.0 ¢ | 4 min |
+| primm | 2229 | 1027 | 2190 | 1096 | +186.56 $ | +0.9 % | 39 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : +49.72 $ sur 25620 $ engagés (+0.2 %)**
+**Total réalisé : +64.03 $ sur 25660 $ engagés (+0.2 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,10 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-26 21:10 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Bears vs. Lions: O/U 58.5 | Over | 0.62 | 1.00 | +6.13 $ |
+| primm | Bears vs. Lions: O/U 54.5 | Over | 0.50 | 1.00 | +10.00 $ |
+| primm | Bears vs. Lions: O/U 54.5 | Under | 0.62 | 0.00 | -10.00 $ |
+| primm | Bears vs. Lions: O/U 56.5 | Over | 0.55 | 1.00 | +8.18 $ |
 | primm | Bears vs. Lions: O/U 52.5 | Under | 0.55 | 0.00 | -10.00 $ |
 | primm | Bears vs. Lions: O/U 46.5 | Under | 0.38 | 0.00 | -10.00 $ |
 | primm | Bears vs. Lions: O/U 40.5 | Under | 0.20 | 0.00 | -10.00 $ |
@@ -37,9 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-26 21:10 UTC** 
 | primm | Spread: Rams (-1.5) | Rams | 0.54 | 1.00 | +8.52 $ |
 | BreakTheBank | Packers vs. Rams | Packers | 0.45 | 0.00 | -10.00 $ |
 | primm | Packers vs. Rams | Rams | 0.56 | 1.00 | +7.86 $ |
-| primm | Spread: Packers (-1.5) | Rams | 0.59 | 1.00 | +6.95 $ |
-| primm | Spread: Rams (-5.5) | Rams | 0.40 | 1.00 | +15.00 $ |
-| primm | Packers vs. Rams: O/U 46.5 | Over | 0.37 | 0.00 | -10.00 $ |
-| primm | Spread: Rams (-6.5) | Rams | 0.37 | 1.00 | +17.03 $ |
 
 Journal complet : `data/journal.csv`
