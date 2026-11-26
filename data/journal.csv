@@ -6709,3 +6709,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-26 16:45 UTC,primm,ACHAT,Spread: Texas Tech (-9.5),TCU,0.36,0.39,3.0,4.0,25.641,10.0,,
 2026-11-26 16:50 UTC,primm,IGNORE,Spread: Rams (-4.5),Rams,0.41,,,972.0,,,,vu trop tard
 2026-11-26 17:01 UTC,primm,IGNORE,Spread: Rams (-5.5),Rams,0.38,,,885.6,,,,vu trop tard
+2026-11-26 18:10 UTC,primm,IGNORE,Spread: Rams (-7.5),Rams,0.36,,,1001.6,,,,vu trop tard
+2026-11-26 18:10 UTC,primm,IGNORE,Spread: Rams (-3.5),Rams,0.36,,,905.5,,,,vu trop tard
