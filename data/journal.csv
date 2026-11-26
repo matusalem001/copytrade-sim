@@ -6733,3 +6733,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-26 18:40 UTC,primm,IGNORE,Packers vs. Rams: O/U 46.5,Over,0.5,,,904.8,,,,vu trop tard
 2026-11-26 18:40 UTC,primm,ACHAT,Spread: Lions (-6.5),Lions,0.38,0.4,2.0,4.0,25.0,10.0,,
 2026-11-26 18:40 UTC,primm,ACHAT,Spread: Lions (-7.5),Lions,0.33,0.34,1.0,4.0,29.4118,10.0,,
+2026-11-26 18:45 UTC,primm,ACHAT,Spread: Lions (-9.5),Lions,0.33,0.36,3.0,3.7,27.7778,10.0,,
+2026-11-26 18:45 UTC,primm,ACHAT,Spread: Lions (-10.5),Lions,0.29,0.31,2.0,2.9,32.2581,10.0,,
