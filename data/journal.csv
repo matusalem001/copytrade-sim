@@ -6706,3 +6706,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-26 16:05 UTC,primm,IGNORE,Packers vs. Rams,Rams,0.58,,,828.7,,,,vu trop tard
 2026-11-26 16:15 UTC,primm,ACHAT,Spread: Lions (-1.5),Lions,0.46,0.47,1.0,4.8,21.2766,10.0,,
 2026-11-26 16:15 UTC,primm,ACHAT,Spread: Bears (-1.5),Lions,0.52,0.53,1.0,4.8,18.8679,10.0,,
+2026-11-26 16:45 UTC,primm,ACHAT,Spread: Texas Tech (-9.5),TCU,0.36,0.39,3.0,4.0,25.641,10.0,,
