@@ -6665,3 +6665,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-26 02:25 UTC,primm,ACHAT,Spread: Packers (-1.5),Packers,0.38,0.41,3.0,4.8,24.3902,10.0,,
 2026-11-26 03:40 UTC,primm,ACHAT,Spread: Rams (-7.5),Packers,0.58,0.59,1.0,1.5,16.9492,10.0,,
 2026-11-26 03:40 UTC,primm,ACHAT,Spread: Rams (-10.5),Packers,0.71,0.71,0.0,1.5,14.0845,10.0,,
+2026-11-26 03:50 UTC,primm,ACHAT,Spread: Rams (-4.5),Packers,0.32,0.42,10.0,4.8,23.8095,10.0,,
+2026-11-26 03:50 UTC,primm,ACHAT,Spread: Rams (-9.5),Packers,0.58,0.7,12.0,4.8,14.2857,10.0,,
+2026-11-26 03:50 UTC,primm,ACHAT,Spread: Rams (-5.5),Packers,0.32,0.42,10.0,4.8,23.8095,10.0,,
+2026-11-26 03:50 UTC,primm,ACHAT,Spread: Rams (-6.5),Packers,0.38,0.48,10.0,4.7,20.8333,10.0,,
