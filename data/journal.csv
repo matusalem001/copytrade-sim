@@ -6829,3 +6829,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-26 22:40 UTC,primm,IGNORE,Bears vs. Lions,Bears,0.38,,,153.2,,,,vu trop tard
 2026-11-26 22:45 UTC,primm,ACHAT,Spread: Cowboys (-20.5),Eagles,0.46,0.59,13.0,5.1,16.9492,10.0,,
 2026-11-26 22:45 UTC,primm,ACHAT,Spread: Cowboys (-13.5),Cowboys,0.64,0.64,0.0,0.1,15.625,10.0,,
+2026-11-26 22:55 UTC,primm,ACHAT,Spread: Utah (-20.5),West Virginia,0.34,0.36,2.0,3.5,27.7778,10.0,,
+2026-11-26 22:55 UTC,primm,ACHAT,Spread: Cowboys (-17.5),Eagles,0.48,0.48,0.0,0.5,20.8333,10.0,,
