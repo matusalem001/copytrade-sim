@@ -6739,3 +6739,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-26 18:50 UTC,primm,IGNORE,Spread: Rams (-5.5),Rams,0.4239,,,1041.3,,,,vu trop tard
 2026-11-26 18:50 UTC,primm,IGNORE,Spread: Rams (-6.5),Rams,0.35,,,939.5,,,,vu trop tard
 2026-11-26 18:50 UTC,primm,IGNORE,Spread: Rams (-7.5),Packers,0.54,,,904.5,,,,vu trop tard
+2026-11-26 18:55 UTC,primm,IGNORE,Spread: Rams (-9.5),Packers,0.58,,,909.3,,,,vu trop tard
+2026-11-26 18:55 UTC,primm,ACHAT,Spread: Cowboys (-13.5),Eagles,0.61,0.62,1.0,0.9,16.129,10.0,,
