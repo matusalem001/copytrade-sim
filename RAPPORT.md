@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-26 21:50 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-26 21:55 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 364 | 562 | 348 | 177 | -49.60 $ | -1.4 % | 16 | +1.1 ¢ | 8 min |
-| primm | 2234 | 1027 | 2191 | 1097 | +203.59 $ | +0.9 % | 43 | +3.0 ¢ | 4 min |
+| primm | 2236 | 1028 | 2210 | 1104 | +176.11 $ | +0.8 % | 26 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : +81.05 $ sur 25670 $ engagés (+0.3 %)**
+**Total réalisé : +53.58 $ sur 25860 $ engagés (+0.2 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,30 +16,30 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-26 21:50 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Bears (-1.5) | Bears | 0.34 | 1.00 | +19.41 $ |
+| primm | Spread: Lions (-3.5) | Bears | 0.61 | 1.00 | +6.39 $ |
+| primm | Spread: Lions (-4.5) | Bears | 0.64 | 1.00 | +5.62 $ |
+| primm | Spread: Bears (-2.5) | Bears | 0.31 | 1.00 | +22.26 $ |
+| primm | Bears vs. Lions | Bears | 0.41 | 1.00 | +14.39 $ |
+| primm | Spread: Lions (-1.5) | Bears | 0.45 | 1.00 | +12.22 $ |
+| primm | Spread: Lions (-2.5) | Bears | 0.45 | 1.00 | +12.22 $ |
+| primm | Spread: Lions (-10.5) | Lions | 0.31 | 0.00 | -10.00 $ |
+| primm | Spread: Lions (-9.5) | Lions | 0.36 | 0.00 | -10.00 $ |
+| primm | Spread: Lions (-7.5) | Lions | 0.34 | 0.00 | -10.00 $ |
+| primm | Spread: Lions (-6.5) | Lions | 0.40 | 0.00 | -10.00 $ |
+| primm | Bears vs. Lions | Lions | 0.62 | 0.00 | -10.00 $ |
+| primm | Spread: Lions (-2.5) | Lions | 0.56 | 0.00 | -10.00 $ |
+| primm | Spread: Lions (-3.5) | Lions | 0.46 | 0.00 | -10.00 $ |
+| primm | Spread: Lions (-4.5) | Lions | 0.44 | 0.00 | -10.00 $ |
+| primm | Spread: Lions (-5.5) | Lions | 0.36 | 0.00 | -10.00 $ |
+| primm | Spread: Bears (-2.5) | Lions | 0.54 | 0.00 | -10.00 $ |
+| primm | Spread: Bears (-1.5) | Lions | 0.53 | 0.00 | -10.00 $ |
+| primm | Spread: Lions (-1.5) | Lions | 0.47 | 0.00 | -10.00 $ |
 | primm | Bears vs. Lions: O/U 64.5 | Over | 0.37 | 1.00 | +17.03 $ |
 | primm | Bears vs. Lions: O/U 58.5 | Over | 0.62 | 1.00 | +6.13 $ |
 | primm | Bears vs. Lions: O/U 54.5 | Over | 0.50 | 1.00 | +10.00 $ |
 | primm | Bears vs. Lions: O/U 54.5 | Under | 0.62 | 0.00 | -10.00 $ |
 | primm | Bears vs. Lions: O/U 56.5 | Over | 0.55 | 1.00 | +8.18 $ |
 | primm | Bears vs. Lions: O/U 52.5 | Under | 0.55 | 0.00 | -10.00 $ |
-| primm | Bears vs. Lions: O/U 46.5 | Under | 0.38 | 0.00 | -10.00 $ |
-| primm | Bears vs. Lions: O/U 40.5 | Under | 0.20 | 0.00 | -10.00 $ |
-| primm | Spread: Rams (-9.5) | Rams | 0.76 | 1.00 | +3.16 $ |
-| primm | Spread: Rams (-6.5) | Packers | 0.48 | 0.00 | -10.00 $ |
-| primm | Spread: Rams (-5.5) | Packers | 0.42 | 0.00 | -10.00 $ |
-| primm | Spread: Rams (-9.5) | Packers | 0.70 | 0.00 | -10.00 $ |
-| primm | Spread: Rams (-4.5) | Packers | 0.42 | 0.00 | -10.00 $ |
-| primm | Spread: Rams (-10.5) | Packers | 0.71 | 0.00 | -10.00 $ |
-| primm | Spread: Rams (-7.5) | Packers | 0.59 | 0.00 | -10.00 $ |
-| primm | Spread: Packers (-1.5) | Packers | 0.41 | 0.00 | -10.00 $ |
-| primm | Packers vs. Rams: O/U 44.5 | Under | 0.56 | 1.00 | +7.86 $ |
-| primm | Spread: Rams (-1.5) | Packers | 0.32 | 0.00 | -10.00 $ |
-| primm | Spread: Rams (-3.5) | Packers | 0.44 | 0.00 | -10.00 $ |
-| primm | Spread: Rams (-2.5) | Packers | 0.36 | 0.00 | -10.00 $ |
-| primm | Packers vs. Rams | Packers | 0.31 | 0.00 | -10.00 $ |
-| primm | Packers vs. Rams: O/U 42.5 | Over | 0.49 | 0.00 | -10.00 $ |
-| primm | Spread: Rams (-7.5) | Rams | 0.43 | 1.00 | +13.26 $ |
-| primm | Spread: Rams (-1.5) | Rams | 0.54 | 1.00 | +8.52 $ |
-| BreakTheBank | Packers vs. Rams | Packers | 0.45 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
