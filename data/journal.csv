@@ -6764,3 +6764,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-26 20:10 UTC,primm,ACHAT,Bears vs. Lions: O/U 64.5,Over,0.32,0.37,5.0,3.1,27.027,10.0,,
 2026-11-26 20:10 UTC,primm,ACHAT,Bears vs. Lions: O/U 58.5,Over,0.6,0.62,2.0,2.6,16.129,10.0,,
 2026-11-26 20:15 UTC,primm,IGNORE,Packers vs. Rams,Packers,0.31,,,1005.0,,,,vu trop tard
+2026-11-26 20:30 UTC,primm,ACHAT,North Dakota State vs. San Jose State: O/U 39.5,Over,0.51,0.52,1.0,6.9,19.2308,10.0,,
