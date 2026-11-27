@@ -7166,3 +7166,31 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 21:35 UTC,primm,REGLEMENT,Steelers Team Total: O/U 20.5,Over,,0.71,,,14.0845,14.08,4.08,gagné
 2026-11-27 21:45 UTC,primm,ACHAT,Air Force vs. New Mexico: O/U 45.5,Over,0.51,0.52,1.0,1.2,19.2308,10.0,,
 2026-11-27 22:00 UTC,primm,ACHAT,Spread: Texas (-6.5),Texas A&M,0.34,0.37,3.0,3.4,27.027,10.0,,
+2026-11-27 23:10 UTC,primm,ACHAT,Spread: Florida (-6.5),Florida State,0.31,0.31,0.0,0.8,32.2581,10.0,,
+2026-11-27 23:10 UTC,primm,ACHAT,Spread: Florida (-4.5),Florida State,0.27,0.28,1.0,0.8,35.7143,10.0,,
+2026-11-27 23:10 UTC,primm,REGLEMENT,Spread: Broncos (-7.5),Broncos,,0.37,,,27.027,0.0,-10.0,perdu
+2026-11-27 23:10 UTC,primm,REGLEMENT,Spread: Broncos (-5.5),Broncos,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-27 23:10 UTC,primm,REGLEMENT,Spread: Broncos (-3.5),Broncos,,0.51,,,19.6078,0.0,-10.0,perdu
+2026-11-27 23:10 UTC,primm,REGLEMENT,Broncos vs. Steelers: O/U 34.5,Over,,0.57,,,17.5439,0.0,-10.0,perdu
+2026-11-27 23:10 UTC,primm,REGLEMENT,Spread: Broncos (-2.5),Steelers,,0.37,,,27.027,27.03,17.03,gagné
+2026-11-27 23:10 UTC,primm,REGLEMENT,Broncos vs. Steelers,Steelers,,0.32,,,31.25,31.25,21.25,gagné
+2026-11-27 23:10 UTC,BreakTheBank,REGLEMENT,Spread: Broncos (-7.5),Broncos,,0.39,,,25.641,0.0,-10.0,perdu
+2026-11-27 23:10 UTC,BreakTheBank,REGLEMENT,Spread: Broncos (-5.5),Broncos,,0.48,,,20.8333,0.0,-10.0,perdu
+2026-11-27 23:10 UTC,primm,REGLEMENT,Spread: Broncos (-3.5),Steelers,,0.45,,,22.2222,22.22,12.22,gagné
+2026-11-27 23:10 UTC,primm,REGLEMENT,Spread: Steelers (-1.5),Steelers,,0.67,,,14.9254,14.93,4.93,gagné
+2026-11-27 23:10 UTC,primm,REGLEMENT,Spread: Steelers (-7.5),Steelers,,0.41,,,24.3902,24.39,14.39,gagné
+2026-11-27 23:10 UTC,primm,REGLEMENT,Spread: Steelers (-9.5),Steelers,,0.33,,,30.303,30.3,20.3,gagné
+2026-11-27 23:10 UTC,primm,REGLEMENT,Spread: Steelers (-5.5),Steelers,,0.47,,,21.2766,21.28,11.28,gagné
+2026-11-27 23:10 UTC,primm,REGLEMENT,Spread: Steelers (-6.5),Steelers,,0.44,,,22.7273,22.73,12.73,gagné
+2026-11-27 23:10 UTC,primm,REGLEMENT,Spread: Steelers (-10.5),Steelers,,0.29,,,34.4828,34.48,24.48,gagné
+2026-11-27 23:10 UTC,primm,REGLEMENT,Spread: Steelers (-4.5),Steelers,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-27 23:10 UTC,primm,REGLEMENT,Broncos vs. Steelers: O/U 46.5,Under,,0.59,,,16.9492,16.95,6.95,gagné
+2026-11-27 23:10 UTC,primm,REGLEMENT,Spread: Steelers (-3.5),Steelers,,0.47,,,21.2766,21.28,11.28,gagné
+2026-11-27 23:10 UTC,primm,REGLEMENT,Broncos vs. Steelers: O/U 42.5,Under,,0.53,,,18.8679,18.87,8.87,gagné
+2026-11-27 23:10 UTC,primm,REGLEMENT,Spread: Steelers (-2.5),Steelers,,0.6,,,16.6667,16.67,6.67,gagné
+2026-11-27 23:10 UTC,primm,REGLEMENT,Broncos vs. Steelers: O/U 42.5,Over,,0.76,,,13.1579,0.0,-10.0,perdu
+2026-11-27 23:10 UTC,primm,REGLEMENT,Spread: Steelers (-13.5),Steelers,,0.44,,,22.7273,22.73,12.73,gagné
+2026-11-27 23:10 UTC,primm,REGLEMENT,Spread: Steelers (-16.5),Steelers,,0.34,,,29.4118,29.41,19.41,gagné
+2026-11-27 23:10 UTC,primm,REGLEMENT,Spread: Steelers (-14.5),Steelers,,0.409,,,24.4499,24.45,14.45,gagné
+2026-11-27 23:10 UTC,primm,REGLEMENT,Spread: Steelers (-17.5),Steelers,,0.316,,,31.6456,31.65,21.65,gagné
+2026-11-27 23:10 UTC,primm,REGLEMENT,Broncos Team Total: O/U 20.5,Under,,0.68,,,14.7059,14.71,4.71,gagné
