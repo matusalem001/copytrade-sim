@@ -416,19 +416,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-27 20:45 UTC"
   },
-  "primm|41783051872028007047714481531828671199247249874676310016267401872117532992160": {
-   "date": "2026-11-27 20:45 UTC",
-   "trader": "primm",
-   "marche": "North Dakota State vs. San Jose State: O/U 49.5",
-   "resultat": "Over",
-   "prix_trader": 0.42,
-   "retard_min": 1.4,
-   "token": "41783051872028007047714481531828671199247249874676310016267401872117532992160",
-   "prix_simule": 0.48,
-   "parts": 20.8333,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-27 20:45 UTC"
-  },
   "primm|42809806862532980961285649930549135015945690115318162080182880735721748647970": {
    "date": "2026-11-27 20:50 UTC",
    "trader": "primm",
@@ -740,6 +727,19 @@
    "parts": 29.4118,
    "montant": 10.0,
    "ouvert_le": "2026-11-27 23:30 UTC"
+  },
+  "primm|97112120823179936874911478679560289200033271982424894465715473536161621887776": {
+   "date": "2026-11-27 23:40 UTC",
+   "trader": "primm",
+   "marche": "Spread: New Mexico (-4.5)",
+   "resultat": "Air Force",
+   "prix_trader": 0.33,
+   "retard_min": 3.8,
+   "token": "97112120823179936874911478679560289200033271982424894465715473536161621887776",
+   "prix_simule": 0.44,
+   "parts": 22.7273,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-27 23:40 UTC"
   }
  },
  "fermees": [
@@ -47168,6 +47168,23 @@
    "sortie": 1.0,
    "pnl": 12.7273,
    "ferme_le": "2026-11-27 23:20 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-27 20:45 UTC",
+   "trader": "primm",
+   "marche": "North Dakota State vs. San Jose State: O/U 49.5",
+   "resultat": "Over",
+   "prix_trader": 0.42,
+   "retard_min": 1.4,
+   "token": "41783051872028007047714481531828671199247249874676310016267401872117532992160",
+   "prix_simule": 0.48,
+   "parts": 20.8333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-27 20:45 UTC",
+   "sortie": 1.0,
+   "pnl": 10.8333,
+   "ferme_le": "2026-11-27 23:40 UTC",
    "type": "gagné"
   }
  ]
