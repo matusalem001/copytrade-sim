@@ -7194,3 +7194,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 23:10 UTC,primm,REGLEMENT,Spread: Steelers (-14.5),Steelers,,0.409,,,24.4499,24.45,14.45,gagné
 2026-11-27 23:10 UTC,primm,REGLEMENT,Spread: Steelers (-17.5),Steelers,,0.316,,,31.6456,31.65,21.65,gagné
 2026-11-27 23:10 UTC,primm,REGLEMENT,Broncos Team Total: O/U 20.5,Under,,0.68,,,14.7059,14.71,4.71,gagné
+2026-11-27 23:15 UTC,primm,REGLEMENT,Spread: Broncos (-4.5),Broncos,,0.48,,,20.8333,0.0,-10.0,perdu
+2026-11-27 23:15 UTC,primm,REGLEMENT,Spread: Broncos (-6.5),Broncos,,0.43,,,23.2558,0.0,-10.0,perdu
+2026-11-27 23:15 UTC,BreakTheBank,REGLEMENT,Spread: Broncos (-4.5),Broncos,,0.52,,,19.2308,0.0,-10.0,perdu

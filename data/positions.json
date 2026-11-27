@@ -182,32 +182,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-25 16:40 UTC"
   },
-  "primm|9459976629656204909291917966258442007364584663879890124703983481358591600074": {
-   "date": "2026-11-25 20:05 UTC",
-   "trader": "primm",
-   "marche": "Spread: Broncos (-4.5)",
-   "resultat": "Broncos",
-   "prix_trader": 0.46,
-   "retard_min": 1.2,
-   "token": "9459976629656204909291917966258442007364584663879890124703983481358591600074",
-   "prix_simule": 0.48,
-   "parts": 20.8333,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-25 20:05 UTC"
-  },
-  "primm|81831389176769317893445097446405604333262383139030702764467413979081779151459": {
-   "date": "2026-11-25 20:05 UTC",
-   "trader": "primm",
-   "marche": "Spread: Broncos (-6.5)",
-   "resultat": "Broncos",
-   "prix_trader": 0.41,
-   "retard_min": 1.2,
-   "token": "81831389176769317893445097446405604333262383139030702764467413979081779151459",
-   "prix_simule": 0.43,
-   "parts": 23.2558,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-25 20:05 UTC"
-  },
   "BreakTheBank|2259102227815950907342121712913326957116722298738395193563847530262859469556": {
    "date": "2026-11-26 01:00 UTC",
    "trader": "BreakTheBank",
@@ -363,19 +337,6 @@
    "parts": 25.641,
    "montant": 10.0,
    "ouvert_le": "2026-11-27 17:40 UTC"
-  },
-  "BreakTheBank|9459976629656204909291917966258442007364584663879890124703983481358591600074": {
-   "date": "2026-11-27 20:05 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Spread: Broncos (-4.5)",
-   "resultat": "Broncos",
-   "prix_trader": 0.51,
-   "retard_min": 5.6,
-   "token": "9459976629656204909291917966258442007364584663879890124703983481358591600074",
-   "prix_simule": 0.52,
-   "parts": 19.2308,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-27 20:05 UTC"
   },
   "primm|34728923272524558377498811501022601316839598551173045142853964915029861413080": {
    "date": "2026-11-27 20:20 UTC",
@@ -47032,6 +46993,57 @@
    "pnl": 4.7059,
    "ferme_le": "2026-11-27 23:10 UTC",
    "type": "gagné"
+  },
+  {
+   "date": "2026-11-25 20:05 UTC",
+   "trader": "primm",
+   "marche": "Spread: Broncos (-4.5)",
+   "resultat": "Broncos",
+   "prix_trader": 0.46,
+   "retard_min": 1.2,
+   "token": "9459976629656204909291917966258442007364584663879890124703983481358591600074",
+   "prix_simule": 0.48,
+   "parts": 20.8333,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-25 20:05 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-27 23:15 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-25 20:05 UTC",
+   "trader": "primm",
+   "marche": "Spread: Broncos (-6.5)",
+   "resultat": "Broncos",
+   "prix_trader": 0.41,
+   "retard_min": 1.2,
+   "token": "81831389176769317893445097446405604333262383139030702764467413979081779151459",
+   "prix_simule": 0.43,
+   "parts": 23.2558,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-25 20:05 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-27 23:15 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-27 20:05 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Broncos (-4.5)",
+   "resultat": "Broncos",
+   "prix_trader": 0.51,
+   "retard_min": 5.6,
+   "token": "9459976629656204909291917966258442007364584663879890124703983481358591600074",
+   "prix_simule": 0.52,
+   "parts": 19.2308,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-27 20:05 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-27 23:15 UTC",
+   "type": "perdu"
   }
  ]
 }
