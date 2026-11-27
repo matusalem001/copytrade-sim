@@ -7209,3 +7209,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 23:30 UTC,primm,ACHAT,Spread: Memphis (-6.5),Temple,0.3,0.558,25.8,9.3,17.9211,10.0,,
 2026-11-27 23:30 UTC,primm,ACHAT,Temple vs. Memphis: O/U 67.5,Over,0.36,0.45,9.0,6.3,22.2222,10.0,,
 2026-11-27 23:30 UTC,primm,ACHAT,Temple vs. Memphis: O/U 71.5,Over,0.3388,0.34,0.1,2.2,29.4118,10.0,,
+2026-11-27 23:35 UTC,primm,IGNORE,Spread: Steelers (-2.5),Steelers,0.58,,,141.0,,,,vu trop tard
+2026-11-27 23:35 UTC,primm,IGNORE,Temple vs. Memphis: O/U 65.5,Over,0.72,0.53,-19.0,3.6,,,,prix a trop chuté (match sans doute joué)
