@@ -6851,3 +6851,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 01:15 UTC,primm,ACHAT,Spread: Texas Tech (-6.5),TCU,0.35,0.38,3.0,1.1,26.3158,10.0,,
 2026-11-27 01:20 UTC,primm,ACHAT,Spread: Texas Tech (-10.5),TCU,0.51,0.48,-3.0,5.1,20.8333,10.0,,
 2026-11-27 01:20 UTC,primm,ACHAT,Spread: Texas Tech (-7.5),TCU,0.44,0.4,-4.0,5.1,25.0,10.0,,
+2026-11-27 01:25 UTC,BreakTheBank,ACHAT,Spread: Bills (-3.5),Bills,0.44,0.45,1.0,8.5,22.2222,10.0,,
+2026-11-27 01:25 UTC,BreakTheBank,ACHAT,Chiefs vs. Bills,Bills,0.61,0.61,0.0,5.7,16.3934,10.0,,
+2026-11-27 01:25 UTC,primm,IGNORE,Eagles vs. Cowboys: O/U 48.5,Under,0.44,,,201.1,,,,vu trop tard

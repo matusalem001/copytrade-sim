@@ -688,6 +688,32 @@
    "parts": 25.0,
    "montant": 10.0,
    "ouvert_le": "2026-11-27 01:20 UTC"
+  },
+  "BreakTheBank|4975183766879950029978649132729897604887770530047506886277586988238260240": {
+   "date": "2026-11-27 01:25 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Bills (-3.5)",
+   "resultat": "Bills",
+   "prix_trader": 0.44,
+   "retard_min": 8.5,
+   "token": "4975183766879950029978649132729897604887770530047506886277586988238260240",
+   "prix_simule": 0.45,
+   "parts": 22.2222,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-27 01:25 UTC"
+  },
+  "BreakTheBank|48587668859121385429521392778301244338034211032276628907358575749772967593139": {
+   "date": "2026-11-27 01:25 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Chiefs vs. Bills",
+   "resultat": "Bills",
+   "prix_trader": 0.61,
+   "retard_min": 5.7,
+   "token": "48587668859121385429521392778301244338034211032276628907358575749772967593139",
+   "prix_simule": 0.61,
+   "parts": 16.3934,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-27 01:25 UTC"
   }
  },
  "fermees": [
