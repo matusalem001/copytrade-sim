@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-27 00:55 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-27 01:01 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 364 | 562 | 348 | 177 | -49.60 $ | -1.4 % | 16 | +1.1 ¢ | 8 min |
-| primm | 2250 | 1047 | 2214 | 1104 | +136.11 $ | +0.6 % | 36 | +3.0 ¢ | 4 min |
+| primm | 2250 | 1051 | 2216 | 1105 | +148.37 $ | +0.7 % | 34 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : +13.58 $ sur 25900 $ engagés (+0.1 %)**
+**Total réalisé : +25.84 $ sur 25920 $ engagés (+0.1 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-27 00:55 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Eagles vs. Cowboys: O/U 56.5 | Under | 0.68 | 0.00 | -10.00 $ |
+| primm | Eagles vs. Cowboys: O/U 56.5 | Over | 0.31 | 1.00 | +22.26 $ |
 | primm | Eagles vs. Cowboys: O/U 50.5 | Under | 0.52 | 0.00 | -10.00 $ |
 | primm | Eagles vs. Cowboys: O/U 48.5 | Under | 0.46 | 0.00 | -10.00 $ |
 | primm | Eagles vs. Cowboys: O/U 44.5 | Under | 0.41 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-27 00:55 UTC** 
 | primm | Spread: Bears (-2.5) | Lions | 0.54 | 0.00 | -10.00 $ |
 | primm | Spread: Bears (-1.5) | Lions | 0.53 | 0.00 | -10.00 $ |
 | primm | Spread: Lions (-1.5) | Lions | 0.47 | 0.00 | -10.00 $ |
-| primm | Bears vs. Lions: O/U 64.5 | Over | 0.37 | 1.00 | +17.03 $ |
-| primm | Bears vs. Lions: O/U 58.5 | Over | 0.62 | 1.00 | +6.13 $ |
 
 Journal complet : `data/journal.csv`
