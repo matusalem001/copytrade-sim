@@ -7029,3 +7029,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 18:30 UTC,primm,IGNORE,Chiefs vs. Bills,Bills,0.52,,,862.7,,,,vu trop tard
 2026-11-27 18:30 UTC,primm,IGNORE,Spread: Toledo (-20.5),Toledo,0.36,0.26,-10.0,5.4,,,,prix a trop chuté (match sans doute joué)
 2026-11-27 18:30 UTC,primm,ACHAT,Spread: Toledo (-13.5),Toledo,0.47,0.47,0.0,2.3,21.2766,10.0,,
+2026-11-27 18:35 UTC,primm,IGNORE,Spread: Chiefs (-1.5),Chiefs,0.34,,,875.8,,,,vu trop tard
