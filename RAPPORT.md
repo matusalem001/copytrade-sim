@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-27 20:55 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-27 21:01 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 369 | 575 | 350 | 178 | -53.20 $ | -1.5 % | 19 | +1.1 ¢ | 8 min |
-| primm | 2359 | 1107 | 2317 | 1143 | -86.50 $ | -0.4 % | 42 | +3.0 ¢ | 4 min |
+| primm | 2365 | 1107 | 2321 | 1144 | -97.93 $ | -0.4 % | 44 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : -212.65 $ sur 26950 $ engagés (-0.8 %)**
+**Total réalisé : -224.08 $ sur 26990 $ engagés (-0.8 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,10 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-27 20:55 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Toledo (-3.5) | Ohio | 0.35 | 1.00 | +18.57 $ |
+| primm | Spread: Toledo (-2.5) | Ohio | 0.43 | 0.00 | -10.00 $ |
+| primm | Spread: Toledo (-13.5) | Toledo | 0.47 | 0.00 | -10.00 $ |
+| primm | Spread: Toledo (-16.5) | Toledo | 0.60 | 0.00 | -10.00 $ |
 | primm | Spread: Toledo (-14.5) | Toledo | 0.54 | 0.00 | -10.00 $ |
 | primm | Spread: UTSA (-1.5) | Tulsa | 0.49 | 0.00 | -10.00 $ |
 | primm | Spread: Toledo (-17.5) | Toledo | 0.64 | 0.00 | -10.00 $ |
@@ -37,9 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-27 20:55 UTC** 
 | primm | Spread: Iowa (-7.5) | Iowa | 0.51 | 1.00 | +9.61 $ |
 | primm | Nebraska vs. Iowa: O/U 39.5 | Over | 0.44 | 0.00 | -10.00 $ |
 | primm | Spread: Nebraska (-2.5) | Nebraska | 0.42 | 0.00 | -10.00 $ |
-| primm | Spread: Iowa (-1.5) | Nebraska | 0.49 | 0.00 | -10.00 $ |
-| primm | Spread: Iowa (-2.5) | Nebraska | 0.51 | 0.00 | -10.00 $ |
-| primm | Spread: Iowa (-5.5) | Nebraska | 0.56 | 0.00 | -10.00 $ |
-| primm | Nebraska vs. Iowa: O/U 41.5 | Under | 0.61 | 1.00 | +6.39 $ |
 
 Journal complet : `data/journal.csv`

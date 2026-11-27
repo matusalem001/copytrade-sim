@@ -7134,3 +7134,13 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 20:55 UTC,primm,REGLEMENT,Spread: Toledo (-17.5),Toledo,,0.64,,,15.625,0.0,-10.0,perdu
 2026-11-27 20:55 UTC,primm,REGLEMENT,Spread: UTSA (-1.5),Tulsa,,0.49,,,20.4082,0.0,-10.0,perdu
 2026-11-27 20:55 UTC,primm,REGLEMENT,Spread: Toledo (-14.5),Toledo,,0.54,,,18.5185,0.0,-10.0,perdu
+2026-11-27 21:00 UTC,primm,ACHAT,Spread: Steelers (-3.5),Steelers,0.5,0.47,-3.0,9.2,21.2766,10.0,,
+2026-11-27 21:00 UTC,primm,ACHAT,Florida vs. Florida State: O/U 53.5,Over,0.48,0.51,3.0,9.1,19.6078,10.0,,
+2026-11-27 21:00 UTC,primm,ACHAT,Florida vs. Florida State: O/U 49.5,Over,0.58,0.64,6.0,8.6,15.625,10.0,,
+2026-11-27 21:00 UTC,primm,ACHAT,Broncos vs. Steelers: O/U 42.5,Under,0.48,0.53,5.0,6.7,18.8679,10.0,,
+2026-11-27 21:00 UTC,primm,ACHAT,Florida vs. Florida State: O/U 43.5,Over,0.7,0.86,16.0,3.6,11.6279,10.0,,
+2026-11-27 21:00 UTC,primm,ACHAT,Temple vs. Memphis: O/U 63.5,Under,0.38,0.36,-2.0,1.9,27.7778,10.0,,
+2026-11-27 21:01 UTC,primm,REGLEMENT,Spread: Toledo (-16.5),Toledo,,0.6,,,16.6667,0.0,-10.0,perdu
+2026-11-27 21:01 UTC,primm,REGLEMENT,Spread: Toledo (-13.5),Toledo,,0.47,,,21.2766,0.0,-10.0,perdu
+2026-11-27 21:01 UTC,primm,REGLEMENT,Spread: Toledo (-2.5),Ohio,,0.43,,,23.2558,0.0,-10.0,perdu
+2026-11-27 21:01 UTC,primm,REGLEMENT,Spread: Toledo (-3.5),Ohio,,0.35,,,28.5714,28.57,18.57,gagné
