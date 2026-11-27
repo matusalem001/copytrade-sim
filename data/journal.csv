@@ -7155,3 +7155,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 21:15 UTC,primm,IGNORE,Spread: Toledo (-14.5),Toledo,0.53,,,170.2,,,,vu trop tard
 2026-11-27 21:15 UTC,primm,ACHAT,North Dakota State vs. San Jose State: O/U 55.5,Over,0.5,0.51,1.0,5.0,19.6078,10.0,,
 2026-11-27 21:15 UTC,primm,ACHAT,Broncos vs. Steelers: O/U 42.5,Over,0.5,0.76,26.0,2.7,13.1579,10.0,,
+2026-11-27 21:20 UTC,primm,ACHAT,Spread: North Dakota State (-20.5),North Dakota State,0.55,0.52,-3.0,4.1,19.2308,10.0,,
+2026-11-27 21:20 UTC,primm,ACHAT,Spread: Steelers (-13.5),Steelers,0.41,0.44,3.0,3.3,22.7273,10.0,,
+2026-11-27 21:20 UTC,primm,ACHAT,Spread: Steelers (-16.5),Steelers,0.324,0.34,1.6,3.3,29.4118,10.0,,
+2026-11-27 21:20 UTC,primm,ACHAT,Spread: Steelers (-14.5),Steelers,0.394,0.409,1.5,3.0,24.4499,10.0,,
+2026-11-27 21:20 UTC,primm,ACHAT,Temple vs. Memphis: O/U 71.5,Under,0.54,0.57,3.0,0.6,17.5439,10.0,,
