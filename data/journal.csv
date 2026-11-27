@@ -7044,3 +7044,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 19:50 UTC,BreakTheBank,ACHAT,Spread: Broncos (-7.5),Broncos,0.38,0.39,1.0,8.3,25.641,10.0,,
 2026-11-27 19:55 UTC,primm,IGNORE,Chiefs vs. Bills,Bills,0.52,,,933.8,,,,vu trop tard
 2026-11-27 19:55 UTC,primm,ACHAT,Spread: Ole Miss (-11.5),Ole Miss,0.36,0.41,5.0,3.4,24.3902,10.0,,
+2026-11-27 20:00 UTC,primm,IGNORE,Chiefs vs. Bills,Bills,0.51,,,952.5,,,,vu trop tard
+2026-11-27 20:00 UTC,primm,ACHAT,Toledo vs. Ohio: O/U 53.5,Over,0.77,0.93,16.0,3.6,10.7527,10.0,,
+2026-11-27 20:00 UTC,primm,ACHAT,Toledo vs. Ohio: O/U 59.5,Over,0.34,0.37,3.0,3.6,27.027,10.0,,
+2026-11-27 20:00 UTC,primm,ACHAT,Mississippi State vs. Ole Miss: O/U 55.5,Under,0.74,0.75,1.0,0.8,13.3333,10.0,,
