@@ -6906,3 +6906,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 02:10 UTC,primm,ACHAT,Chiefs vs. Bills: O/U 38.5,Over,0.54,0.53,-1.0,2.4,18.8679,10.0,,
 2026-11-27 02:20 UTC,primm,IGNORE,Spread: Cowboys (-20.5),Eagles,0.49,,,142.6,,,,vu trop tard
 2026-11-27 02:20 UTC,primm,ACHAT,Spread: Bills (-14.5),Bills,0.33,0.4,7.0,0.9,25.0,10.0,,
+2026-11-27 02:25 UTC,primm,IGNORE,Spread: Cowboys (-9.5),Eagles,0.44,,,248.7,,,,vu trop tard
