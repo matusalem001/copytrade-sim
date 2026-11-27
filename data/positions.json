@@ -1065,6 +1065,19 @@
    "parts": 16.6667,
    "montant": 10.0,
    "ouvert_le": "2026-11-27 19:45 UTC"
+  },
+  "BreakTheBank|109943758111828815126059485186175204839514990952817221761199935365762064117406": {
+   "date": "2026-11-27 19:50 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Broncos (-7.5)",
+   "resultat": "Broncos",
+   "prix_trader": 0.38,
+   "retard_min": 8.3,
+   "token": "109943758111828815126059485186175204839514990952817221761199935365762064117406",
+   "prix_simule": 0.39,
+   "parts": 25.641,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-27 19:50 UTC"
   }
  },
  "fermees": [
