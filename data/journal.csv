@@ -7058,3 +7058,20 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 20:15 UTC,BreakTheBank,IGNORE,Packers vs. Rams,Packers,0.44,,,2598.0,,,,vu trop tard
 2026-11-27 20:15 UTC,primm,REGLEMENT,Toledo vs. Ohio: O/U 47.5,Under,,0.58,,,17.2414,0.0,-10.0,perdu
 2026-11-27 20:15 UTC,primm,REGLEMENT,Toledo vs. Ohio: O/U 41.5,Under,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-27 20:20 UTC,primm,IGNORE,Mississippi State vs. Ole Miss: O/U 39.5,Over,0.72,,,119.3,,,,vu trop tard
+2026-11-27 20:20 UTC,primm,ACHAT,Spread: North Dakota State (-7.5),San Jose State,0.45,0.45,-0.0,6.7,22.2222,10.0,,
+2026-11-27 20:20 UTC,primm,IGNORE,Spread: Broncos (-1.5),Steelers,0.41,0.33,-8.0,6.6,,,,prix a trop chuté (match sans doute joué)
+2026-11-27 20:20 UTC,primm,ACHAT,Spread: North Dakota State (-10.5),San Jose State,0.53,0.53,-0.0,6.2,18.8679,10.0,,
+2026-11-27 20:20 UTC,primm,ACHAT,North Dakota State vs. San Jose State: O/U 43.5,Over,0.43,0.44,1.0,4.1,22.7273,10.0,,
+2026-11-27 20:20 UTC,primm,ACHAT,Spread: North Dakota State (-14.5),North Dakota State,0.37,0.4,3.0,4.2,25.0,10.0,,
+2026-11-27 20:20 UTC,primm,REGLEMENT,Spread: Buffalo (-7.5),Buffalo,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-27 20:20 UTC,primm,REGLEMENT,Spread: Buffalo (-13.5),Buffalo,,0.4,,,25.0,0.0,-10.0,perdu
+2026-11-27 20:20 UTC,primm,REGLEMENT,Spread: Buffalo (-14.5),Buffalo,,0.39,,,25.641,0.0,-10.0,perdu
+2026-11-27 20:20 UTC,primm,REGLEMENT,Spread: Buffalo (-16.5),Buffalo,,0.36,,,27.7778,0.0,-10.0,perdu
+2026-11-27 20:20 UTC,primm,REGLEMENT,Spread: Buffalo (-17.5),Buffalo,,0.37,,,27.027,0.0,-10.0,perdu
+2026-11-27 20:20 UTC,primm,REGLEMENT,Spread: Buffalo (-10.5),Buffalo,,0.55,,,18.1818,0.0,-10.0,perdu
+2026-11-27 20:20 UTC,primm,REGLEMENT,Spread: Buffalo (-20.5),Buffalo,,0.26,,,38.4615,0.0,-10.0,perdu
+2026-11-27 20:20 UTC,primm,REGLEMENT,Buffalo vs. Akron: O/U 37.5,Over,,0.44,,,22.7273,0.0,-10.0,perdu
+2026-11-27 20:20 UTC,primm,REGLEMENT,Buffalo vs. Akron,Akron,,0.29,,,34.4828,0.0,-10.0,perdu
+2026-11-27 20:20 UTC,primm,REGLEMENT,Spread: Buffalo (-2.5),Buffalo,,0.47,,,21.2766,21.28,11.28,gagné
+2026-11-27 20:20 UTC,primm,REGLEMENT,Spread: Buffalo (-5.5),Buffalo,,0.27,,,37.037,37.04,27.04,gagné
