@@ -7148,3 +7148,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 21:05 UTC,primm,IGNORE,Nebraska vs. Iowa: O/U 39.5,Under,0.48,,,170.3,,,,vu trop tard
 2026-11-27 21:05 UTC,primm,IGNORE,Toledo vs. Ohio: O/U 51.5,Over,0.34,,,85.2,,,,vu trop tard
 2026-11-27 21:05 UTC,primm,ACHAT,Steelers Team Total: O/U 20.5,Over,0.61,0.71,10.0,2.3,14.0845,10.0,,
+2026-11-27 21:10 UTC,primm,IGNORE,Buffalo vs. Akron: O/U 37.5,Over,0.43,,,172.6,,,,vu trop tard
+2026-11-27 21:10 UTC,primm,ACHAT,Florida vs. Florida State: O/U 37.5,Over,0.74,0.75,1.0,3.2,13.3333,10.0,,
+2026-11-27 21:10 UTC,primm,ACHAT,Spread: North Dakota State (-13.5),North Dakota State,0.53,0.59,6.0,3.0,16.9492,10.0,,
+2026-11-27 21:10 UTC,primm,ACHAT,Spread: Steelers (-2.5),Steelers,0.59,0.6,1.0,1.1,16.6667,10.0,,
