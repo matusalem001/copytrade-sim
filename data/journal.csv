@@ -7144,3 +7144,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 21:01 UTC,primm,REGLEMENT,Spread: Toledo (-13.5),Toledo,,0.47,,,21.2766,0.0,-10.0,perdu
 2026-11-27 21:01 UTC,primm,REGLEMENT,Spread: Toledo (-2.5),Ohio,,0.43,,,23.2558,0.0,-10.0,perdu
 2026-11-27 21:01 UTC,primm,REGLEMENT,Spread: Toledo (-3.5),Ohio,,0.35,,,28.5714,28.57,18.57,gagné
+2026-11-27 21:05 UTC,primm,IGNORE,Spread: Buffalo (-16.5),Buffalo,0.42,,,191.4,,,,vu trop tard
+2026-11-27 21:05 UTC,primm,IGNORE,Nebraska vs. Iowa: O/U 39.5,Under,0.48,,,170.3,,,,vu trop tard
+2026-11-27 21:05 UTC,primm,IGNORE,Toledo vs. Ohio: O/U 51.5,Over,0.34,,,85.2,,,,vu trop tard
+2026-11-27 21:05 UTC,primm,ACHAT,Steelers Team Total: O/U 20.5,Over,0.61,0.71,10.0,2.3,14.0845,10.0,,
