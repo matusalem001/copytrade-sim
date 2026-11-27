@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-27 23:15 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-27 23:20 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 369 | 575 | 353 | 178 | -83.20 $ | -2.4 % | 16 | +1.1 ¢ | 8 min |
-| primm | 2382 | 1113 | 2348 | 1164 | +91.46 $ | +0.4 % | 34 | +3.0 ¢ | 4 min |
+| primm | 2388 | 1113 | 2350 | 1166 | +113.42 $ | +0.5 % | 38 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : -64.69 $ sur 27290 $ engagés (-0.2 %)**
+**Total réalisé : -42.73 $ sur 27310 $ engagés (-0.2 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-27 23:15 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | North Dakota State vs. San Jose State: O/U 43.5 | Over | 0.44 | 1.00 | +12.73 $ |
+| primm | North Dakota State vs. San Jose State: O/U 39.5 | Over | 0.52 | 1.00 | +9.23 $ |
 | BreakTheBank | Spread: Broncos (-4.5) | Broncos | 0.52 | 0.00 | -10.00 $ |
 | primm | Spread: Broncos (-6.5) | Broncos | 0.43 | 0.00 | -10.00 $ |
 | primm | Spread: Broncos (-4.5) | Broncos | 0.48 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-27 23:15 UTC** 
 | primm | Spread: Broncos (-3.5) | Steelers | 0.45 | 1.00 | +12.22 $ |
 | BreakTheBank | Spread: Broncos (-5.5) | Broncos | 0.48 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Broncos (-7.5) | Broncos | 0.39 | 0.00 | -10.00 $ |
-| primm | Broncos vs. Steelers | Steelers | 0.32 | 1.00 | +21.25 $ |
-| primm | Spread: Broncos (-2.5) | Steelers | 0.37 | 1.00 | +17.03 $ |
 
 Journal complet : `data/journal.csv`
