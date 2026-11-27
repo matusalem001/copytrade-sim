@@ -7038,3 +7038,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 19:35 UTC,primm,ACHAT,Spread: Toledo (-2.5),Ohio,0.38,0.43,5.0,0.7,23.2558,10.0,,
 2026-11-27 19:40 UTC,primm,ACHAT,Toledo vs. Ohio: O/U 49.5,Over,0.51,0.51,0.0,2.9,19.6078,10.0,,
 2026-11-27 19:40 UTC,primm,ACHAT,Toledo vs. Ohio: O/U 51.5,Over,0.34,0.35,1.0,0.3,28.5714,10.0,,
+2026-11-27 19:45 UTC,primm,ACHAT,Broncos vs. Steelers,Steelers,0.32,0.32,0.0,4.2,31.25,10.0,,
+2026-11-27 19:45 UTC,primm,ACHAT,Spread: Toledo (-3.5),Ohio,0.34,0.35,1.0,0.7,28.5714,10.0,,
+2026-11-27 19:45 UTC,primm,ACHAT,Spread: Iowa (-16.5),Iowa,0.59,0.6,1.0,0.2,16.6667,10.0,,
