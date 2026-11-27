@@ -6974,3 +6974,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 15:45 UTC,primm,ACHAT,Texas vs. Texas A&M: O/U 39.5,Over,0.58,0.59,1.0,1.2,16.9492,10.0,,
 2026-11-27 15:50 UTC,primm,IGNORE,Spread: TCU (-2.5),TCU,0.41,,,838.4,,,,vu trop tard
 2026-11-27 15:50 UTC,primm,IGNORE,Chiefs vs. Bills,Chiefs,0.44,,,750.8,,,,vu trop tard
+2026-11-27 16:55 UTC,primm,IGNORE,TCU vs. Texas Tech,TCU,0.36,,,902.6,,,,vu trop tard
