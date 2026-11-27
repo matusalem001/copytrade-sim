@@ -7016,3 +7016,8 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 18:05 UTC,primm,IGNORE,Chiefs vs. Bills,Bills,0.51,,,837.1,,,,vu trop tard
 2026-11-27 18:05 UTC,primm,ACHAT,Spread: UTSA (-7.5),Tulsa,0.46,0.59,13.0,3.4,16.9492,10.0,,
 2026-11-27 18:05 UTC,primm,ACHAT,Spread: UTSA (-10.5),Tulsa,0.5496,0.68,13.0,3.4,14.7059,10.0,,
+2026-11-27 18:15 UTC,primm,ACHAT,Nebraska vs. Iowa: O/U 41.5,Under,0.54,0.61,7.0,6.4,16.3934,10.0,,
+2026-11-27 18:15 UTC,primm,ACHAT,Nebraska vs. Iowa: O/U 45.5,Under,0.68,0.78,10.0,6.2,12.8205,10.0,,
+2026-11-27 18:15 UTC,primm,ACHAT,Nebraska vs. Iowa: O/U 39.5,Under,0.48,0.5,2.0,1.3,20.0,10.0,,
+2026-11-27 18:15 UTC,primm,ACHAT,Spread: Toledo (-16.5),Toledo,0.5697,0.6,3.0,0.9,16.6667,10.0,,
+2026-11-27 18:15 UTC,primm,ACHAT,Toledo vs. Ohio: O/U 41.5,Under,0.44,0.46,2.0,0.9,21.7391,10.0,,
