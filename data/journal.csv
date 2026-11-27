@@ -7161,3 +7161,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 21:20 UTC,primm,ACHAT,Spread: Steelers (-14.5),Steelers,0.394,0.409,1.5,3.0,24.4499,10.0,,
 2026-11-27 21:20 UTC,primm,ACHAT,Temple vs. Memphis: O/U 71.5,Under,0.54,0.57,3.0,0.6,17.5439,10.0,,
 2026-11-27 21:25 UTC,primm,IGNORE,Spread: Toledo (-1.5),Ohio,0.36,,,118.3,,,,vu trop tard
+2026-11-27 21:30 UTC,primm,ACHAT,Spread: Steelers (-17.5),Steelers,0.31,0.316,0.6,2.9,31.6456,10.0,,
+2026-11-27 21:30 UTC,primm,ACHAT,Broncos Team Total: O/U 20.5,Under,0.68,0.68,0.0,1.2,14.7059,10.0,,
