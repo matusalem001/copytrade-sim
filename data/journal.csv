@@ -6929,3 +6929,9 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 04:00 UTC,primm,ACHAT,Spread: Chiefs (-2.5),Chiefs,0.37,0.32,-5.0,1.5,31.25,10.0,,
 2026-11-27 04:00 UTC,primm,ACHAT,Chiefs vs. Bills: O/U 26.5,Over,0.56,0.516,-4.4,1.5,19.3798,10.0,,
 2026-11-27 04:25 UTC,primm,REGLEMENT,TCU vs. Texas Tech: O/U 63.5,Under,,0.52,,,19.2308,0.0,-10.0,perdu
+2026-11-27 04:45 UTC,primm,REGLEMENT,Chiefs vs. Bills: O/U 48.5,Over,,0.41,,,24.3902,0.0,-10.0,perdu
+2026-11-27 04:45 UTC,BreakTheBank,REGLEMENT,Spread: Bills (-3.5),Bills,,0.45,,,22.2222,0.0,-10.0,perdu
+2026-11-27 04:45 UTC,primm,REGLEMENT,Spread: Bills (-2.5),Chiefs,,0.48,,,20.8333,0.0,-10.0,perdu
+2026-11-27 04:45 UTC,primm,REGLEMENT,Chiefs vs. Bills: O/U 38.5,Under,,0.4,,,25.0,25.0,15.0,gagné
+2026-11-27 04:45 UTC,primm,REGLEMENT,Chiefs vs. Bills: O/U 38.5,Over,,0.53,,,18.8679,0.0,-10.0,perdu
+2026-11-27 04:45 UTC,primm,REGLEMENT,Spread: Bills (-1.5),Chiefs,,0.52,,,19.2308,0.0,-10.0,perdu

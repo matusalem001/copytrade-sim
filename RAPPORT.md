@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-27 04:40 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-27 04:45 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 366 | 572 | 348 | 177 | -49.60 $ | -1.4 % | 18 | +1.1 ¢ | 8 min |
-| primm | 2284 | 1070 | 2232 | 1117 | +252.04 $ | +1.1 % | 52 | +3.0 ¢ | 4 min |
+| BreakTheBank | 366 | 572 | 349 | 177 | -59.60 $ | -1.7 % | 17 | +1.1 ¢ | 8 min |
+| primm | 2284 | 1070 | 2237 | 1118 | +227.04 $ | +1.0 % | 47 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : +129.50 $ sur 26080 $ engagés (+0.5 %)**
+**Total réalisé : +94.50 $ sur 26140 $ engagés (+0.4 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,12 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-27 04:40 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Bills (-1.5) | Chiefs | 0.52 | 0.00 | -10.00 $ |
+| primm | Chiefs vs. Bills: O/U 38.5 | Over | 0.53 | 0.00 | -10.00 $ |
+| primm | Chiefs vs. Bills: O/U 38.5 | Under | 0.40 | 1.00 | +15.00 $ |
+| primm | Spread: Bills (-2.5) | Chiefs | 0.48 | 0.00 | -10.00 $ |
+| BreakTheBank | Spread: Bills (-3.5) | Bills | 0.45 | 0.00 | -10.00 $ |
+| primm | Chiefs vs. Bills: O/U 48.5 | Over | 0.41 | 0.00 | -10.00 $ |
 | primm | TCU vs. Texas Tech: O/U 63.5 | Under | 0.52 | 0.00 | -10.00 $ |
 | primm | TCU vs. Texas Tech: O/U 45.5 | Over | 0.54 | 1.00 | +8.52 $ |
 | primm | TCU vs. Texas Tech: O/U 47.5 | Over | 0.48 | 1.00 | +10.83 $ |
@@ -35,11 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-27 04:40 UTC** 
 | primm | Eagles vs. Cowboys: O/U 56.5 | Under | 0.68 | 0.00 | -10.00 $ |
 | primm | Eagles vs. Cowboys: O/U 56.5 | Over | 0.31 | 1.00 | +22.26 $ |
 | primm | Eagles vs. Cowboys: O/U 50.5 | Under | 0.52 | 0.00 | -10.00 $ |
-| primm | Eagles vs. Cowboys: O/U 48.5 | Under | 0.46 | 0.00 | -10.00 $ |
-| primm | Eagles vs. Cowboys: O/U 44.5 | Under | 0.41 | 0.00 | -10.00 $ |
-| primm | Eagles vs. Cowboys: O/U 46.5 | Under | 0.40 | 0.00 | -10.00 $ |
-| primm | Spread: Bears (-1.5) | Bears | 0.34 | 1.00 | +19.41 $ |
-| primm | Spread: Lions (-3.5) | Bears | 0.61 | 1.00 | +6.39 $ |
-| primm | Spread: Lions (-4.5) | Bears | 0.64 | 1.00 | +5.62 $ |
 
 Journal complet : `data/journal.csv`
