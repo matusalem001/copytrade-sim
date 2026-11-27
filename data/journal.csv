@@ -6982,3 +6982,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 17:20 UTC,primm,ACHAT,Spread: Nebraska (-2.5),Nebraska,0.39,0.42,3.0,1.1,23.8095,10.0,,
 2026-11-27 17:20 UTC,primm,ACHAT,Nebraska vs. Iowa: O/U 37.5,Over,0.47,0.47,0.0,1.1,21.2766,10.0,,
 2026-11-27 17:20 UTC,primm,ACHAT,Nebraska vs. Iowa: O/U 39.5,Over,0.41,0.44,3.0,0.4,22.7273,10.0,,
+2026-11-27 17:25 UTC,primm,IGNORE,Chiefs vs. Bills: O/U 38.5,Over,0.55,,,910.1,,,,vu trop tard
