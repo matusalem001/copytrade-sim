@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-27 20:20 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-27 20:25 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 369 | 575 | 350 | 178 | -53.20 $ | -1.5 % | 19 | +1.1 ¢ | 8 min |
-| primm | 2344 | 1098 | 2282 | 1129 | -1.15 $ | -0.0 % | 62 | +3.0 ¢ | 4 min |
+| primm | 2345 | 1099 | 2283 | 1130 | +10.13 $ | +0.0 % | 62 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : -127.29 $ sur 26600 $ engagés (-0.5 %)**
+**Total réalisé : -116.01 $ sur 26610 $ engagés (-0.4 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-27 20:20 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Nebraska vs. Iowa: O/U 37.5 | Over | 0.47 | 1.00 | +11.28 $ |
 | primm | Spread: Buffalo (-5.5) | Buffalo | 0.27 | 1.00 | +27.04 $ |
 | primm | Spread: Buffalo (-2.5) | Buffalo | 0.47 | 1.00 | +11.28 $ |
 | primm | Buffalo vs. Akron | Akron | 0.29 | 0.00 | -10.00 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-27 20:20 UTC** 
 | primm | Chiefs vs. Bills: O/U 26.5 | Under | 0.50 | 1.00 | +10.16 $ |
 | primm | Spread: Chiefs (-1.5) | Bills | 0.67 | 1.00 | +4.93 $ |
 | primm | Spread: Chiefs (-2.5) | Bills | 0.69 | 1.00 | +4.49 $ |
-| primm | Spread: Chiefs (-4.5) | Chiefs | 0.19 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
