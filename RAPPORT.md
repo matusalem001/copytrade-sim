@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-27 03:40 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-27 03:45 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 366 | 572 | 348 | 177 | -49.60 $ | -1.4 % | 18 | +1.1 ¢ | 8 min |
-| primm | 2274 | 1069 | 2229 | 1115 | +242.69 $ | +1.1 % | 45 | +3.0 ¢ | 4 min |
+| primm | 2274 | 1070 | 2231 | 1117 | +262.04 $ | +1.2 % | 43 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : +120.15 $ sur 26050 $ engagés (+0.5 %)**
+**Total réalisé : +139.50 $ sur 26070 $ engagés (+0.5 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-27 03:40 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | TCU vs. Texas Tech: O/U 45.5 | Over | 0.54 | 1.00 | +8.52 $ |
+| primm | TCU vs. Texas Tech: O/U 47.5 | Over | 0.48 | 1.00 | +10.83 $ |
 | primm | Spread: Cowboys (-5.5) | Eagles | 0.54 | 1.00 | +8.52 $ |
 | primm | Spread: Cowboys (-7.5) | Eagles | 0.53 | 1.00 | +8.87 $ |
 | primm | Spread: Cowboys (-4.5) | Eagles | 0.50 | 1.00 | +9.92 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-27 03:40 UTC** 
 | primm | Spread: Lions (-3.5) | Bears | 0.61 | 1.00 | +6.39 $ |
 | primm | Spread: Lions (-4.5) | Bears | 0.64 | 1.00 | +5.62 $ |
 | primm | Spread: Bears (-2.5) | Bears | 0.31 | 1.00 | +22.26 $ |
-| primm | Bears vs. Lions | Bears | 0.41 | 1.00 | +14.39 $ |
-| primm | Spread: Lions (-1.5) | Bears | 0.45 | 1.00 | +12.22 $ |
 
 Journal complet : `data/journal.csv`
