@@ -7006,3 +7006,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 17:50 UTC,primm,IGNORE,Chiefs vs. Bills,Bills,0.52,,,822.5,,,,vu trop tard
 2026-11-27 17:50 UTC,primm,ACHAT,Spread: Buffalo (-14.5),Buffalo,0.39,0.39,0.0,1.8,25.641,10.0,,
 2026-11-27 17:50 UTC,primm,ACHAT,Spread: Buffalo (-16.5),Buffalo,0.36,0.36,0.0,0.7,27.7778,10.0,,
+2026-11-27 17:55 UTC,primm,ACHAT,Spread: Buffalo (-17.5),Buffalo,0.37,0.37,0.0,1.3,27.027,10.0,,
+2026-11-27 17:55 UTC,primm,ACHAT,Spread: Buffalo (-10.5),Buffalo,0.55,0.55,0.0,1.4,18.1818,10.0,,
