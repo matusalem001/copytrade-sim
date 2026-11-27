@@ -7206,3 +7206,6 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 23:20 UTC,primm,REGLEMENT,North Dakota State vs. San Jose State: O/U 39.5,Over,,0.52,,,19.2308,19.23,9.23,gagné
 2026-11-27 23:20 UTC,primm,REGLEMENT,North Dakota State vs. San Jose State: O/U 43.5,Over,,0.44,,,22.7273,22.73,12.73,gagné
 2026-11-27 23:25 UTC,primm,IGNORE,Broncos vs. Steelers: O/U 46.5,Under,0.45,,,116.7,,,,vu trop tard
+2026-11-27 23:30 UTC,primm,ACHAT,Spread: Memphis (-6.5),Temple,0.3,0.558,25.8,9.3,17.9211,10.0,,
+2026-11-27 23:30 UTC,primm,ACHAT,Temple vs. Memphis: O/U 67.5,Over,0.36,0.45,9.0,6.3,22.2222,10.0,,
+2026-11-27 23:30 UTC,primm,ACHAT,Temple vs. Memphis: O/U 71.5,Over,0.3388,0.34,0.1,2.2,29.4118,10.0,,
