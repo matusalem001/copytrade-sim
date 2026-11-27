@@ -870,6 +870,32 @@
    "parts": 16.6667,
    "montant": 10.0,
    "ouvert_le": "2026-11-27 21:10 UTC"
+  },
+  "primm|67228952611233851744341891706629770015272053444247841957059763748990641244814": {
+   "date": "2026-11-27 21:15 UTC",
+   "trader": "primm",
+   "marche": "North Dakota State vs. San Jose State: O/U 55.5",
+   "resultat": "Over",
+   "prix_trader": 0.5,
+   "retard_min": 5.0,
+   "token": "67228952611233851744341891706629770015272053444247841957059763748990641244814",
+   "prix_simule": 0.51,
+   "parts": 19.6078,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-27 21:15 UTC"
+  },
+  "primm|4388573144183579343547347072921768407047312200344118686157431466351937734208": {
+   "date": "2026-11-27 21:15 UTC",
+   "trader": "primm",
+   "marche": "Broncos vs. Steelers: O/U 42.5",
+   "resultat": "Over",
+   "prix_trader": 0.5,
+   "retard_min": 2.7,
+   "token": "4388573144183579343547347072921768407047312200344118686157431466351937734208",
+   "prix_simule": 0.76,
+   "parts": 13.1579,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-27 21:15 UTC"
   }
  },
  "fermees": [
