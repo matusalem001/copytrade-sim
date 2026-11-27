@@ -7090,3 +7090,21 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 20:35 UTC,primm,REGLEMENT,Spread: Iowa (-6.5),Nebraska,,0.58,,,17.2414,0.0,-10.0,perdu
 2026-11-27 20:35 UTC,primm,REGLEMENT,Nebraska vs. Iowa,Nebraska,,0.41,,,24.3902,0.0,-10.0,perdu
 2026-11-27 20:35 UTC,primm,REGLEMENT,Nebraska vs. Iowa: O/U 41.5,Under,,0.61,,,16.3934,16.39,6.39,gagné
+2026-11-27 20:40 UTC,primm,ACHAT,Spread: New Mexico (-6.5),New Mexico,0.56,0.55,-1.0,5.9,18.1818,10.0,,
+2026-11-27 20:40 UTC,primm,ACHAT,Spread: Steelers (-9.5),Steelers,0.36,0.33,-3.0,5.1,30.303,10.0,,
+2026-11-27 20:40 UTC,primm,ACHAT,Spread: Steelers (-5.5),Steelers,0.51,0.47,-4.0,5.1,21.2766,10.0,,
+2026-11-27 20:40 UTC,primm,ACHAT,Spread: Steelers (-6.5),Steelers,0.48,0.44,-4.0,4.8,22.7273,10.0,,
+2026-11-27 20:40 UTC,primm,ACHAT,Spread: Steelers (-10.5),Steelers,0.32,0.29,-3.0,2.8,34.4828,10.0,,
+2026-11-27 20:40 UTC,primm,ACHAT,Spread: Steelers (-4.5),Steelers,0.53,0.5,-3.0,1.9,20.0,10.0,,
+2026-11-27 20:40 UTC,primm,ACHAT,Spread: North Dakota State (-17.5),North Dakota State,0.51,0.52,1.0,1.2,19.2308,10.0,,
+2026-11-27 20:40 UTC,primm,REGLEMENT,Spread: Iowa (-5.5),Nebraska,,0.56,,,17.8571,0.0,-10.0,perdu
+2026-11-27 20:40 UTC,primm,REGLEMENT,Spread: Iowa (-2.5),Nebraska,,0.51,,,19.6078,0.0,-10.0,perdu
+2026-11-27 20:40 UTC,primm,REGLEMENT,Spread: Iowa (-1.5),Nebraska,,0.49,,,20.4082,0.0,-10.0,perdu
+2026-11-27 20:40 UTC,primm,REGLEMENT,Spread: Nebraska (-2.5),Nebraska,,0.42,,,23.8095,0.0,-10.0,perdu
+2026-11-27 20:40 UTC,primm,REGLEMENT,Nebraska vs. Iowa: O/U 39.5,Over,,0.44,,,22.7273,0.0,-10.0,perdu
+2026-11-27 20:40 UTC,primm,REGLEMENT,Spread: Iowa (-7.5),Iowa,,0.51,,,19.6078,19.61,9.61,gagné
+2026-11-27 20:40 UTC,primm,REGLEMENT,Nebraska vs. Iowa: O/U 45.5,Under,,0.78,,,12.8205,12.82,2.82,gagné
+2026-11-27 20:40 UTC,primm,REGLEMENT,Nebraska vs. Iowa: O/U 39.5,Under,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-27 20:40 UTC,primm,REGLEMENT,Spread: Iowa (-16.5),Iowa,,0.6,,,16.6667,16.67,6.67,gagné
+2026-11-27 20:40 UTC,primm,REGLEMENT,Mississippi State vs. Ole Miss: O/U 55.5,Under,,0.75,,,13.3333,0.0,-10.0,perdu
+2026-11-27 20:40 UTC,primm,REGLEMENT,Mississippi State vs. Ole Miss: O/U 51.5,Under,,0.46,,,21.7391,0.0,-10.0,perdu
