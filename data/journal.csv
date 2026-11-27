@@ -6990,3 +6990,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 17:30 UTC,primm,ACHAT,Spread: UTSA (-6.5),Tulsa,0.56,0.63,7.0,4.9,15.873,10.0,,
 2026-11-27 17:30 UTC,primm,ACHAT,Tulsa vs. UTSA,Tulsa,0.37,0.43,6.0,3.7,23.2558,10.0,,
 2026-11-27 17:30 UTC,primm,ACHAT,Spread: Iowa (-7.5),Iowa,0.45,0.51,6.0,1.9,19.6078,10.0,,
+2026-11-27 17:35 UTC,primm,IGNORE,Chiefs vs. Bills,Bills,0.51,,,806.7,,,,vu trop tard
