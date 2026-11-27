@@ -6972,3 +6972,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 15:45 UTC,primm,ACHAT,Spread: New Mexico (-7.5),New Mexico,0.46,0.48,2.0,4.6,20.8333,10.0,,
 2026-11-27 15:45 UTC,primm,ACHAT,Texas vs. Texas A&M: O/U 43.5,Over,0.45,0.46,1.0,1.2,21.7391,10.0,,
 2026-11-27 15:45 UTC,primm,ACHAT,Texas vs. Texas A&M: O/U 39.5,Over,0.58,0.59,1.0,1.2,16.9492,10.0,,
+2026-11-27 15:50 UTC,primm,IGNORE,Spread: TCU (-2.5),TCU,0.41,,,838.4,,,,vu trop tard
+2026-11-27 15:50 UTC,primm,IGNORE,Chiefs vs. Bills,Chiefs,0.44,,,750.8,,,,vu trop tard
