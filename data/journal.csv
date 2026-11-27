@@ -7164,3 +7164,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 21:30 UTC,primm,ACHAT,Spread: Steelers (-17.5),Steelers,0.31,0.316,0.6,2.9,31.6456,10.0,,
 2026-11-27 21:30 UTC,primm,ACHAT,Broncos Team Total: O/U 20.5,Under,0.68,0.68,0.0,1.2,14.7059,10.0,,
 2026-11-27 21:35 UTC,primm,REGLEMENT,Steelers Team Total: O/U 20.5,Over,,0.71,,,14.0845,14.08,4.08,gagné
+2026-11-27 21:45 UTC,primm,ACHAT,Air Force vs. New Mexico: O/U 45.5,Over,0.51,0.52,1.0,1.2,19.2308,10.0,,
