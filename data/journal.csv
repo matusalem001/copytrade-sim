@@ -7012,3 +7012,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 18:00 UTC,primm,IGNORE,Chiefs vs. Bills,Bills,0.57,,,817.5,,,,vu trop tard
 2026-11-27 18:00 UTC,primm,ACHAT,Spread: Buffalo (-20.5),Buffalo,0.29,0.26,-3.0,5.6,38.4615,10.0,,
 2026-11-27 18:00 UTC,primm,ACHAT,Buffalo vs. Akron: O/U 37.5,Over,0.47,0.44,-3.0,2.7,22.7273,10.0,,
+2026-11-27 18:05 UTC,primm,IGNORE,Spread: Chiefs (-2.5),Chiefs,0.34,,,845.8,,,,vu trop tard
+2026-11-27 18:05 UTC,primm,IGNORE,Chiefs vs. Bills,Bills,0.51,,,837.1,,,,vu trop tard
+2026-11-27 18:05 UTC,primm,ACHAT,Spread: UTSA (-7.5),Tulsa,0.46,0.59,13.0,3.4,16.9492,10.0,,
+2026-11-27 18:05 UTC,primm,ACHAT,Spread: UTSA (-10.5),Tulsa,0.5496,0.68,13.0,3.4,14.7059,10.0,,
