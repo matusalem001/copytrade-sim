@@ -6848,3 +6848,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 01:00 UTC,primm,IGNORE,Eagles vs. Cowboys: O/U 56.5,Under,0.57,,,57.7,,,,carnet indisponible
 2026-11-27 01:01 UTC,primm,REGLEMENT,Eagles vs. Cowboys: O/U 56.5,Over,,0.31,,,32.2581,32.26,22.26,gagné
 2026-11-27 01:01 UTC,primm,REGLEMENT,Eagles vs. Cowboys: O/U 56.5,Under,,0.68,,,14.7059,0.0,-10.0,perdu
+2026-11-27 01:15 UTC,primm,ACHAT,Spread: Texas Tech (-6.5),TCU,0.35,0.38,3.0,1.1,26.3158,10.0,,
