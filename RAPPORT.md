@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 01:05 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 01:10 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 373 | 592 | 353 | 178 | -83.20 $ | -2.4 % | 20 | +1.1 ¢ | 9 min |
-| primm | 2412 | 1131 | 2383 | 1179 | +34.92 $ | +0.1 % | 29 | +3.0 ¢ | 4 min |
+| primm | 2412 | 1131 | 2390 | 1182 | +21.18 $ | +0.1 % | 22 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : -121.22 $ sur 27640 $ engagés (-0.4 %)**
+**Total réalisé : -134.96 $ sur 27710 $ engagés (-0.5 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,13 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 01:05 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: New Mexico (-17.5) | New Mexico | 0.85 | 1.00 | +1.76 $ |
+| primm | Spread: New Mexico (-7.5) | Air Force | 0.11 | 0.00 | -10.00 $ |
+| primm | Spread: New Mexico (-13.5) | Air Force | 0.49 | 0.00 | -10.00 $ |
+| primm | Air Force vs. New Mexico: O/U 63.5 | Over | 0.28 | 0.00 | -10.00 $ |
+| primm | Spread: New Mexico (-4.5) | Air Force | 0.44 | 0.00 | -10.00 $ |
+| primm | Spread: New Mexico (-6.5) | New Mexico | 0.55 | 1.00 | +8.18 $ |
+| primm | Spread: New Mexico (-13.5) | New Mexico | 0.38 | 1.00 | +16.32 $ |
 | primm | Air Force vs. New Mexico: O/U 57.5 | Over | 0.50 | 1.00 | +10.00 $ |
 | primm | Spread: North Dakota State (-13.5) | North Dakota State | 0.59 | 0.00 | -10.00 $ |
 | primm | Spread: North Dakota State (-17.5) | North Dakota State | 0.52 | 0.00 | -10.00 $ |
@@ -34,12 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 01:05 UTC** 
 | primm | Spread: Florida (-7.5) | Florida State | 0.34 | 0.00 | -10.00 $ |
 | primm | Spread: Florida (-13.5) | Florida State | 0.65 | 0.00 | -10.00 $ |
 | primm | Spread: Florida (-4.5) | Florida State | 0.28 | 0.00 | -10.00 $ |
-| primm | Spread: Florida (-6.5) | Florida State | 0.31 | 0.00 | -10.00 $ |
-| primm | Air Force vs. New Mexico: O/U 45.5 | Over | 0.52 | 1.00 | +9.23 $ |
-| primm | Florida vs. Florida State: O/U 37.5 | Over | 0.75 | 0.00 | -10.00 $ |
-| primm | Florida vs. Florida State: O/U 43.5 | Over | 0.86 | 0.00 | -10.00 $ |
-| primm | Florida vs. Florida State: O/U 49.5 | Over | 0.64 | 0.00 | -10.00 $ |
-| primm | Florida vs. Florida State: O/U 53.5 | Over | 0.51 | 0.00 | -10.00 $ |
-| primm | Temple vs. Memphis: O/U 71.5 | Over | 0.34 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
