@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 00:20 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 00:25 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 370 | 576 | 353 | 178 | -83.20 $ | -2.4 % | 17 | +1.1 ¢ | 8 min |
-| primm | 2396 | 1119 | 2369 | 1172 | +36.41 $ | +0.2 % | 27 | +3.0 ¢ | 4 min |
+| BreakTheBank | 370 | 580 | 353 | 178 | -83.20 $ | -2.4 % | 17 | +1.1 ¢ | 9 min |
+| primm | 2397 | 1119 | 2373 | 1175 | +59.55 $ | +0.3 % | 24 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : -119.73 $ sur 27500 $ engagés (-0.4 %)**
+**Total réalisé : -96.60 $ sur 27540 $ engagés (-0.4 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,10 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 00:20 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Florida (-5.5) | Florida State | 0.22 | 0.00 | -10.00 $ |
+| primm | Spread: Florida (-6.5) | Florida | 0.50 | 1.00 | +10.00 $ |
+| primm | Air Force vs. New Mexico: O/U 43.5 | Over | 0.49 | 1.00 | +10.41 $ |
+| primm | Spread: Florida (-7.5) | Florida | 0.44 | 1.00 | +12.73 $ |
 | primm | Spread: Florida (-10.5) | Florida State | 0.56 | 0.00 | -10.00 $ |
 | primm | Spread: Florida (-7.5) | Florida State | 0.34 | 0.00 | -10.00 $ |
 | primm | Spread: Florida (-13.5) | Florida State | 0.65 | 0.00 | -10.00 $ |
@@ -37,9 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 00:20 UTC** 
 | primm | North Dakota State vs. San Jose State: O/U 49.5 | Over | 0.48 | 1.00 | +10.83 $ |
 | primm | North Dakota State vs. San Jose State: O/U 43.5 | Over | 0.44 | 1.00 | +12.73 $ |
 | primm | North Dakota State vs. San Jose State: O/U 39.5 | Over | 0.52 | 1.00 | +9.23 $ |
-| BreakTheBank | Spread: Broncos (-4.5) | Broncos | 0.52 | 0.00 | -10.00 $ |
-| primm | Spread: Broncos (-6.5) | Broncos | 0.43 | 0.00 | -10.00 $ |
-| primm | Spread: Broncos (-4.5) | Broncos | 0.48 | 0.00 | -10.00 $ |
-| primm | Broncos Team Total: O/U 20.5 | Under | 0.68 | 1.00 | +4.71 $ |
 
 Journal complet : `data/journal.csv`

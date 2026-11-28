@@ -7240,3 +7240,12 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-28 00:20 UTC,primm,REGLEMENT,Spread: Florida (-13.5),Florida State,,0.65,,,15.3846,0.0,-10.0,perdu
 2026-11-28 00:20 UTC,primm,REGLEMENT,Spread: Florida (-7.5),Florida State,,0.34,,,29.4118,0.0,-10.0,perdu
 2026-11-28 00:20 UTC,primm,REGLEMENT,Spread: Florida (-10.5),Florida State,,0.56,,,17.8571,0.0,-10.0,perdu
+2026-11-28 00:25 UTC,BreakTheBank,IGNORE,Packers vs. Rams,Packers,0.44,,,2850.0,,,,vu trop tard
+2026-11-28 00:25 UTC,BreakTheBank,IGNORE,Packers vs. Rams,Packers,0.44,,,2848.8,,,,vu trop tard
+2026-11-28 00:25 UTC,BreakTheBank,IGNORE,Spread: Bills (-3.5),Bills,0.44,,,1387.2,,,,vu trop tard
+2026-11-28 00:25 UTC,BreakTheBank,IGNORE,Spread: Broncos (-7.5),Broncos,0.38,,,283.1,,,,vu trop tard
+2026-11-28 00:25 UTC,primm,ACHAT,West Virginia vs. Utah: O/U 69.5,Under,0.62,0.63,1.0,5.2,15.873,10.0,,
+2026-11-28 00:25 UTC,primm,REGLEMENT,Spread: Florida (-7.5),Florida,,0.44,,,22.7273,22.73,12.73,gagné
+2026-11-28 00:25 UTC,primm,REGLEMENT,Air Force vs. New Mexico: O/U 43.5,Over,,0.49,,,20.4082,20.41,10.41,gagné
+2026-11-28 00:25 UTC,primm,REGLEMENT,Spread: Florida (-6.5),Florida,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-28 00:25 UTC,primm,REGLEMENT,Spread: Florida (-5.5),Florida State,,0.22,,,45.4545,0.0,-10.0,perdu
