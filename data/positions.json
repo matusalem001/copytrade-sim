@@ -299,19 +299,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-28 02:00 UTC"
   },
-  "primm|1144268781164082410763251010813554067706770632351521585636189644621457902615": {
-   "date": "2026-11-28 02:35 UTC",
-   "trader": "primm",
-   "marche": "West Virginia vs. Utah: O/U 59.5",
-   "resultat": "Under",
-   "prix_trader": 0.37,
-   "retard_min": 4.4,
-   "token": "1144268781164082410763251010813554067706770632351521585636189644621457902615",
-   "prix_simule": 0.4,
-   "parts": 25.0,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-28 02:35 UTC"
-  },
   "primm|43174818188442804920175482703243239429692010852474131164876262893204448474450": {
    "date": "2026-11-28 02:45 UTC",
    "trader": "primm",
@@ -47938,6 +47925,23 @@
    "sortie": 0.0,
    "pnl": -10.0,
    "ferme_le": "2026-11-28 04:25 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-28 02:35 UTC",
+   "trader": "primm",
+   "marche": "West Virginia vs. Utah: O/U 59.5",
+   "resultat": "Under",
+   "prix_trader": 0.37,
+   "retard_min": 4.4,
+   "token": "1144268781164082410763251010813554067706770632351521585636189644621457902615",
+   "prix_simule": 0.4,
+   "parts": 25.0,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-28 02:35 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-28 05:05 UTC",
    "type": "perdu"
   }
  ]
