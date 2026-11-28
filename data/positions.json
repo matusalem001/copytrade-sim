@@ -571,6 +571,19 @@
    "parts": 20.4082,
    "montant": 10.0,
    "ouvert_le": "2026-11-28 00:50 UTC"
+  },
+  "BreakTheBank|47362748911911012170024894463812923250307018114962612822852536914995039573330": {
+   "date": "2026-11-28 00:55 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Celtics (-8.5)",
+   "resultat": "Celtics",
+   "prix_trader": 0.52,
+   "retard_min": 3.0,
+   "token": "47362748911911012170024894463812923250307018114962612822852536914995039573330",
+   "prix_simule": 0.53,
+   "parts": 18.8679,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-28 00:55 UTC"
   }
  },
  "fermees": [
