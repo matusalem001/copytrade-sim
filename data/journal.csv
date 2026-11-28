@@ -7289,3 +7289,11 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-28 00:55 UTC,primm,IGNORE,Spread: Florida (-7.5),Florida State,0.37,,,87.6,,,,vu trop tard
 2026-11-28 00:55 UTC,primm,IGNORE,Temple vs. Memphis: O/U 67.5,Over,0.45,,,86.8,,,,vu trop tard
 2026-11-28 00:55 UTC,primm,IGNORE,Spread: Texas (-10.5),Texas A&M,0.54,0.47,-7.0,4.1,,,,prix a trop chuté (match sans doute joué)
+2026-11-28 01:00 UTC,primm,IGNORE,Florida vs. Florida State: O/U 49.5,Over,0.46,,,228.7,,,,vu trop tard
+2026-11-28 01:00 UTC,primm,IGNORE,Spread: Steelers (-10.5),Steelers,0.55,,,216.5,,,,vu trop tard
+2026-11-28 01:00 UTC,primm,IGNORE,Minnesota vs. Wisconsin: O/U 39.5,Over,0.43,0.37,-6.0,4.2,,,,prix a trop chuté (match sans doute joué)
+2026-11-28 01:00 UTC,primm,ACHAT,Spread: Wisconsin (-3.5),Minnesota,0.45,0.46,1.0,3.4,21.7391,10.0,,
+2026-11-28 01:00 UTC,primm,ACHAT,Spread: Texas (-14.5),Texas,0.44,0.46,2.0,2.1,21.7391,10.0,,
+2026-11-28 01:00 UTC,primm,ACHAT,Spread: Texas (-13.5),Texas,0.48,0.52,4.0,2.1,19.2308,10.0,,
+2026-11-28 01:00 UTC,primm,ACHAT,Spread: Wisconsin (-7.5),Minnesota,0.61,0.62,1.0,0.5,16.129,10.0,,
+2026-11-28 01:01 UTC,primm,REGLEMENT,Air Force vs. New Mexico: O/U 57.5,Over,,0.5,,,20.0,20.0,10.0,gagné
