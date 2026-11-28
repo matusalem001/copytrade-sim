@@ -7343,3 +7343,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-28 04:15 UTC,primm,REGLEMENT,Minnesota vs. Wisconsin,Wisconsin,,0.9,,,11.1111,11.11,1.11,gagné
 2026-11-28 04:15 UTC,primm,REGLEMENT,Spread: Wisconsin (-14.5),Minnesota,,0.44,,,22.7273,0.0,-10.0,perdu
 2026-11-28 04:15 UTC,primm,REGLEMENT,Spread: Wisconsin (-20.5),Minnesota,,0.42,,,23.8095,0.0,-10.0,perdu
+2026-11-28 04:20 UTC,primm,REGLEMENT,Spread: Texas (-10.5),Texas A&M,,0.5,,,20.0,20.0,10.0,gagné
