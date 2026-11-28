@@ -7368,3 +7368,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-28 05:25 UTC,primm,ACHAT,Kennesaw State vs. Western Kentucky: O/U 53.5,Over,0.53,0.53,0.0,4.1,18.8679,10.0,,
 2026-11-28 05:30 UTC,primm,IGNORE,Air Force vs. New Mexico,New Mexico,0.64,,,339.6,,,,vu trop tard
 2026-11-28 05:30 UTC,primm,IGNORE,Minnesota vs. Wisconsin: O/U 37.5,Over,0.5,,,241.9,,,,vu trop tard
+2026-11-28 05:55 UTC,primm,REGLEMENT,Spread: Utah (-20.5),West Virginia,,0.36,,,27.7778,0.0,-10.0,perdu
+2026-11-28 05:55 UTC,primm,REGLEMENT,Spread: Utah (-21.5),West Virginia,,0.39,,,25.641,0.0,-10.0,perdu
+2026-11-28 05:55 UTC,primm,REGLEMENT,Spread: Utah (-27.5),West Virginia,,0.58,,,17.2414,17.24,7.24,gagné
+2026-11-28 05:55 UTC,primm,REGLEMENT,Spread: Utah (-38.5),Utah,,0.24,,,41.6667,0.0,-10.0,perdu

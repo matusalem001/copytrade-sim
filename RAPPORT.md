@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 05:50 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 05:55 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 373 | 592 | 357 | 178 | -123.20 $ | -3.5 % | 16 | +1.1 ¢ | 9 min |
-| primm | 2430 | 1140 | 2419 | 1187 | -183.18 $ | -0.8 % | 11 | +3.0 ¢ | 4 min |
+| primm | 2430 | 1140 | 2423 | 1188 | -205.94 $ | -0.8 % | 7 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : -379.32 $ sur 28040 $ engagés (-1.4 %)**
+**Total réalisé : -402.08 $ sur 28080 $ engagés (-1.4 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,10 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 05:50 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Utah (-38.5) | Utah | 0.24 | 0.00 | -10.00 $ |
+| primm | Spread: Utah (-27.5) | West Virginia | 0.58 | 1.00 | +7.24 $ |
+| primm | Spread: Utah (-21.5) | West Virginia | 0.39 | 0.00 | -10.00 $ |
+| primm | Spread: Utah (-20.5) | West Virginia | 0.36 | 0.00 | -10.00 $ |
 | primm | West Virginia vs. Utah: O/U 71.5 | Under | 0.56 | 0.00 | -10.00 $ |
 | primm | West Virginia vs. Utah: O/U 69.5 | Under | 0.63 | 0.00 | -10.00 $ |
 | primm | West Virginia vs. Utah: O/U 65.5 | Under | 0.49 | 0.00 | -10.00 $ |
@@ -37,9 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 05:50 UTC** 
 | primm | Spread: Wisconsin (-20.5) | Minnesota | 0.42 | 0.00 | -10.00 $ |
 | primm | Spread: Wisconsin (-14.5) | Minnesota | 0.44 | 0.00 | -10.00 $ |
 | primm | Minnesota vs. Wisconsin | Wisconsin | 0.90 | 1.00 | +1.11 $ |
-| primm | Minnesota vs. Wisconsin: O/U 39.5 | Over | 0.44 | 0.00 | -10.00 $ |
-| primm | Spread: Wisconsin (-7.5) | Minnesota | 0.62 | 0.00 | -10.00 $ |
-| primm | Spread: Wisconsin (-3.5) | Minnesota | 0.46 | 0.00 | -10.00 $ |
-| primm | Minnesota vs. Wisconsin: O/U 35.5 | Over | 0.57 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
