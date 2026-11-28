@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 04:10 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 04:15 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 373 | 592 | 357 | 178 | -123.20 $ | -3.5 % | 16 | +1.1 ¢ | 9 min |
-| primm | 2425 | 1138 | 2392 | 1184 | +36.10 $ | +0.2 % | 33 | +3.0 ¢ | 4 min |
+| primm | 2425 | 1138 | 2401 | 1185 | -42.79 $ | -0.2 % | 24 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : -160.04 $ sur 27770 $ engagés (-0.6 %)**
+**Total réalisé : -238.93 $ sur 27860 $ engagés (-0.9 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,15 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 04:10 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Wisconsin (-20.5) | Minnesota | 0.42 | 0.00 | -10.00 $ |
+| primm | Spread: Wisconsin (-14.5) | Minnesota | 0.44 | 0.00 | -10.00 $ |
+| primm | Minnesota vs. Wisconsin | Wisconsin | 0.90 | 1.00 | +1.11 $ |
+| primm | Minnesota vs. Wisconsin: O/U 39.5 | Over | 0.44 | 0.00 | -10.00 $ |
+| primm | Spread: Wisconsin (-7.5) | Minnesota | 0.62 | 0.00 | -10.00 $ |
+| primm | Spread: Wisconsin (-3.5) | Minnesota | 0.46 | 0.00 | -10.00 $ |
+| primm | Minnesota vs. Wisconsin: O/U 35.5 | Over | 0.57 | 0.00 | -10.00 $ |
+| primm | Spread: Wisconsin (-6.5) | Minnesota | 0.52 | 0.00 | -10.00 $ |
+| primm | Minnesota vs. Wisconsin: O/U 37.5 | Over | 0.46 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Celtics (-8.5) | Celtics | 0.53 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: Celtics (-9.5) | Celtics | 0.49 | 0.00 | -10.00 $ |
 | BreakTheBank | Spread: 76ers (-4.5) | Pacers | 0.54 | 0.00 | -10.00 $ |
@@ -32,14 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 04:10 UTC** 
 | primm | Air Force vs. New Mexico: O/U 57.5 | Over | 0.50 | 1.00 | +10.00 $ |
 | primm | Spread: North Dakota State (-13.5) | North Dakota State | 0.59 | 0.00 | -10.00 $ |
 | primm | Spread: North Dakota State (-17.5) | North Dakota State | 0.52 | 0.00 | -10.00 $ |
-| primm | Spread: North Dakota State (-10.5) | San Jose State | 0.53 | 1.00 | +8.87 $ |
-| primm | Spread: North Dakota State (-7.5) | San Jose State | 0.45 | 1.00 | +12.22 $ |
-| primm | North Dakota State vs. San Jose State: O/U 73.5 | Over | 0.83 | 0.00 | -10.00 $ |
-| primm | Spread: North Dakota State (-20.5) | North Dakota State | 0.52 | 0.00 | -10.00 $ |
-| primm | Spread: North Dakota State (-16.5) | North Dakota State | 0.46 | 0.00 | -10.00 $ |
-| primm | Spread: North Dakota State (-14.5) | North Dakota State | 0.40 | 0.00 | -10.00 $ |
-| primm | Air Force vs. New Mexico: O/U 51.5 | Over | 0.70 | 1.00 | +4.29 $ |
-| primm | Spread: Florida (-5.5) | Florida State | 0.22 | 0.00 | -10.00 $ |
-| primm | Spread: Florida (-6.5) | Florida | 0.50 | 1.00 | +10.00 $ |
 
 Journal complet : `data/journal.csv`
