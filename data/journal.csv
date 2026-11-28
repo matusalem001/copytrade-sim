@@ -7319,3 +7319,7 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-28 01:45 UTC,primm,ACHAT,Spread: Texas (-16.5),Texas,0.5,0.52,2.0,0.2,19.2308,10.0,,
 2026-11-28 01:50 UTC,primm,ACHAT,Spread: Wisconsin (-14.5),Minnesota,0.39,0.44,5.0,2.6,22.7273,10.0,,
 2026-11-28 01:55 UTC,primm,IGNORE,Spread: Wisconsin (-9.5),Minnesota,0.62,,,40.5,,,,vu trop tard
+2026-11-28 02:00 UTC,primm,IGNORE,Temple vs. Memphis: O/U 67.5,Under,0.49,,,274.8,,,,vu trop tard
+2026-11-28 02:00 UTC,primm,IGNORE,Spread: New Mexico (-4.5),Air Force,0.33,,,144.2,,,,vu trop tard
+2026-11-28 02:00 UTC,primm,ACHAT,Spread: Utah (-27.5),West Virginia,0.57,0.58,1.0,5.4,17.2414,10.0,,
+2026-11-28 02:00 UTC,primm,ACHAT,West Virginia vs. Utah: O/U 65.5,Under,0.5,0.49,-1.0,4.3,20.4082,10.0,,
