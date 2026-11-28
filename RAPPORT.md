@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 03:10 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 03:15 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 373 | 592 | 353 | 178 | -83.20 $ | -2.4 % | 20 | +1.1 ¢ | 9 min |
+| BreakTheBank | 373 | 592 | 354 | 178 | -93.20 $ | -2.6 % | 19 | +1.1 ¢ | 9 min |
 | primm | 2425 | 1138 | 2392 | 1184 | +36.10 $ | +0.2 % | 33 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : -120.04 $ sur 27730 $ engagés (-0.4 %)**
+**Total réalisé : -130.04 $ sur 27740 $ engagés (-0.5 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,7 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 03:10 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| BreakTheBank | Spread: 76ers (-3.5) | Pacers | 0.50 | 0.00 | -10.00 $ |
 | primm | Spread: New Mexico (-7.5) | New Mexico | 0.48 | 1.00 | +10.83 $ |
 | primm | Air Force vs. New Mexico | New Mexico | 0.71 | 1.00 | +4.08 $ |
 | primm | Spread: New Mexico (-17.5) | New Mexico | 0.85 | 1.00 | +1.76 $ |
@@ -40,6 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 03:10 UTC** 
 | primm | Air Force vs. New Mexico: O/U 43.5 | Over | 0.49 | 1.00 | +10.41 $ |
 | primm | Spread: Florida (-7.5) | Florida | 0.44 | 1.00 | +12.73 $ |
 | primm | Spread: Florida (-10.5) | Florida State | 0.56 | 0.00 | -10.00 $ |
-| primm | Spread: Florida (-7.5) | Florida State | 0.34 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`
