@@ -7344,3 +7344,16 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-28 04:15 UTC,primm,REGLEMENT,Spread: Wisconsin (-14.5),Minnesota,,0.44,,,22.7273,0.0,-10.0,perdu
 2026-11-28 04:15 UTC,primm,REGLEMENT,Spread: Wisconsin (-20.5),Minnesota,,0.42,,,23.8095,0.0,-10.0,perdu
 2026-11-28 04:20 UTC,primm,REGLEMENT,Spread: Texas (-10.5),Texas A&M,,0.5,,,20.0,20.0,10.0,gagné
+2026-11-28 04:25 UTC,primm,REGLEMENT,Texas vs. Texas A&M: O/U 43.5,Over,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-28 04:25 UTC,primm,REGLEMENT,Texas vs. Texas A&M: O/U 39.5,Over,,0.59,,,16.9492,0.0,-10.0,perdu
+2026-11-28 04:25 UTC,primm,REGLEMENT,Spread: Texas (-6.5),Texas A&M,,0.37,,,27.027,0.0,-10.0,perdu
+2026-11-28 04:25 UTC,primm,REGLEMENT,Texas vs. Texas A&M: O/U 41.5,Over,,0.51,,,19.6078,0.0,-10.0,perdu
+2026-11-28 04:25 UTC,primm,REGLEMENT,Spread: Texas (-5.5),Texas A&M,,0.37,,,27.027,0.0,-10.0,perdu
+2026-11-28 04:25 UTC,primm,REGLEMENT,Spread: Texas (-7.5),Texas A&M,,0.45,,,22.2222,0.0,-10.0,perdu
+2026-11-28 04:25 UTC,primm,REGLEMENT,Texas vs. Texas A&M,Texas A&M,,0.22,,,45.4545,0.0,-10.0,perdu
+2026-11-28 04:25 UTC,primm,REGLEMENT,Spread: Texas (-14.5),Texas,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-28 04:25 UTC,primm,REGLEMENT,Spread: Texas (-13.5),Texas,,0.52,,,19.2308,0.0,-10.0,perdu
+2026-11-28 04:25 UTC,primm,REGLEMENT,Texas vs. Texas A&M: O/U 39.5,Under,,0.51,,,19.6078,19.61,9.61,gagné
+2026-11-28 04:25 UTC,primm,REGLEMENT,Spread: Texas (-11.5),Texas,,0.56,,,17.8571,0.0,-10.0,perdu
+2026-11-28 04:25 UTC,primm,REGLEMENT,Spread: Texas (-17.5),Texas,,0.46,,,21.7391,0.0,-10.0,perdu
+2026-11-28 04:25 UTC,primm,REGLEMENT,Spread: Texas (-16.5),Texas,,0.52,,,19.2308,0.0,-10.0,perdu
