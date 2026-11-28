@@ -7312,3 +7312,4 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-28 01:15 UTC,primm,REGLEMENT,Spread: New Mexico (-7.5),New Mexico,,0.48,,,20.8333,20.83,10.83,gagné
 2026-11-28 01:20 UTC,primm,ACHAT,Spread: Texas (-11.5),Texas,0.5,0.56,6.0,5.8,17.8571,10.0,,
 2026-11-28 01:20 UTC,primm,IGNORE,Spread: Wisconsin (-9.5),Minnesota,0.62,0.53,-9.0,5.7,,,,prix a trop chuté (match sans doute joué)
+2026-11-28 01:30 UTC,primm,ACHAT,Minnesota vs. Wisconsin: O/U 39.5,Over,0.46,0.44,-2.0,6.4,22.7273,10.0,,
