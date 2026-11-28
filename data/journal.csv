@@ -7217,3 +7217,11 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-27 23:50 UTC,primm,REGLEMENT,North Dakota State vs. San Jose State: O/U 55.5,Over,,0.51,,,19.6078,19.61,9.61,gagné
 2026-11-28 00:05 UTC,primm,ACHAT,Air Force vs. New Mexico: O/U 63.5,Over,0.31,0.28,-3.0,5.7,35.7143,10.0,,
 2026-11-28 00:05 UTC,primm,ACHAT,Minnesota vs. Wisconsin: O/U 37.5,Over,0.46,0.46,0.0,3.6,21.7391,10.0,,
+2026-11-28 00:10 UTC,primm,IGNORE,Temple vs. Memphis: O/U 67.5,Over,0.36,,,45.9,,,,carnet indisponible
+2026-11-28 00:10 UTC,primm,REGLEMENT,Temple vs. Memphis: O/U 67.5,Under,,0.56,,,17.8571,17.86,7.86,gagné
+2026-11-28 00:10 UTC,primm,REGLEMENT,Temple vs. Memphis: O/U 65.5,Under,,0.5,,,20.0,0.0,-10.0,perdu
+2026-11-28 00:10 UTC,primm,REGLEMENT,Temple vs. Memphis: O/U 63.5,Under,,0.36,,,27.7778,0.0,-10.0,perdu
+2026-11-28 00:10 UTC,primm,REGLEMENT,Temple vs. Memphis: O/U 71.5,Under,,0.57,,,17.5439,17.54,7.54,gagné
+2026-11-28 00:10 UTC,primm,REGLEMENT,Spread: Memphis (-6.5),Temple,,0.558,,,17.9211,17.92,7.92,gagné
+2026-11-28 00:10 UTC,primm,REGLEMENT,Temple vs. Memphis: O/U 67.5,Over,,0.45,,,22.2222,0.0,-10.0,perdu
+2026-11-28 00:10 UTC,primm,REGLEMENT,Temple vs. Memphis: O/U 71.5,Over,,0.34,,,29.4118,0.0,-10.0,perdu

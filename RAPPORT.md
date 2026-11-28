@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 00:05 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 00:10 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 369 | 575 | 353 | 178 | -83.20 $ | -2.4 % | 16 | +1.1 ¢ | 8 min |
-| primm | 2395 | 1116 | 2352 | 1168 | +133.86 $ | +0.6 % | 43 | +3.0 ¢ | 4 min |
+| primm | 2395 | 1117 | 2359 | 1171 | +117.18 $ | +0.5 % | 36 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : -22.29 $ sur 27330 $ engagés (-0.1 %)**
+**Total réalisé : -38.96 $ sur 27400 $ engagés (-0.1 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,13 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 00:05 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Temple vs. Memphis: O/U 71.5 | Over | 0.34 | 0.00 | -10.00 $ |
+| primm | Temple vs. Memphis: O/U 67.5 | Over | 0.45 | 0.00 | -10.00 $ |
+| primm | Spread: Memphis (-6.5) | Temple | 0.56 | 1.00 | +7.92 $ |
+| primm | Temple vs. Memphis: O/U 71.5 | Under | 0.57 | 1.00 | +7.54 $ |
+| primm | Temple vs. Memphis: O/U 63.5 | Under | 0.36 | 0.00 | -10.00 $ |
+| primm | Temple vs. Memphis: O/U 65.5 | Under | 0.50 | 0.00 | -10.00 $ |
+| primm | Temple vs. Memphis: O/U 67.5 | Under | 0.56 | 1.00 | +7.86 $ |
 | primm | North Dakota State vs. San Jose State: O/U 55.5 | Over | 0.51 | 1.00 | +9.61 $ |
 | primm | North Dakota State vs. San Jose State: O/U 49.5 | Over | 0.48 | 1.00 | +10.83 $ |
 | primm | North Dakota State vs. San Jose State: O/U 43.5 | Over | 0.44 | 1.00 | +12.73 $ |
@@ -34,12 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 00:05 UTC** 
 | primm | Spread: Steelers (-3.5) | Steelers | 0.47 | 1.00 | +11.28 $ |
 | primm | Broncos vs. Steelers: O/U 46.5 | Under | 0.59 | 1.00 | +6.95 $ |
 | primm | Spread: Steelers (-4.5) | Steelers | 0.50 | 1.00 | +10.00 $ |
-| primm | Spread: Steelers (-10.5) | Steelers | 0.29 | 1.00 | +24.48 $ |
-| primm | Spread: Steelers (-6.5) | Steelers | 0.44 | 1.00 | +12.73 $ |
-| primm | Spread: Steelers (-5.5) | Steelers | 0.47 | 1.00 | +11.28 $ |
-| primm | Spread: Steelers (-9.5) | Steelers | 0.33 | 1.00 | +20.30 $ |
-| primm | Spread: Steelers (-7.5) | Steelers | 0.41 | 1.00 | +14.39 $ |
-| primm | Spread: Steelers (-1.5) | Steelers | 0.67 | 1.00 | +4.93 $ |
-| primm | Spread: Broncos (-3.5) | Steelers | 0.45 | 1.00 | +12.22 $ |
 
 Journal complet : `data/journal.csv`
