@@ -7254,3 +7254,12 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-28 00:30 UTC,primm,ACHAT,Spread: Texas (-5.5),Texas A&M,0.34,0.37,3.0,3.3,27.027,10.0,,
 2026-11-28 00:30 UTC,primm,ACHAT,Spread: New Mexico (-13.5),Air Force,0.48,0.49,1.0,1.7,20.4082,10.0,,
 2026-11-28 00:30 UTC,primm,ACHAT,Spread: New Mexico (-7.5),Air Force,0.12,0.11,-1.0,1.2,90.9091,10.0,,
+2026-11-28 00:35 UTC,BreakTheBank,IGNORE,Packers vs. Rams,Packers,0.44,,,2858.0,,,,vu trop tard
+2026-11-28 00:35 UTC,BreakTheBank,IGNORE,Spread: Bills (-3.5),Bills,0.44,,,1397.5,,,,vu trop tard
+2026-11-28 00:35 UTC,BreakTheBank,IGNORE,Spread: Bills (-3.5),Bills,0.44,,,1397.3,,,,vu trop tard
+2026-11-28 00:35 UTC,BreakTheBank,IGNORE,Spread: Bills (-3.5),Bills,0.44,,,1397.0,,,,vu trop tard
+2026-11-28 00:35 UTC,BreakTheBank,IGNORE,Spread: Broncos (-7.5),Broncos,0.38,,,289.4,,,,vu trop tard
+2026-11-28 00:35 UTC,BreakTheBank,IGNORE,Spread: Broncos (-5.5),Broncos,0.49,,,275.6,,,,vu trop tard
+2026-11-28 00:35 UTC,BreakTheBank,IGNORE,Spread: Broncos (-4.5),Broncos,0.51,,,275.5,,,,vu trop tard
+2026-11-28 00:35 UTC,primm,IGNORE,Spread: Steelers (-10.5),Steelers,0.54,,,194.2,,,,vu trop tard
+2026-11-28 00:35 UTC,primm,REGLEMENT,Air Force vs. New Mexico: O/U 51.5,Over,,0.7,,,14.2857,14.29,4.29,gagné
