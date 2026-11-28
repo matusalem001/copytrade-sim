@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 05:55 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 06:00 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
 | BreakTheBank | 373 | 592 | 357 | 178 | -123.20 $ | -3.5 % | 16 | +1.1 ¢ | 9 min |
-| primm | 2430 | 1140 | 2423 | 1188 | -205.94 $ | -0.8 % | 7 | +3.0 ¢ | 4 min |
+| primm | 2430 | 1140 | 2425 | 1189 | -205.53 $ | -0.8 % | 5 | +3.0 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : -402.08 $ sur 28080 $ engagés (-1.4 %)**
+**Total réalisé : -401.67 $ sur 28100 $ engagés (-1.4 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,8 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 05:55 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: Utah (-24.5) | West Virginia | 0.49 | 1.00 | +10.41 $ |
+| primm | Spread: Utah (-23.5) | West Virginia | 0.45 | 0.00 | -10.00 $ |
 | primm | Spread: Utah (-38.5) | Utah | 0.24 | 0.00 | -10.00 $ |
 | primm | Spread: Utah (-27.5) | West Virginia | 0.58 | 1.00 | +7.24 $ |
 | primm | Spread: Utah (-21.5) | West Virginia | 0.39 | 0.00 | -10.00 $ |
@@ -39,7 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 05:55 UTC** 
 | primm | Texas vs. Texas A&M: O/U 43.5 | Over | 0.46 | 0.00 | -10.00 $ |
 | primm | Spread: Texas (-10.5) | Texas A&M | 0.50 | 1.00 | +10.00 $ |
 | primm | Spread: Wisconsin (-20.5) | Minnesota | 0.42 | 0.00 | -10.00 $ |
-| primm | Spread: Wisconsin (-14.5) | Minnesota | 0.44 | 0.00 | -10.00 $ |
-| primm | Minnesota vs. Wisconsin | Wisconsin | 0.90 | 1.00 | +1.11 $ |
 
 Journal complet : `data/journal.csv`

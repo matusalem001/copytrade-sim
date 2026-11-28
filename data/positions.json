@@ -208,32 +208,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-26 05:00 UTC"
   },
-  "primm|109397546963605294185484586134832285518206309881068323238856936728741357476261": {
-   "date": "2026-11-28 00:50 UTC",
-   "trader": "primm",
-   "marche": "Spread: Utah (-23.5)",
-   "resultat": "West Virginia",
-   "prix_trader": 0.44,
-   "retard_min": 3.0,
-   "token": "109397546963605294185484586134832285518206309881068323238856936728741357476261",
-   "prix_simule": 0.45,
-   "parts": 22.2222,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-28 00:50 UTC"
-  },
-  "primm|74595712071960994621634265142397639036709880375099255274765204891795394830657": {
-   "date": "2026-11-28 00:50 UTC",
-   "trader": "primm",
-   "marche": "Spread: Utah (-24.5)",
-   "resultat": "West Virginia",
-   "prix_trader": 0.48,
-   "retard_min": 2.8,
-   "token": "74595712071960994621634265142397639036709880375099255274765204891795394830657",
-   "prix_simule": 0.49,
-   "parts": 20.4082,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-28 00:50 UTC"
-  },
   "primm|59852512278796430533023737260135110853482846168398810906817227361448849154261": {
    "date": "2026-11-28 05:25 UTC",
    "trader": "primm",
@@ -48036,6 +48010,40 @@
    "pnl": -10.0,
    "ferme_le": "2026-11-28 05:55 UTC",
    "type": "perdu"
+  },
+  {
+   "date": "2026-11-28 00:50 UTC",
+   "trader": "primm",
+   "marche": "Spread: Utah (-23.5)",
+   "resultat": "West Virginia",
+   "prix_trader": 0.44,
+   "retard_min": 3.0,
+   "token": "109397546963605294185484586134832285518206309881068323238856936728741357476261",
+   "prix_simule": 0.45,
+   "parts": 22.2222,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-28 00:50 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-28 06:00 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-28 00:50 UTC",
+   "trader": "primm",
+   "marche": "Spread: Utah (-24.5)",
+   "resultat": "West Virginia",
+   "prix_trader": 0.48,
+   "retard_min": 2.8,
+   "token": "74595712071960994621634265142397639036709880375099255274765204891795394830657",
+   "prix_simule": 0.49,
+   "parts": 20.4082,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-28 00:50 UTC",
+   "sortie": 1.0,
+   "pnl": 10.4082,
+   "ferme_le": "2026-11-28 06:00 UTC",
+   "type": "gagné"
   }
  ]
 }
