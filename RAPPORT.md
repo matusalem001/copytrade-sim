@@ -1,14 +1,14 @@
 # Simulation copy-trading Polymarket
 
-Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 00:40 UTC** · mise fictive **10 $** par copie
+Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 00:45 UTC** · mise fictive **10 $** par copie
 
 | Trader | Copiés | Ignorés | Terminés | Gagnés | Profit réalisé | Rendement | En cours | Écart moyen | Retard moyen |
 |---|---|---|---|---|---|---|---|---|---|
-| BreakTheBank | 371 | 591 | 353 | 178 | -83.20 $ | -2.4 % | 18 | +1.1 ¢ | 9 min |
-| primm | 2401 | 1121 | 2378 | 1176 | +23.83 $ | +0.1 % | 23 | +3.1 ¢ | 4 min |
+| BreakTheBank | 372 | 592 | 353 | 178 | -83.20 $ | -2.4 % | 19 | +1.1 ¢ | 9 min |
+| primm | 2401 | 1121 | 2382 | 1178 | +24.92 $ | +0.1 % | 19 | +3.1 ¢ | 4 min |
 | juice-fruit | 28 | 2 | 28 | 13 | -72.94 $ | -26.1 % | 0 | +0.1 ¢ | 4 min |
 
-**Total réalisé : -132.31 $ sur 27590 $ engagés (-0.5 %)**
+**Total réalisé : -131.22 $ sur 27630 $ engagés (-0.5 %)**
 
 *Écart moyen* = combien de centimes plus cher que le trader on a payé. *Retard moyen* = temps médian entre son trade et le moment où on l'a vu. *Ignorés* = trades non copiés (vu trop tard, prix trop monté ou trop chuté, carnet vide).
 
@@ -16,6 +16,10 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 00:40 UTC** 
 
 | Trader | Marché | Résultat | Prix payé | Sortie | Profit |
 |---|---|---|---|---|---|
+| primm | Spread: North Dakota State (-13.5) | North Dakota State | 0.59 | 0.00 | -10.00 $ |
+| primm | Spread: North Dakota State (-17.5) | North Dakota State | 0.52 | 0.00 | -10.00 $ |
+| primm | Spread: North Dakota State (-10.5) | San Jose State | 0.53 | 1.00 | +8.87 $ |
+| primm | Spread: North Dakota State (-7.5) | San Jose State | 0.45 | 1.00 | +12.22 $ |
 | primm | North Dakota State vs. San Jose State: O/U 73.5 | Over | 0.83 | 0.00 | -10.00 $ |
 | primm | Spread: North Dakota State (-20.5) | North Dakota State | 0.52 | 0.00 | -10.00 $ |
 | primm | Spread: North Dakota State (-16.5) | North Dakota State | 0.46 | 0.00 | -10.00 $ |
@@ -37,9 +41,5 @@ Démarrée le **2026-11-07 19:21 UTC** · mise à jour **2026-11-28 00:40 UTC** 
 | primm | Florida vs. Florida State: O/U 53.5 | Over | 0.51 | 0.00 | -10.00 $ |
 | primm | Temple vs. Memphis: O/U 71.5 | Over | 0.34 | 0.00 | -10.00 $ |
 | primm | Temple vs. Memphis: O/U 67.5 | Over | 0.45 | 0.00 | -10.00 $ |
-| primm | Spread: Memphis (-6.5) | Temple | 0.56 | 1.00 | +7.92 $ |
-| primm | Temple vs. Memphis: O/U 71.5 | Under | 0.57 | 1.00 | +7.54 $ |
-| primm | Temple vs. Memphis: O/U 63.5 | Under | 0.36 | 0.00 | -10.00 $ |
-| primm | Temple vs. Memphis: O/U 65.5 | Under | 0.50 | 0.00 | -10.00 $ |
 
 Journal complet : `data/journal.csv`

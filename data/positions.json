@@ -286,32 +286,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-27 17:40 UTC"
   },
-  "primm|34728923272524558377498811501022601316839598551173045142853964915029861413080": {
-   "date": "2026-11-27 20:20 UTC",
-   "trader": "primm",
-   "marche": "Spread: North Dakota State (-7.5)",
-   "resultat": "San Jose State",
-   "prix_trader": 0.45,
-   "retard_min": 6.7,
-   "token": "34728923272524558377498811501022601316839598551173045142853964915029861413080",
-   "prix_simule": 0.45,
-   "parts": 22.2222,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-27 20:20 UTC"
-  },
-  "primm|93149601463202573771706771191797108119497139893977352478806686769753475217560": {
-   "date": "2026-11-27 20:20 UTC",
-   "trader": "primm",
-   "marche": "Spread: North Dakota State (-10.5)",
-   "resultat": "San Jose State",
-   "prix_trader": 0.53,
-   "retard_min": 6.2,
-   "token": "93149601463202573771706771191797108119497139893977352478806686769753475217560",
-   "prix_simule": 0.53,
-   "parts": 18.8679,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-27 20:20 UTC"
-  },
   "primm|100779608305733518830239578315419057941189129832324536910994196326364626290284": {
    "date": "2026-11-27 20:25 UTC",
    "trader": "primm",
@@ -337,32 +311,6 @@
    "parts": 18.1818,
    "montant": 10.0,
    "ouvert_le": "2026-11-27 20:40 UTC"
-  },
-  "primm|93324502690221662155450814247976302983349742619905624566197870388919120132001": {
-   "date": "2026-11-27 20:40 UTC",
-   "trader": "primm",
-   "marche": "Spread: North Dakota State (-17.5)",
-   "resultat": "North Dakota State",
-   "prix_trader": 0.51,
-   "retard_min": 1.2,
-   "token": "93324502690221662155450814247976302983349742619905624566197870388919120132001",
-   "prix_simule": 0.52,
-   "parts": 19.2308,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-27 20:40 UTC"
-  },
-  "primm|42120720343937790759541972745284281711342817351068587795825783190528187014427": {
-   "date": "2026-11-27 21:10 UTC",
-   "trader": "primm",
-   "marche": "Spread: North Dakota State (-13.5)",
-   "resultat": "North Dakota State",
-   "prix_trader": 0.53,
-   "retard_min": 3.0,
-   "token": "42120720343937790759541972745284281711342817351068587795825783190528187014427",
-   "prix_simule": 0.59,
-   "parts": 16.9492,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-27 21:10 UTC"
   },
   "primm|58074538564395295395036704539720344621664813579454314596932762591751045322665": {
    "date": "2026-11-27 22:00 UTC",
@@ -532,6 +480,19 @@
    "parts": 11.7647,
    "montant": 10.0,
    "ouvert_le": "2026-11-28 00:40 UTC"
+  },
+  "BreakTheBank|71442838682452461639206960550829113610485675449050812231289331069509215649217": {
+   "date": "2026-11-28 00:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Celtics (-9.5)",
+   "resultat": "Celtics",
+   "prix_trader": 0.48,
+   "retard_min": 2.3,
+   "token": "71442838682452461639206960550829113610485675449050812231289331069509215649217",
+   "prix_simule": 0.49,
+   "parts": 20.4082,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-28 00:45 UTC"
   }
  },
  "fermees": [
@@ -47436,6 +47397,74 @@
    "sortie": 0.0,
    "pnl": -10.0,
    "ferme_le": "2026-11-28 00:40 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-27 20:20 UTC",
+   "trader": "primm",
+   "marche": "Spread: North Dakota State (-7.5)",
+   "resultat": "San Jose State",
+   "prix_trader": 0.45,
+   "retard_min": 6.7,
+   "token": "34728923272524558377498811501022601316839598551173045142853964915029861413080",
+   "prix_simule": 0.45,
+   "parts": 22.2222,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-27 20:20 UTC",
+   "sortie": 1.0,
+   "pnl": 12.2222,
+   "ferme_le": "2026-11-28 00:45 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-27 20:20 UTC",
+   "trader": "primm",
+   "marche": "Spread: North Dakota State (-10.5)",
+   "resultat": "San Jose State",
+   "prix_trader": 0.53,
+   "retard_min": 6.2,
+   "token": "93149601463202573771706771191797108119497139893977352478806686769753475217560",
+   "prix_simule": 0.53,
+   "parts": 18.8679,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-27 20:20 UTC",
+   "sortie": 1.0,
+   "pnl": 8.8679,
+   "ferme_le": "2026-11-28 00:45 UTC",
+   "type": "gagné"
+  },
+  {
+   "date": "2026-11-27 20:40 UTC",
+   "trader": "primm",
+   "marche": "Spread: North Dakota State (-17.5)",
+   "resultat": "North Dakota State",
+   "prix_trader": 0.51,
+   "retard_min": 1.2,
+   "token": "93324502690221662155450814247976302983349742619905624566197870388919120132001",
+   "prix_simule": 0.52,
+   "parts": 19.2308,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-27 20:40 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-28 00:45 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-27 21:10 UTC",
+   "trader": "primm",
+   "marche": "Spread: North Dakota State (-13.5)",
+   "resultat": "North Dakota State",
+   "prix_trader": 0.53,
+   "retard_min": 3.0,
+   "token": "42120720343937790759541972745284281711342817351068587795825783190528187014427",
+   "prix_simule": 0.59,
+   "parts": 16.9492,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-27 21:10 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-28 00:45 UTC",
    "type": "perdu"
   }
  ]
