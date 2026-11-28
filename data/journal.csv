@@ -7323,3 +7323,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-28 02:00 UTC,primm,IGNORE,Spread: New Mexico (-4.5),Air Force,0.33,,,144.2,,,,vu trop tard
 2026-11-28 02:00 UTC,primm,ACHAT,Spread: Utah (-27.5),West Virginia,0.57,0.58,1.0,5.4,17.2414,10.0,,
 2026-11-28 02:00 UTC,primm,ACHAT,West Virginia vs. Utah: O/U 65.5,Under,0.5,0.49,-1.0,4.3,20.4082,10.0,,
+2026-11-28 02:35 UTC,primm,ACHAT,West Virginia vs. Utah: O/U 59.5,Under,0.37,0.4,3.0,4.4,25.0,10.0,,
+2026-11-28 02:35 UTC,primm,ACHAT,Spread: Wisconsin (-20.5),Minnesota,0.47,0.42,-5.0,3.5,23.8095,10.0,,
