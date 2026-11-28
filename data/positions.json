@@ -272,6 +272,19 @@
    "parts": 18.8679,
    "montant": 10.0,
    "ouvert_le": "2026-11-28 05:25 UTC"
+  },
+  "BreakTheBank|64542405206668347308218164066202152320154349704973005486915356371858338170069": {
+   "date": "2026-11-28 12:30 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Will Gukesh Dommaraju win the 2026 World Chess Championship?",
+   "resultat": "No",
+   "prix_trader": 0.7,
+   "retard_min": 5.3,
+   "token": "64542405206668347308218164066202152320154349704973005486915356371858338170069",
+   "prix_simule": 0.72,
+   "parts": 13.8889,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-28 12:30 UTC"
   }
  },
  "fermees": [
