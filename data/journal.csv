@@ -7332,3 +7332,5 @@ date,trader,action,marche,resultat,prix_trader,prix_simule,ecart_centimes,retard
 2026-11-28 03:10 UTC,primm,ACHAT,West Virginia vs. Utah: O/U 71.5,Under,0.58,0.56,-2.0,3.0,17.8571,10.0,,
 2026-11-28 03:15 UTC,BreakTheBank,REGLEMENT,Spread: 76ers (-3.5),Pacers,,0.5,,,20.0,0.0,-10.0,perdu
 2026-11-28 03:25 UTC,BreakTheBank,REGLEMENT,Spread: 76ers (-4.5),Pacers,,0.54,,,18.5185,0.0,-10.0,perdu
+2026-11-28 03:40 UTC,BreakTheBank,REGLEMENT,Spread: Celtics (-9.5),Celtics,,0.49,,,20.4082,0.0,-10.0,perdu
+2026-11-28 03:40 UTC,BreakTheBank,REGLEMENT,Spread: Celtics (-8.5),Celtics,,0.53,,,18.8679,0.0,-10.0,perdu

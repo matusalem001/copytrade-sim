@@ -325,19 +325,6 @@
    "montant": 10.0,
    "ouvert_le": "2026-11-28 00:30 UTC"
   },
-  "BreakTheBank|71442838682452461639206960550829113610485675449050812231289331069509215649217": {
-   "date": "2026-11-28 00:45 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Spread: Celtics (-9.5)",
-   "resultat": "Celtics",
-   "prix_trader": 0.48,
-   "retard_min": 2.3,
-   "token": "71442838682452461639206960550829113610485675449050812231289331069509215649217",
-   "prix_simule": 0.49,
-   "parts": 20.4082,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-28 00:45 UTC"
-  },
   "primm|80561840856810850224988966002718511034000958298171304630430094485685053939614": {
    "date": "2026-11-28 00:50 UTC",
    "trader": "primm",
@@ -415,19 +402,6 @@
    "parts": 20.4082,
    "montant": 10.0,
    "ouvert_le": "2026-11-28 00:50 UTC"
-  },
-  "BreakTheBank|47362748911911012170024894463812923250307018114962612822852536914995039573330": {
-   "date": "2026-11-28 00:55 UTC",
-   "trader": "BreakTheBank",
-   "marche": "Spread: Celtics (-8.5)",
-   "resultat": "Celtics",
-   "prix_trader": 0.52,
-   "retard_min": 3.0,
-   "token": "47362748911911012170024894463812923250307018114962612822852536914995039573330",
-   "prix_simule": 0.53,
-   "parts": 18.8679,
-   "montant": 10.0,
-   "ouvert_le": "2026-11-28 00:55 UTC"
   },
   "primm|79192496038751468510177785602892353882663516421779652594540964356871424829504": {
    "date": "2026-11-28 01:00 UTC",
@@ -47838,6 +47812,40 @@
    "sortie": 0.0,
    "pnl": -10.0,
    "ferme_le": "2026-11-28 03:25 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-28 00:45 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Celtics (-9.5)",
+   "resultat": "Celtics",
+   "prix_trader": 0.48,
+   "retard_min": 2.3,
+   "token": "71442838682452461639206960550829113610485675449050812231289331069509215649217",
+   "prix_simule": 0.49,
+   "parts": 20.4082,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-28 00:45 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-28 03:40 UTC",
+   "type": "perdu"
+  },
+  {
+   "date": "2026-11-28 00:55 UTC",
+   "trader": "BreakTheBank",
+   "marche": "Spread: Celtics (-8.5)",
+   "resultat": "Celtics",
+   "prix_trader": 0.52,
+   "retard_min": 3.0,
+   "token": "47362748911911012170024894463812923250307018114962612822852536914995039573330",
+   "prix_simule": 0.53,
+   "parts": 18.8679,
+   "montant": 10.0,
+   "ouvert_le": "2026-11-28 00:55 UTC",
+   "sortie": 0.0,
+   "pnl": -10.0,
+   "ferme_le": "2026-11-28 03:40 UTC",
    "type": "perdu"
   }
  ]
